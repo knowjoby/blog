@@ -3213,6 +3213,21 @@
       "topic": ""
     },
     {
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "score": 26,
+      "fetched_at": "2026-03-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "nvidia",
+      "topic": "robotics"
+    },
+    {
       "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
       "url": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
       "score": 25,
@@ -12313,7 +12328,7 @@
     {
       "date": "2026-03-22",
       "posts": 1,
-      "items_processed": 33972,
+      "items_processed": 35760,
       "estimated_tokens": 0
     }
   ]

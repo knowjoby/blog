@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-22T19:32:13.365792+00:00",
-  "pending_count": 958,
+  "updated_at_utc": "2026-03-22T20:35:34.487518+00:00",
+  "pending_count": 959,
   "pending": [
     {
       "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
@@ -22,6 +22,19 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "score": 26,
+      "fetched_at": "2026-03-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
       ]
     },
     {
