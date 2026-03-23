@@ -1,7 +1,32 @@
 {
-  "updated_at_utc": "2026-03-23T19:30:48.650217+00:00",
-  "pending_count": 966,
+  "updated_at_utc": "2026-03-23T20:42:55.832703+00:00",
+  "pending_count": 969,
   "pending": [
+    {
+      "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "score": 49,
+      "fetched_at": "2026-03-23",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
+      "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
+      "score": 48,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "midjourney"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
     {
       "title": "The Rise of the Ray-Ban Meta Creep",
       "url": "https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/",
@@ -55,6 +80,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "score": 18,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

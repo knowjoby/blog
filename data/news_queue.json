@@ -223,6 +223,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "score": 49,
+      "fetched_at": "2026-03-23",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -287,6 +300,22 @@
       "topics": [],
       "company": "meta",
       "topic": ""
+    },
+    {
+      "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
+      "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
+      "score": 48,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "midjourney"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
     },
     {
       "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
@@ -8894,6 +8923,19 @@
       "topic": ""
     },
     {
+      "title": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
+      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "score": 18,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Zendesk acquires agentic customer service startup Forethought",
       "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
       "score": 17,
@@ -12426,7 +12468,7 @@
     {
       "date": "2026-03-23",
       "posts": 0,
-      "items_processed": 24286,
+      "items_processed": 26075,
       "estimated_tokens": 0
     }
   ]
