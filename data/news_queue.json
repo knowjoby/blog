@@ -5935,6 +5935,19 @@
       "topic": ""
     },
     {
+      "title": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
+      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "score": 24,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6059,6 +6072,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "score": 20,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -8820,6 +8846,32 @@
       "score": 18,
       "fetched_at": "2026-03-19",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "score": 18,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-03-23",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -12347,7 +12399,7 @@
     {
       "date": "2026-03-23",
       "posts": 0,
-      "items_processed": 17880,
+      "items_processed": 19669,
       "estimated_tokens": 0
     }
   ]

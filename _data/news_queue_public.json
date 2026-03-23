@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-23T14:38:53.833688+00:00",
-  "pending_count": 960,
+  "updated_at_utc": "2026-03-23T16:04:01.872317+00:00",
+  "pending_count": 964,
   "pending": [
     {
       "title": "The Rise of the Ray-Ban Meta Creep",
@@ -10,6 +10,50 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "score": 24,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "score": 20,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "score": 18,
+      "fetched_at": "2026-03-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-03-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
