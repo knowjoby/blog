@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-23T18:27:21.420411+00:00",
-  "pending_count": 965,
+  "updated_at_utc": "2026-03-23T19:30:48.650217+00:00",
+  "pending_count": 966,
   "pending": [
     {
       "title": "The Rise of the Ray-Ban Meta Creep",
@@ -23,6 +23,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Cursor's Composer 2 was secretly built on a Chinese AI model — and it exposes a deeper problem with Western open-source AI",
+      "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
+      "score": 22,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding",
+        "china"
+      ]
     },
     {
       "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
