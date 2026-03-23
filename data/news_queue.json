@@ -704,6 +704,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Nvidia's Nemotron-Cascade 2 wins math and coding gold medals with 3B active parameters \u2014 and its post-training recipe is now open-source",
+      "url": "https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active",
+      "score": 41,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "nvidia",
+      "topic": "coding"
+    },
+    {
       "title": "Solving complex problems with OpenAI o1 models",
       "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
       "score": 40,
@@ -12494,7 +12509,7 @@
     {
       "date": "2026-03-23",
       "posts": 0,
-      "items_processed": 29653,
+      "items_processed": 31442,
       "estimated_tokens": 0
     }
   ]

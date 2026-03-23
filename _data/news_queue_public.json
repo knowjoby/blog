@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-23T22:39:06.933409+00:00",
-  "pending_count": 971,
+  "updated_at_utc": "2026-03-23T23:38:49.060594+00:00",
+  "pending_count": 972,
   "pending": [
     {
       "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
@@ -25,6 +25,19 @@
       ],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "Nvidia's Nemotron-Cascade 2 wins math and coding gold medals with 3B active parameters — and its post-training recipe is now open-source",
+      "url": "https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active",
+      "score": 41,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
