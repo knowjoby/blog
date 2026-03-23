@@ -5977,6 +5977,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
+      "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+      "score": 24,
+      "fetched_at": "2026-03-23",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10210,6 +10223,19 @@
       "topic": "coding"
     },
     {
+      "title": "Show us your agents: VB Transform 2026 is looking for the most innovative agentic AI technologies",
+      "url": "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026",
+      "score": 11,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -12468,7 +12494,7 @@
     {
       "date": "2026-03-23",
       "posts": 0,
-      "items_processed": 27864,
+      "items_processed": 29653,
       "estimated_tokens": 0
     }
   ]

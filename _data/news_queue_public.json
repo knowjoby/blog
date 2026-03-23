@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-23T21:43:02.896280+00:00",
-  "pending_count": 969,
+  "updated_at_utc": "2026-03-23T22:39:06.933409+00:00",
+  "pending_count": 971,
   "pending": [
     {
       "title": "Nvidia CEO Jensen Huang says ‘I think we’ve achieved AGI’",
@@ -46,6 +46,17 @@
       "source": "TechCrunch",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”",
+      "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
+      "score": 24,
+      "fetched_at": "2026-03-23",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -104,6 +115,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Show us your agents: VB Transform 2026 is looking for the most innovative agentic AI technologies",
+      "url": "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026",
+      "score": 11,
+      "fetched_at": "2026-03-23",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
