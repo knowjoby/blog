@@ -1012,6 +1012,20 @@
       "topic": ""
     },
     {
+      "title": "Arm Is Now Making Its Own Chips",
+      "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "score": 36,
+      "fetched_at": "2026-03-24",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -12527,6 +12541,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+      "score": 67,
+      "file": "_posts/2026-03-24-chatgpt-and-gemini-are-fighting-to-be-the-ai-bot-that-sells-you-stuff.md",
+      "posted_at": "2026-03-24",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -12635,8 +12661,8 @@
     },
     {
       "date": "2026-03-24",
-      "posts": 0,
-      "items_processed": 21482,
+      "posts": 1,
+      "items_processed": 23274,
       "estimated_tokens": 0
     }
   ]

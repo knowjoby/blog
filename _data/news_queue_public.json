@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-24T16:37:35.952636+00:00",
-  "pending_count": 981,
+  "updated_at_utc": "2026-03-24T17:59:40.038345+00:00",
+  "pending_count": 982,
   "pending": [
     {
       "title": "Meta’s reckoning over kids safety is in the hands of two juries",
@@ -21,6 +21,18 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Arm Is Now Making Its Own Chips",
+      "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "score": 36,
+      "fetched_at": "2026-03-24",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
       ],
       "topics": []
     },
