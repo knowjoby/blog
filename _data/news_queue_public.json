@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-03-24T21:06:40.502065+00:00",
-  "pending_count": 991,
+  "updated_at_utc": "2026-03-24T22:02:07.298719+00:00",
+  "pending_count": 995,
   "pending": [
     {
       "title": "The man who coined Metaverse now says Meta’s glasses are creepy",
       "url": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
+      "score": 49,
+      "fetched_at": "2026-03-24",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta misled users about its products’ safety, jury decides",
+      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
       "score": 49,
       "fetched_at": "2026-03-24",
       "source": "The Verge",
@@ -45,6 +56,33 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
+      "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
+      "score": 40,
+      "fetched_at": "2026-03-24",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
+      "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai",
+      "score": 38,
+      "fetched_at": "2026-03-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Arm Is Now Making Its Own Chips",
@@ -103,6 +141,17 @@
       "score": 30,
       "fetched_at": "2026-03-24",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI plans to shut down Sora just 15 months after its launch",
+      "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+      "score": 30,
+      "fetched_at": "2026-03-24",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
