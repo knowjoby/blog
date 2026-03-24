@@ -6251,6 +6251,19 @@
       "topic": ""
     },
     {
+      "title": "Pentagon\u2019s \u2018Attempt to Cripple\u2019 Anthropic Is Troubling, Judge Says",
+      "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+      "score": 24,
+      "fetched_at": "2026-03-24",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10562,6 +10575,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+      "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+      "score": 11,
+      "fetched_at": "2026-03-24",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -12864,7 +12890,7 @@
     {
       "date": "2026-03-24",
       "posts": 3,
-      "items_processed": 30446,
+      "items_processed": 32239,
       "estimated_tokens": 0
     }
   ]

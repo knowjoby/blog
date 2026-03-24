@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-24T22:02:07.298719+00:00",
-  "pending_count": 995,
+  "updated_at_utc": "2026-03-24T22:59:36.769003+00:00",
+  "pending_count": 997,
   "pending": [
     {
       "title": "The man who coined Metaverse now says Meta’s glasses are creepy",
@@ -158,6 +158,17 @@
       "topics": []
     },
     {
+      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+      "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+      "score": 24,
+      "fetched_at": "2026-03-24",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
       "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
       "score": 24,
@@ -265,6 +276,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+      "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+      "score": 11,
+      "fetched_at": "2026-03-24",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
