@@ -236,6 +236,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u2019s Claude Code and Cowork can control your computer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "score": 49,
+      "fetched_at": "2026-03-24",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -6017,6 +6030,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "score": 24,
+      "fetched_at": "2026-03-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -12543,7 +12569,7 @@
     {
       "date": "2026-03-24",
       "posts": 0,
-      "items_processed": 16110,
+      "items_processed": 17900,
       "estimated_tokens": 0
     }
   ]
