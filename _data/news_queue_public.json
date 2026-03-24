@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-03-24T11:25:29.773495+00:00",
-  "pending_count": 973,
+  "updated_at_utc": "2026-03-24T12:05:46.199922+00:00",
+  "pending_count": 974,
   "pending": [
+    {
+      "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "score": 35,
+      "fetched_at": "2026-03-24",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
       "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
