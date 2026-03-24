@@ -1865,6 +1865,21 @@
       "topic": "coding"
     },
     {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-03-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Why people really hate AI",
       "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
       "score": 31,
@@ -2716,6 +2731,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-03-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -9018,6 +9046,19 @@
       "topic": ""
     },
     {
+      "title": "Claude Code can now take over your computer to complete tasks",
+      "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
+      "score": 18,
+      "fetched_at": "2026-03-24",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Zendesk acquires agentic customer service startup Forethought",
       "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
       "score": 17,
@@ -9791,6 +9832,19 @@
     {
       "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
       "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
+      "score": 14,
+      "fetched_at": "2026-03-24",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
+      "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task",
       "score": 14,
       "fetched_at": "2026-03-24",
       "source": "VentureBeat",
@@ -12582,7 +12636,7 @@
     {
       "date": "2026-03-24",
       "posts": 0,
-      "items_processed": 19690,
+      "items_processed": 21482,
       "estimated_tokens": 0
     }
   ]

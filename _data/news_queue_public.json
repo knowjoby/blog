@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-24T15:12:11.222219+00:00",
-  "pending_count": 977,
+  "updated_at_utc": "2026-03-24T16:37:35.952636+00:00",
+  "pending_count": 981,
   "pending": [
     {
       "title": "Meta’s reckoning over kids safety is in the hands of two juries",
@@ -38,6 +38,30 @@
       ]
     },
     {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-03-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-03-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
       "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
       "score": 24,
@@ -49,8 +73,30 @@
       "topics": []
     },
     {
+      "title": "Claude Code can now take over your computer to complete tasks",
+      "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
+      "score": 18,
+      "fetched_at": "2026-03-24",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
       "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
+      "score": 14,
+      "fetched_at": "2026-03-24",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
+      "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task",
       "score": 14,
       "fetched_at": "2026-03-24",
       "source": "VentureBeat",
