@@ -314,6 +314,19 @@
       "topic": ""
     },
     {
+      "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "score": 49,
+      "fetched_at": "2026-03-25",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -13182,7 +13195,7 @@
     {
       "date": "2026-03-25",
       "posts": 3,
-      "items_processed": 25106,
+      "items_processed": 26901,
       "estimated_tokens": 0
     }
   ]

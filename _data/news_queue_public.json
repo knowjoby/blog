@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-03-25T19:26:37.084205+00:00",
-  "pending_count": 1016,
+  "updated_at_utc": "2026-03-25T20:03:32.211980+00:00",
+  "pending_count": 1017,
   "pending": [
+    {
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "score": 49,
+      "fetched_at": "2026-03-25",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
