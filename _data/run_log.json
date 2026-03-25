@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-03-23 01:02:13 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1788,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-03-23 02:05:34 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1128,5 +1106,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-03-25 17:34:22 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1793,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic’s Claude Code gets ‘safer’ auto mode",
+        "file": "_posts/2026-03-25-anthropics-claude-code-gets-safer-auto-mode.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

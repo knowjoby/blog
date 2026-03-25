@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-25T11:23:33.785520+00:00",
-  "pending_count": 1001,
+  "updated_at_utc": "2026-03-25T12:04:22.799747+00:00",
+  "pending_count": 1002,
   "pending": [
     {
       "title": "The AI Hype Index: AI goes to war",
@@ -35,6 +35,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "score": 11,
+      "fetched_at": "2026-03-25",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "The man who coined Metaverse now says Meta’s glasses are creepy",

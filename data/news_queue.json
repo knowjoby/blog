@@ -10641,6 +10641,19 @@
       "topic": "coding"
     },
     {
+      "title": "Agentic commerce runs on truth and context",
+      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+      "score": 11,
+      "fetched_at": "2026-03-25",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -12834,6 +12847,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+      "score": 55,
+      "file": "_posts/2026-03-25-anthropics-claude-code-gets-safer-auto-mode.md",
+      "posted_at": "2026-03-25",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -12948,8 +12972,8 @@
     },
     {
       "date": "2026-03-25",
-      "posts": 0,
-      "items_processed": 14344,
+      "posts": 1,
+      "items_processed": 16137,
       "estimated_tokens": 0
     }
   ]
