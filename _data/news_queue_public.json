@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-25T18:02:06.570270+00:00",
-  "pending_count": 1015,
+  "updated_at_utc": "2026-03-25T19:26:37.084205+00:00",
+  "pending_count": 1016,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -134,6 +134,17 @@
       "score": 24,
       "fetched_at": "2026-03-25",
       "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child",
+      "url": "https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/",
+      "score": 24,
+      "fetched_at": "2026-03-25",
+      "source": "Ars Technica",
       "companies": [
         "meta"
       ],
