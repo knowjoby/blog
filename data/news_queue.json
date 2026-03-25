@@ -2006,6 +2006,21 @@
       "topic": "open_source"
     },
     {
+      "title": "OpenAI Enters Its Focus Era by Killing Sora",
+      "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+      "score": 32,
+      "fetched_at": "2026-03-25",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Why people really hate AI",
       "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
       "score": 31,
@@ -2877,6 +2892,32 @@
       "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
       "score": 30,
       "fetched_at": "2026-03-24",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+      "score": 30,
+      "fetched_at": "2026-03-25",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
+      "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
+      "score": 30,
+      "fetched_at": "2026-03-25",
       "source": "Ars Technica",
       "companies": [
         "openai"
@@ -6314,6 +6355,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
+      "score": 24,
+      "fetched_at": "2026-03-25",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Meta loses trial after arguing child exploitation was \u201cinevitable\u201d on its apps",
+      "url": "https://arstechnica.com/tech-policy/2026/03/meta-loses-trial-after-arguing-child-exploitation-was-inevitable-on-its-apps/",
+      "score": 24,
+      "fetched_at": "2026-03-25",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -10187,6 +10254,19 @@
       "topic": "ai"
     },
     {
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "score": 12,
+      "fetched_at": "2026-03-25",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Notion\u2019s rebuild for agentic AI: How GPT\u20115 helped unlock autonomous workflows",
       "url": "https://openai.com/index/notion",
       "score": 11,
@@ -12858,6 +12938,29 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Mark Zuckerberg and Jensen Huang are part of Trump\u2019s new \u2018tech panel\u2019",
+      "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
+      "score": 67,
+      "file": "_posts/2026-03-25-mark-zuckerberg-and-jensen-huang-are-part-of-trumps-new-tech-panel.md",
+      "posted_at": "2026-03-25",
+      "companies": [
+        "meta",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Senate Democrats are trying to \u2018codify\u2019 Anthropic\u2019s red lines on autonomous weapons and mass surveillance",
+      "url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "score": 55,
+      "file": "_posts/2026-03-25-senate-democrats-are-trying-to-codify-anthropics-red-lines-on-autonomo.md",
+      "posted_at": "2026-03-25",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -12972,8 +13075,8 @@
     },
     {
       "date": "2026-03-25",
-      "posts": 1,
-      "items_processed": 17930,
+      "posts": 3,
+      "items_processed": 19723,
       "estimated_tokens": 0
     }
   ]
