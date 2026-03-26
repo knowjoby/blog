@@ -1477,6 +1477,22 @@
       "topic": ""
     },
     {
+      "title": "The debut of Gemini 3.1 Flash Live could make it harder to know if you're talking to a robot",
+      "url": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
+      "score": 34,
+      "fetched_at": "2026-03-26",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics",
+        "coding"
+      ],
+      "company": "google",
+      "topic": "robotics"
+    },
+    {
       "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
       "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
       "score": 33,
@@ -3020,6 +3036,19 @@
       ],
       "company": "mistral",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "score": 30,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Inside Mirakl's agentic commerce vision",
@@ -13382,7 +13411,7 @@
     {
       "date": "2026-03-26",
       "posts": 2,
-      "items_processed": 23335,
+      "items_processed": 25128,
       "estimated_tokens": 0
     }
   ]

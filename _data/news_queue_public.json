@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-26T18:02:21.279169+00:00",
-  "pending_count": 1029,
+  "updated_at_utc": "2026-03-26T19:37:40.361293+00:00",
+  "pending_count": 1031,
   "pending": [
     {
       "title": "EU backs nude app ban and delays to landmark AI rules",
@@ -11,6 +11,20 @@
       "companies": [],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "The debut of Gemini 3.1 Flash Live could make it harder to know if you're talking to a robot",
+      "url": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
+      "score": 34,
+      "fetched_at": "2026-03-26",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics",
+        "coding"
       ]
     },
     {
@@ -25,6 +39,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "score": 30,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
