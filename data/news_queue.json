@@ -13290,6 +13290,18 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "score": 57,
+      "file": "_posts/2026-03-26-apple-will-reportedly-allow-other-ai-chatbots-to-plug-into-siri.md",
+      "posted_at": "2026-03-26",
+      "companies": [
+        "anthropic",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13410,8 +13422,8 @@
     },
     {
       "date": "2026-03-26",
-      "posts": 2,
-      "items_processed": 26921,
+      "posts": 3,
+      "items_processed": 28715,
       "estimated_tokens": 0
     }
   ]
