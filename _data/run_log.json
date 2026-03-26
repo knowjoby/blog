@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-03-24 04:09:06 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1789,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-03-24 05:08:49 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1164,5 +1142,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-03-26 22:11:13 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1795,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+        "file": "_posts/2026-03-26-meta-gets-ready-to-launch-two-new-ray-ban-ai-glasses.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]

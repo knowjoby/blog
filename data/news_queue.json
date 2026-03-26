@@ -9581,6 +9581,19 @@
       "topic": ""
     },
     {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "score": 18,
+      "fetched_at": "2026-03-26",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Zendesk acquires agentic customer service startup Forethought",
       "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
       "score": 17,
@@ -13211,6 +13224,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "score": 55,
+      "file": "_posts/2026-03-26-meta-gets-ready-to-launch-two-new-ray-ban-ai-glasses.md",
+      "posted_at": "2026-03-26",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13331,8 +13355,8 @@
     },
     {
       "date": "2026-03-26",
-      "posts": 1,
-      "items_processed": 19745,
+      "posts": 2,
+      "items_processed": 21540,
       "estimated_tokens": 0
     }
   ]
