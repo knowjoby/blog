@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-03-26T21:37:19.641552+00:00",
-  "pending_count": 1031,
+  "updated_at_utc": "2026-03-26T22:37:19.907486+00:00",
+  "pending_count": 1033,
   "pending": [
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "score": 49,
+      "fetched_at": "2026-03-26",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "EU backs nude app ban and delays to landmark AI rules",
       "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
@@ -25,6 +36,17 @@
       "topics": [
         "robotics",
         "coding"
+      ]
+    },
+    {
+      "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
+      "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
+      "score": 33,
+      "fetched_at": "2026-03-26",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {

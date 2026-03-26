@@ -340,6 +340,19 @@
       "topic": ""
     },
     {
+      "title": "Google is making it easier to import another AI\u2019s memory into Gemini",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "score": 49,
+      "fetched_at": "2026-03-26",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -1549,6 +1562,19 @@
       "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
       "score": 33,
       "fetched_at": "2026-03-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon\u2019s spring sale",
+      "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
+      "score": 33,
+      "fetched_at": "2026-03-26",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -13423,7 +13449,7 @@
     {
       "date": "2026-03-26",
       "posts": 3,
-      "items_processed": 28715,
+      "items_processed": 30510,
       "estimated_tokens": 0
     }
   ]
