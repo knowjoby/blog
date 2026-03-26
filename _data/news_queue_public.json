@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-03-26T00:00:20.110199+00:00",
-  "pending_count": 1020,
+  "updated_at_utc": "2026-03-26T03:37:30.085945+00:00",
+  "pending_count": 1021,
   "pending": [
+    {
+      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+      "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+      "score": 16,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation",
+        "open_source"
+      ]
+    },
     {
       "title": "Meta is laying off hundreds of employees as it pours money into AI",
       "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
