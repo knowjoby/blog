@@ -6544,6 +6544,19 @@
       "topic": ""
     },
     {
+      "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
+      "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
+      "score": 24,
+      "fetched_at": "2026-03-26",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6716,6 +6729,19 @@
       "score": 20,
       "fetched_at": "2026-03-23",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
+      "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
+      "score": 20,
+      "fetched_at": "2026-03-26",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -13356,7 +13382,7 @@
     {
       "date": "2026-03-26",
       "posts": 2,
-      "items_processed": 21540,
+      "items_processed": 23335,
       "estimated_tokens": 0
     }
   ]

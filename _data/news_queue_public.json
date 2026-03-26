@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-26T16:41:13.710087+00:00",
-  "pending_count": 1027,
+  "updated_at_utc": "2026-03-26T18:02:21.279169+00:00",
+  "pending_count": 1029,
   "pending": [
     {
       "title": "EU backs nude app ban and delays to landmark AI rules",
@@ -25,6 +25,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
+      "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
+      "score": 24,
+      "fetched_at": "2026-03-26",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "WhatsApp can now draft AI-generated responses based on your conversations",
@@ -56,6 +67,17 @@
       "source": "TechCrunch",
       "companies": [
         "cohere"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI “indefinitely” shelves plans for erotic ChatGPT",
+      "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
+      "score": 20,
+      "fetched_at": "2026-03-26",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
