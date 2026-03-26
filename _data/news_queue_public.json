@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-03-26T10:58:53.248443+00:00",
-  "pending_count": 1021,
+  "updated_at_utc": "2026-03-26T11:56:26.871888+00:00",
+  "pending_count": 1022,
   "pending": [
+    {
+      "title": "Mistral releases a new open-source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "score": 22,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": []
+    },
     {
       "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
       "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",

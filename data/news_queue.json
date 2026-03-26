@@ -6605,6 +6605,19 @@
       "topic": "coding"
     },
     {
+      "title": "Mistral releases a new open-source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "score": 22,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
+    },
+    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -13254,7 +13267,7 @@
     {
       "date": "2026-03-26",
       "posts": 0,
-      "items_processed": 14360,
+      "items_processed": 16155,
       "estimated_tokens": 0
     }
   ]
