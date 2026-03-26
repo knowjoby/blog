@@ -6612,6 +6612,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Supply-Chain Risk Designation Halted By Judge",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+      "score": 24,
+      "fetched_at": "2026-03-26",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13449,7 +13462,7 @@
     {
       "date": "2026-03-26",
       "posts": 3,
-      "items_processed": 30510,
+      "items_processed": 32305,
       "estimated_tokens": 0
     }
   ]
