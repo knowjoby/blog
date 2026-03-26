@@ -933,6 +933,19 @@
       "topic": "robotics"
     },
     {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "score": 39,
+      "fetched_at": "2026-03-26",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Nvidia's new open weights Nemotron 3 super combines three different architectures to beat gpt-oss and Qwen in throughput",
       "url": "https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different",
       "score": 38,
@@ -2992,6 +3005,21 @@
       "topics": [],
       "company": "google",
       "topic": ""
+    },
+    {
+      "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs \u2014 and it's giving away the weights for free",
+      "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
+      "score": 30,
+      "fetched_at": "2026-03-26",
+      "source": "VentureBeat",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "mistral",
+      "topic": "agentic"
     },
     {
       "title": "Inside Mirakl's agentic commerce vision",
@@ -6503,6 +6531,19 @@
       "topic": ""
     },
     {
+      "title": "WhatsApp can now draft AI-generated responses based on your conversations",
+      "url": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
+      "score": 24,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6615,6 +6656,19 @@
       ],
       "topics": [],
       "company": "mistral",
+      "topic": ""
+    },
+    {
+      "title": "Cohere launches an open-source voice model specifically for transcription",
+      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "score": 22,
+      "fetched_at": "2026-03-26",
+      "source": "TechCrunch",
+      "companies": [
+        "cohere"
+      ],
+      "topics": [],
+      "company": "cohere",
       "topic": ""
     },
     {
@@ -13146,6 +13200,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI shelves erotic chatbot \u2018indefinitely\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "score": 55,
+      "file": "_posts/2026-03-26-openai-shelves-erotic-chatbot-indefinitely.md",
+      "posted_at": "2026-03-26",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13266,8 +13331,8 @@
     },
     {
       "date": "2026-03-26",
-      "posts": 0,
-      "items_processed": 16155,
+      "posts": 1,
+      "items_processed": 17950,
       "estimated_tokens": 0
     }
   ]
