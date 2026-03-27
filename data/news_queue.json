@@ -395,6 +395,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "score": 48,
+      "fetched_at": "2026-03-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
       "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
       "score": 46,
@@ -14064,7 +14078,7 @@
     {
       "date": "2026-03-27",
       "posts": 3,
-      "items_processed": 19745,
+      "items_processed": 21540,
       "estimated_tokens": 0
     }
   ]
