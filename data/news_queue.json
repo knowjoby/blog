@@ -1266,6 +1266,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+      "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+      "score": 35,
+      "fetched_at": "2026-03-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "The debut of Gemini 3.1 Flash Live could make it harder to know if you're talking to a robot",
       "url": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
       "score": 34,
@@ -14117,7 +14132,7 @@
     {
       "date": "2026-03-27",
       "posts": 3,
-      "items_processed": 32312,
+      "items_processed": 34108,
       "estimated_tokens": 0
     }
   ]

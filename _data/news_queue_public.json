@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-27T22:39:24.800345+00:00",
-  "pending_count": 1018,
+  "updated_at_utc": "2026-03-27T23:39:11.013934+00:00",
+  "pending_count": 1019,
   "pending": [
     {
       "title": "Meta’s court losses could be just the beginning",
@@ -432,6 +432,19 @@
       ],
       "topics": [
         "reasoning"
+      ]
+    },
+    {
+      "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+      "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+      "score": 35,
+      "fetched_at": "2026-03-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
