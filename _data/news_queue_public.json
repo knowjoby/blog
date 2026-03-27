@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-27T10:26:51.829637+00:00",
-  "pending_count": 1011,
+  "updated_at_utc": "2026-03-27T11:25:12.817913+00:00",
+  "pending_count": 1013,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -4262,6 +4262,28 @@
         "agentic",
         "reasoning"
       ]
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "score": 18,
+      "fetched_at": "2026-03-27",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
+      "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+      "score": 18,
+      "fetched_at": "2026-03-27",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
