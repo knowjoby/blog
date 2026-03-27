@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-03-25 02:36:40 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 1793,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "Apple is testing a standalone app for its overhauled Siri",
-        "file": "_posts/2026-03-24-apple-is-testing-a-standalone-app-for-its-overhauled-siri.md",
-        "score": 63,
-        "tags": [
-          "apple",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-03-25 03:32:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1201,6 +1169,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-03-27 20:27:25 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1795,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
