@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-27T19:42:22.728913+00:00",
-  "pending_count": 1015,
+  "updated_at_utc": "2026-03-27T20:47:32.755750+00:00",
+  "pending_count": 1016,
   "pending": [
     {
       "title": "Meta’s court losses could be just the beginning",
@@ -4166,6 +4166,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
+      "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
+      "score": 24,
+      "fetched_at": "2026-03-27",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
