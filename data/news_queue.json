@@ -270,6 +270,19 @@
       "topic": ""
     },
     {
+      "title": "Bluetti\u2019s Sora 500 solar panel is incredibly powerful for its size",
+      "url": "https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel",
+      "score": 49,
+      "fetched_at": "2026-03-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
       "score": 48,
@@ -13887,7 +13900,7 @@
     {
       "date": "2026-03-28",
       "posts": 0,
-      "items_processed": 5388,
+      "items_processed": 7184,
       "estimated_tokens": 0
     }
   ]
