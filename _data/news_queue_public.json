@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-28T15:41:37.282164+00:00",
-  "pending_count": 1004,
+  "updated_at_utc": "2026-03-28T16:41:27.131971+00:00",
+  "pending_count": 1005,
   "pending": [
     {
       "title": "Bluetti’s Sora 500 solar panel is incredibly powerful for its size",
@@ -54,6 +54,17 @@
       "source": "TechCrunch",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "score": 20,
+      "fetched_at": "2026-03-28",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
