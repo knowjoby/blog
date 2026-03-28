@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-03-26 02:33:48 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1795,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-03-26 03:33:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1157,5 +1135,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-03-28 18:38:13 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1797,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Why OpenAI killed Sora",
+        "file": "_posts/2026-03-28-why-openai-killed-sora.md",
+        "score": 63,
+        "tags": [
+          "openai",
+          "multimodal"
+        ]
+      }
+    ]
   }
 ]

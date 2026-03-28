@@ -13767,6 +13767,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "score": 63,
+      "file": "_posts/2026-03-28-why-openai-killed-sora.md",
+      "posted_at": "2026-03-28",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     }
   ],
   "daily_usage": [
@@ -13899,8 +13912,8 @@
     },
     {
       "date": "2026-03-28",
-      "posts": 0,
-      "items_processed": 17960,
+      "posts": 1,
+      "items_processed": 19757,
       "estimated_tokens": 0
     }
   ]
