@@ -283,6 +283,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone",
+      "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
+      "score": 49,
+      "fetched_at": "2026-03-28",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
       "score": 48,
@@ -1006,6 +1019,19 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "TikTok\u2019s policy for AI ads isn\u2019t working",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "score": 37,
+      "fetched_at": "2026-03-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "Arm Is Now Making Its Own Chips",
@@ -13913,7 +13939,7 @@
     {
       "date": "2026-03-28",
       "posts": 1,
-      "items_processed": 19757,
+      "items_processed": 21554,
       "estimated_tokens": 0
     }
   ]
