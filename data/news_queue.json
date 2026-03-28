@@ -7,45 +7,6 @@
   },
   "pending": [
     {
-      "title": "Gemini\u2019s task automation is here and it\u2019s wild",
-      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-      "score": 49,
-      "fetched_at": "2026-03-13",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s Claude AI can respond with charts, diagrams, and other visuals now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
-      "score": 49,
-      "fetched_at": "2026-03-13",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta exec hopes VR teens will stick around",
-      "url": "https://www.theverge.com/column/893526/meta-vr-games-teens",
-      "score": 49,
-      "fetched_at": "2026-03-13",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Encyclopedia Britannica is suing OpenAI for allegedly \u2018memorizing\u2019 its content with ChatGPT",
       "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
       "score": 49,
@@ -471,32 +432,6 @@
       "topic": "coding"
     },
     {
-      "title": "Facebook Marketplace adds AI auto-replies for annoying \u2018Is this still available?\u2019 messages",
-      "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
-      "score": 43,
-      "fetched_at": "2026-03-13",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Instagram is getting rid of end-to-end encrypted DMs that \u2018very few\u2019 people used",
-      "url": "https://www.theverge.com/tech/894752/instagram-end-to-end-encryption",
-      "score": 43,
-      "fetched_at": "2026-03-13",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "The future of code is exciting and terrifying",
       "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
       "score": 43,
@@ -700,21 +635,6 @@
       "topics": [],
       "company": "meta",
       "topic": ""
-    },
-    {
-      "title": "Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever\u2019s Generalizable Agentic Retrieval Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval",
-      "score": 41,
-      "fetched_at": "2026-03-13",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "nvidia",
-      "topic": "agentic"
     },
     {
       "title": "Nvidia BlueField-4 STX adds a context memory layer to storage to close the agentic AI throughput gap",
@@ -2141,19 +2061,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote",
-      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-      "score": 30,
-      "fetched_at": "2026-03-13",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "OpenAI\u2019s own mental health experts unanimously opposed \u201cnaughty\u201d ChatGPT launch",
@@ -3757,59 +3664,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
-      "url": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
-      "score": 25,
-      "fetched_at": "2026-03-13",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Facebook Marketplace now lets Meta AI respond to buyers\u2019 messages",
-      "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-      "score": 24,
-      "fetched_at": "2026-03-13",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "\u2018Uncanny Valley\u2019: Anthropic\u2019s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
-      "score": 24,
-      "fetched_at": "2026-03-13",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google Is Not Ruling Out Ads in Gemini",
-      "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
-      "score": 24,
-      "fetched_at": "2026-03-13",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Staff complain that xAI is flailing because of constant upheaval",
@@ -7096,32 +6950,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
-      "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
-      "score": 18,
-      "fetched_at": "2026-03-13",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
-      "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-      "score": 18,
-      "fetched_at": "2026-03-13",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
       "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
       "score": 18,
@@ -10116,19 +9944,6 @@
       "topic": ""
     },
     {
-      "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
-      "url": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/",
-      "score": 17,
-      "fetched_at": "2026-03-13",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10153,33 +9968,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
-      "url": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
-      "score": 16,
-      "fetched_at": "2026-03-13",
-      "source": "Ars Technica",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": [],
-      "company": "perplexity",
-      "topic": ""
-    },
-    {
-      "title": "China\u2019s OpenClaw Boom Is a Gold Rush for AI Companies",
-      "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
-      "score": 16,
-      "fetched_at": "2026-03-13",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow",
@@ -10615,32 +10403,6 @@
       "topic": ""
     },
     {
-      "title": "NanoClaw and Docker partner to make sandboxes the safest way for enterprises to deploy AI agents",
-      "url": "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises",
-      "score": 14,
-      "fetched_at": "2026-03-13",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "The wild six weeks for NanoClaw\u2019s creator that led to a deal with Docker",
-      "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-      "score": 14,
-      "fetched_at": "2026-03-13",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "open_source"
-      ],
-      "company": "",
-      "topic": "open_source"
-    },
-    {
       "title": "Picsart now allows creators to \u2018hire\u2019 AI assistants through agent marketplace",
       "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
       "score": 14,
@@ -10979,19 +10741,6 @@
       "topic": "open_source"
     },
     {
-      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
-      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-      "score": 12,
-      "fetched_at": "2026-03-13",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
       "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
       "score": 12,
@@ -11068,19 +10817,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots",
-      "url": "https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/",
-      "score": 11,
-      "fetched_at": "2026-03-13",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Nurturing agentic AI beyond the toddler stage",
@@ -14133,6 +13869,12 @@
       "date": "2026-03-27",
       "posts": 3,
       "items_processed": 34108,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-03-28",
+      "posts": 0,
+      "items_processed": 1796,
       "estimated_tokens": 0
     }
   ]
