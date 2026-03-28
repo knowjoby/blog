@@ -1,45 +1,5 @@
 [
   {
-    "ran_at": "2026-03-25 20:40:03 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 8,
-    "posts_created": 2,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 8
-      },
-      "rss": {
-        "raw": 1793,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 8
-      }
-    },
-    "posts": [
-      {
-        "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-        "file": "_posts/2026-03-25-mark-zuckerberg-and-jensen-huang-are-part-of-trumps-new-tech-panel.md",
-        "score": 67,
-        "tags": [
-          "meta",
-          "nvidia"
-        ]
-      },
-      {
-        "title": "Senate Democrats are trying to ‘codify’ Anthropic’s red lines on autonomous weapons and mass surveillance",
-        "file": "_posts/2026-03-25-senate-democrats-are-trying-to-codify-anthropics-red-lines-on-autonomo.md",
-        "score": 55,
-        "tags": [
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-03-25 22:12:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1156,6 +1116,28 @@
   },
   {
     "ran_at": "2026-03-28 13:33:22 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1796,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-03-28 14:08:55 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
