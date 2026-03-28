@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-28T14:04:48.739977+00:00",
-  "pending_count": 1003,
+  "updated_at_utc": "2026-03-28T14:59:12.776839+00:00",
+  "pending_count": 1004,
   "pending": [
     {
       "title": "Bluetti’s Sora 500 solar panel is incredibly powerful for its size",
@@ -43,6 +43,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "score": 24,
+      "fetched_at": "2026-03-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
