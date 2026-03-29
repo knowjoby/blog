@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-03-27 08:23:46 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1795,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
-        "file": "_posts/2026-03-27-judge-sides-with-anthropic-to-temporarily-block-the-pentagons-ban.md",
-        "score": 55,
-        "tags": [
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-03-27 10:42:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 811,
@@ -1120,6 +1089,28 @@
   },
   {
     "ran_at": "2026-03-29 17:05:11 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1797,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-03-29 18:39:05 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
