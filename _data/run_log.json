@@ -1,49 +1,5 @@
 [
   {
-    "ran_at": "2026-03-27 10:42:53 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 811,
-    "posts_created": 2,
-    "queued": 809,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 811
-      },
-      "rss": {
-        "raw": 1795,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 811
-      }
-    },
-    "posts": [
-      {
-        "title": "Using GPT-4o reasoning to transform cancer care",
-        "file": "_posts/2026-03-27-using-gpt-4o-reasoning-to-transform-cancer-care.md",
-        "score": 55,
-        "tags": [
-          "openai",
-          "microsoft",
-          "reasoning",
-          "coding"
-        ]
-      },
-      {
-        "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
-        "file": "_posts/2026-03-27-welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub.md",
-        "score": 52,
-        "tags": [
-          "meta",
-          "nvidia",
-          "huggingface"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-03-27 12:16:32 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1111,6 +1067,28 @@
   },
   {
     "ran_at": "2026-03-29 18:39:05 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1797,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-03-29 19:36:09 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
