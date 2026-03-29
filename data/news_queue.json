@@ -412,19 +412,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Meta is reportedly laying off up to 20 percent of its staff",
-      "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
-      "score": 45,
-      "fetched_at": "2026-03-14",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -1504,21 +1491,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "\u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
-      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "score": 32,
-      "fetched_at": "2026-03-14",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "xai",
-      "topic": "coding"
     },
     {
       "title": "World launches tool to verify humans behind AI shopping agents",
@@ -3716,19 +3688,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Staff complain that xAI is flailing because of constant upheaval",
-      "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
-      "score": 24,
-      "fetched_at": "2026-03-14",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Where OpenAI\u2019s technology could show up in Iran",
@@ -6920,19 +6879,6 @@
       "topic": ""
     },
     {
-      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-      "score": 20,
-      "fetched_at": "2026-03-14",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
       "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
       "score": 20,
@@ -7026,19 +6972,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-      "score": 18,
-      "fetched_at": "2026-03-14",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
@@ -13966,6 +13899,12 @@
       "date": "2026-03-28",
       "posts": 1,
       "items_processed": 39524,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-03-29",
+      "posts": 0,
+      "items_processed": 1797,
       "estimated_tokens": 0
     }
   ]
