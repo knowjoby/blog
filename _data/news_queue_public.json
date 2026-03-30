@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-03-29T23:39:39.056604+00:00",
+  "updated_at_utc": "2026-03-30T03:19:28.630468+00:00",
   "pending_count": 1002,
   "pending": [
+    {
+      "title": "Why OpenAI really shut down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "score": 24,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Bluesky’s new app is an AI for customizing your feed",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
@@ -11304,17 +11315,6 @@
       "companies": [],
       "topics": [
         "robotics"
-      ]
-    },
-    {
-      "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
-      "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
-      "score": 33,
-      "fetched_at": "2026-03-15",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
       ]
     }
   ]

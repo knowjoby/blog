@@ -1428,19 +1428,6 @@
       "topic": ""
     },
     {
-      "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
-      "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
-      "score": 33,
-      "fetched_at": "2026-03-15",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "This is not a fly uploaded to a computer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
       "score": 33,
@@ -6755,6 +6742,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Why OpenAI really shut down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "score": 24,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -13931,6 +13931,12 @@
       "date": "2026-03-29",
       "posts": 0,
       "items_processed": 37737,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-03-30",
+      "posts": 0,
+      "items_processed": 1797,
       "estimated_tokens": 0
     }
   ]
