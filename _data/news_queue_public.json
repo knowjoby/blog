@@ -1,7 +1,53 @@
 {
-  "updated_at_utc": "2026-03-30T15:10:42.261947+00:00",
-  "pending_count": 1007,
+  "updated_at_utc": "2026-03-30T16:34:19.149236+00:00",
+  "pending_count": 1011,
   "pending": [
+    {
+      "title": "Okta’s CEO is betting big on AI agent identity",
+      "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+      "score": 33,
+      "fetched_at": "2026-03-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Dyson’s thin PencilVac Fluffycones is tougher to resist at $150 off",
+      "url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-03-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "score": 32,
+      "fetched_at": "2026-03-30",
+      "source": "MIT Tech Review",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "score": 24,
+      "fetched_at": "2026-03-30",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
       "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
