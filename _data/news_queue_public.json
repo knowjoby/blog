@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-30T03:19:28.630468+00:00",
-  "pending_count": 1002,
+  "updated_at_utc": "2026-03-30T05:37:40.398967+00:00",
+  "pending_count": 1003,
   "pending": [
     {
       "title": "Why OpenAI really shut down Sora",
@@ -8,6 +8,17 @@
       "score": 24,
       "fetched_at": "2026-03-30",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "score": 18,
+      "fetched_at": "2026-03-30",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
