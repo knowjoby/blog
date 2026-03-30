@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-30T16:34:19.149236+00:00",
-  "pending_count": 1011,
+  "updated_at_utc": "2026-03-30T17:56:40.604972+00:00",
+  "pending_count": 1012,
   "pending": [
     {
       "title": "Okta’s CEO is betting big on AI agent identity",
@@ -113,6 +113,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Cohere's open-weight ASR model hits 5.4% word error rate — low enough to replace speech APIs in production pipelines",
+      "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
+      "score": 16,
+      "fetched_at": "2026-03-30",
+      "source": "VentureBeat",
+      "companies": [
+        "cohere"
+      ],
+      "topics": []
     },
     {
       "title": "Bluesky’s new app is an AI for customizing your feed",
