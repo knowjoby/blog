@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-30T19:12:46.888774+00:00",
-  "pending_count": 1014,
+  "updated_at_utc": "2026-03-30T20:06:13.020895+00:00",
+  "pending_count": 1015,
   "pending": [
     {
       "title": "Okta’s CEO is betting big on AI agent identity",
@@ -146,6 +146,17 @@
         "cohere"
       ],
       "topics": []
+    },
+    {
+      "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
+      "url": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps",
+      "score": 14,
+      "fetched_at": "2026-03-30",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Bluesky’s new app is an AI for customizing your feed",
