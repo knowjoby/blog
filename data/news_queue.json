@@ -6758,6 +6758,32 @@
       "topic": ""
     },
     {
+      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+      "score": 24,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "score": 24,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
       "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
       "score": 22,
@@ -6889,6 +6915,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+      "score": 22,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
       "topic": ""
     },
     {
@@ -10018,6 +10057,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Qodo raises $70M for code verification as AI coding scales",
+      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+      "score": 17,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow",
@@ -13949,7 +14001,7 @@
     {
       "date": "2026-03-30",
       "posts": 0,
-      "items_processed": 12585,
+      "items_processed": 14383,
       "estimated_tokens": 0
     }
   ]
