@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-30T21:09:51.961288+00:00",
-  "pending_count": 1016,
+  "updated_at_utc": "2026-03-30T22:04:50.604897+00:00",
+  "pending_count": 1017,
   "pending": [
     {
       "title": "Okta’s CEO is betting big on AI agent identity",
@@ -153,6 +153,17 @@
       "score": 14,
       "fetched_at": "2026-03-30",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+      "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+      "score": 14,
+      "fetched_at": "2026-03-30",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "agentic"
