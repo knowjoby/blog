@@ -13956,6 +13956,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "score": 53,
+      "file": "_posts/2026-03-31-claude-code-leak-exposes-a-tamagotchi-style-pet-and-an-always-on-agent.md",
+      "posted_at": "2026-03-31",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -14106,8 +14119,8 @@
     },
     {
       "date": "2026-03-31",
-      "posts": 3,
-      "items_processed": 28777,
+      "posts": 4,
+      "items_processed": 30577,
       "estimated_tokens": 0
     }
   ]
