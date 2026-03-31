@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-31T19:34:02.778329+00:00",
-  "pending_count": 1007,
+  "updated_at_utc": "2026-03-31T20:50:54.126737+00:00",
+  "pending_count": 1008,
   "pending": [
     {
       "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
@@ -92,6 +92,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-03-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
