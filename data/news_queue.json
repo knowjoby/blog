@@ -2999,6 +2999,19 @@
       "topic": ""
     },
     {
+      "title": "Meta launches two new Ray-Ban glasses designed for prescription wearers",
+      "url": "https://techcrunch.com/2026/03/31/meta-launches-two-new-ray-ban-glasses-designed-for-prescription-wearers/",
+      "score": 30,
+      "fetched_at": "2026-03-31",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -6702,6 +6715,19 @@
       "topic": "open_source"
     },
     {
+      "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
+      "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
+      "score": 24,
+      "fetched_at": "2026-03-31",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
       "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
       "score": 22,
@@ -6847,6 +6873,21 @@
       "topics": [],
       "company": "mistral",
       "topic": ""
+    },
+    {
+      "title": "Claude Code's source code appears to have leaked: here's what we know",
+      "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
+      "score": 22,
+      "fetched_at": "2026-03-31",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
     },
     {
       "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
@@ -10410,6 +10451,20 @@
       "topic": ""
     },
     {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "score": 16,
+      "fetched_at": "2026-03-31",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "reasoning",
+        "coding"
+      ],
+      "company": "",
+      "topic": "reasoning"
+    },
+    {
       "title": "Picsart now allows creators to \u2018hire\u2019 AI assistants through agent marketplace",
       "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
       "score": 14,
@@ -11292,6 +11347,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-03-31",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "Deep double descent",
@@ -13772,6 +13840,28 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta launches new \u2018prescription optimized\u2019 smart glasses",
+      "url": "https://www.theverge.com/tech/904020/meta-scriber-blayzer-prescription-smart-glasses",
+      "score": 55,
+      "file": "_posts/2026-03-31-meta-launches-new-prescription-optimized-smart-glasses.md",
+      "posted_at": "2026-03-31",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta agrees to \u2018reduce\u2019 Instagram\u2019s PG-13 rating references",
+      "url": "https://www.theverge.com/tech/904081/meta-mpa-agreement-pg-13-rating",
+      "score": 55,
+      "file": "_posts/2026-03-31-meta-agrees-to-reduce-instagrams-pg-13-rating-references.md",
+      "posted_at": "2026-03-31",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13922,8 +14012,8 @@
     },
     {
       "date": "2026-03-31",
-      "posts": 1,
-      "items_processed": 17981,
+      "posts": 3,
+      "items_processed": 19780,
       "estimated_tokens": 0
     }
   ]
