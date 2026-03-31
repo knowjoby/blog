@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-03-31T15:47:28.381035+00:00",
-  "pending_count": 1005,
+  "updated_at_utc": "2026-03-31T17:06:02.018233+00:00",
+  "pending_count": 1006,
   "pending": [
     {
       "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
@@ -57,6 +57,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "score": 26,
+      "fetched_at": "2026-03-31",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
