@@ -257,6 +257,19 @@
       "topic": ""
     },
     {
+      "title": "You can now use ChatGPT with Apple\u2019s CarPlay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "score": 49,
+      "fetched_at": "2026-03-31",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
       "score": 48,
@@ -365,6 +378,20 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "score": 48,
+      "fetched_at": "2026-03-31",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "nvidia"
       ],
       "topics": [],
       "company": "openai",
@@ -10883,6 +10910,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
+      "url": "https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/",
+      "score": 14,
+      "fetched_at": "2026-03-31",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
       "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
       "score": 12,
@@ -11401,6 +11441,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 \u2014 the agent behavioral baseline gap survived all three",
+      "url": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap",
+      "score": 11,
+      "fetched_at": "2026-03-31",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Deep double descent",
@@ -14054,7 +14107,7 @@
     {
       "date": "2026-03-31",
       "posts": 3,
-      "items_processed": 26977,
+      "items_processed": 28777,
       "estimated_tokens": 0
     }
   ]
