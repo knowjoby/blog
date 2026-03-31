@@ -2959,6 +2959,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia-backed ThinkLabs AI raises $28 million to tackle a growing power grid crunch",
+      "url": "https://venturebeat.com/infrastructure/nvidia-backed-thinklabs-ai-raises-usd28-million-to-tackle-a-growing-power",
+      "score": 30,
+      "fetched_at": "2026-03-31",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -13872,7 +13885,7 @@
     {
       "date": "2026-03-31",
       "posts": 0,
-      "items_processed": 12586,
+      "items_processed": 14384,
       "estimated_tokens": 0
     }
   ]
