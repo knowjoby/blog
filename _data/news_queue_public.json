@@ -1,7 +1,31 @@
 {
-  "updated_at_utc": "2026-03-30T23:04:36.488138+00:00",
-  "pending_count": 1017,
+  "updated_at_utc": "2026-03-31T00:00:44.275555+00:00",
+  "pending_count": 997,
   "pending": [
+    {
+      "title": "Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale",
+      "url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
+      "score": 33,
+      "fetched_at": "2026-03-31",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
+      "url": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to",
+      "score": 24,
+      "fetched_at": "2026-03-31",
+      "source": "VentureBeat",
+      "companies": [
+        "midjourney"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
     {
       "title": "Okta’s CEO is betting big on AI agent identity",
       "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
@@ -11228,257 +11252,6 @@
       "score": 11,
       "fetched_at": "2026-03-17",
       "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "DLSS 5 looks like a real-time generative AI filter for video games",
-      "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
-      "score": 49,
-      "fetched_at": "2026-03-16",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk",
-      "score": 49,
-      "fetched_at": "2026-03-16",
-      "source": "The Verge",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Encyclopedia Britannica is suing OpenAI for allegedly ‘memorizing’ its content with ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/895372/encyclopedia-britannica-openai-lawsuit",
-      "score": 49,
-      "fetched_at": "2026-03-16",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nvidia's DGX Station is a desktop supercomputer that runs trillion-parameter AI models without the cloud",
-      "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter",
-      "score": 42,
-      "fetched_at": "2026-03-16",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nvidia BlueField-4 STX adds a context memory layer to storage to close the agentic AI throughput gap",
-      "url": "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the",
-      "score": 41,
-      "fetched_at": "2026-03-16",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-      "score": 38,
-      "fetched_at": "2026-03-16",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-      "score": 38,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "I met Olaf — the Frozen robot who might be the future of Disney Parks",
-      "url": "https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close",
-      "score": 33,
-      "fetched_at": "2026-03-16",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "This is not a fly uploaded to a computer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
-      "score": 33,
-      "fetched_at": "2026-03-16",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "z.ai debuts faster, cheaper GLM-5 Turbo model for agents and 'claws' — but it's not open-source",
-      "url": "https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its",
-      "score": 30,
-      "fetched_at": "2026-03-16",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source",
-        "china"
-      ]
-    },
-    {
-      "title": "OpenAI’s own mental health experts unanimously opposed “naughty” ChatGPT launch",
-      "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/",
-      "score": 30,
-      "fetched_at": "2026-03-16",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "score": 24,
-      "fetched_at": "2026-03-16",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-      "score": 24,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nvidia’s DLSS 5 uses generative AI to boost photo-realism in video games, with ambitions beyond gaming",
-      "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-      "score": 24,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The dictionary sues OpenAI",
-      "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "score": 24,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
-      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-      "score": 24,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-      "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-      "score": 24,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
-      "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-      "score": 18,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
-      "url": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
-      "score": 18,
-      "fetched_at": "2026-03-16",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nurturing agentic AI beyond the toddler stage",
-      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-      "score": 11,
-      "fetched_at": "2026-03-16",
-      "source": "MIT Tech Review",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Memories AI is building the visual memory layer for wearables and robotics",
-      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-      "score": 11,
-      "fetched_at": "2026-03-16",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "The Rise of Physical AI for Healthcare Robotics",
-      "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics",
-      "score": 11,
-      "fetched_at": "2026-03-16",
-      "source": "Hugging Face",
       "companies": [],
       "topics": [
         "robotics"
