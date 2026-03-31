@@ -1,7 +1,30 @@
 {
-  "updated_at_utc": "2026-03-31T12:09:55.870382+00:00",
-  "pending_count": 998,
+  "updated_at_utc": "2026-03-31T14:08:59.671093+00:00",
+  "pending_count": 1000,
   "pending": [
+    {
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "score": 48,
+      "fetched_at": "2026-03-31",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Instagram tests letting you pay to view stories anonymously",
+      "url": "https://www.theverge.com/tech/904032/instagram-premium-subscription-story-viewing-anonymously",
+      "score": 43,
+      "fetched_at": "2026-03-31",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Here are our favorite spring cleaning deals from Amazon’s Big Spring Sale",
       "url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",

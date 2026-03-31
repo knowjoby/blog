@@ -357,6 +357,20 @@
       "topic": ""
     },
     {
+      "title": "The Download: AI health tools and the Pentagon\u2019s Anthropic culture war",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "score": 48,
+      "fetched_at": "2026-03-31",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
       "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
       "score": 46,
@@ -510,6 +524,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Instagram tests letting you pay to view stories anonymously",
+      "url": "https://www.theverge.com/tech/904032/instagram-premium-subscription-story-viewing-anonymously",
+      "score": 43,
+      "fetched_at": "2026-03-31",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -13734,6 +13761,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Nvidia rolls out DLSS 4.5 update with new frame generation features",
+      "url": "https://www.theverge.com/tech/903934/nvidia-dlss-4-5-multi-frame-generation-app-beta-launch",
+      "score": 55,
+      "file": "_posts/2026-03-31-nvidia-rolls-out-dlss-45-update-with-new-frame-generation-features.md",
+      "posted_at": "2026-03-31",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13884,8 +13922,8 @@
     },
     {
       "date": "2026-03-31",
-      "posts": 0,
-      "items_processed": 16182,
+      "posts": 1,
+      "items_processed": 17981,
       "estimated_tokens": 0
     }
   ]
