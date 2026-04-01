@@ -7,35 +7,6 @@
   },
   "pending": [
     {
-      "title": "Nvidia\u2019s DLSS 5 is like motion smoothing for video games, but worse",
-      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-      "score": 49,
-      "fetched_at": "2026-03-17",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia's agentic AI stack is the first major platform to ship with security at launch, but governance gaps remain",
-      "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework",
-      "score": 49,
-      "fetched_at": "2026-03-17",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic",
-        "regulation"
-      ],
-      "company": "nvidia",
-      "topic": "agentic"
-    },
-    {
       "title": "Nvidia has lost the plot with gamers",
       "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
       "score": 49,
@@ -447,19 +418,6 @@
       "topic": "coding"
     },
     {
-      "title": "The future of code is exciting and terrifying",
-      "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
-      "score": 43,
-      "fetched_at": "2026-03-17",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "ChatGPT did not cure a dog\u2019s cancer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
       "score": 43,
@@ -564,20 +522,6 @@
       ],
       "topics": [],
       "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "The Download: OpenAI\u2019s US military deal, and Grok\u2019s CSAM lawsuit",
-      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-      "score": 42,
-      "fetched_at": "2026-03-17",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -824,37 +768,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Nvidia lets its 'claws' out: NemoClaw brings security, scale to the agent platform taking over AI",
-      "url": "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent",
-      "score": 38,
-      "fetched_at": "2026-03-17",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "nvidia",
-      "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-03-17",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Nvidia says it can shrink LLM memory 20x without changing model weights",
@@ -1460,21 +1373,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "World launches tool to verify humans behind AI shopping agents",
-      "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-      "score": 32,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
@@ -3254,19 +3152,6 @@
       "topic": "robotics"
     },
     {
-      "title": "OpenAI expands government footprint with AWS deal, report says",
-      "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-      "score": 26,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Do you want to build a robot snowman?",
       "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
       "score": 26,
@@ -3685,58 +3570,6 @@
       ],
       "company": "google",
       "topic": "multimodal"
-    },
-    {
-      "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
-      "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
-      "url": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Justice Department Says Anthropic Can\u2019t Be Trusted With Warfighting Systems",
@@ -6796,16 +6629,16 @@
       "topic": ""
     },
     {
-      "title": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
-      "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
-      "score": 22,
-      "fetched_at": "2026-03-17",
-      "source": "VentureBeat",
+      "title": "Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "TechCrunch",
       "companies": [
-        "mistral"
+        "anthropic"
       ],
       "topics": [],
-      "company": "mistral",
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -7051,60 +6884,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
-      "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Sam Altman\u2019s thank-you to coders draws the memes",
@@ -10034,6 +9813,19 @@
       "topic": ""
     },
     {
+      "title": "Running local models on Macs gets faster with Ollama's MLX support",
+      "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10533,32 +10325,6 @@
       "topic": "reasoning"
     },
     {
-      "title": "Picsart now allows creators to \u2018hire\u2019 AI assistants through agent marketplace",
-      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-      "score": 14,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Dyson\u2019s New PencilWash Is Here",
-      "url": "https://www.wired.com/story/dyson-pencilwash-now-available/",
-      "score": 14,
-      "fetched_at": "2026-03-17",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
       "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
       "score": 14,
@@ -10923,19 +10689,6 @@
       "topic": ""
     },
     {
-      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-      "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-      "score": 12,
-      "fetched_at": "2026-03-17",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk\u2014Then Banned It",
       "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
       "score": 12,
@@ -10999,19 +10752,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Gecko Robotics lands the largest\u00a0U.S. Navy robotics deal yet",
-      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
-      "score": 11,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation",
@@ -14121,6 +13861,12 @@
       "date": "2026-03-31",
       "posts": 4,
       "items_processed": 32377,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-01",
+      "posts": 0,
+      "items_processed": 1800,
       "estimated_tokens": 0
     }
   ]

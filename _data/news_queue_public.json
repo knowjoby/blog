@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-03-31T23:39:24.975666+00:00",
-  "pending_count": 1012,
+  "updated_at_utc": "2026-04-01T03:23:16.870893+00:00",
+  "pending_count": 993,
   "pending": [
+    {
+      "title": "Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Running local models on Macs gets faster with Ollama's MLX support",
+      "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "You can now use ChatGPT with Apple’s CarPlay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
@@ -11183,250 +11205,6 @@
       "topics": [
         "open_source",
         "china"
-      ]
-    },
-    {
-      "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
-      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing",
-      "score": 49,
-      "fetched_at": "2026-03-17",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nvidia's agentic AI stack is the first major platform to ship with security at launch, but governance gaps remain",
-      "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework",
-      "score": 49,
-      "fetched_at": "2026-03-17",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic",
-        "regulation"
-      ]
-    },
-    {
-      "title": "The future of code is exciting and terrifying",
-      "url": "https://www.theverge.com/podcast/895910/claude-code-future-developers-vergecast",
-      "score": 43,
-      "fetched_at": "2026-03-17",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-      "score": 42,
-      "fetched_at": "2026-03-17",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nvidia lets its 'claws' out: NemoClaw brings security, scale to the agent platform taking over AI",
-      "url": "https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent",
-      "score": 38,
-      "fetched_at": "2026-03-17",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-03-17",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ]
-    },
-    {
-      "title": "World launches tool to verify humans behind AI shopping agents",
-      "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-      "score": 32,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI expands government footprint with AWS deal, report says",
-      "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-      "score": 26,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta Is Shutting Down Horizon Worlds on Meta Quest",
-      "url": "https://www.wired.com/story/meta-is-shutting-down-horizon-worlds-on-meta-quest/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Pentagon is developing alternatives to Anthropic, report says",
-      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-      "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
-      "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
-      "score": 24,
-      "fetched_at": "2026-03-17",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
-      "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
-      "score": 22,
-      "fetched_at": "2026-03-17",
-      "source": "VentureBeat",
-      "companies": [
-        "mistral"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
-      "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-      "score": 18,
-      "fetched_at": "2026-03-17",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Dyson’s New PencilWash Is Here",
-      "url": "https://www.wired.com/story/dyson-pencilwash-now-available/",
-      "score": 14,
-      "fetched_at": "2026-03-17",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-      "url": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-      "score": 14,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-      "url": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-      "score": 12,
-      "fetched_at": "2026-03-17",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Gecko Robotics lands the largest U.S. Navy robotics deal yet",
-      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
-      "score": 11,
-      "fetched_at": "2026-03-17",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
       ]
     }
   ]
