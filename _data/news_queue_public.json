@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T13:52:01.837537+00:00",
-  "pending_count": 1001,
+  "updated_at_utc": "2026-04-01T15:12:18.410418+00:00",
+  "pending_count": 1003,
   "pending": [
     {
       "title": "AI can push your Stream Deck buttons for you",
@@ -25,6 +25,17 @@
         "reasoning",
         "coding",
         "multimodal"
+      ]
+    },
+    {
+      "title": "April Fools’ Day 2026: the best and cringiest pranks",
+      "url": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
+      "score": 28,
+      "fetched_at": "2026-04-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -115,6 +126,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
+      "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
+      "score": 12,
+      "fetched_at": "2026-04-01",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
