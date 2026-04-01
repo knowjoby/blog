@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T10:34:42.371242+00:00",
-  "pending_count": 999,
+  "updated_at_utc": "2026-04-01T11:55:32.853348+00:00",
+  "pending_count": 1000,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -94,6 +94,17 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "score": 14,
+      "fetched_at": "2026-04-01",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "You can now use ChatGPT with Apple’s CarPlay",
