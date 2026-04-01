@@ -6671,6 +6671,19 @@
       "topic": ""
     },
     {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
       "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
       "score": 22,
@@ -13923,7 +13936,7 @@
     {
       "date": "2026-04-01",
       "posts": 0,
-      "items_processed": 5401,
+      "items_processed": 7203,
       "estimated_tokens": 0
     }
   ]
