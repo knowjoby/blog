@@ -241,6 +241,19 @@
       "topic": ""
     },
     {
+      "title": "AI can push your Stream Deck buttons for you",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "score": 49,
+      "fetched_at": "2026-04-01",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
       "score": 48,
@@ -13962,7 +13975,7 @@
     {
       "date": "2026-04-01",
       "posts": 0,
-      "items_processed": 12609,
+      "items_processed": 14411,
       "estimated_tokens": 0
     }
   ]
