@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T20:08:07.695840+00:00",
-  "pending_count": 1008,
+  "updated_at_utc": "2026-04-01T21:09:57.970258+00:00",
+  "pending_count": 1010,
   "pending": [
     {
       "title": "AI can push your Stream Deck buttons for you",
@@ -36,6 +36,19 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+      "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+      "score": 28,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -79,6 +92,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+      "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },

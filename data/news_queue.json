@@ -3179,6 +3179,21 @@
       "topic": "ai"
     },
     {
+      "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+      "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+      "score": 28,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
       "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
       "score": 27,
@@ -6720,6 +6735,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+      "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -13909,6 +13937,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Startup funding shatters all records in Q1",
+      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+      "score": 60,
+      "file": "_posts/2026-04-01-startup-funding-shatters-all-records-in-q1.md",
+      "posted_at": "2026-04-01",
+      "companies": [
+        "openai",
+        "anthropic",
+        "xai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14065,8 +14106,8 @@
     },
     {
       "date": "2026-04-01",
-      "posts": 0,
-      "items_processed": 23424,
+      "posts": 1,
+      "items_processed": 25227,
       "estimated_tokens": 0
     }
   ]
