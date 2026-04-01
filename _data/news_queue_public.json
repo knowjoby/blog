@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T19:12:08.674541+00:00",
-  "pending_count": 1007,
+  "updated_at_utc": "2026-04-01T20:08:07.695840+00:00",
+  "pending_count": 1008,
   "pending": [
     {
       "title": "AI can push your Stream Deck buttons for you",
@@ -138,6 +138,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Musk loves Grok’s “roasts.” Swiss official sues in attempt to neuter them.",
+      "url": "https://arstechnica.com/tech-policy/2026/04/grok-degrades-women-with-vulgar-roasts-swiss-govt-officials-lawsuit-says/",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
     },
     {
       "title": "Running local models on Macs gets faster with Ollama's MLX support",
