@@ -890,6 +890,22 @@
       "topic": "regulation"
     },
     {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 38,
+      "fetched_at": "2026-04-01",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning",
+        "coding",
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "TikTok\u2019s policy for AI ads isn\u2019t working",
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "score": 37,
@@ -6642,6 +6658,19 @@
       "topic": ""
     },
     {
+      "title": "Meta's new structured prompting technique makes LLMs significantly better at code review \u2014 boosting accuracy to 93% in some cases",
+      "url": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
       "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
       "score": 22,
@@ -9824,6 +9853,34 @@
       "topics": [],
       "company": "apple",
       "topic": ""
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "huggingface",
+      "topic": "open_source"
     },
     {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
@@ -13866,7 +13923,7 @@
     {
       "date": "2026-04-01",
       "posts": 0,
-      "items_processed": 1800,
+      "items_processed": 3600,
       "estimated_tokens": 0
     }
   ]
