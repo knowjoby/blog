@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T16:32:14.616191+00:00",
-  "pending_count": 1003,
+  "updated_at_utc": "2026-04-01T17:54:03.691305+00:00",
+  "pending_count": 1004,
   "pending": [
     {
       "title": "AI can push your Stream Deck buttons for you",
@@ -79,6 +79,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "WhatsApp notifies hundreds of users who installed a fake app made by government spyware maker",
+      "url": "https://techcrunch.com/2026/04/01/whatsapp-notifies-hundreds-of-users-who-installed-a-fake-app-that-was-actually-government-spyware/",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
