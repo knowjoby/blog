@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T23:07:11.046679+00:00",
-  "pending_count": 1011,
+  "updated_at_utc": "2026-04-01T23:58:33.369007+00:00",
+  "pending_count": 1012,
   "pending": [
     {
       "title": "AI can push your Stream Deck buttons for you",
@@ -12,6 +12,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Trump’s birthright citizenship ban may fail — but the administration already got too far",
+      "url": "https://www.theverge.com/policy/905649/trump-supreme-court-birthright-citizenship-scotus-arguments",
+      "score": 39,
+      "fetched_at": "2026-04-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Introducing GPT-5.4 mini and nano",
