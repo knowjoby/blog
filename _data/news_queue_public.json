@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-01T09:15:06.737466+00:00",
-  "pending_count": 998,
+  "updated_at_utc": "2026-04-01T10:34:42.371242+00:00",
+  "pending_count": 999,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -44,6 +44,17 @@
       "score": 24,
       "fetched_at": "2026-04-01",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "I Asked ChatGPT What WIRED’s Reviewers Recommend—Its Answers Were All Wrong",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
