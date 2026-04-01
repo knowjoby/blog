@@ -6710,6 +6710,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "score": 24,
+      "fetched_at": "2026-04-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
       "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
       "score": 22,
@@ -9948,6 +9961,19 @@
       "topic": ""
     },
     {
+      "title": "\u2018Thank You for Generating With Us!\u2019 Hollywood's AI Acolytes Stay on the Hype Train",
+      "url": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+      "score": 18,
+      "fetched_at": "2026-04-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10822,6 +10848,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Trump defunding of NPR and PBS blocked by judge, but damage is already done",
+      "url": "https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/",
+      "score": 14,
+      "fetched_at": "2026-04-01",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk\u2014Then Banned It",
@@ -14014,7 +14053,7 @@
     {
       "date": "2026-04-01",
       "posts": 0,
-      "items_processed": 19818,
+      "items_processed": 21621,
       "estimated_tokens": 0
     }
   ]
