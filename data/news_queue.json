@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Nvidia has lost the plot with gamers",
-      "url": "https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames",
-      "score": 49,
-      "fetched_at": "2026-03-18",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "DLSS 5: Has Nvidia\u2019s AI graphics technology gone too far?",
-      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
-      "score": 49,
-      "fetched_at": "2026-03-18",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Fitbit\u2019s AI health coach will soon be able to read your medical records",
       "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
       "score": 49,
@@ -431,19 +405,6 @@
       "topic": "coding"
     },
     {
-      "title": "ChatGPT did not cure a dog\u2019s cancer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
-      "score": 43,
-      "fetched_at": "2026-03-18",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Lina Khan was right",
       "url": "https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust",
       "score": 43,
@@ -794,21 +755,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Nvidia says it can shrink LLM memory 20x without changing model weights",
-      "url": "https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights",
-      "score": 38,
-      "fetched_at": "2026-03-18",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "nvidia",
-      "topic": "coding"
     },
     {
       "title": "Anthropic\u2019s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
@@ -1339,19 +1285,6 @@
       "topic": ""
     },
     {
-      "title": "My favorite robot vacuum now supports Matter",
-      "url": "https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter",
-      "score": 33,
-      "fetched_at": "2026-03-18",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Dreame\u2019s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
       "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
       "score": 33,
@@ -1415,21 +1348,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
-      "url": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly",
-      "score": 32,
-      "fetched_at": "2026-03-18",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
     },
     {
       "title": "Meta is having trouble with rogue AI agents",
@@ -1996,19 +1914,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "score": 30,
-      "fetched_at": "2026-03-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Meta Will Keep Horizon Worlds Alive in VR \u2018for the Foreseeable Future\u2019",
@@ -3640,71 +3545,6 @@
       ],
       "company": "google",
       "topic": "multimodal"
-    },
-    {
-      "title": "Justice Department Says Anthropic Can\u2019t Be Trusted With Warfighting Systems",
-      "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-      "score": 24,
-      "fetched_at": "2026-03-18",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "DOD says Anthropic\u2019s \u2018red lines\u2019 make it an \u2018unacceptable risk to national security\u2019",
-      "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-      "score": 24,
-      "fetched_at": "2026-03-18",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "The Gemini-powered features in Google Workspace that are worth using",
-      "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-      "score": 24,
-      "fetched_at": "2026-03-18",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-      "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-      "score": 24,
-      "fetched_at": "2026-03-18",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Musk\u2019s tactic of blaming users for Grok sex images may be foiled by EU law",
-      "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
-      "score": 24,
-      "fetched_at": "2026-03-18",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
@@ -6913,6 +6753,21 @@
       "topic": "agentic"
     },
     {
+      "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
+      "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
+      "score": 22,
+      "fetched_at": "2026-04-02",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
+    },
+    {
       "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
       "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
       "score": 20,
@@ -7019,19 +6874,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Sam Altman\u2019s thank-you to coders draws the memes",
-      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-      "score": 18,
-      "fetched_at": "2026-03-18",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "The Fight to Hold AI Companies Accountable for Children\u2019s Deaths",
@@ -10078,20 +9920,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "New MiniMax M2.7 proprietary AI model is 'self-evolving' and can perform 30-50% of reinforcement learning research workflow",
-      "url": "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50",
-      "score": 16,
-      "fetched_at": "2026-03-18",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "open_source",
-        "china"
-      ],
-      "company": "",
-      "topic": "open_source"
     },
     {
       "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
@@ -14134,6 +13962,12 @@
       "date": "2026-04-01",
       "posts": 1,
       "items_processed": 30636,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-02",
+      "posts": 0,
+      "items_processed": 1803,
       "estimated_tokens": 0
     }
   ]
