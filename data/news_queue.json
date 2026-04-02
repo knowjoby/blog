@@ -2936,6 +2936,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "score": 30,
+      "fetched_at": "2026-04-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Acquires Tech Talk Show TBPN\u2014and Buys Itself Some Positive News",
+      "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+      "score": 30,
+      "fetched_at": "2026-04-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -9987,6 +10013,19 @@
       "topic": ""
     },
     {
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "score": 18,
+      "fetched_at": "2026-04-02",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10470,6 +10509,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "Google releases Gemma 4 under Apache 2.0 \u2014 and that license change may matter more than benchmarks",
+      "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
+      "score": 16,
+      "fetched_at": "2026-04-02",
+      "source": "VentureBeat",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
     },
     {
       "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
@@ -14110,7 +14162,7 @@
     {
       "date": "2026-04-02",
       "posts": 2,
-      "items_processed": 23446,
+      "items_processed": 25252,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-02T19:04:43.078216+00:00",
-  "pending_count": 1008,
+  "updated_at_utc": "2026-04-02T20:03:22.365565+00:00",
+  "pending_count": 1012,
   "pending": [
     {
       "title": "A jury says Meta and Google hurt a kid. What now?",
@@ -25,11 +25,33 @@
       "topics": []
     },
     {
+      "title": "OpenAI Acquires Tech Talk Show TBPN—and Buys Itself Some Positive News",
+      "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+      "score": 30,
+      "fetched_at": "2026-04-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
       "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
       "score": 30,
       "fetched_at": "2026-04-02",
       "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "score": 30,
+      "fetched_at": "2026-04-02",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -100,6 +122,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "score": 18,
+      "fetched_at": "2026-04-02",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks",
+      "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
+      "score": 16,
+      "fetched_at": "2026-04-02",
+      "source": "VentureBeat",
+      "companies": [
+        "mistral"
       ],
       "topics": []
     },
