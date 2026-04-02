@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-02T13:40:45.699087+00:00",
-  "pending_count": 1001,
+  "updated_at_utc": "2026-04-02T15:03:36.997010+00:00",
+  "pending_count": 1002,
   "pending": [
+    {
+      "title": "A jury says Meta and Google hurt a kid. What now?",
+      "url": "https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230",
+      "score": 49,
+      "fetched_at": "2026-04-02",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
       "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
