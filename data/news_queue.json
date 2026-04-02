@@ -6643,6 +6643,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+      "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
       "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
       "score": 22,
@@ -11317,6 +11330,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-04-02",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -14017,7 +14043,7 @@
     {
       "date": "2026-04-02",
       "posts": 1,
-      "items_processed": 18030,
+      "items_processed": 19834,
       "estimated_tokens": 0
     }
   ]

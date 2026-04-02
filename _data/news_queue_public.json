@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-02T15:03:36.997010+00:00",
-  "pending_count": 1002,
+  "updated_at_utc": "2026-04-02T16:31:18.341678+00:00",
+  "pending_count": 1004,
   "pending": [
     {
       "title": "A jury says Meta and Google hurt a kid. What now?",
@@ -36,6 +36,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+      "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
       "score": 22,
@@ -46,6 +57,17 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-04-02",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
       ]
     },
     {
