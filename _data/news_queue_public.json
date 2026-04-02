@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-02T20:03:22.365565+00:00",
-  "pending_count": 1012,
+  "updated_at_utc": "2026-04-02T21:03:44.327840+00:00",
+  "pending_count": 1014,
   "pending": [
     {
       "title": "A jury says Meta and Google hurt a kid. What now?",
@@ -76,6 +76,28 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
+      "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },

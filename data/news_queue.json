@@ -6708,6 +6708,32 @@
       "topic": ""
     },
     {
+      "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
+      "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
       "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
       "score": 22,
@@ -14162,7 +14188,7 @@
     {
       "date": "2026-04-02",
       "posts": 2,
-      "items_processed": 25252,
+      "items_processed": 27058,
       "estimated_tokens": 0
     }
   ]
