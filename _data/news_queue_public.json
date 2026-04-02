@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-02T11:53:00.622062+00:00",
-  "pending_count": 1000,
+  "updated_at_utc": "2026-04-02T13:40:45.699087+00:00",
+  "pending_count": 1001,
   "pending": [
+    {
+      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
+      "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
+      "score": 30,
+      "fetched_at": "2026-04-02",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
