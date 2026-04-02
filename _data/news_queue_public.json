@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-02T16:31:18.341678+00:00",
-  "pending_count": 1004,
+  "updated_at_utc": "2026-04-02T17:53:47.213893+00:00",
+  "pending_count": 1008,
   "pending": [
     {
       "title": "A jury says Meta and Google hurt a kid. What now?",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI just bought TBPN",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+      "score": 49,
+      "fetched_at": "2026-04-02",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -47,6 +58,17 @@
       "topics": []
     },
     {
+      "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
+      "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+      "score": 24,
+      "fetched_at": "2026-04-02",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
       "score": 22,
@@ -58,6 +80,28 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
+      "score": 20,
+      "fetched_at": "2026-04-02",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-04-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",

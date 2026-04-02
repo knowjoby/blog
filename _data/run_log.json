@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-03-31 01:36:13 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1798,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-03-31 02:39:51 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1154,5 +1132,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-02 23:23:47 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1806,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+        "file": "_posts/2026-04-02-cursor-launches-a-new-ai-agent-experience-to-take-on-claude-code-and-c.md",
+        "score": 58,
+        "tags": [
+          "openai",
+          "anthropic",
+          "agentic",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
