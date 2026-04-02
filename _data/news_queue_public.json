@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-02T03:20:18.328794+00:00",
-  "pending_count": 999,
+  "updated_at_utc": "2026-04-02T05:21:02.945610+00:00",
+  "pending_count": 1000,
   "pending": [
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "score": 30,
+      "fetched_at": "2026-04-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
