@@ -3092,6 +3092,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Chatbots are now prescribing psychiatric drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
+      "score": 28,
+      "fetched_at": "2026-04-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
       "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
       "score": 27,
@@ -13991,7 +14004,7 @@
     {
       "date": "2026-04-03",
       "posts": 0,
-      "items_processed": 16254,
+      "items_processed": 18060,
       "estimated_tokens": 0
     }
   ]
