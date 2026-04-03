@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-03T13:16:57.545152+00:00",
-  "pending_count": 1000,
+  "updated_at_utc": "2026-04-03T14:23:37.364423+00:00",
+  "pending_count": 1001,
   "pending": [
     {
       "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
@@ -51,6 +51,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
+      "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
+      "score": 24,
+      "fetched_at": "2026-04-03",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "A jury says Meta and Google hurt a kid. What now?",
