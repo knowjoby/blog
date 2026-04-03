@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-04-03T00:00:14.055468+00:00",
-  "pending_count": 997,
+  "updated_at_utc": "2026-04-03T03:23:43.063847+00:00",
+  "pending_count": 999,
   "pending": [
+    {
+      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
+      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+      "score": 44,
+      "fetched_at": "2026-04-03",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
     {
       "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
       "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
@@ -13,6 +27,19 @@
         "perplexity"
       ],
       "topics": []
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-04-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "A jury says Meta and Google hurt a kid. What now?",

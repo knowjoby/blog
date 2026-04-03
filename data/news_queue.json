@@ -404,6 +404,22 @@
       "topic": "coding"
     },
     {
+      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
+      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+      "score": 44,
+      "fetched_at": "2026-04-03",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "openai",
+      "topic": "open_source"
+    },
+    {
       "title": "Google Search is now using AI to replace headlines",
       "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
       "score": 43,
@@ -2890,6 +2906,21 @@
         "coding"
       ],
       "company": "microsoft",
+      "topic": "coding"
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-04-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
       "topic": "coding"
     },
     {
@@ -13960,7 +13991,7 @@
     {
       "date": "2026-04-03",
       "posts": 0,
-      "items_processed": 1806,
+      "items_processed": 3612,
       "estimated_tokens": 0
     }
   ]
