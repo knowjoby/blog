@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-04-01 04:10:16 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1800,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Claude Code leak exposes a Tamagotchi-style ‘pet’ and an always-on agent",
-        "file": "_posts/2026-03-31-claude-code-leak-exposes-a-tamagotchi-style-pet-and-an-always-on-agent.md",
-        "score": 53,
-        "tags": [
-          "anthropic",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-01 05:09:24 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1137,6 +1105,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-03 23:32:49 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1806,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
