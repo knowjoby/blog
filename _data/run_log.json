@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-03-31 19:38:59 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1799,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia rolls out DLSS 4.5 update with new frame generation features",
-        "file": "_posts/2026-03-31-nvidia-rolls-out-dlss-45-update-with-new-frame-generation-features.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-03-31 21:17:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1147,6 +1116,28 @@
   },
   {
     "ran_at": "2026-04-03 15:00:44 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1806,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-03 16:20:59 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
