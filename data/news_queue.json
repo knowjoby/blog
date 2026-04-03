@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Fitbit\u2019s AI health coach will soon be able to read your medical records",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
-      "score": 49,
-      "fetched_at": "2026-03-19",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "The gen AI Kool-Aid tastes like eugenics",
       "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
       "score": 49,
@@ -254,20 +241,6 @@
       "topic": ""
     },
     {
-      "title": "\u2018Uncanny Valley\u2019: Nvidia\u2019s \u2018Super Bowl of AI,\u2019 Tesla Disappoints, and Meta\u2019s VR Metaverse \u2018Shutdown\u2019",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/",
-      "score": 48,
-      "fetched_at": "2026-03-19",
-      "source": "Wired",
-      "companies": [
-        "meta",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
       "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
       "score": 48,
@@ -431,35 +404,6 @@
       "topic": "coding"
     },
     {
-      "title": "Lina Khan was right",
-      "url": "https://www.theverge.com/report/896820/lina-khan-ftc-meta-supernatural-antitrust",
-      "score": 43,
-      "fetched_at": "2026-03-19",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Cursor\u2019s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
-      "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but",
-      "score": 43,
-      "fetched_at": "2026-03-19",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
       "title": "Google Search is now using AI to replace headlines",
       "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
       "score": 43,
@@ -522,20 +466,6 @@
       ],
       "topics": [],
       "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
-      "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance",
-      "score": 42,
-      "fetched_at": "2026-03-19",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -1311,6 +1241,20 @@
       "topic": ""
     },
     {
+      "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+      "score": 34,
+      "fetched_at": "2026-04-03",
+      "source": "Ars Technica",
+      "companies": [
+        "meta",
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Dreame\u2019s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
       "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
       "score": 33,
@@ -1374,51 +1318,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Meta is having trouble with rogue AI agents",
-      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "score": 32,
-      "fetched_at": "2026-03-19",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "meta",
-      "topic": "agentic"
-    },
-    {
-      "title": "Meta's rogue AI agent passed every identity check \u2014 four gaps in enterprise IAM explain why",
-      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
-      "score": 32,
-      "fetched_at": "2026-03-19",
-      "source": "VentureBeat",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "meta",
-      "topic": "agentic"
-    },
-    {
-      "title": "OpenAI is acquiring open source Python tool-maker Astral",
-      "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
-      "score": 32,
-      "fetched_at": "2026-03-19",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
     },
     {
       "title": "OpenAI is throwing everything into building a fully automated researcher",
@@ -1940,19 +1839,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Meta Will Keep Horizon Worlds Alive in VR \u2018for the Foreseeable Future\u2019",
-      "url": "https://www.wired.com/story/meta-will-keep-horizon-worlds-alive-in-vr-for-the-foreseeable-future/",
-      "score": 30,
-      "fetched_at": "2026-03-19",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "The Rise of the Ray-Ban Meta Creep",
@@ -2962,21 +2848,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-03-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3623,58 +3494,6 @@
       ],
       "company": "google",
       "topic": "multimodal"
-    },
-    {
-      "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
-      "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/",
-      "score": 24,
-      "fetched_at": "2026-03-19",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta decides not to shut down Horizon Worlds on VR after all",
-      "url": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
-      "score": 24,
-      "fetched_at": "2026-03-19",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-      "score": 24,
-      "fetched_at": "2026-03-19",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "At the last minute, Meta decides not to kill Horizon Worlds VR after all",
-      "url": "https://arstechnica.com/gadgets/2026/03/at-the-last-minute-meta-decides-not-to-kill-horizon-worlds-vr-after-all/",
-      "score": 24,
-      "fetched_at": "2026-03-19",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "The Danger Behind Meta\u2019s Decision to Kill End-to-End Encrypted Instagram DMs",
@@ -7019,32 +6838,6 @@
       "topic": "agentic"
     },
     {
-      "title": "The Fight to Hold AI Companies Accountable for Children\u2019s Deaths",
-      "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/",
-      "score": 18,
-      "fetched_at": "2026-03-19",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT\u2019s \u2018Adult Mode\u2019 Could Spark a New Era of Intimate Surveillance",
-      "url": "https://www.wired.com/story/chatgpt-adult-mode-new-era-of-intimate-surveillance/",
-      "score": 18,
-      "fetched_at": "2026-03-19",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
       "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
       "score": 18,
@@ -10091,20 +9884,6 @@
       "topic": "coding"
     },
     {
-      "title": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze",
-      "url": "https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/",
-      "score": 16,
-      "fetched_at": "2026-03-19",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
       "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
       "score": 16,
@@ -10548,19 +10327,6 @@
       "topics": [],
       "company": "mistral",
       "topic": ""
-    },
-    {
-      "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
-      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
-      "score": 14,
-      "fetched_at": "2026-03-19",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
@@ -14189,6 +13955,12 @@
       "date": "2026-04-02",
       "posts": 2,
       "items_processed": 30670,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-03",
+      "posts": 0,
+      "items_processed": 1806,
       "estimated_tokens": 0
     }
   ]
