@@ -6675,6 +6675,32 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
+      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+      "score": 24,
+      "fetched_at": "2026-04-03",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+      "score": 24,
+      "fetched_at": "2026-04-03",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
       "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
       "score": 22,
@@ -14108,7 +14134,7 @@
     {
       "date": "2026-04-03",
       "posts": 0,
-      "items_processed": 32508,
+      "items_processed": 34314,
       "estimated_tokens": 0
     }
   ]
