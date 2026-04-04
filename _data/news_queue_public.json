@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-04T02:42:15.330863+00:00",
-  "pending_count": 1000,
+  "updated_at_utc": "2026-04-04T04:56:25.964084+00:00",
+  "pending_count": 1001,
   "pending": [
     {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -22,6 +22,19 @@
       "source": "VentureBeat",
       "companies": [
         "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
+      "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
+      "score": 32,
+      "fetched_at": "2026-04-04",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": [
         "agentic"
