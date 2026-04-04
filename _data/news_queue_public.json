@@ -1,7 +1,43 @@
 {
-  "updated_at_utc": "2026-04-03T23:40:09.168174+00:00",
-  "pending_count": 1010,
+  "updated_at_utc": "2026-04-04T02:42:15.330863+00:00",
+  "pending_count": 1000,
   "pending": [
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "score": 42,
+      "fetched_at": "2026-04-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
+      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
+      "score": 38,
+      "fetched_at": "2026-04-04",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
+      "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
+      "score": 18,
+      "fetched_at": "2026-04-04",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI’s AGI boss is taking a leave of absence",
       "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
@@ -11232,162 +11268,6 @@
       "companies": [],
       "topics": [
         "regulation"
-      ]
-    },
-    {
-      "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
-      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
-      "score": 46,
-      "fetched_at": "2026-03-20",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic",
-        "open_source"
-      ]
-    },
-    {
-      "title": "Google Search is now using AI to replace headlines",
-      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "score": 43,
-      "fetched_at": "2026-03-20",
-      "source": "The Verge",
-      "companies": [
-        "amazon"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Trump takes another shot at dismantling state AI regulation",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-      "score": 42,
-      "fetched_at": "2026-03-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "score": 32,
-      "fetched_at": "2026-03-20",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "score": 32,
-      "fetched_at": "2026-03-20",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-      "score": 32,
-      "fetched_at": "2026-03-20",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "score": 32,
-      "fetched_at": "2026-03-20",
-      "source": "TechCrunch",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Microsoft keeps insisting that it's deeply committed to the quality of Windows 11",
-      "url": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/",
-      "score": 32,
-      "fetched_at": "2026-03-20",
-      "source": "Ars Technica",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Why people really hate AI",
-      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
-      "score": 31,
-      "fetched_at": "2026-03-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "title": "The Danger Behind Meta’s Decision to Kill End-to-End Encrypted Instagram DMs",
-      "url": "https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/",
-      "score": 24,
-      "fetched_at": "2026-03-20",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It Either",
-      "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
-      "score": 24,
-      "fetched_at": "2026-03-20",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "LinkedIn Invited My AI 'Cofounder' to Give a Corporate Talk—Then Banned It",
-      "url": "https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/",
-      "score": 12,
-      "fetched_at": "2026-03-20",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Nemotron 3 Content Safety 4B: Multimodal, Multilingual Content Moderation",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-content-safety",
-      "score": 11,
-      "fetched_at": "2026-03-20",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
       ]
     }
   ]
