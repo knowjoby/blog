@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-04-02 02:39:57 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1803,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Startup funding shatters all records in Q1",
-        "file": "_posts/2026-04-01-startup-funding-shatters-all-records-in-q1.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "anthropic",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-02 03:34:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1136,6 +1103,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-04 17:04:49 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1806,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
