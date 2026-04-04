@@ -1771,6 +1771,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "score": 32,
+      "fetched_at": "2026-04-04",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
+    },
+    {
       "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
       "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
       "score": 31,
@@ -14052,7 +14067,7 @@
     {
       "date": "2026-04-04",
       "posts": 1,
-      "items_processed": 23478,
+      "items_processed": 25284,
       "estimated_tokens": 0
     }
   ]

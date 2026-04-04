@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-04T15:55:43.233667+00:00",
-  "pending_count": 1003,
+  "updated_at_utc": "2026-04-04T16:45:09.741382+00:00",
+  "pending_count": 1004,
   "pending": [
     {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -38,6 +38,19 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "score": 32,
+      "fetched_at": "2026-04-04",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
