@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-04T09:46:05.540742+00:00",
-  "pending_count": 1001,
+  "updated_at_utc": "2026-04-04T10:40:08.571752+00:00",
+  "pending_count": 1002,
   "pending": [
     {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -48,6 +48,17 @@
       "source": "VentureBeat",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "score": 14,
+      "fetched_at": "2026-04-04",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

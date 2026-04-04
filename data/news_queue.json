@@ -10781,6 +10781,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+      "score": 14,
+      "fetched_at": "2026-04-04",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
       "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
       "score": 12,
@@ -14026,7 +14039,7 @@
     {
       "date": "2026-04-04",
       "posts": 1,
-      "items_processed": 12642,
+      "items_processed": 14448,
       "estimated_tokens": 0
     }
   ]
