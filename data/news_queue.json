@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "The gen AI Kool-Aid tastes like eugenics",
-      "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
-      "score": 49,
-      "fetched_at": "2026-03-21",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
       "score": 49,
@@ -415,19 +402,6 @@
       ],
       "company": "openai",
       "topic": "open_source"
-    },
-    {
-      "title": "Gemini task automation is slow, clunky, and super impressive",
-      "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "score": 43,
-      "fetched_at": "2026-03-21",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Razer\u2019s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
@@ -1269,19 +1243,6 @@
       "topics": [],
       "company": "meta",
       "topic": ""
-    },
-    {
-      "title": "Dreame\u2019s self-cleaning L10s Pro Ultra is nearly $1,000 off its original list price",
-      "url": "https://www.theverge.com/gadgets/898287/dreame-l10s-pro-ultra-robot-vacuum-mop-amazon-big-spring-sale-2026-deal",
-      "score": 33,
-      "fetched_at": "2026-03-21",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon\u2019s spring sale",
@@ -3506,45 +3467,6 @@
       ],
       "company": "google",
       "topic": "multimodal"
-    },
-    {
-      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
-      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-      "score": 24,
-      "fetched_at": "2026-03-21",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
-      "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-      "score": 24,
-      "fetched_at": "2026-03-21",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
-      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-      "score": 24,
-      "fetched_at": "2026-03-21",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
@@ -10419,19 +10341,6 @@
       "topic": ""
     },
     {
-      "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
-      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "score": 14,
-      "fetched_at": "2026-03-21",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
       "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
       "score": 14,
@@ -14068,6 +13977,12 @@
       "date": "2026-04-04",
       "posts": 1,
       "items_processed": 37926,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-05",
+      "posts": 0,
+      "items_processed": 1806,
       "estimated_tokens": 0
     }
   ]
