@@ -1760,6 +1760,21 @@
       "topic": "coding"
     },
     {
+      "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of service",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "score": 32,
+      "fetched_at": "2026-04-05",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
+    },
+    {
       "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
       "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
       "score": 31,
@@ -13814,6 +13829,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Claude, OpenClaw and the new reality: AI agents are here \u2014 and so is the chaos",
+      "url": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+      "score": 50,
+      "file": "_posts/2026-04-05-claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-c.md",
+      "posted_at": "2026-04-05",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -13994,8 +14023,8 @@
     },
     {
       "date": "2026-04-05",
-      "posts": 0,
-      "items_processed": 27090,
+      "posts": 1,
+      "items_processed": 28896,
       "estimated_tokens": 0
     }
   ]
