@@ -241,6 +241,19 @@
       "topic": ""
     },
     {
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "score": 49,
+      "fetched_at": "2026-04-05",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
       "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
       "score": 48,
@@ -13982,7 +13995,7 @@
     {
       "date": "2026-04-05",
       "posts": 0,
-      "items_processed": 18060,
+      "items_processed": 19866,
       "estimated_tokens": 0
     }
   ]
