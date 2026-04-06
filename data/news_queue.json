@@ -662,19 +662,6 @@
       "topic": ""
     },
     {
-      "title": "Musk says he\u2019s building Terafab chip plant in Austin, Texas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
-      "score": 39,
-      "fetched_at": "2026-03-22",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "EU backs nude app ban and delays to landmark AI rules",
       "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
       "score": 39,
@@ -1773,19 +1760,6 @@
       ],
       "company": "microsoft",
       "topic": "coding"
-    },
-    {
-      "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
-      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-      "score": 31,
-      "fetched_at": "2026-03-22",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Really, you made this without AI? Prove it",
@@ -3074,21 +3048,6 @@
         "robotics"
       ],
       "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "Do you want to build a robot snowman?",
-      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "score": 26,
-      "fetched_at": "2026-03-22",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "nvidia",
       "topic": "robotics"
     },
     {
@@ -10824,19 +10783,6 @@
       "topic": "ai"
     },
     {
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
-      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "score": 11,
-      "fetched_at": "2026-03-22",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
       "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
       "score": 11,
@@ -14025,6 +13971,12 @@
       "date": "2026-04-05",
       "posts": 1,
       "items_processed": 37926,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-06",
+      "posts": 0,
+      "items_processed": 1806,
       "estimated_tokens": 0
     }
   ]
