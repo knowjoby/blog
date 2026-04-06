@@ -837,6 +837,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "score": 38,
+      "fetched_at": "2026-04-06",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "openai",
+      "topic": "robotics"
+    },
+    {
       "title": "TikTok\u2019s policy for AI ads isn\u2019t working",
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "score": 37,
@@ -9883,6 +9898,19 @@
       "topic": ""
     },
     {
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "score": 18,
+      "fetched_at": "2026-04-06",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14015,7 +14043,7 @@
     {
       "date": "2026-04-06",
       "posts": 0,
-      "items_processed": 18065,
+      "items_processed": 19872,
       "estimated_tokens": 0
     }
   ]
