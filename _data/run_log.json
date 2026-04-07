@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-05 04:06:31 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1806,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-05 05:07:17 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1109,5 +1087,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-07 22:04:34 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1809,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Intel will help build Elon Musk’s Terafab AI chip factory",
+        "file": "_posts/2026-04-07-intel-will-help-build-elon-musks-terafab-ai-chip-factory.md",
+        "score": 67,
+        "tags": [
+          "xai",
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]

@@ -6536,6 +6536,32 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u00a0ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google Maps can now write captions for your photos using AI",
+      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases a new open-source model for speech generation",
       "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
       "score": 22,
@@ -13772,6 +13798,18 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Intel will help build Elon Musk\u2019s Terafab AI chip factory",
+      "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
+      "score": 67,
+      "file": "_posts/2026-04-07-intel-will-help-build-elon-musks-terafab-ai-chip-factory.md",
+      "posted_at": "2026-04-07",
+      "companies": [
+        "xai",
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13964,8 +14002,8 @@
     },
     {
       "date": "2026-04-07",
-      "posts": 0,
-      "items_processed": 18090,
+      "posts": 1,
+      "items_processed": 19899,
       "estimated_tokens": 0
     }
   ]

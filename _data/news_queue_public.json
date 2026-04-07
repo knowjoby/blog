@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-07T15:15:54.368581+00:00",
-  "pending_count": 994,
+  "updated_at_utc": "2026-04-07T16:34:34.415109+00:00",
+  "pending_count": 996,
   "pending": [
     {
       "title": "Gemini is making it faster for distressed users to reach mental health resources",
@@ -10,6 +10,28 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Maps can now write captions for your photos using AI",
+      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
