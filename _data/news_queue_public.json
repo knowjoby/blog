@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-07T00:00:45.160234+00:00",
-  "pending_count": 991,
+  "updated_at_utc": "2026-04-07T03:38:23.425113+00:00",
+  "pending_count": 992,
   "pending": [
+    {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-04-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
       "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
