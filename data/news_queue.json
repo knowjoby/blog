@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-      "score": 49,
-      "fetched_at": "2026-03-23",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Anthropic\u2019s Claude Code and Cowork can control your computer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
       "score": 49,
@@ -265,22 +252,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Luma AI launches Uni-1, a model that outscores Google and OpenAI while costing up to 30 percent less",
-      "url": "https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while",
-      "score": 48,
-      "fetched_at": "2026-03-23",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "midjourney"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "multimodal"
     },
     {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
@@ -537,21 +508,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Nvidia's Nemotron-Cascade 2 wins math and coding gold medals with 3B active parameters \u2014 and its post-training recipe is now open-source",
-      "url": "https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active",
-      "score": 41,
-      "fetched_at": "2026-03-23",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "nvidia",
-      "topic": "coding"
     },
     {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
@@ -1801,19 +1757,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The Rise of the Ray-Ban Meta Creep",
-      "url": "https://www.wired.com/story/the-rise-of-the-ray-ban-meta-creep/",
-      "score": 30,
-      "fetched_at": "2026-03-23",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Update on the OpenAI Foundation",
@@ -3495,32 +3438,6 @@
       ],
       "company": "google",
       "topic": "multimodal"
-    },
-    {
-      "title": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
-      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-      "score": 24,
-      "fetched_at": "2026-03-23",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
-      "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
-      "score": 24,
-      "fetched_at": "2026-03-23",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
@@ -6606,20 +6523,6 @@
       "topic": ""
     },
     {
-      "title": "Cursor's Composer 2 was secretly built on a Chinese AI model \u2014 and it exposes a deeper problem with Western open-source AI",
-      "url": "https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a",
-      "score": 22,
-      "fetched_at": "2026-03-23",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding",
-        "china"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Mistral releases a new open-source model for speech generation",
       "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
       "score": 22,
@@ -6770,19 +6673,6 @@
       "topic": "coding"
     },
     {
-      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
-      "score": 20,
-      "fetched_at": "2026-03-23",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
       "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
       "score": 20,
@@ -6889,45 +6779,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-      "score": 18,
-      "fetched_at": "2026-03-23",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "score": 18,
-      "fetched_at": "2026-03-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
-      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-      "score": 18,
-      "fetched_at": "2026-03-23",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Claude Code can now take over your computer to complete tasks",
@@ -10889,32 +10740,6 @@
       "topic": "ai"
     },
     {
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-      "score": 11,
-      "fetched_at": "2026-03-23",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "Show us your agents: VB Transform 2026 is looking for the most innovative agentic AI technologies",
-      "url": "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026",
-      "score": 11,
-      "fetched_at": "2026-03-23",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
       "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
       "score": 11,
@@ -11316,6 +11141,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+      "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+      "score": 11,
+      "fetched_at": "2026-04-07",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Deep double descent",
@@ -14083,6 +13921,12 @@
       "date": "2026-04-06",
       "posts": 0,
       "items_processed": 30723,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-07",
+      "posts": 0,
+      "items_processed": 1809,
       "estimated_tokens": 0
     }
   ]
