@@ -2792,6 +2792,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly \u2014 so it built Project Glasswing",
+      "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
+      "score": 30,
+      "fetched_at": "2026-04-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3451,6 +3464,22 @@
       ],
       "company": "google",
       "topic": "multimodal"
+    },
+    {
+      "title": "AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT 5.4 on SWE-Bench Pro",
+      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
+      "score": 26,
+      "fetched_at": "2026-04-07",
+      "source": "VentureBeat",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source",
+        "china"
+      ],
+      "company": "huggingface",
+      "topic": "open_source"
     },
     {
       "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
@@ -6559,6 +6588,45 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Firmus, the \u2018Southgate\u2019 AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+      "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+      "score": 24,
+      "fetched_at": "2026-04-07",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -13810,6 +13878,18 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "A new Anthropic model found security problems \u2018in every major operating system and web browser\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+      "score": 73,
+      "file": "_posts/2026-04-07-a-new-anthropic-model-found-security-problems-in-every-major-operating.md",
+      "posted_at": "2026-04-07",
+      "companies": [
+        "anthropic",
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14002,8 +14082,8 @@
     },
     {
       "date": "2026-04-07",
-      "posts": 1,
-      "items_processed": 21708,
+      "posts": 2,
+      "items_processed": 23517,
       "estimated_tokens": 0
     }
   ]
