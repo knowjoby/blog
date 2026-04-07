@@ -9921,6 +9921,19 @@
       "topic": ""
     },
     {
+      "title": "What the heck is wrong with our AI overlords?",
+      "url": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+      "score": 18,
+      "fetched_at": "2026-04-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11287,6 +11300,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+      "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+      "score": 11,
+      "fetched_at": "2026-04-07",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Deep double descent",
@@ -14083,7 +14109,7 @@
     {
       "date": "2026-04-07",
       "posts": 2,
-      "items_processed": 25326,
+      "items_processed": 27135,
       "estimated_tokens": 0
     }
   ]
