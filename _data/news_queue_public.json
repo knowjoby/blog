@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-07T11:56:08.945329+00:00",
-  "pending_count": 993,
+  "updated_at_utc": "2026-04-07T13:51:18.050391+00:00",
+  "pending_count": 994,
   "pending": [
     {
       "title": "Gemini is making it faster for distressed users to reach mental health resources",
@@ -23,6 +23,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
+      "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
+      "score": 14,
+      "fetched_at": "2026-04-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
