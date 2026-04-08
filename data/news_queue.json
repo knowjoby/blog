@@ -176,6 +176,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI made economic proposals \u2014 here\u2019s what DC thinks of them",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "score": 49,
+      "fetched_at": "2026-04-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -268,6 +281,20 @@
       "companies": [
         "openai",
         "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "score": 48,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": [],
       "company": "openai",
@@ -13759,6 +13786,20 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark \u2014 first since Superintelligence Labs' formation",
+      "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
+      "score": 56,
+      "file": "_posts/2026-04-08-goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first.md",
+      "posted_at": "2026-04-08",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -13957,8 +13998,8 @@
     },
     {
       "date": "2026-04-08",
-      "posts": 2,
-      "items_processed": 23538,
+      "posts": 3,
+      "items_processed": 25351,
       "estimated_tokens": 0
     }
   ]
