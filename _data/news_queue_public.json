@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-08T16:41:57.139979+00:00",
-  "pending_count": 983,
+  "updated_at_utc": "2026-04-08T18:10:40.356026+00:00",
+  "pending_count": 985,
   "pending": [
+    {
+      "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
+      "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
+      "score": 33,
+      "fetched_at": "2026-04-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ]
+    },
     {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
@@ -34,6 +45,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+      "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
