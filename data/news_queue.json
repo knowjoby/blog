@@ -7,84 +7,6 @@
   },
   "pending": [
     {
-      "title": "Anthropic\u2019s Claude Code and Cowork can control your computer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-      "score": 49,
-      "fetched_at": "2026-03-24",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s reckoning over kids safety is in the hands of two juries",
-      "url": "https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial",
-      "score": 49,
-      "fetched_at": "2026-03-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "score": 49,
-      "fetched_at": "2026-03-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "The man who coined Metaverse now says Meta\u2019s glasses are creepy",
-      "url": "https://www.theverge.com/tech/899797/metaverse-neal-stephenson-headsets-goggles-glasses-creepy-no-business-case",
-      "score": 49,
-      "fetched_at": "2026-03-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta misled users about its products\u2019 safety, jury decides",
-      "url": "https://www.theverge.com/policy/899910/meta-new-mexico-jury-verdict",
-      "score": 49,
-      "fetched_at": "2026-03-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Instagram and Facebook are about to be filled with affiliate content",
-      "url": "https://www.theverge.com/news/899717/meta-instagram-facebook-affiliate-shopping-links-reels",
-      "score": 49,
-      "fetched_at": "2026-03-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
       "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
       "score": 49,
@@ -568,22 +490,6 @@
       "topic": "reasoning"
     },
     {
-      "title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
-      "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
-      "score": 40,
-      "fetched_at": "2026-03-24",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding",
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Solving complex problems with OpenAI o1 models",
       "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
       "score": 40,
@@ -668,21 +574,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Anthropic\u2019s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
-      "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai",
-      "score": 38,
-      "fetched_at": "2026-03-24",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -834,20 +725,6 @@
       "topic": "ai"
     },
     {
-      "title": "Arm Is Now Making Its Own Chips",
-      "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-      "score": 36,
-      "fetched_at": "2026-03-24",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "meta"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "The AI Hype Index: AI goes to war",
       "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
       "score": 36,
@@ -888,21 +765,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Agile Robots\u00a0becomes the latest robotics company to partner with Google DeepMind",
-      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-      "score": 35,
-      "fetched_at": "2026-03-24",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "google",
-      "topic": "robotics"
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -1292,36 +1154,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-03-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "OpenAI adds open source tools to help developers build for teen safety",
-      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
-      "score": 32,
-      "fetched_at": "2026-03-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
     },
     {
       "title": "OpenAI Enters Its Focus Era by Killing Sora",
@@ -1770,32 +1602,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-03-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI plans to shut down Sora just 15 months after its launch",
-      "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-      "score": 30,
-      "fetched_at": "2026-03-24",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
@@ -3480,84 +3286,6 @@
       ],
       "company": "huggingface",
       "topic": "open_source"
-    },
-    {
-      "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-      "score": 24,
-      "fetched_at": "2026-03-24",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google TV\u2019s new Gemini features keep fans updated on sports teams and more",
-      "url": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
-      "score": 24,
-      "fetched_at": "2026-03-24",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-03-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s plans to make ChatGPT more like Amazon aren\u2019t going so well",
-      "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-      "score": 24,
-      "fetched_at": "2026-03-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "score": 24,
-      "fetched_at": "2026-03-24",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Pentagon\u2019s \u2018Attempt to Cripple\u2019 Anthropic Is Troubling, Judge Says",
-      "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-      "score": 24,
-      "fetched_at": "2026-03-24",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
@@ -6886,32 +6614,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Claude Code can now take over your computer to complete tasks",
-      "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
-      "score": 18,
-      "fetched_at": "2026-03-24",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Arm is releasing the\u00a0first in-house chip in its 35-year history",
-      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-      "score": 18,
-      "fetched_at": "2026-03-24",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Inside our approach to the Model Spec",
@@ -10418,45 +10120,6 @@
       "topic": ""
     },
     {
-      "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
-      "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
-      "score": 14,
-      "fetched_at": "2026-03-24",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
-      "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task",
-      "score": 14,
-      "fetched_at": "2026-03-24",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Cloudflare\u2019s new Dynamic Workers ditch containers to run AI agent code 100x faster",
-      "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x",
-      "score": 14,
-      "fetched_at": "2026-03-24",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Bernie Sanders and AOC propose a ban on data center construction",
       "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
       "score": 14,
@@ -10884,19 +10547,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
-      "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
-      "score": 11,
-      "fetched_at": "2026-03-24",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Agentic commerce runs on truth and context",
@@ -14110,6 +13760,12 @@
       "date": "2026-04-07",
       "posts": 2,
       "items_processed": 30753,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-08",
+      "posts": 0,
+      "items_processed": 1809,
       "estimated_tokens": 0
     }
   ]
