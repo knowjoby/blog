@@ -1169,6 +1169,19 @@
       "topic": "open_source"
     },
     {
+      "title": "I finally get the iPhone Air",
+      "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
+      "score": 33,
+      "fetched_at": "2026-04-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "OpenAI Enters Its Focus Era by Killing Sora",
       "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
       "score": 32,
@@ -2662,6 +2675,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta debuts the Muse Spark model in a \u2018ground-up overhaul\u2019 of its AI",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "score": 30,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -6448,6 +6474,45 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
+      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid\u2019s Table",
+      "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -13893,7 +13958,7 @@
     {
       "date": "2026-04-08",
       "posts": 2,
-      "items_processed": 21725,
+      "items_processed": 23538,
       "estimated_tokens": 0
     }
   ]

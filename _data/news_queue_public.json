@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-08T18:10:40.356026+00:00",
-  "pending_count": 985,
+  "updated_at_utc": "2026-04-08T19:47:21.139103+00:00",
+  "pending_count": 990,
   "pending": [
     {
       "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
@@ -11,6 +11,17 @@
       "companies": [],
       "topics": [
         "open_source"
+      ]
+    },
+    {
+      "title": "I finally get the iPhone Air",
+      "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
+      "score": 33,
+      "fetched_at": "2026-04-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -38,6 +49,17 @@
       "topics": []
     },
     {
+      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
+      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "score": 30,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "score": 30,
@@ -45,6 +67,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+      "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -60,11 +93,33 @@
       "topics": []
     },
     {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "score": 24,
       "fetched_at": "2026-04-08",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
+      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
