@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-08T21:50:41.331866+00:00",
-  "pending_count": 994,
+  "updated_at_utc": "2026-04-08T22:49:30.248588+00:00",
+  "pending_count": 995,
   "pending": [
     {
       "title": "OpenAI made economic proposals — here’s what DC thinks of them",
@@ -134,6 +134,17 @@
     {
       "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
       "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
+      "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
       "score": 24,
       "fetched_at": "2026-04-08",
       "source": "Wired",
