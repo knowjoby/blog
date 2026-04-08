@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-05 22:18:58 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1806,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-05 23:07:44 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1129,5 +1107,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-08 19:26:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1811,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "The vibes are off at OpenAI",
+        "file": "_posts/2026-04-08-the-vibes-are-off-at-openai.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-08T11:57:50.376790+00:00",
-  "pending_count": 980,
+  "updated_at_utc": "2026-04-08T13:56:56.133498+00:00",
+  "pending_count": 982,
   "pending": [
     {
       "title": "Powering product discovery in ChatGPT",
@@ -34,6 +34,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "X is rolling out automatic translation and photo editing powered by Grok",
+      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/",
+      "score": 18,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
