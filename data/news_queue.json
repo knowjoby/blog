@@ -2639,6 +2639,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "score": 30,
+      "fetched_at": "2026-04-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -13644,6 +13657,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "score": 55,
+      "file": "_posts/2026-04-08-meta-is-reentering-the-ai-race-with-a-new-model-called-muse-spark.md",
+      "posted_at": "2026-04-08",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -13842,8 +13866,8 @@
     },
     {
       "date": "2026-04-08",
-      "posts": 1,
-      "items_processed": 18099,
+      "posts": 2,
+      "items_processed": 19912,
       "estimated_tokens": 0
     }
   ]
