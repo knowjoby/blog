@@ -1,7 +1,42 @@
 {
-  "updated_at_utc": "2026-04-08T00:04:12.186573+00:00",
-  "pending_count": 977,
+  "updated_at_utc": "2026-04-08T03:40:38.834612+00:00",
+  "pending_count": 980,
   "pending": [
+    {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Gemini is making it faster for distressed users to reach mental health resources",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",

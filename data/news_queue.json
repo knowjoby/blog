@@ -1591,6 +1591,21 @@
       "topic": "coding"
     },
     {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Really, you made this without AI? Prove it",
       "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
       "score": 31,
@@ -2608,6 +2623,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -6355,6 +6383,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -13765,7 +13806,7 @@
     {
       "date": "2026-04-08",
       "posts": 0,
-      "items_processed": 1809,
+      "items_processed": 3618,
       "estimated_tokens": 0
     }
   ]
