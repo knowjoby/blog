@@ -577,6 +577,22 @@
       "topic": ""
     },
     {
+      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+      "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+      "score": 40,
+      "fetched_at": "2026-04-08",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "EU backs nude app ban and delays to landmark AI rules",
       "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
       "score": 39,
@@ -3393,6 +3409,21 @@
       ],
       "company": "huggingface",
       "topic": "open_source"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
@@ -13999,7 +14030,7 @@
     {
       "date": "2026-04-08",
       "posts": 3,
-      "items_processed": 25351,
+      "items_processed": 27165,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-08T20:53:00.770766+00:00",
-  "pending_count": 992,
+  "updated_at_utc": "2026-04-08T21:50:41.331866+00:00",
+  "pending_count": 994,
   "pending": [
     {
       "title": "OpenAI made economic proposals — here’s what DC thinks of them",
@@ -24,6 +24,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+      "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+      "score": 40,
+      "fetched_at": "2026-04-08",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
@@ -92,6 +106,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-04-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
