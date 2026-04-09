@@ -6506,6 +6506,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases a new open-source model for speech generation",
       "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
       "score": 22,
@@ -9788,6 +9801,19 @@
     {
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyber-agent",
       "score": 18,
       "fetched_at": "2026-04-09",
       "source": "OpenAI",
@@ -13944,7 +13970,7 @@
     {
       "date": "2026-04-09",
       "posts": 0,
-      "items_processed": 25410,
+      "items_processed": 27228,
       "estimated_tokens": 0
     }
   ]
