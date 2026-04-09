@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
-      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
-      "score": 49,
-      "fetched_at": "2026-03-25",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta is laying off hundreds of employees as it pours money into AI",
-      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
-      "score": 49,
-      "fetched_at": "2026-03-25",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Google is making it easier to import another AI\u2019s memory into Gemini",
       "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
       "score": 49,
@@ -186,6 +160,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gemini gets notebooks to help you organize projects",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "score": 49,
+      "fetched_at": "2026-04-09",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -348,19 +335,6 @@
       ],
       "company": "openai",
       "topic": "open_source"
-    },
-    {
-      "title": "Razer\u2019s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
-      "url": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
-      "score": 43,
-      "fetched_at": "2026-03-25",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Bluesky\u2019s new app is an AI for customizing your feed",
@@ -619,21 +593,6 @@
       "topic": "regulation"
     },
     {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "score": 38,
-      "fetched_at": "2026-03-25",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
       "url": "https://openai.com/index/pacific-northwest-national-laboratory",
       "score": 38,
@@ -766,20 +725,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The AI Hype Index: AI goes to war",
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "score": 36,
-      "fetched_at": "2026-03-25",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
@@ -1223,21 +1168,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "OpenAI Enters Its Focus Era by Killing Sora",
-      "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
-      "score": 32,
-      "fetched_at": "2026-03-25",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "OpenAI to acquire Astral",
@@ -1686,45 +1616,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-      "score": 30,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
-      "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
-      "score": 30,
-      "fetched_at": "2026-03-25",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google launches Lyria 3 Pro music generation model",
-      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-      "score": 30,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs \u2014 and it's giving away the weights for free",
@@ -3424,110 +3315,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "New Mexico just handed Meta its first courtroom defeat over child safety, and the rest of the country is watching",
-      "url": "https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
-      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta loses trial after arguing child exploitation was \u201cinevitable\u201d on its apps",
-      "url": "https://arstechnica.com/tech-policy/2026/03/meta-loses-trial-after-arguing-child-exploitation-was-inevitable-on-its-apps/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Jury finds Meta and YouTube negligent in landmark social media addiction trial",
-      "url": "https://techcrunch.com/2026/03/25/jury-finds-meta-and-youtube-negligent-in-landmark-social-media-addiction-trial/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta is cutting several hundred jobs",
-      "url": "https://techcrunch.com/2026/03/25/meta-is-cutting-several-hundred-jobs/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "The Comedy Club at the End of the Metaverse",
-      "url": "https://www.wired.com/story/the-last-comedy-club-at-the-end-of-the-metaverse/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta, YouTube must pay $3M to woman who got hooked on apps as a child",
-      "url": "https://arstechnica.com/tech-policy/2026/03/meta-youtube-must-pay-3m-to-woman-who-got-hooked-on-apps-as-a-child/",
-      "score": 24,
-      "fetched_at": "2026-03-25",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "WhatsApp can now draft AI-generated responses based on your conversations",
@@ -6843,32 +6630,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "score": 18,
-      "fetched_at": "2026-03-25",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-      "score": 18,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
@@ -10362,19 +10123,6 @@
       "topic": ""
     },
     {
-      "title": "Bernie Sanders and AOC propose a ban on data center construction",
-      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "score": 14,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Introducing the Codex app",
       "url": "https://openai.com/index/introducing-the-codex-app",
       "score": 14,
@@ -10726,19 +10474,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "score": 12,
-      "fetched_at": "2026-03-25",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -10789,19 +10524,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Agentic commerce runs on truth and context",
-      "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-      "score": 11,
-      "fetched_at": "2026-03-25",
-      "source": "MIT Tech Review",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Coding and design with GPT-5",
@@ -14044,6 +13766,12 @@
       "date": "2026-04-08",
       "posts": 3,
       "items_processed": 30793,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-09",
+      "posts": 0,
+      "items_processed": 1814,
       "estimated_tokens": 0
     }
   ]
