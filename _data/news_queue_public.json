@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-09T09:51:45.064453+00:00",
-  "pending_count": 976,
+  "updated_at_utc": "2026-04-09T11:05:02.826024+00:00",
+  "pending_count": 977,
   "pending": [
     {
       "title": "Gemini gets notebooks to help you organize projects",
@@ -25,6 +25,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta Cafeteria Workers Did What Execs Won’t: Took on ICE and Won",
+      "url": "https://www.wired.com/story/how-meta-cafeteria-workers-rallied-to-take-on-ice/",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Inside our approach to the Model Spec",
