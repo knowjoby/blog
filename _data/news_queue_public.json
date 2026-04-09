@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-09T02:50:16.486759+00:00",
-  "pending_count": 974,
+  "updated_at_utc": "2026-04-09T05:17:13.704669+00:00",
+  "pending_count": 976,
   "pending": [
     {
       "title": "Gemini gets notebooks to help you organize projects",
@@ -10,6 +10,30 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

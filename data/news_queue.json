@@ -714,6 +714,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "TikTok\u2019s policy for AI ads isn\u2019t working",
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "score": 37,
@@ -9639,6 +9654,19 @@
       "topic": ""
     },
     {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -13771,7 +13799,7 @@
     {
       "date": "2026-04-09",
       "posts": 0,
-      "items_processed": 1814,
+      "items_processed": 3628,
       "estimated_tokens": 0
     }
   ]
