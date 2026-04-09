@@ -376,6 +376,19 @@
       "topic": ""
     },
     {
+      "title": "A thin, light entry-level gaming laptop is $300 off at Best Buy",
+      "url": "https://www.theverge.com/gadgets/909148/lenovo-gaming-laptop-nvidia-rtx-4050-deal-sale",
+      "score": 43,
+      "fetched_at": "2026-04-09",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing Stargate UK",
       "url": "https://openai.com/index/introducing-stargate-uk",
       "score": 42,
@@ -6412,6 +6425,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -13840,7 +13866,7 @@
     {
       "date": "2026-04-09",
       "posts": 0,
-      "items_processed": 16328,
+      "items_processed": 18144,
       "estimated_tokens": 0
     }
   ]
