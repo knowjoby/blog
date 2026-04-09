@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-09T12:09:52.811313+00:00",
-  "pending_count": 977,
+  "updated_at_utc": "2026-04-09T14:21:02.908700+00:00",
+  "pending_count": 979,
   "pending": [
     {
       "title": "Gemini gets notebooks to help you organize projects",
@@ -36,6 +36,30 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-04-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Inside our approach to the Model Spec",

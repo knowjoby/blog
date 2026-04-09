@@ -6402,6 +6402,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases a new open-source model for speech generation",
       "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
       "score": 22,
@@ -6550,6 +6563,21 @@
       ],
       "company": "anthropic",
       "topic": "coding"
+    },
+    {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-04-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "huggingface",
+      "topic": "multimodal"
     },
     {
       "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
@@ -13812,7 +13840,7 @@
     {
       "date": "2026-04-09",
       "posts": 0,
-      "items_processed": 14512,
+      "items_processed": 16328,
       "estimated_tokens": 0
     }
   ]
