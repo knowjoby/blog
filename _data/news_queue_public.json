@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-09T22:06:51.865079+00:00",
-  "pending_count": 989,
+  "updated_at_utc": "2026-04-09T23:11:06.817159+00:00",
+  "pending_count": 991,
   "pending": [
     {
       "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
@@ -93,6 +93,17 @@
       "topics": []
     },
     {
+      "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
+      "url": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "ChatGPT finally offers $100/month Pro plan",
       "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "score": 24,
@@ -128,6 +139,17 @@
     {
       "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
       "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
+      "score": 24,
+      "fetched_at": "2026-04-09",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+      "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
       "score": 24,
       "fetched_at": "2026-04-09",
       "source": "Ars Technica",

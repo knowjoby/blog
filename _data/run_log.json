@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-07 04:35:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1809,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-07 05:30:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1147,5 +1125,45 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-10 04:41:06 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 2,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1818,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "ChatGPT has a new $100 per month Pro subscription",
+        "file": "_posts/2026-04-09-chatgpt-has-a-new-100-per-month-pro-subscription.md",
+        "score": 57,
+        "tags": [
+          "openai",
+          "coding"
+        ]
+      },
+      {
+        "title": "Florida launches investigation into OpenAI",
+        "file": "_posts/2026-04-09-florida-launches-investigation-into-openai.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]
