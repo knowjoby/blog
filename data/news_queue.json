@@ -176,6 +176,19 @@
       "topic": ""
     },
     {
+      "title": "Fear and loathing at OpenAI",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "score": 49,
+      "fetched_at": "2026-04-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -747,6 +760,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "score": 37,
       "fetched_at": "2026-03-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Cloudflare made a WordPress for AI agents",
+      "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
+      "score": 37,
+      "fetched_at": "2026-04-10",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -2620,6 +2646,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
+      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "score": 30,
+      "fetched_at": "2026-04-10",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -13904,7 +13943,7 @@
     {
       "date": "2026-04-10",
       "posts": 1,
-      "items_processed": 14544,
+      "items_processed": 16362,
       "estimated_tokens": 0
     }
   ]

@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-10T12:06:51.485413+00:00",
-  "pending_count": 981,
+  "updated_at_utc": "2026-04-10T13:56:00.037707+00:00",
+  "pending_count": 984,
   "pending": [
+    {
+      "title": "Fear and loathing at OpenAI",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "score": 49,
+      "fetched_at": "2026-04-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
       "url": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
@@ -11,6 +22,28 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Cloudflare made a WordPress for AI agents",
+      "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
+      "score": 37,
+      "fetched_at": "2026-04-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
+      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+      "score": 30,
+      "fetched_at": "2026-04-10",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
