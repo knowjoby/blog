@@ -6450,6 +6450,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s New AI Asked for My Raw Health Data\u2014and Gave Me Terrible Advice",
+      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "score": 24,
+      "fetched_at": "2026-04-10",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13667,6 +13680,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "score": 57,
+      "file": "_posts/2026-04-10-microsoft-starts-removing-copilot-buttons-from-windows-11-apps.md",
+      "posted_at": "2026-04-10",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -13877,8 +13903,8 @@
     },
     {
       "date": "2026-04-10",
-      "posts": 0,
-      "items_processed": 9090,
+      "posts": 1,
+      "items_processed": 10908,
       "estimated_tokens": 0
     }
   ]

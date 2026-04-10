@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-10T09:08:32.092872+00:00",
-  "pending_count": 980,
+  "updated_at_utc": "2026-04-10T09:47:14.058440+00:00",
+  "pending_count": 981,
   "pending": [
     {
       "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
@@ -22,6 +22,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "score": 24,
+      "fetched_at": "2026-04-10",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
