@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-10T20:03:19.189095+00:00",
-  "pending_count": 1004,
+  "updated_at_utc": "2026-04-10T21:04:24.370759+00:00",
+  "pending_count": 1006,
   "pending": [
     {
       "title": "Fear and loathing at OpenAI",
@@ -26,6 +26,17 @@
       "topics": []
     },
     {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "score": 43,
+      "fetched_at": "2026-04-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -44,6 +55,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "score": 30,
+      "fetched_at": "2026-04-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

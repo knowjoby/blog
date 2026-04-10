@@ -416,6 +416,19 @@
       "topic": ""
     },
     {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "score": 43,
+      "fetched_at": "2026-04-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Stargate UK",
       "url": "https://openai.com/index/introducing-stargate-uk",
       "score": 42,
@@ -2659,6 +2672,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "score": 30,
+      "fetched_at": "2026-04-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -14203,7 +14229,7 @@
     {
       "date": "2026-04-10",
       "posts": 1,
-      "items_processed": 27342,
+      "items_processed": 29184,
       "estimated_tokens": 0
     }
   ]
