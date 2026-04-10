@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-10T00:03:15.862681+00:00",
-  "pending_count": 978,
+  "updated_at_utc": "2026-04-10T03:48:27.741142+00:00",
+  "pending_count": 980,
   "pending": [
     {
       "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
@@ -11,6 +11,28 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "score": 24,
+      "fetched_at": "2026-04-10",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
