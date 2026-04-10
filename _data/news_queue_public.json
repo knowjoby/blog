@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-04-09T23:11:06.817159+00:00",
-  "pending_count": 991,
+  "updated_at_utc": "2026-04-10T00:03:15.862681+00:00",
+  "pending_count": 978,
   "pending": [
+    {
+      "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
+      "url": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
+      "score": 48,
+      "fetched_at": "2026-04-10",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Google’s Gemini AI can answer your questions with 3D models and simulations",
       "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
@@ -11008,166 +11020,6 @@
         "huggingface"
       ],
       "topics": []
-    },
-    {
-      "title": "Google is making it easier to import another AI’s memory into Gemini",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "score": 49,
-      "fetched_at": "2026-03-26",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "EU backs nude app ban and delays to landmark AI rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
-      "score": 39,
-      "fetched_at": "2026-03-26",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "The debut of Gemini 3.1 Flash Live could make it harder to know if you're talking to a robot",
-      "url": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
-      "score": 34,
-      "fetched_at": "2026-03-26",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "robotics",
-        "coding"
-      ]
-    },
-    {
-      "title": "Robot vacuums from Eufy and Roborock are over 50 percent for Amazon’s spring sale",
-      "url": "https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals",
-      "score": 33,
-      "fetched_at": "2026-03-26",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
-      "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and",
-      "score": 30,
-      "fetched_at": "2026-03-26",
-      "source": "VentureBeat",
-      "companies": [
-        "mistral"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-      "score": 30,
-      "fetched_at": "2026-03-26",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic Supply-Chain Risk Designation Halted By Judge",
-      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-      "score": 24,
-      "fetched_at": "2026-03-26",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
-      "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
-      "score": 24,
-      "fetched_at": "2026-03-26",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "WhatsApp can now draft AI-generated responses based on your conversations",
-      "url": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
-      "score": 24,
-      "fetched_at": "2026-03-26",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mistral releases a new open-source model for speech generation",
-      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "score": 22,
-      "fetched_at": "2026-03-26",
-      "source": "TechCrunch",
-      "companies": [
-        "mistral"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Cohere launches an open-source voice model specifically for transcription",
-      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-      "score": 22,
-      "fetched_at": "2026-03-26",
-      "source": "TechCrunch",
-      "companies": [
-        "cohere"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI “indefinitely” shelves plans for erotic ChatGPT",
-      "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
-      "score": 20,
-      "fetched_at": "2026-03-26",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "score": 18,
-      "fetched_at": "2026-03-26",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
-      "url": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-      "score": 16,
-      "fetched_at": "2026-03-26",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation",
-        "open_source"
-      ]
     }
   ]
 }
