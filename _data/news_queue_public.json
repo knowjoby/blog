@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-10T17:25:56.363767+00:00",
-  "pending_count": 987,
+  "updated_at_utc": "2026-04-10T18:09:08.312076+00:00",
+  "pending_count": 1003,
   "pending": [
     {
       "title": "Fear and loathing at OpenAI",
@@ -92,11 +92,187 @@
       "topics": []
     },
     {
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "score": 24,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
       "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
       "score": 18,
       "fetched_at": "2026-04-10",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI fundamentals",
+      "url": "https://openai.com/academy/what-is-ai",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Using skills",
+      "url": "https://openai.com/academy/skills",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Personalizing ChatGPT",
+      "url": "https://openai.com/academy/personalization",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for operations teams",
+      "url": "https://openai.com/academy/operations",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for managers",
+      "url": "https://openai.com/academy/managers",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating images with ChatGPT",
+      "url": "https://openai.com/academy/image-generation",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
+      "score": 18,
+      "fetched_at": "2026-04-10",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],

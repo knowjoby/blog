@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-04-08 00:49:16 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1809,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
-        "file": "_posts/2026-04-07-a-new-anthropic-model-found-security-problems-in-every-major-operating.md",
-        "score": 73,
-        "tags": [
-          "anthropic",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-08 01:37:05 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1162,6 +1130,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 3
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-10 23:39:08 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 16,
+    "posts_created": 0,
+    "queued": 16,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 16
+      },
+      "rss": {
+        "raw": 1842,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 16
       }
     },
     "posts": []
