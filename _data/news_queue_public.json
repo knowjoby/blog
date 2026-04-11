@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-11T14:07:16.827464+00:00",
-  "pending_count": 989,
+  "updated_at_utc": "2026-04-11T15:04:31.945187+00:00",
+  "pending_count": 990,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -82,6 +82,17 @@
     {
       "title": "The new show making fun of tech bros",
       "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+      "score": 43,
+      "fetched_at": "2026-04-11",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Your article about AI doesn’t need AI art",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
       "score": 43,
       "fetched_at": "2026-04-11",
       "source": "The Verge",

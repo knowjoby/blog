@@ -415,6 +415,19 @@
       "topic": ""
     },
     {
+      "title": "Your article about AI doesn\u2019t need AI art",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "score": 43,
+      "fetched_at": "2026-04-11",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
       "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
       "score": 42,
@@ -14014,7 +14027,7 @@
     {
       "date": "2026-04-11",
       "posts": 1,
-      "items_processed": 22115,
+      "items_processed": 23958,
       "estimated_tokens": 0
     }
   ]

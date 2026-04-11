@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-04-09 02:23:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1813,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
-        "file": "_posts/2026-04-08-goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first.md",
-        "score": 56,
-        "tags": [
-          "openai",
-          "meta",
-          "open_source"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-09 03:20:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1129,6 +1096,28 @@
   },
   {
     "ran_at": "2026-04-11 19:37:16 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1843,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-11 20:34:31 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
     "posts_created": 0,
