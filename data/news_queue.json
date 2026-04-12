@@ -2561,6 +2561,19 @@
       "topic": ""
     },
     {
+      "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "score": 30,
+      "fetched_at": "2026-04-12",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -13994,7 +14007,7 @@
     {
       "date": "2026-04-12",
       "posts": 0,
-      "items_processed": 33174,
+      "items_processed": 35017,
       "estimated_tokens": 0
     }
   ]
