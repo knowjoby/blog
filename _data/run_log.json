@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-04-10 15:17:14 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1818,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
-        "file": "_posts/2026-04-10-microsoft-starts-removing-copilot-buttons-from-windows-11-apps.md",
-        "score": 57,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-10 16:31:16 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1100,6 +1068,28 @@
   },
   {
     "ran_at": "2026-04-12 23:33:11 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1843,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-13 00:52:56 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
