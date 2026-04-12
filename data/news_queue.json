@@ -9808,6 +9808,19 @@
       "topic": ""
     },
     {
+      "title": "At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "score": 18,
+      "fetched_at": "2026-04-12",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Qodo raises $70M for code verification as AI coding scales",
       "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
       "score": 17,
@@ -13981,7 +13994,7 @@
     {
       "date": "2026-04-12",
       "posts": 0,
-      "items_processed": 20273,
+      "items_processed": 22116,
       "estimated_tokens": 0
     }
   ]
