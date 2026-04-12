@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Bluetti\u2019s Sora 500 solar panel is incredibly powerful for its size",
-      "url": "https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel",
-      "score": 49,
-      "fetched_at": "2026-03-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s legal defeat could be a victory for children, or a loss for everyone",
-      "url": "https://www.theverge.com/policy/903006/meta-new-mexico-los-angeles-child-safety-trial-impact",
-      "score": 49,
-      "fetched_at": "2026-03-28",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "You can now use ChatGPT with Apple\u2019s CarPlay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
       "score": 49,
@@ -766,19 +740,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "TikTok\u2019s policy for AI ads isn\u2019t working",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
-      "score": 37,
-      "fetched_at": "2026-03-28",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Cloudflare made a WordPress for AI agents",
@@ -1593,19 +1554,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Meta Quest Promo Codes: $50 Off | March 2026",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "score": 30,
-      "fetched_at": "2026-03-28",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Nvidia-backed ThinkLabs AI raises $28 million to tackle a growing power grid crunch",
@@ -3288,19 +3236,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
-      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "score": 24,
-      "fetched_at": "2026-03-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Why OpenAI really shut down Sora",
@@ -6561,19 +6496,6 @@
       ],
       "company": "huggingface",
       "topic": "multimodal"
-    },
-    {
-      "title": "Elon Musk\u2019s last co-founder reportedly leaves xAI",
-      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "score": 20,
-      "fetched_at": "2026-03-28",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
@@ -14041,6 +13963,12 @@
       "date": "2026-04-11",
       "posts": 1,
       "items_processed": 40545,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-12",
+      "posts": 0,
+      "items_processed": 1843,
       "estimated_tokens": 0
     }
   ]
