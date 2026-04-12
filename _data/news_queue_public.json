@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-12T11:58:52.747215+00:00",
-  "pending_count": 985,
+  "updated_at_utc": "2026-04-12T13:21:10.320227+00:00",
+  "pending_count": 986,
   "pending": [
+    {
+      "title": "The AI code wars are heating up",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "score": 33,
+      "fetched_at": "2026-04-12",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",

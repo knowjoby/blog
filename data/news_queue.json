@@ -1138,6 +1138,19 @@
       "topic": "robotics"
     },
     {
+      "title": "The AI code wars are heating up",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "score": 33,
+      "fetched_at": "2026-04-12",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "There are more AI health tools than ever\u2014but how well do they work?",
       "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
       "score": 32,
@@ -13968,7 +13981,7 @@
     {
       "date": "2026-04-12",
       "posts": 0,
-      "items_processed": 16587,
+      "items_processed": 18430,
       "estimated_tokens": 0
     }
   ]
