@@ -262,6 +262,22 @@
       "topic": ""
     },
     {
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "score": 46,
+      "fetched_at": "2026-04-13",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "agentic"
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -1595,6 +1611,21 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
+    },
+    {
+      "title": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
+      "url": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance",
+      "score": 32,
+      "fetched_at": "2026-04-13",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
     },
     {
       "title": "Really, you made this without AI? Prove it",
@@ -14132,7 +14163,7 @@
     {
       "date": "2026-04-13",
       "posts": 2,
-      "items_processed": 18434,
+      "items_processed": 20278,
       "estimated_tokens": 0
     }
   ]
