@@ -606,6 +606,19 @@
       "topic": ""
     },
     {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "score": 39,
+      "fetched_at": "2026-04-13",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -901,6 +914,21 @@
       ],
       "company": "nvidia",
       "topic": "reasoning"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-04-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
@@ -6509,6 +6537,20 @@
       "topic": ""
     },
     {
+      "title": "Agentic coding at enterprise scale demands spec-driven development",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
+      "score": 22,
+      "fetched_at": "2026-04-13",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -9818,6 +9860,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "To teach in the time of ChatGPT is to know pain",
+      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+      "score": 18,
+      "fetched_at": "2026-04-13",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -14000,7 +14055,7 @@
     {
       "date": "2026-04-13",
       "posts": 0,
-      "items_processed": 11058,
+      "items_processed": 12902,
       "estimated_tokens": 0
     }
   ]

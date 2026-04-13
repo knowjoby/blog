@@ -1,13 +1,60 @@
 {
-  "updated_at_utc": "2026-04-13T11:51:57.289446+00:00",
-  "pending_count": 987,
+  "updated_at_utc": "2026-04-13T13:54:24.341017+00:00",
+  "pending_count": 991,
   "pending": [
+    {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "score": 39,
+      "fetched_at": "2026-04-13",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Sam Altman reportedly targeted in second attack",
       "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
       "score": 39,
       "fetched_at": "2026-04-13",
       "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-04-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Agentic coding at enterprise scale demands spec-driven development",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
+      "score": 22,
+      "fetched_at": "2026-04-13",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
+    {
+      "title": "To teach in the time of ChatGPT is to know pain",
+      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+      "score": 18,
+      "fetched_at": "2026-04-13",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
