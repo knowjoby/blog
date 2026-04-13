@@ -619,6 +619,19 @@
       "topic": ""
     },
     {
+      "title": "SwitchBot\u2019s button-pressing robot is now available with a rechargeable battery",
+      "url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
+      "score": 39,
+      "fetched_at": "2026-04-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -6427,6 +6440,19 @@
       "topic": ""
     },
     {
+      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+      "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+      "score": 24,
+      "fetched_at": "2026-04-13",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
       "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
       "score": 22,
@@ -11139,6 +11165,19 @@
       "topic": "coding"
     },
     {
+      "title": "Designing the agentic AI enterprise for measurable performance",
+      "url": "https://venturebeat.com/orchestration/designing-the-agentic-ai-enterprise-for-measurable-performance",
+      "score": 11,
+      "fetched_at": "2026-04-13",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -14055,7 +14094,7 @@
     {
       "date": "2026-04-13",
       "posts": 0,
-      "items_processed": 12902,
+      "items_processed": 14746,
       "estimated_tokens": 0
     }
   ]

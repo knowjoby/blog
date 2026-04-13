@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-13T13:54:24.341017+00:00",
-  "pending_count": 991,
+  "updated_at_utc": "2026-04-13T15:20:43.189476+00:00",
+  "pending_count": 994,
   "pending": [
     {
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
@@ -12,6 +12,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
+      "url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
+      "score": 39,
+      "fetched_at": "2026-04-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Sam Altman reportedly targeted in second attack",
@@ -38,6 +49,17 @@
       ]
     },
     {
+      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
+      "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
+      "score": 24,
+      "fetched_at": "2026-04-13",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Agentic coding at enterprise scale demands spec-driven development",
       "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
       "score": 22,
@@ -59,6 +81,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Designing the agentic AI enterprise for measurable performance",
+      "url": "https://venturebeat.com/orchestration/designing-the-agentic-ai-enterprise-for-measurable-performance",
+      "score": 11,
+      "fetched_at": "2026-04-13",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "The AI code wars are heating up",
