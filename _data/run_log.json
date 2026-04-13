@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-11 08:55:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 800,
-    "posts_created": 0,
-    "queued": 800,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 800
-      },
-      "rss": {
-        "raw": 1843,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 800
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-11 10:43:14 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1109,5 +1087,46 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-13 22:13:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 2,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1844,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Read OpenAI’s latest internal memo about beating the competition — including Anthropic",
+        "file": "_posts/2026-04-13-read-openais-latest-internal-memo-about-beating-the-competition-includ.md",
+        "score": 73,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      },
+      {
+        "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+        "file": "_posts/2026-04-13-microsoft-is-testing-openclaw-like-ai-bots-for-365-copilot.md",
+        "score": 53,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      }
+    ]
   }
 ]

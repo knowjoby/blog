@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-13T15:20:43.189476+00:00",
-  "pending_count": 994,
+  "updated_at_utc": "2026-04-13T16:43:51.147354+00:00",
+  "pending_count": 995,
   "pending": [
     {
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
@@ -47,6 +47,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+      "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+      "score": 24,
+      "fetched_at": "2026-04-13",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
