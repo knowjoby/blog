@@ -593,6 +593,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Sam Altman reportedly targeted in second attack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "score": 39,
+      "fetched_at": "2026-04-13",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -13987,7 +14000,7 @@
     {
       "date": "2026-04-13",
       "posts": 0,
-      "items_processed": 5529,
+      "items_processed": 7372,
       "estimated_tokens": 0
     }
   ]
