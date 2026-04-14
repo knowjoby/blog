@@ -163,6 +163,19 @@
       "topic": ""
     },
     {
+      "title": "Has Google\u2019s AI watermarking system been reverse-engineered?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "score": 49,
+      "fetched_at": "2026-04-14",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "The Download: AI health tools and the Pentagon\u2019s Anthropic culture war",
       "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
       "score": 48,
@@ -6404,6 +6417,19 @@
       "topic": ""
     },
     {
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "score": 24,
+      "fetched_at": "2026-04-14",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Claude Code's source code appears to have leaked: here's what we know",
       "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
       "score": 22,
@@ -9877,6 +9903,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "score": 17,
+      "fetched_at": "2026-04-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Shifting to AI model customization is an architectural imperative",
@@ -14011,7 +14050,7 @@
     {
       "date": "2026-04-14",
       "posts": 0,
-      "items_processed": 14752,
+      "items_processed": 16596,
       "estimated_tokens": 0
     }
   ]

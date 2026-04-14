@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-14T12:40:01.288062+00:00",
-  "pending_count": 985,
+  "updated_at_utc": "2026-04-14T14:52:44.286563+00:00",
+  "pending_count": 988,
   "pending": [
+    {
+      "title": "Has Google’s AI watermarking system been reverse-engineered?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "score": 49,
+      "fetched_at": "2026-04-14",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
@@ -10,6 +21,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "score": 24,
+      "fetched_at": "2026-04-14",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -34,6 +56,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "score": 17,
+      "fetched_at": "2026-04-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Microsoft is working on yet another OpenClaw-like agent",
