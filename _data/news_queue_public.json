@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-13T23:12:04.209377+00:00",
-  "pending_count": 998,
+  "updated_at_utc": "2026-04-14T00:07:52.538712+00:00",
+  "pending_count": 983,
   "pending": [
+    {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "score": 49,
+      "fetched_at": "2026-04-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
@@ -11056,184 +11067,6 @@
       "companies": [],
       "topics": [
         "multimodal"
-      ]
-    },
-    {
-      "title": "Okta’s CEO is betting big on AI agent identity",
-      "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-      "score": 33,
-      "fetched_at": "2026-03-30",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Dyson’s thin PencilVac Fluffycones is tougher to resist at $150 off",
-      "url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
-      "score": 33,
-      "fetched_at": "2026-03-30",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "score": 32,
-      "fetched_at": "2026-03-30",
-      "source": "MIT Tech Review",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta starts testing a premium subscription on Instagram",
-      "url": "https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Why OpenAI really shut down Sora",
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta hopes SCOTUS piracy ruling will help it beat lawsuit over torrenting AI data",
-      "url": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "score": 22,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "mistral"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "score": 18,
-      "fetched_at": "2026-03-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "score": 17,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Cohere's open-weight ASR model hits 5.4% word error rate — low enough to replace speech APIs in production pipelines",
-      "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
-      "score": 16,
-      "fetched_at": "2026-03-30",
-      "source": "VentureBeat",
-      "companies": [
-        "cohere"
-      ],
-      "topics": []
-    },
-    {
-      "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
-      "url": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps",
-      "score": 14,
-      "fetched_at": "2026-03-30",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
-      "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
-      "score": 14,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-      "score": 14,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
       ]
     }
   ]

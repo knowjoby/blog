@@ -150,6 +150,19 @@
       "topic": ""
     },
     {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman\u2019s home and OpenAI\u2019s HQ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "score": 49,
+      "fetched_at": "2026-04-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The Download: AI health tools and the Pentagon\u2019s Anthropic culture war",
       "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
       "score": 48,
@@ -1130,32 +1143,6 @@
       "topic": ""
     },
     {
-      "title": "Dyson\u2019s thin PencilVac Fluffycones is tougher to resist at $150 off",
-      "url": "https://www.theverge.com/gadgets/903416/dyson-pencilvac-fluffycones-amazon-big-spring-sale-deal-sale",
-      "score": 33,
-      "fetched_at": "2026-03-30",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Okta\u2019s CEO is betting big on AI agent identity",
-      "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-      "score": 33,
-      "fetched_at": "2026-03-30",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Here are our favorite spring cleaning deals from Amazon\u2019s Big Spring Sale",
       "url": "https://www.theverge.com/gadgets/903543/spring-cleaning-gadgets-vacuums-tools-air-purifiers-amazon-big-spring-sale-2026-deals",
       "score": 33,
@@ -1205,21 +1192,6 @@
         "coding"
       ],
       "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "There are more AI health tools than ever\u2014but how well do they work?",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "score": 32,
-      "fetched_at": "2026-03-30",
-      "source": "MIT Tech Review",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "microsoft",
       "topic": "coding"
     },
     {
@@ -3334,84 +3306,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Why OpenAI really shut down Sora",
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "The Pentagon\u2019s culture war tactic against Anthropic has backfired",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta starts testing a premium subscription on Instagram",
-      "url": "https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta hopes SCOTUS piracy ruling will help it beat lawsuit over torrenting AI data",
-      "url": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
-      "score": 24,
-      "fetched_at": "2026-03-30",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
@@ -6497,19 +6391,6 @@
       "topic": ""
     },
     {
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "score": 22,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [
-        "mistral"
-      ],
-      "topics": [],
-      "company": "mistral",
-      "topic": ""
-    },
-    {
       "title": "Claude Code's source code appears to have leaked: here's what we know",
       "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
       "score": 22,
@@ -6716,19 +6597,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "score": 18,
-      "fetched_at": "2026-03-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Running local models on Macs gets faster with Ollama's MLX support",
@@ -9959,19 +9827,6 @@
       "topic": ""
     },
     {
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "score": 17,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -9996,19 +9851,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "Cohere's open-weight ASR model hits 5.4% word error rate \u2014 low enough to replace speech APIs in production pipelines",
-      "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
-      "score": 16,
-      "fetched_at": "2026-03-30",
-      "source": "VentureBeat",
-      "companies": [
-        "cohere"
-      ],
-      "topics": [],
-      "company": "cohere",
-      "topic": ""
     },
     {
       "title": "Shifting to AI model customization is an architectural imperative",
@@ -10427,45 +10269,6 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
-    },
-    {
-      "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
-      "url": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps",
-      "score": 14,
-      "fetched_at": "2026-03-30",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-      "score": 14,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
-      "title": "Former Coatue partner raises\u00a0huge $65M seed\u00a0for\u00a0enterprise\u00a0AI agent\u00a0startup",
-      "url": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
-      "score": 14,
-      "fetched_at": "2026-03-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Entire Claude Code CLI source code leaks thanks to exposed map file",
@@ -14177,6 +13980,12 @@
       "date": "2026-04-13",
       "posts": 2,
       "items_processed": 25810,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-14",
+      "posts": 0,
+      "items_processed": 1844,
       "estimated_tokens": 0
     }
   ]
