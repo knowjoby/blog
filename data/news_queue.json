@@ -288,6 +288,20 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+      "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+      "score": 48,
+      "fetched_at": "2026-04-14",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
       "score": 46,
@@ -14050,7 +14064,7 @@
     {
       "date": "2026-04-14",
       "posts": 0,
-      "items_processed": 16596,
+      "items_processed": 18440,
       "estimated_tokens": 0
     }
   ]

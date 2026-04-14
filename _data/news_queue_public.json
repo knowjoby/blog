@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-14T14:52:44.286563+00:00",
-  "pending_count": 988,
+  "updated_at_utc": "2026-04-14T16:13:15.161644+00:00",
+  "pending_count": 989,
   "pending": [
     {
       "title": "Has Google’s AI watermarking system been reverse-engineered?",
@@ -21,6 +21,18 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+      "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+      "score": 48,
+      "fetched_at": "2026-04-14",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
