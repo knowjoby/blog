@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-04-11 18:42:06 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1843,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-        "file": "_posts/2026-04-11-ai-models-are-terrible-at-betting-on-soccerespecially-xai-grok.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "anthropic",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-11 19:37:16 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1109,6 +1076,28 @@
   },
   {
     "ran_at": "2026-04-14 11:33:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1844,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-14 13:41:54 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
