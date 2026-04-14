@@ -458,6 +458,19 @@
       "topic": ""
     },
     {
+      "title": "The attacks on Sam Altman are a warning for the AI world",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+      "score": 43,
+      "fetched_at": "2026-04-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
       "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
       "score": 42,
@@ -835,6 +848,21 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
+      "url": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but",
+      "score": 38,
+      "fetched_at": "2026-04-14",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
     },
     {
       "title": "Cloudflare made a WordPress for AI agents",
@@ -6488,6 +6516,32 @@
       "score": 24,
       "fetched_at": "2026-04-14",
       "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "score": 24,
+      "fetched_at": "2026-04-14",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google leaders including Demis Hassabis push back on claim of uneven AI adoption internally",
+      "url": "https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally",
+      "score": 24,
+      "fetched_at": "2026-04-14",
+      "source": "VentureBeat",
       "companies": [
         "google"
       ],
@@ -14116,7 +14170,7 @@
     {
       "date": "2026-04-14",
       "posts": 0,
-      "items_processed": 20284,
+      "items_processed": 22128,
       "estimated_tokens": 0
     }
   ]
