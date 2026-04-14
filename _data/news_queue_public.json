@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-14T19:24:55.973400+00:00",
-  "pending_count": 997,
+  "updated_at_utc": "2026-04-14T20:31:01.670002+00:00",
+  "pending_count": 999,
   "pending": [
     {
       "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",
@@ -32,6 +32,18 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
+      "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+      "score": 48,
+      "fetched_at": "2026-04-14",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -143,6 +155,17 @@
       "score": 24,
       "fetched_at": "2026-04-14",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "score": 24,
+      "fetched_at": "2026-04-14",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
