@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-15T12:11:34.764377+00:00",
-  "pending_count": 988,
+  "updated_at_utc": "2026-04-15T14:11:05.767389+00:00",
+  "pending_count": 990,
   "pending": [
     {
       "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
@@ -22,6 +22,17 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Walmart is updating its 4K streaming box with Gemini and Matter support",
+      "url": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
+      "score": 45,
+      "fetched_at": "2026-04-15",
+      "source": "The Verge",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -48,6 +59,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
+      "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt",
+      "score": 14,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",

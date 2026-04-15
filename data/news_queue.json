@@ -348,6 +348,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Walmart is updating its 4K streaming box with Gemini and Matter support",
+      "url": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
+      "score": 45,
+      "fetched_at": "2026-04-15",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
       "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
       "score": 44,
@@ -10646,6 +10659,19 @@
       "topic": ""
     },
     {
+      "title": "Adobe\u2019s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
+      "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt",
+      "score": 14,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
       "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
       "score": 12,
@@ -14054,7 +14080,7 @@
     {
       "date": "2026-04-15",
       "posts": 0,
-      "items_processed": 12914,
+      "items_processed": 14758,
       "estimated_tokens": 0
     }
   ]
