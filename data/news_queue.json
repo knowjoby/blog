@@ -600,6 +600,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks",
+      "url": "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks",
+      "score": 41,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "meta",
+      "topic": "coding"
+    },
+    {
       "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
       "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
       "score": 40,
@@ -1682,6 +1697,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway.",
+      "url": "https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook",
+      "score": 32,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
     },
     {
       "title": "Really, you made this without AI? Prove it",
@@ -14238,7 +14268,7 @@
     {
       "date": "2026-04-15",
       "posts": 1,
-      "items_processed": 22140,
+      "items_processed": 23986,
       "estimated_tokens": 0
     }
   ]

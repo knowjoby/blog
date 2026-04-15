@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-15T20:05:53.337970+00:00",
-  "pending_count": 1001,
+  "updated_at_utc": "2026-04-15T21:27:51.466845+00:00",
+  "pending_count": 1003,
   "pending": [
     {
       "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
@@ -47,6 +47,32 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks",
+      "url": "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks",
+      "score": 41,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway.",
+      "url": "https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook",
+      "score": 32,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
