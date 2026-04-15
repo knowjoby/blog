@@ -1669,6 +1669,21 @@
       "topic": "coding"
     },
     {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "score": 32,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Really, you made this without AI? Prove it",
       "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
       "score": 31,
@@ -2671,6 +2686,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "We tested Anthropic\u2019s redesigned Claude Code desktop app and 'Routines' -- here's what enterprises should know",
+      "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
+      "score": 30,
+      "fetched_at": "2026-04-15",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -10765,6 +10793,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "score": 14,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
       "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
       "score": 12,
@@ -14197,7 +14238,7 @@
     {
       "date": "2026-04-15",
       "posts": 1,
-      "items_processed": 20294,
+      "items_processed": 22140,
       "estimated_tokens": 0
     }
   ]
