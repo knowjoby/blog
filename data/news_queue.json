@@ -6497,6 +6497,19 @@
       "topic": ""
     },
     {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "score": 24,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
       "score": 22,
@@ -6685,6 +6698,20 @@
       "topics": [
         "agentic",
         "reasoning"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "India\u2019s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "score": 19,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
       ],
       "company": "",
       "topic": "agentic"
@@ -9967,6 +9994,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
+      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+      "score": 18,
+      "fetched_at": "2026-04-15",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -13905,6 +13945,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Google launches a Gemini AI app on Mac",
+      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "score": 55,
+      "file": "_posts/2026-04-15-google-launches-a-gemini-ai-app-on-mac.md",
+      "posted_at": "2026-04-15",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14145,8 +14196,8 @@
     },
     {
       "date": "2026-04-15",
-      "posts": 0,
-      "items_processed": 18448,
+      "posts": 1,
+      "items_processed": 20294,
       "estimated_tokens": 0
     }
   ]

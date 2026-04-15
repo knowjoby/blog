@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-15T17:12:39.070204+00:00",
-  "pending_count": 995,
+  "updated_at_utc": "2026-04-15T18:42:25.664314+00:00",
+  "pending_count": 998,
   "pending": [
     {
       "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
@@ -62,6 +62,17 @@
       ]
     },
     {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "score": 24,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Accelerating the next phase of AI",
       "url": "https://openai.com/index/accelerating-the-next-phase-ai",
       "score": 24,
@@ -71,6 +82,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "score": 19,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
@@ -102,6 +125,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
+      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
+      "score": 18,
+      "fetched_at": "2026-04-15",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
