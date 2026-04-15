@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-15T15:48:40.689635+00:00",
-  "pending_count": 991,
+  "updated_at_utc": "2026-04-15T17:12:39.070204+00:00",
+  "pending_count": 995,
   "pending": [
     {
       "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
+      "url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+      "score": 48,
+      "fetched_at": "2026-04-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -72,6 +84,28 @@
       "topics": []
     },
     {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-04-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "score": 18,
+      "fetched_at": "2026-04-15",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
       "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt",
       "score": 14,
@@ -80,6 +114,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "score": 11,
+      "fetched_at": "2026-04-15",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "reasoning"
       ]
     },
     {
