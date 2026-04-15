@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-15T14:11:05.767389+00:00",
-  "pending_count": 990,
+  "updated_at_utc": "2026-04-15T15:48:40.689635+00:00",
+  "pending_count": 991,
   "pending": [
     {
       "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
@@ -57,6 +57,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+      "url": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+      "score": 18,
+      "fetched_at": "2026-04-15",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
