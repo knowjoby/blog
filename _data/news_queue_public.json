@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-15T03:20:05.979920+00:00",
-  "pending_count": 984,
+  "updated_at_utc": "2026-04-15T05:36:37.802919+00:00",
+  "pending_count": 987,
   "pending": [
     {
       "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
@@ -13,6 +13,41 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "score": 26,
+      "fetched_at": "2026-04-15",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-04-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-04-15",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Chrome now lets you turn AI prompts into repeatable ‘Skills’",

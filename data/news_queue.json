@@ -3309,6 +3309,21 @@
       "topic": "open_source"
     },
     {
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "score": 26,
+      "fetched_at": "2026-04-15",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "google",
+      "topic": "multimodal"
+    },
+    {
       "title": "Anthropic is having a month",
       "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
       "score": 24,
@@ -6420,6 +6435,19 @@
       "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
       "score": 24,
       "fetched_at": "2026-04-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-04-15",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -11047,6 +11075,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-04-15",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -14000,7 +14041,7 @@
     {
       "date": "2026-04-15",
       "posts": 0,
-      "items_processed": 1845,
+      "items_processed": 3690,
       "estimated_tokens": 0
     }
   ]
