@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-16T19:45:41.641071+00:00",
-  "pending_count": 1005,
+  "updated_at_utc": "2026-04-16T20:55:27.703097+00:00",
+  "pending_count": 1007,
   "pending": [
     {
       "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
@@ -62,6 +62,17 @@
       ],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "Ballmer gives $80 million to NPR, with strings attached",
+      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
+      "score": 34,
+      "fetched_at": "2026-04-16",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -266,6 +277,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "score": 11,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
