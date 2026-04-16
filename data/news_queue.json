@@ -6665,6 +6665,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
       "score": 22,
@@ -10868,6 +10881,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+      "score": 14,
+      "fetched_at": "2026-04-16",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ],
+      "company": "",
+      "topic": "open_source"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -10912,6 +10938,19 @@
       "score": 12,
       "fetched_at": "2026-04-16",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
+      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
+      "score": 12,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "ai"
@@ -14386,7 +14425,7 @@
     {
       "date": "2026-04-16",
       "posts": 4,
-      "items_processed": 24020,
+      "items_processed": 25871,
       "estimated_tokens": 0
     }
   ]

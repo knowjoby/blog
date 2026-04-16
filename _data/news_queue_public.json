@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-16T20:55:27.703097+00:00",
-  "pending_count": 1007,
+  "updated_at_utc": "2026-04-16T21:51:32.612169+00:00",
+  "pending_count": 1010,
   "pending": [
     {
       "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
@@ -201,6 +201,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI starts offering a biology-tuned LLM",
+      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Why having “humans in the loop” in an AI war is an illusion",
       "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
       "score": 18,
@@ -256,6 +267,28 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
+      "score": 14,
+      "fetched_at": "2026-04-16",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
+      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
+      "score": 12,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
