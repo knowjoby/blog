@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-13 19:24:24 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 0,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 1844,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 4
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-13 20:50:43 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1148,6 +1126,40 @@
         "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code",
         "file": "_posts/2026-04-16-openais-big-codex-update-is-a-direct-shot-at-anthropics-claude-code.md",
         "score": 95,
+        "tags": [
+          "openai",
+          "anthropic",
+          "agentic",
+          "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-04-17 01:15:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1851,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+        "file": "_posts/2026-04-16-openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more.md",
+        "score": 64,
         "tags": [
           "openai",
           "anthropic",

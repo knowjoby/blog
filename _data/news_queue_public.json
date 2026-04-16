@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-16T18:11:42.160749+00:00",
-  "pending_count": 1001,
+  "updated_at_utc": "2026-04-16T19:45:41.641071+00:00",
+  "pending_count": 1005,
   "pending": [
     {
       "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
@@ -62,6 +62,19 @@
       ],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "score": 32,
+      "fetched_at": "2026-04-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
       ]
     },
     {
@@ -127,6 +140,39 @@
       "score": 24,
       "fetched_at": "2026-04-16",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
+      "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
+      "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],

@@ -1744,6 +1744,21 @@
       "topic": "coding"
     },
     {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "score": 32,
+      "fetched_at": "2026-04-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
       "title": "Really, you made this without AI? Prove it",
       "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
       "score": 31,
@@ -6590,6 +6605,45 @@
       "score": 24,
       "fetched_at": "2026-04-16",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
+      "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
+      "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
       "companies": [
         "openai"
       ],
@@ -14044,6 +14098,21 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "score": 64,
+      "file": "_posts/2026-04-16-openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more.md",
+      "posted_at": "2026-04-16",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -14290,8 +14359,8 @@
     },
     {
       "date": "2026-04-16",
-      "posts": 3,
-      "items_processed": 20318,
+      "posts": 4,
+      "items_processed": 22169,
       "estimated_tokens": 0
     }
   ]
