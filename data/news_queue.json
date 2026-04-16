@@ -894,6 +894,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Google adds Nano Banana-powered image generation to Gemini\u2019s Personal Intelligence",
+      "url": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
+      "score": 38,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "google",
+      "topic": "multimodal"
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -9990,6 +10005,19 @@
       "topic": ""
     },
     {
+      "title": "New ways to create personalized images in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "score": 18,
+      "fetched_at": "2026-04-16",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10771,6 +10799,19 @@
       "topic": "ai"
     },
     {
+      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+      "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "score": 12,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
       "url": "https://huggingface.co/blog/gemma4",
       "score": 11,
@@ -11185,6 +11226,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "Roblox\u2019s AI assistant gets new agentic tools to plan, build, and test games",
+      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "score": 11,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Deep double descent",
@@ -13910,6 +13964,30 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "score": 63,
+      "file": "_posts/2026-04-16-anthropic-releases-a-new-opus-model-amid-mythos-preview-buzz.md",
+      "posted_at": "2026-04-16",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Gemini can now pull from Google Photos to generate personalized images",
+      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+      "score": 55,
+      "file": "_posts/2026-04-16-gemini-can-now-pull-from-google-photos-to-generate-personalized-images.md",
+      "posted_at": "2026-04-16",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14156,8 +14234,8 @@
     },
     {
       "date": "2026-04-16",
-      "posts": 0,
-      "items_processed": 16619,
+      "posts": 2,
+      "items_processed": 18468,
       "estimated_tokens": 0
     }
   ]

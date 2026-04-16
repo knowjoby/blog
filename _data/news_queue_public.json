@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-16T15:00:37.903894+00:00",
-  "pending_count": 994,
+  "updated_at_utc": "2026-04-16T16:54:12.672306+00:00",
+  "pending_count": 998,
   "pending": [
     {
       "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
@@ -23,6 +23,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence",
+      "url": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
+      "score": 38,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -139,6 +152,39 @@
       ],
       "topics": [
         "open_source"
+      ]
+    },
+    {
+      "title": "New ways to create personalized images in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "score": 18,
+      "fetched_at": "2026-04-16",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+      "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+      "score": 12,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+      "score": 11,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
