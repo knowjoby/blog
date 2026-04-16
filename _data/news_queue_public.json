@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-04-16T12:43:46.789717+00:00",
-  "pending_count": 988,
+  "updated_at_utc": "2026-04-16T15:00:37.903894+00:00",
+  "pending_count": 994,
   "pending": [
+    {
+      "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
+      "url": "https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage",
+      "score": 49,
+      "fetched_at": "2026-04-16",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Ronan Farrow on Sam Altman’s ‘unconstrained’  relationship with the truth",
+      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+      "score": 43,
+      "fetched_at": "2026-04-16",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -15,6 +37,52 @@
         "coding",
         "multimodal"
       ]
+    },
+    {
+      "title": "Character.AI’s new Books mode turns reading into roleplay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
+      "score": 31,
+      "fetched_at": "2026-04-16",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+      "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+      "score": 30,
+      "fetched_at": "2026-04-16",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Treating enterprise AI as an operating layer",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "score": 26,
+      "fetched_at": "2026-04-16",
+      "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Anthropic Plots Major London Expansion",
+      "url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Gradient Labs gives every bank customer an AI account manager",
