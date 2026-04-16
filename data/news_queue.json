@@ -852,6 +852,22 @@
       "topic": "agentic"
     },
     {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 38,
+      "fetched_at": "2026-04-16",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning",
+        "coding",
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -6433,6 +6449,19 @@
       "topic": ""
     },
     {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
       "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
       "score": 22,
@@ -9825,6 +9854,34 @@
       "topics": [],
       "company": "anthropic",
       "topic": ""
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-04-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "score": 18,
+      "fetched_at": "2026-04-16",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "huggingface",
+      "topic": "open_source"
     },
     {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
@@ -13994,7 +14051,7 @@
     {
       "date": "2026-04-16",
       "posts": 0,
-      "items_processed": 1846,
+      "items_processed": 3692,
       "estimated_tokens": 0
     }
   ]
