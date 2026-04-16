@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-16T16:54:12.672306+00:00",
-  "pending_count": 998,
+  "updated_at_utc": "2026-04-16T18:11:42.160749+00:00",
+  "pending_count": 1001,
   "pending": [
     {
       "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
@@ -52,6 +52,19 @@
       ]
     },
     {
+      "title": "Gemini can now create personalized AI images by digging around in Google Photos",
+      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "score": 38,
+      "fetched_at": "2026-04-16",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
       "title": "Character.AI’s new Books mode turns reading into roleplay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
       "score": 31,
@@ -61,6 +74,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
+      "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
+      "score": 30,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
@@ -85,6 +109,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "The Battle for OpenAI’s Soul",
+      "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Anthropic Plots Major London Expansion",

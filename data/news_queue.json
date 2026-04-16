@@ -909,6 +909,21 @@
       "topic": "multimodal"
     },
     {
+      "title": "Gemini can now create personalized AI images by digging around in Google Photos",
+      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+      "score": 38,
+      "fetched_at": "2026-04-16",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "google",
+      "topic": "multimodal"
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -2770,6 +2785,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
+      "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
+      "score": 30,
+      "fetched_at": "2026-04-16",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -6554,6 +6582,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "The Battle for OpenAI\u2019s Soul",
+      "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "score": 24,
+      "fetched_at": "2026-04-16",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -13988,6 +14029,21 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI\u2019s big Codex update is a direct shot at Anthropic\u2019s Claude Code",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "score": 95,
+      "file": "_posts/2026-04-16-openais-big-codex-update-is-a-direct-shot-at-anthropics-claude-code.md",
+      "posted_at": "2026-04-16",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -14234,8 +14290,8 @@
     },
     {
       "date": "2026-04-16",
-      "posts": 2,
-      "items_processed": 18468,
+      "posts": 3,
+      "items_processed": 20318,
       "estimated_tokens": 0
     }
   ]

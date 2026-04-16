@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-13 17:21:57 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1843,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-13 19:24:24 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1141,6 +1119,40 @@
         "score": 55,
         "tags": [
           "google"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-04-16 23:41:42 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1850,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI’s big Codex update is a direct shot at Anthropic’s Claude Code",
+        "file": "_posts/2026-04-16-openais-big-codex-update-is-a-direct-shot-at-anthropics-claude-code.md",
+        "score": 95,
+        "tags": [
+          "openai",
+          "anthropic",
+          "agentic",
+          "coding"
         ]
       }
     ]
