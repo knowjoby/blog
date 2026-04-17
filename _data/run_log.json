@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-15 00:54:55 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 0,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 1844,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 4
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-15 02:01:01 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1149,5 +1127,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-18 03:36:59 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1853,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI’s former Sora boss is leaving",
+        "file": "_posts/2026-04-17-openais-former-sora-boss-is-leaving.md",
+        "score": 63,
+        "tags": [
+          "openai",
+          "multimodal"
+        ]
+      }
+    ]
   }
 ]

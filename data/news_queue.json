@@ -14245,6 +14245,19 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI\u2019s former Sora boss is leaving",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "score": 63,
+      "file": "_posts/2026-04-17-openais-former-sora-boss-is-leaving.md",
+      "posted_at": "2026-04-17",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     }
   ],
   "daily_usage": [
@@ -14497,8 +14510,8 @@
     },
     {
       "date": "2026-04-17",
-      "posts": 0,
-      "items_processed": 25926,
+      "posts": 1,
+      "items_processed": 27779,
       "estimated_tokens": 0
     }
   ]
