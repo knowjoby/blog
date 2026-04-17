@@ -6669,6 +6669,32 @@
       "topic": ""
     },
     {
+      "title": "Zoom teams up with World to verify humans in meetings",
+      "url": "https://techcrunch.com/2026/04/17/zoom-teams-up-with-world-to-verify-humans-in-meeting/",
+      "score": 24,
+      "fetched_at": "2026-04-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+      "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "score": 24,
+      "fetched_at": "2026-04-17",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14433,7 +14459,7 @@
     {
       "date": "2026-04-17",
       "posts": 0,
-      "items_processed": 22220,
+      "items_processed": 24073,
       "estimated_tokens": 0
     }
   ]
