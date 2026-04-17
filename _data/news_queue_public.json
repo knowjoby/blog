@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-17T16:58:54.745786+00:00",
-  "pending_count": 1007,
+  "updated_at_utc": "2026-04-17T17:57:14.401508+00:00",
+  "pending_count": 1010,
   "pending": [
     {
       "title": "Are we tokenmaxxing our way to nowhere?",
@@ -13,6 +13,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
+      "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
+      "score": 34,
+      "fetched_at": "2026-04-17",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
     },
     {
       "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
@@ -77,6 +91,28 @@
       "source": "TechCrunch",
       "companies": [
         "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+      "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+      "score": 24,
+      "fetched_at": "2026-04-17",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
+      "url": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
+      "score": 18,
+      "fetched_at": "2026-04-17",
+      "source": "Wired",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
