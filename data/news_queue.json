@@ -349,6 +349,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "score": 45,
+      "fetched_at": "2026-04-17",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
       "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
       "score": 44,
@@ -463,6 +476,19 @@
       "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
       "score": 43,
       "fetched_at": "2026-04-16",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Should you stare into Sam Altman\u2019s orb before your next date?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "score": 43,
+      "fetched_at": "2026-04-17",
       "source": "The Verge",
       "companies": [
         "openai"
@@ -6687,6 +6713,19 @@
       "score": 24,
       "fetched_at": "2026-04-17",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "score": 24,
+      "fetched_at": "2026-04-17",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -14459,7 +14498,7 @@
     {
       "date": "2026-04-17",
       "posts": 0,
-      "items_processed": 24073,
+      "items_processed": 25926,
       "estimated_tokens": 0
     }
   ]
