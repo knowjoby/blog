@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "A jury says Meta and Google hurt a kid. What now?",
-      "url": "https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230",
-      "score": 49,
-      "fetched_at": "2026-04-02",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI just bought TBPN",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-      "score": 49,
-      "fetched_at": "2026-04-02",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "OpenAI\u2019s AGI boss is taking a leave of absence",
       "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
       "score": 49,
@@ -1798,58 +1772,6 @@
       "topic": "ai"
     },
     {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "score": 30,
-      "fetched_at": "2026-04-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
-      "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
-      "score": 30,
-      "fetched_at": "2026-04-02",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-      "score": 30,
-      "fetched_at": "2026-04-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Acquires Tech Talk Show TBPN\u2014and Buys Itself Some Positive News",
-      "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-      "score": 30,
-      "fetched_at": "2026-04-02",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Anthropic ramps up its political activities with a new PAC",
       "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
       "score": 30,
@@ -3504,58 +3426,6 @@
       ],
       "company": "google",
       "topic": "reasoning"
-    },
-    {
-      "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
-      "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
-      "score": 24,
-      "fetched_at": "2026-04-02",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
-      "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
-      "score": 24,
-      "fetched_at": "2026-04-02",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
-      "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
-      "score": 24,
-      "fetched_at": "2026-04-02",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-      "score": 24,
-      "fetched_at": "2026-04-02",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
@@ -6678,21 +6548,6 @@
       "topic": ""
     },
     {
-      "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
-      "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders",
-      "score": 22,
-      "fetched_at": "2026-04-02",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "coding"
-    },
-    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6789,19 +6644,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
-      "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
-      "score": 20,
-      "fetched_at": "2026-04-02",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -6870,32 +6712,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "score": 18,
-      "fetched_at": "2026-04-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "score": 18,
-      "fetched_at": "2026-04-02",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
@@ -10178,19 +9994,6 @@
       "topic": "coding"
     },
     {
-      "title": "Google releases Gemma 4 under Apache 2.0 \u2014 and that license change may matter more than benchmarks",
-      "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
-      "score": 16,
-      "fetched_at": "2026-04-02",
-      "source": "VentureBeat",
-      "companies": [
-        "mistral"
-      ],
-      "topics": [],
-      "company": "mistral",
-      "topic": ""
-    },
-    {
       "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "url": "https://huggingface.co/blog/storage-buckets",
       "score": 16,
@@ -10957,19 +10760,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "score": 11,
-      "fetched_at": "2026-04-02",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
@@ -14439,6 +14229,12 @@
       "date": "2026-04-16",
       "posts": 4,
       "items_processed": 29573,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-17",
+      "posts": 0,
+      "items_processed": 1851,
       "estimated_tokens": 0
     }
   ]
