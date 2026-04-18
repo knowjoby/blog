@@ -895,6 +895,20 @@
       "topic": "multimodal"
     },
     {
+      "title": "AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "score": 38,
+      "fetched_at": "2026-04-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -14409,7 +14423,7 @@
     {
       "date": "2026-04-18",
       "posts": 0,
-      "items_processed": 29648,
+      "items_processed": 31501,
       "estimated_tokens": 0
     }
   ]
