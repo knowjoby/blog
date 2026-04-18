@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-04-18T00:04:48.871592+00:00",
-  "pending_count": 1002,
+  "updated_at_utc": "2026-04-18T03:37:23.772740+00:00",
+  "pending_count": 1003,
   "pending": [
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-04-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
     {
       "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",

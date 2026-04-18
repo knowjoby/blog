@@ -2848,6 +2848,21 @@
       "topic": "coding"
     },
     {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-04-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Best practices for deploying language models",
       "url": "https://openai.com/index/best-practices-for-deploying-language-models",
       "score": 28,
@@ -14342,7 +14357,7 @@
     {
       "date": "2026-04-18",
       "posts": 0,
-      "items_processed": 1853,
+      "items_processed": 3706,
       "estimated_tokens": 0
     }
   ]
