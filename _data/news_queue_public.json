@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-18T15:08:21.757815+00:00",
-  "pending_count": 1006,
+  "updated_at_utc": "2026-04-18T16:03:39.395862+00:00",
+  "pending_count": 1007,
   "pending": [
+    {
+      "title": "Cheap stuff that doesn’t suck, take 3",
+      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+      "score": 33,
+      "fetched_at": "2026-04-18",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",

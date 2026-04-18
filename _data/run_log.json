@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-04-16 00:12:25 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 1846,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "Google launches a Gemini AI app on Mac",
-        "file": "_posts/2026-04-15-google-launches-a-gemini-ai-app-on-mac.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-16 01:35:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1140,6 +1109,28 @@
   },
   {
     "ran_at": "2026-04-18 20:38:21 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1853,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-18 21:33:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
     "posts_created": 0,
