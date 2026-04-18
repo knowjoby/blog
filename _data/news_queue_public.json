@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-18T10:09:37.768231+00:00",
-  "pending_count": 1003,
+  "updated_at_utc": "2026-04-18T11:09:15.563249+00:00",
+  "pending_count": 1005,
   "pending": [
     {
       "title": "How we monitor internal coding agents for misalignment",
@@ -14,6 +14,28 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "score": 24,
+      "fetched_at": "2026-04-18",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop",
+      "url": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
+      "score": 18,
+      "fetched_at": "2026-04-18",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
