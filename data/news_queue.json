@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "OpenAI\u2019s AGI boss is taking a leave of absence",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-      "score": 49,
-      "fetched_at": "2026-04-03",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
       "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
       "score": 49,
@@ -360,22 +347,6 @@
       "topics": [],
       "company": "anthropic",
       "topic": ""
-    },
-    {
-      "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
-      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
-      "score": 44,
-      "fetched_at": "2026-04-03",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "meta"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
     },
     {
       "title": "Pioneering an AI clinical copilot with Penda Health",
@@ -1114,20 +1085,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
-      "score": 34,
-      "fetched_at": "2026-04-03",
-      "source": "Ars Technica",
-      "companies": [
-        "meta",
-        "perplexity"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "SchoolAI builds an AI platform that empowers teachers",
       "url": "https://openai.com/index/schoolai",
       "score": 34,
@@ -1839,19 +1796,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Anthropic ramps up its political activities with a new PAC",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-      "score": 30,
-      "fetched_at": "2026-04-03",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -2859,21 +2803,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-04-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -2917,19 +2846,6 @@
       ],
       "company": "microsoft",
       "topic": "coding"
-    },
-    {
-      "title": "Chatbots are now prescribing psychiatric drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-      "score": 28,
-      "fetched_at": "2026-04-03",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Best practices for deploying language models",
@@ -3547,84 +3463,6 @@
       ],
       "company": "google",
       "topic": "reasoning"
-    },
-    {
-      "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
-      "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
-      "score": 24,
-      "fetched_at": "2026-04-03",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI's Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-      "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-      "score": 24,
-      "fetched_at": "2026-04-03",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
-      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-      "score": 24,
-      "fetched_at": "2026-04-03",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-      "score": 24,
-      "fetched_at": "2026-04-03",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
-      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
-      "score": 24,
-      "fetched_at": "2026-04-03",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-      "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-      "score": 24,
-      "fetched_at": "2026-04-03",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "AI agents that automatically prevent, detect and fix software issues are here as NeuBird AI launches Falcon, FalconClaw",
@@ -6911,19 +6749,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
-      "score": 18,
-      "fetched_at": "2026-04-03",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
@@ -10634,19 +10459,6 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
-    },
-    {
-      "title": "The final days of the Tesla Model X and S are here. All bets are on the Cybercab.",
-      "url": "https://techcrunch.com/2026/04/03/the-final-days-of-the-tesla-model-x-and-s-are-here-all-bets-are-on-the-cybercab/",
-      "score": 14,
-      "fetched_at": "2026-04-03",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
@@ -14525,6 +14337,12 @@
       "date": "2026-04-17",
       "posts": 1,
       "items_processed": 29632,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-18",
+      "posts": 0,
+      "items_processed": 1853,
       "estimated_tokens": 0
     }
   ]
