@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-04-17 01:15:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 1851,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-        "file": "_posts/2026-04-16-openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more.md",
-        "score": 64,
-        "tags": [
-          "openai",
-          "anthropic",
-          "agentic",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-17 02:25:27 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1117,6 +1083,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-19 17:29:28 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1853,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
