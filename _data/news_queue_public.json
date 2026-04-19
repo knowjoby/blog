@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-19T21:04:41.150497+00:00",
-  "pending_count": 1002,
+  "updated_at_utc": "2026-04-19T22:00:56.440041+00:00",
+  "pending_count": 1003,
   "pending": [
     {
       "title": "Best Meta Glasses (2026): Ray-Ban, Oakley, AR",
@@ -10,6 +10,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "score": 24,
+      "fetched_at": "2026-04-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
