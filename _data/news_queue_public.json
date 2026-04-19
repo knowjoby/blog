@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-18T23:41:26.750648+00:00",
-  "pending_count": 1008,
+  "updated_at_utc": "2026-04-19T03:30:39.227290+00:00",
+  "pending_count": 1001,
   "pending": [
     {
       "title": "AI chip startup Cerebras files for IPO",
@@ -11270,90 +11270,6 @@
       "topics": [
         "coding"
       ]
-    },
-    {
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "score": 42,
-      "fetched_at": "2026-04-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-      "score": 38,
-      "fetched_at": "2026-04-04",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
-      "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
-      "score": 32,
-      "fetched_at": "2026-04-04",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "score": 32,
-      "fetched_at": "2026-04-04",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Really, you made this without AI? Prove it",
-      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "score": 31,
-      "fetched_at": "2026-04-04",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
-      "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
-      "score": 18,
-      "fetched_at": "2026-04-04",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-      "score": 14,
-      "fetched_at": "2026-04-04",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
     }
   ]
 }

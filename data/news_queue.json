@@ -469,20 +469,6 @@
       "topic": ""
     },
     {
-      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-      "score": 42,
-      "fetched_at": "2026-04-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -712,21 +698,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-      "score": 38,
-      "fetched_at": "2026-04-04",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "nvidia",
-      "topic": "agentic"
     },
     {
       "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
@@ -1336,36 +1307,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Anthropic cuts off the ability to use Claude subscriptions with OpenClaw and third-party AI agents",
-      "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and",
-      "score": 32,
-      "fetched_at": "2026-04-04",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "score": 32,
-      "fetched_at": "2026-04-04",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "coding"
-    },
-    {
       "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of service",
       "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
       "score": 32,
@@ -1784,19 +1725,6 @@
       ],
       "company": "openai",
       "topic": "reasoning"
-    },
-    {
-      "title": "Really, you made this without AI? Prove it",
-      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-      "score": 31,
-      "fetched_at": "2026-04-04",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Character.AI\u2019s new Books mode turns reading into roleplay",
@@ -6819,19 +6747,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
-      "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an",
-      "score": 18,
-      "fetched_at": "2026-04-04",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
       "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
       "score": 18,
@@ -10539,19 +10454,6 @@
       ],
       "topics": [],
       "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-      "score": 14,
-      "fetched_at": "2026-04-04",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
       "topic": ""
     },
     {
@@ -14424,6 +14326,12 @@
       "date": "2026-04-18",
       "posts": 0,
       "items_processed": 40766,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-19",
+      "posts": 0,
+      "items_processed": 1853,
       "estimated_tokens": 0
     }
   ]
