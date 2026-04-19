@@ -1,45 +1,5 @@
 [
   {
-    "ran_at": "2026-04-16 22:24:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 2,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1849,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
-        "file": "_posts/2026-04-16-anthropic-releases-a-new-opus-model-amid-mythos-preview-buzz.md",
-        "score": 63,
-        "tags": [
-          "anthropic",
-          "coding"
-        ]
-      },
-      {
-        "title": "Gemini can now pull from Google Photos to generate personalized images",
-        "file": "_posts/2026-04-16-gemini-can-now-pull-from-google-photos-to-generate-personalized-images.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-16 23:41:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1131,6 +1091,28 @@
   },
   {
     "ran_at": "2026-04-19 14:30:20 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1853,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-19 15:38:49 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
