@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-20T20:01:36.786155+00:00",
-  "pending_count": 1006,
+  "updated_at_utc": "2026-04-20T21:24:36.955082+00:00",
+  "pending_count": 1008,
   "pending": [
+    {
+      "title": "WhatsApp tests ‘Plus’ subscription that adds stickers and more for a few bucks a month",
+      "url": "https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription",
+      "score": 43,
+      "fetched_at": "2026-04-20",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Humanoid ‘Lightning’ robot smashes the half-marathon record",
       "url": "https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record",
@@ -11,6 +22,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Silicon Valley has forgotten what normal people want",
+      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+      "score": 28,
+      "fetched_at": "2026-04-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {

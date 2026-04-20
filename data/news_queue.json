@@ -456,6 +456,19 @@
       "topic": ""
     },
     {
+      "title": "WhatsApp tests \u2018Plus\u2019 subscription that adds stickers and more for a few bucks a month",
+      "url": "https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription",
+      "score": 43,
+      "fetched_at": "2026-04-20",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -2960,6 +2973,19 @@
       "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
       "score": 28,
       "fetched_at": "2026-04-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Silicon Valley has forgotten what normal people want",
+      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+      "score": 28,
+      "fetched_at": "2026-04-20",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -14400,7 +14426,7 @@
     {
       "date": "2026-04-20",
       "posts": 0,
-      "items_processed": 22241,
+      "items_processed": 24095,
       "estimated_tokens": 0
     }
   ]
