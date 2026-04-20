@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-20T14:19:50.807280+00:00",
-  "pending_count": 1002,
+  "updated_at_utc": "2026-04-20T15:53:50.749412+00:00",
+  "pending_count": 1004,
   "pending": [
+    {
+      "title": "Humanoid ‘Lightning’ robot smashes the half-marathon record",
+      "url": "https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record",
+      "score": 33,
+      "fetched_at": "2026-04-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "OpenAI helps Hyatt advance AI among colleagues",
       "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
@@ -10,6 +21,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+      "score": 24,
+      "fetched_at": "2026-04-20",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

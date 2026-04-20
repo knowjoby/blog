@@ -1294,6 +1294,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Humanoid \u2018Lightning\u2019 robot smashes the half-marathon record",
+      "url": "https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record",
+      "score": 33,
+      "fetched_at": "2026-04-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -6589,6 +6602,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+      "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+      "score": 24,
+      "fetched_at": "2026-04-20",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -14348,7 +14374,7 @@
     {
       "date": "2026-04-20",
       "posts": 0,
-      "items_processed": 14825,
+      "items_processed": 16679,
       "estimated_tokens": 0
     }
   ]
