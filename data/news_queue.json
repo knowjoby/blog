@@ -6579,6 +6579,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "score": 24,
+      "fetched_at": "2026-04-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14335,7 +14348,7 @@
     {
       "date": "2026-04-20",
       "posts": 0,
-      "items_processed": 12971,
+      "items_processed": 14825,
       "estimated_tokens": 0
     }
   ]
