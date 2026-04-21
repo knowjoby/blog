@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-21T22:46:14.356605+00:00",
-  "pending_count": 1021,
+  "updated_at_utc": "2026-04-21T23:40:43.714970+00:00",
+  "pending_count": 1022,
   "pending": [
     {
       "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
@@ -130,6 +130,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

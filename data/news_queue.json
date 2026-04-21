@@ -6808,6 +6808,19 @@
       "topic": ""
     },
     {
+      "title": "Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14634,7 +14647,7 @@
     {
       "date": "2026-04-21",
       "posts": 2,
-      "items_processed": 27718,
+      "items_processed": 29537,
       "estimated_tokens": 0
     }
   ]
