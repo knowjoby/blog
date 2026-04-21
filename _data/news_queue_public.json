@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-04-21T19:46:05.929394+00:00",
-  "pending_count": 1016,
+  "updated_at_utc": "2026-04-21T20:59:16.366963+00:00",
+  "pending_count": 1019,
   "pending": [
+    {
+      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
+      "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
+      "score": 46,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding",
+        "multimodal"
+      ]
+    },
     {
       "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
       "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
@@ -114,6 +128,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
