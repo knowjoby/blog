@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-21T15:21:23.094575+00:00",
-  "pending_count": 1007,
+  "updated_at_utc": "2026-04-21T16:38:04.448092+00:00",
+  "pending_count": 1009,
   "pending": [
+    {
+      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "score": 43,
+      "fetched_at": "2026-04-21",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Yelp is making its AI chatbot way more useful",
       "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
@@ -36,6 +47,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
+      "url": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Scaling Codex to enterprises worldwide",

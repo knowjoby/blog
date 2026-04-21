@@ -456,6 +456,19 @@
       "topic": ""
     },
     {
+      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
+      "score": 43,
+      "fetched_at": "2026-04-21",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -6641,6 +6654,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
+      "url": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -14419,7 +14445,7 @@
     {
       "date": "2026-04-21",
       "posts": 0,
-      "items_processed": 16692,
+      "items_processed": 18549,
       "estimated_tokens": 0
     }
   ]
