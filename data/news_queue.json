@@ -2728,6 +2728,19 @@
       "topic": ""
     },
     {
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "score": 30,
+      "fetched_at": "2026-04-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -14352,7 +14365,7 @@
     {
       "date": "2026-04-21",
       "posts": 0,
-      "items_processed": 1854,
+      "items_processed": 3708,
       "estimated_tokens": 0
     }
   ]

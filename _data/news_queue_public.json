@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-21T00:07:55.841111+00:00",
-  "pending_count": 1002,
+  "updated_at_utc": "2026-04-21T03:52:59.369885+00:00",
+  "pending_count": 1003,
   "pending": [
+    {
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "score": 30,
+      "fetched_at": "2026-04-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "WhatsApp tests ‘Plus’ subscription that adds stickers and more for a few bucks a month",
       "url": "https://www.theverge.com/tech/915172/meta-testing-whatsapp-plus-subscription",
