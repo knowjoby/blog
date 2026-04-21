@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-21T13:57:29.707946+00:00",
-  "pending_count": 1005,
+  "updated_at_utc": "2026-04-21T15:21:23.094575+00:00",
+  "pending_count": 1007,
   "pending": [
     {
       "title": "Yelp is making its AI chatbot way more useful",
@@ -25,6 +25,19 @@
       "topics": []
     },
     {
+      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
+      "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
+      "score": 25,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "Scaling Codex to enterprises worldwide",
       "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
       "score": 24,
@@ -32,6 +45,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
+      "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
+      "score": 18,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

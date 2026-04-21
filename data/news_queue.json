@@ -3444,6 +3444,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
+      "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
+      "score": 25,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
+    },
+    {
       "title": "Anthropic\u00a0ups compute deal with Google and Broadcom amid skyrocketing demand",
       "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
       "score": 24,
@@ -10062,6 +10077,19 @@
       "topic": ""
     },
     {
+      "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
+      "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
+      "score": 18,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14391,7 +14419,7 @@
     {
       "date": "2026-04-21",
       "posts": 0,
-      "items_processed": 14835,
+      "items_processed": 16692,
       "estimated_tokens": 0
     }
   ]
