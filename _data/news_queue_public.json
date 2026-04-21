@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-21T21:55:38.985311+00:00",
-  "pending_count": 1020,
+  "updated_at_utc": "2026-04-21T22:46:14.356605+00:00",
+  "pending_count": 1021,
   "pending": [
     {
       "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
@@ -152,6 +152,17 @@
       "source": "Ars Technica",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

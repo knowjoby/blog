@@ -6795,6 +6795,19 @@
       "topic": ""
     },
     {
+      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
+      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14331,6 +14344,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "score": 57,
+      "file": "_posts/2026-04-21-spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion.md",
+      "posted_at": "2026-04-21",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -14607,8 +14633,8 @@
     },
     {
       "date": "2026-04-21",
-      "posts": 1,
-      "items_processed": 25899,
+      "posts": 2,
+      "items_processed": 27718,
       "estimated_tokens": 0
     }
   ]
