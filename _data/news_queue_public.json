@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-21T10:02:20.853990+00:00",
-  "pending_count": 1003,
+  "updated_at_utc": "2026-04-21T11:40:42.030576+00:00",
+  "pending_count": 1004,
   "pending": [
+    {
+      "title": "Yelp is making its AI chatbot way more useful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
+      "score": 31,
+      "fetched_at": "2026-04-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
