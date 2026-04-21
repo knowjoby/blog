@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-21T20:59:16.366963+00:00",
-  "pending_count": 1019,
+  "updated_at_utc": "2026-04-21T21:55:38.985311+00:00",
+  "pending_count": 1020,
   "pending": [
     {
       "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
@@ -49,6 +49,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
+      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
+      "score": 38,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",

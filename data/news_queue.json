@@ -908,6 +908,21 @@
       "topic": ""
     },
     {
+      "title": "Google\u2019s new Deep Research and Deep Research Max agents can search the web and your private data",
+      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
+      "score": 38,
+      "fetched_at": "2026-04-21",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -14593,7 +14608,7 @@
     {
       "date": "2026-04-21",
       "posts": 1,
-      "items_processed": 24080,
+      "items_processed": 25899,
       "estimated_tokens": 0
     }
   ]
