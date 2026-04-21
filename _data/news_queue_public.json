@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-21T16:38:04.448092+00:00",
-  "pending_count": 1009,
+  "updated_at_utc": "2026-04-21T18:02:37.049363+00:00",
+  "pending_count": 1011,
   "pending": [
     {
       "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
@@ -71,6 +71,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
       "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
       "score": 18,
@@ -80,6 +91,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Building agent-first governance and security",
+      "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
+      "score": 16,
+      "fetched_at": "2026-04-21",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
     },
     {
       "title": "WhatsApp tests ‘Plus’ subscription that adds stickers and more for a few bucks a month",

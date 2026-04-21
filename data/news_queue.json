@@ -6670,6 +6670,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10559,6 +10572,20 @@
       "topic": ""
     },
     {
+      "title": "Building agent-first governance and security",
+      "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
+      "score": 16,
+      "fetched_at": "2026-04-21",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey\u2019s AI bet",
       "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
       "score": 14,
@@ -14445,7 +14472,7 @@
     {
       "date": "2026-04-21",
       "posts": 0,
-      "items_processed": 18549,
+      "items_processed": 20406,
       "estimated_tokens": 0
     }
   ]
