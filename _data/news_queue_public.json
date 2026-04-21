@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-21T18:02:37.049363+00:00",
-  "pending_count": 1011,
+  "updated_at_utc": "2026-04-21T19:46:05.929394+00:00",
+  "pending_count": 1016,
   "pending": [
+    {
+      "title": "Framework’s first eGPUs turn its laptop into a desktop PC",
+      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "score": 43,
+      "fetched_at": "2026-04-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
       "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
@@ -12,6 +23,31 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "score": 42,
+      "fetched_at": "2026-04-21",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+      "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
+      "score": 32,
+      "fetched_at": "2026-04-21",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Yelp is making its AI chatbot way more useful",
@@ -47,6 +83,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+      "score": 24,
+      "fetched_at": "2026-04-21",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
@@ -89,6 +136,17 @@
       "source": "VentureBeat",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "score": 18,
+      "fetched_at": "2026-04-21",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
