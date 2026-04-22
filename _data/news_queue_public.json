@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T21:55:44.860186+00:00",
-  "pending_count": 1041,
+  "updated_at_utc": "2026-04-22T22:54:30.944415+00:00",
+  "pending_count": 1045,
   "pending": [
     {
       "title": "X is going to let Grok curate your timeline",
@@ -188,6 +188,17 @@
       ]
     },
     {
+      "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+      "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
       "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
       "score": 24,
@@ -265,6 +276,17 @@
       "topics": []
     },
     {
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
       "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
       "score": 18,
@@ -272,6 +294,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -306,6 +339,18 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Are you paying an AI ‘swarm tax’? Why single agents often beat complex systems",
+      "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems",
+      "score": 16,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
       ]
     },
     {

@@ -7022,6 +7022,19 @@
       "topic": ""
     },
     {
+      "title": "Sam Altman\u2019s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+      "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10494,6 +10507,32 @@
       "topic": ""
     },
     {
+      "title": "Hands on with X\u2019s new AI-powered custom feeds",
+      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10959,6 +10998,20 @@
       "topics": [
         "agentic",
         "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Are you paying an AI \u2018swarm tax\u2019? Why single agents often beat complex systems",
+      "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems",
+      "score": 16,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
       ],
       "company": "",
       "topic": "agentic"
@@ -14932,7 +14985,7 @@
     {
       "date": "2026-04-22",
       "posts": 2,
-      "items_processed": 23646,
+      "items_processed": 25469,
       "estimated_tokens": 0
     }
   ]
