@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T19:22:59.352641+00:00",
-  "pending_count": 1035,
+  "updated_at_utc": "2026-04-22T20:30:59.594781+00:00",
+  "pending_count": 1037,
   "pending": [
     {
       "title": "Google Meet will take AI notes for in-person meetings too",
@@ -21,6 +21,17 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "score": 49,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -203,6 +214,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic tested removing Claude Code from the Pro plan",
+      "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
