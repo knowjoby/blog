@@ -962,6 +962,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
+      "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
+      "score": 38,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "openai",
+      "topic": "open_source"
+    },
+    {
       "title": "Cloudflare made a WordPress for AI agents",
       "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
       "score": 37,
@@ -1404,6 +1419,19 @@
     {
       "title": "First vacuums \u2014 then the world",
       "url": "https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk",
+      "score": 33,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Watch Sony\u2019s elite ping-pong robot beat top-ranked players",
+      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
       "score": 33,
       "fetched_at": "2026-04-22",
       "source": "The Verge",
@@ -2917,6 +2945,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "score": 30,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -6887,6 +6928,32 @@
       "topic": ""
     },
     {
+      "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
+      "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10346,6 +10413,19 @@
       "topic": ""
     },
     {
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11627,6 +11707,19 @@
       "score": 11,
       "fetched_at": "2026-04-22",
       "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+      "score": 11,
+      "fetched_at": "2026-04-22",
+      "source": "Ars Technica",
       "companies": [],
       "topics": [
         "agentic"
@@ -14758,7 +14851,7 @@
     {
       "date": "2026-04-22",
       "posts": 2,
-      "items_processed": 18182,
+      "items_processed": 20003,
       "estimated_tokens": 0
     }
   ]

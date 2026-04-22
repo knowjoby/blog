@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T17:33:51.583463+00:00",
-  "pending_count": 1028,
+  "updated_at_utc": "2026-04-22T19:22:59.352641+00:00",
+  "pending_count": 1035,
   "pending": [
     {
       "title": "Google Meet will take AI notes for in-person meetings too",
@@ -47,6 +47,30 @@
       "topics": []
     },
     {
+      "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
+      "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
+      "score": 38,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+      "score": 33,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "First vacuums — then the world",
       "url": "https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk",
       "score": 33,
@@ -78,6 +102,17 @@
       "source": "VentureBeat",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "score": 30,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -117,6 +152,17 @@
       "topics": []
     },
     {
+      "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
+      "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
       "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
       "score": 24,
@@ -150,6 +196,17 @@
       "topics": []
     },
     {
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
       "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
       "score": 18,
@@ -163,6 +220,17 @@
     {
       "title": "Creating with Sora Safely",
       "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
       "score": 18,
       "fetched_at": "2026-04-22",
       "source": "OpenAI",
@@ -210,6 +278,17 @@
       "score": 11,
       "fetched_at": "2026-04-22",
       "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Google unveils two new TPUs designed for the \"agentic era\"",
+      "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
+      "score": 11,
+      "fetched_at": "2026-04-22",
+      "source": "Ars Technica",
       "companies": [],
       "topics": [
         "agentic"
