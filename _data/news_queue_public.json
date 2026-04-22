@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T12:40:49.903248+00:00",
-  "pending_count": 1017,
+  "updated_at_utc": "2026-04-22T14:49:27.703125+00:00",
+  "pending_count": 1019,
   "pending": [
     {
       "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
@@ -25,6 +25,17 @@
       ]
     },
     {
+      "title": "Google’s Gemini can now run on a single air-gapped server — and vanish when you pull the plug",
+      "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
+      "score": 30,
+      "fetched_at": "2026-04-22",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
       "url": "https://www.wired.com/review/beatbot-sora-30/",
       "score": 26,
@@ -43,6 +54,17 @@
       "score": 24,
       "fetched_at": "2026-04-22",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
