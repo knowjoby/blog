@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-22T14:49:27.703125+00:00",
-  "pending_count": 1019,
+  "updated_at_utc": "2026-04-22T16:12:46.650741+00:00",
+  "pending_count": 1022,
   "pending": [
+    {
+      "title": "Now Meta will track what employees do on their computers to train its AI agents",
+      "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+      "score": 49,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
@@ -32,6 +43,17 @@
       "source": "VentureBeat",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "score": 30,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -112,6 +134,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+      "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+      "score": 14,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
       ]
     },
     {
