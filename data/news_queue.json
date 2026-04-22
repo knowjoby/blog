@@ -10227,6 +10227,19 @@
       "topic": ""
     },
     {
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10271,6 +10284,19 @@
       "score": 17,
       "fetched_at": "2026-04-17",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "score": 17,
+      "fetched_at": "2026-04-22",
+      "source": "Google AI",
       "companies": [],
       "topics": [
         "agentic"
@@ -14587,7 +14613,7 @@
     {
       "date": "2026-04-22",
       "posts": 2,
-      "items_processed": 10908,
+      "items_processed": 12726,
       "estimated_tokens": 0
     }
   ]

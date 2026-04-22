@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T11:12:31.063236+00:00",
-  "pending_count": 1015,
+  "updated_at_utc": "2026-04-22T12:40:49.903248+00:00",
+  "pending_count": 1017,
   "pending": [
     {
       "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
@@ -60,6 +60,17 @@
       "topics": []
     },
     {
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Creating with Sora Safely",
       "url": "https://openai.com/index/creating-with-sora-safely",
       "score": 18,
@@ -69,6 +80,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "score": 17,
+      "fetched_at": "2026-04-22",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
