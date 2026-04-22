@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-21T23:40:43.714970+00:00",
-  "pending_count": 1022,
+  "updated_at_utc": "2026-04-22T03:22:39.391609+00:00",
+  "pending_count": 1010,
   "pending": [
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
       "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
@@ -11362,152 +11373,6 @@
         "xai"
       ],
       "topics": []
-    },
-    {
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-      "score": 43,
-      "fetched_at": "2026-04-07",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing",
-      "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release",
-      "score": 30,
-      "fetched_at": "2026-04-07",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT 5.4 on SWE-Bench Pro",
-      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
-      "score": 26,
-      "fetched_at": "2026-04-07",
-      "source": "VentureBeat",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source",
-        "china"
-      ]
-    },
-    {
-      "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
-      "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
-      "score": 24,
-      "fetched_at": "2026-04-07",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Google Maps can now write captions for your photos using AI",
-      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-      "score": 24,
-      "fetched_at": "2026-04-07",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "score": 24,
-      "fetched_at": "2026-04-07",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "score": 24,
-      "fetched_at": "2026-04-07",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "score": 24,
-      "fetched_at": "2026-04-07",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "score": 18,
-      "fetched_at": "2026-04-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "What the heck is wrong with our AI overlords?",
-      "url": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
-      "score": 18,
-      "fetched_at": "2026-04-07",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
-      "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest",
-      "score": 14,
-      "fetched_at": "2026-04-07",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
-      "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-      "score": 11,
-      "fetched_at": "2026-04-07",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
-      "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-      "score": 11,
-      "fetched_at": "2026-04-07",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "coding"
-      ]
     }
   ]
 }
