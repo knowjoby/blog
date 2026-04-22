@@ -176,6 +176,19 @@
       "topic": ""
     },
     {
+      "title": "X is going to let Grok curate your timeline",
+      "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
+      "score": 49,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
       "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
       "score": 48,
@@ -620,6 +633,19 @@
       "topic": ""
     },
     {
+      "title": "Tesla\u2019s revenue rises again as it prepares for more AI and robotics",
+      "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
+      "score": 42,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -754,6 +780,22 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "score": 40,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "Sam Altman reportedly targeted in second attack",
@@ -11286,6 +11328,19 @@
       "topic": "ai"
     },
     {
+      "title": "Our newsroom AI policy",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "score": 12,
+      "fetched_at": "2026-04-22",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Coding and design with GPT-5",
       "url": "https://openai.com/index/gpt-5-coding-design",
       "score": 11,
@@ -14877,7 +14932,7 @@
     {
       "date": "2026-04-22",
       "posts": 2,
-      "items_processed": 21824,
+      "items_processed": 23646,
       "estimated_tokens": 0
     }
   ]

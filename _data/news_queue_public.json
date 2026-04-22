@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-22T20:30:59.594781+00:00",
-  "pending_count": 1037,
+  "updated_at_utc": "2026-04-22T21:55:44.860186+00:00",
+  "pending_count": 1041,
   "pending": [
+    {
+      "title": "X is going to let Grok curate your timeline",
+      "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
+      "score": 49,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
     {
       "title": "Google Meet will take AI notes for in-person meetings too",
       "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
@@ -56,6 +67,31 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Tesla’s revenue rises again as it prepares for more AI and robotics",
+      "url": "https://www.theverge.com/transportation/915217/tesla-q1-2026-earnings-profit-revenue",
+      "score": 42,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "score": 40,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "multimodal"
+      ]
     },
     {
       "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
@@ -289,6 +325,17 @@
       "score": 12,
       "fetched_at": "2026-04-22",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Our newsroom AI policy",
+      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+      "score": 12,
+      "fetched_at": "2026-04-22",
+      "source": "Ars Technica",
       "companies": [],
       "topics": [
         "ai"
