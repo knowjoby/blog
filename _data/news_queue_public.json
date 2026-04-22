@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T03:22:39.391609+00:00",
-  "pending_count": 1010,
+  "updated_at_utc": "2026-04-22T05:38:24.093679+00:00",
+  "pending_count": 1011,
   "pending": [
     {
       "title": "Meta will record employees’ keystrokes and use it to train its AI models",
@@ -10,6 +10,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-04-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
