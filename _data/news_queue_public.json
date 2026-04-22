@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-22T09:46:03.522885+00:00",
-  "pending_count": 1012,
+  "updated_at_utc": "2026-04-22T11:12:31.063236+00:00",
+  "pending_count": 1015,
   "pending": [
     {
       "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
@@ -10,6 +10,41 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "First vacuums — then the world",
+      "url": "https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk",
+      "score": 33,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
+      "url": "https://www.wired.com/review/beatbot-sora-30/",
+      "score": 26,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+      "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

@@ -1363,6 +1363,19 @@
       "topic": "robotics"
     },
     {
+      "title": "First vacuums \u2014 then the world",
+      "url": "https://www.theverge.com/report/914244/dreame-china-vacuums-hypercars-elon-musk",
+      "score": 33,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -3499,6 +3512,21 @@
       ],
       "company": "google",
       "topic": "reasoning"
+    },
+    {
+      "title": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
+      "url": "https://www.wired.com/review/beatbot-sora-30/",
+      "score": 26,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "openai",
+      "topic": "robotics"
     },
     {
       "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
@@ -6737,6 +6765,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+      "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-04-22",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -14250,6 +14291,19 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
+      "url": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+      "score": 54,
+      "file": "_posts/2026-04-22-new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-ent.md",
+      "posted_at": "2026-04-22",
+      "companies": [
+        "openai",
+        "meta",
+        "xai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14532,8 +14586,8 @@
     },
     {
       "date": "2026-04-22",
-      "posts": 1,
-      "items_processed": 9090,
+      "posts": 2,
+      "items_processed": 10908,
       "estimated_tokens": 0
     }
   ]
