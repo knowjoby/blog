@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-22T07:59:00.340047+00:00",
-  "pending_count": 1011,
+  "updated_at_utc": "2026-04-22T09:19:38.751429+00:00",
+  "pending_count": 1012,
   "pending": [
+    {
+      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "score": 49,
+      "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta will record employees’ keystrokes and use it to train its AI models",
       "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
