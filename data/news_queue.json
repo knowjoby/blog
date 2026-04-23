@@ -10375,6 +10375,19 @@
       "topic": ""
     },
     {
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "score": 18,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14558,6 +14571,19 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "You\u2019re about to feel the AI money squeeze",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "score": 51,
+      "file": "_posts/2026-04-23-youre-about-to-feel-the-ai-money-squeeze.md",
+      "posted_at": "2026-04-23",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -14846,8 +14872,8 @@
     },
     {
       "date": "2026-04-23",
-      "posts": 1,
-      "items_processed": 10934,
+      "posts": 2,
+      "items_processed": 12756,
       "estimated_tokens": 0
     }
   ]
