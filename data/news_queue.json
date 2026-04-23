@@ -7,6 +7,22 @@
   },
   "pending": [
     {
+      "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
+      "url": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
+      "score": 52,
+      "fetched_at": "2026-04-23",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Gemini gets notebooks to help you organize projects",
       "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
       "score": 49,
@@ -2928,6 +2944,19 @@
       "score": 30,
       "fetched_at": "2026-04-23",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018superapp\u2019",
+      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "score": 30,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -6892,6 +6921,19 @@
     {
       "title": "Meta is revamping its cross-app management system",
       "url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
+      "score": 24,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
+      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
       "score": 24,
       "fetched_at": "2026-04-23",
       "source": "TechCrunch",
@@ -14637,6 +14679,30 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "score": 66,
+      "file": "_posts/2026-04-23-openai-says-its-new-gpt-55-model-is-more-efficient-and-better-at-codin.md",
+      "posted_at": "2026-04-23",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s Mythos breach was humiliating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "score": 55,
+      "file": "_posts/2026-04-23-anthropics-mythos-breach-was-humiliating.md",
+      "posted_at": "2026-04-23",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14925,8 +14991,8 @@
     },
     {
       "date": "2026-04-23",
-      "posts": 3,
-      "items_processed": 16400,
+      "posts": 5,
+      "items_processed": 18225,
       "estimated_tokens": 0
     }
   ]
