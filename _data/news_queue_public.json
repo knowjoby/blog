@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-04-22T23:51:34.737097+00:00",
-  "pending_count": 1045,
+  "updated_at_utc": "2026-04-23T03:26:21.813845+00:00",
+  "pending_count": 1028,
   "pending": [
+    {
+      "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
+      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
+      "score": 38,
+      "fetched_at": "2026-04-23",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "X is going to let Grok curate your timeline",
       "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
@@ -11562,212 +11575,6 @@
       "topics": [
         "agentic"
       ]
-    },
-    {
-      "title": "OpenAI made economic proposals — here’s what DC thinks of them",
-      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
-      "score": 49,
-      "fetched_at": "2026-04-08",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "score": 48,
-      "fetched_at": "2026-04-08",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-      "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
-      "score": 40,
-      "fetched_at": "2026-04-08",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ]
-    },
-    {
-      "title": "Microsoft’s executive shake-up continues as developer division chief resigns",
-      "url": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation",
-      "score": 33,
-      "fetched_at": "2026-04-08",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "open_source"
-      ]
-    },
-    {
-      "title": "I finally get the iPhone Air",
-      "url": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular",
-      "score": 33,
-      "fetched_at": "2026-04-08",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-04-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "score": 30,
-      "fetched_at": "2026-04-08",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI",
-      "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
-      "score": 30,
-      "fetched_at": "2026-04-08",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-04-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How Balyasny Asset Management built an AI research engine",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "score": 26,
-      "fetched_at": "2026-04-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
-      "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
-      "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic Supply-Chain Risk Label Should Stay in Place, Appeals Court Says",
-      "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
-      "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
-      "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
-      "score": 24,
-      "fetched_at": "2026-04-08",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "X is rolling out automatic translation and photo editing powered by Grok",
-      "url": "https://techcrunch.com/2026/04/08/x-is-rolling-out-automatic-translation-and-photo-editing-powered-by-grok/",
-      "score": 18,
-      "fetched_at": "2026-04-08",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
     }
   ]
 }
