@@ -6877,6 +6877,19 @@
       "topic": ""
     },
     {
+      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
+      "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "score": 24,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14531,6 +14544,20 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft launches \u2018vibe working\u2019 in Word, Excel, and PowerPoint",
+      "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+      "score": 71,
+      "file": "_posts/2026-04-23-microsoft-launches-vibe-working-in-word-excel-and-powerpoint.md",
+      "posted_at": "2026-04-23",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -14819,8 +14846,8 @@
     },
     {
       "date": "2026-04-23",
-      "posts": 0,
-      "items_processed": 9112,
+      "posts": 1,
+      "items_processed": 10934,
       "estimated_tokens": 0
     }
   ]

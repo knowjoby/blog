@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-23T10:07:05.305059+00:00",
-  "pending_count": 1032,
+  "updated_at_utc": "2026-04-23T11:41:14.194825+00:00",
+  "pending_count": 1033,
   "pending": [
     {
       "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
@@ -51,6 +51,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
+      "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+      "score": 24,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Helping developers build safer AI experiences for teens",
