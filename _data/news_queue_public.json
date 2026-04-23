@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-23T13:59:11.119653+00:00",
-  "pending_count": 1034,
+  "updated_at_utc": "2026-04-23T16:02:24.614866+00:00",
+  "pending_count": 1036,
   "pending": [
     {
       "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
@@ -64,6 +64,17 @@
       "topics": []
     },
     {
+      "title": "Meta is revamping its cross-app management system",
+      "url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
+      "score": 24,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "score": 24,
@@ -84,6 +95,18 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "score": 16,
+      "fetched_at": "2026-04-23",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
     },
     {
       "title": "X is going to let Grok curate your timeline",
