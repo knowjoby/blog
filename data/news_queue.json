@@ -13682,6 +13682,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-04-24",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -14881,7 +14894,7 @@
     {
       "date": "2026-04-24",
       "posts": 0,
-      "items_processed": 3666,
+      "items_processed": 5500,
       "estimated_tokens": 0
     }
   ]

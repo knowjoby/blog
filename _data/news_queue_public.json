@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-24T05:55:29.106457+00:00",
-  "pending_count": 1031,
+  "updated_at_utc": "2026-04-24T08:13:47.710313+00:00",
+  "pending_count": 1032,
   "pending": [
     {
       "title": "Meta is laying off 10 percent of its staff",
@@ -104,6 +104,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-04-24",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
