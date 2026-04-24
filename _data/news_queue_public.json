@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-24T16:33:13.914790+00:00",
-  "pending_count": 1038,
+  "updated_at_utc": "2026-04-24T17:52:54.896171+00:00",
+  "pending_count": 1040,
   "pending": [
     {
       "title": "Meta is laying off 10 percent of its staff",
@@ -82,6 +82,19 @@
       "topics": []
     },
     {
+      "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
+      "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
+      "score": 24,
+      "fetched_at": "2026-04-24",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "china"
+      ]
+    },
+    {
       "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
       "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
       "score": 24,
@@ -117,6 +130,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
+      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
+      "score": 18,
+      "fetched_at": "2026-04-24",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
