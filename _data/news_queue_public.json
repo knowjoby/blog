@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-24T17:52:54.896171+00:00",
-  "pending_count": 1040,
+  "updated_at_utc": "2026-04-24T19:02:38.850099+00:00",
+  "pending_count": 1042,
   "pending": [
     {
       "title": "Meta is laying off 10 percent of its staff",
@@ -47,6 +47,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "score": 30,
+      "fetched_at": "2026-04-24",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Prestigious photo contest answers ‘what is a photo?’",
@@ -172,6 +183,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "score": 18,
+      "fetched_at": "2026-04-24",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
