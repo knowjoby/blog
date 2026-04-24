@@ -14625,6 +14625,21 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "China\u2019s DeepSeek previews new AI model a year after jolting US rivals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "score": 94,
+      "file": "_posts/2026-04-24-chinas-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals.md",
+      "posted_at": "2026-04-24",
+      "companies": [
+        "openai",
+        "anthropic",
+        "deepseek"
+      ],
+      "topics": [
+        "china"
+      ]
     }
   ],
   "daily_usage": [
@@ -14919,8 +14934,8 @@
     },
     {
       "date": "2026-04-24",
-      "posts": 0,
-      "items_processed": 7334,
+      "posts": 1,
+      "items_processed": 9168,
       "estimated_tokens": 0
     }
   ]
