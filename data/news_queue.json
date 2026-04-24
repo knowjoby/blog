@@ -2952,6 +2952,21 @@
       "topic": ""
     },
     {
+      "title": "Three reasons why DeepSeek\u2019s new model V4 matters",
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+      "score": 30,
+      "fetched_at": "2026-04-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "deepseek",
+      "topic": "china"
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -7002,6 +7017,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
+      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "score": 22,
+      "fetched_at": "2026-04-24",
+      "source": "TechCrunch",
+      "companies": [
+        "cohere"
+      ],
+      "topics": [],
+      "company": "cohere",
+      "topic": ""
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -15070,7 +15098,7 @@
     {
       "date": "2026-04-24",
       "posts": 2,
-      "items_processed": 23847,
+      "items_processed": 25682,
       "estimated_tokens": 0
     }
   ]
