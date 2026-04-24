@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-24T11:41:55.710377+00:00",
-  "pending_count": 1034,
+  "updated_at_utc": "2026-04-24T13:51:11.877028+00:00",
+  "pending_count": 1038,
   "pending": [
     {
       "title": "Meta is laying off 10 percent of its staff",
@@ -21,6 +21,17 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "score": 43,
+      "fetched_at": "2026-04-24",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -49,6 +60,17 @@
       ]
     },
     {
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "score": 24,
+      "fetched_at": "2026-04-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
       "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation",
       "score": 24,
@@ -58,6 +80,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "score": 24,
+      "fetched_at": "2026-04-24",
+      "source": "TechCrunch",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "reasoning"
+      ]
     },
     {
       "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
@@ -113,6 +148,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-04-24",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
       ],
       "topics": []
     },

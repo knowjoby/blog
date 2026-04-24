@@ -539,6 +539,19 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk and Sam Altman\u2019s court showdown will dish the dirt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "score": 43,
+      "fetched_at": "2026-04-24",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -6841,6 +6854,34 @@
       "topic": ""
     },
     {
+      "title": "DeepSeek previews new AI model that \u2018closes the gap\u2019 with frontier models",
+      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+      "score": 24,
+      "fetched_at": "2026-04-24",
+      "source": "TechCrunch",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "deepseek",
+      "topic": "reasoning"
+    },
+    {
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "score": 24,
+      "fetched_at": "2026-04-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10850,6 +10891,19 @@
       "topic": "agentic"
     },
     {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-04-24",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "deepseek",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Codex app",
       "url": "https://openai.com/index/introducing-the-codex-app",
       "score": 14,
@@ -14640,6 +14694,20 @@
       "topics": [
         "china"
       ]
+    },
+    {
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "score": 56,
+      "file": "_posts/2026-04-24-in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amaz.md",
+      "posted_at": "2026-04-24",
+      "companies": [
+        "meta",
+        "amazon"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -14934,8 +15002,8 @@
     },
     {
       "date": "2026-04-24",
-      "posts": 1,
-      "items_processed": 11002,
+      "posts": 2,
+      "items_processed": 12837,
       "estimated_tokens": 0
     }
   ]
