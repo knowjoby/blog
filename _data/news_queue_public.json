@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-24T08:13:47.710313+00:00",
-  "pending_count": 1032,
+  "updated_at_utc": "2026-04-24T09:44:18.103249+00:00",
+  "pending_count": 1034,
   "pending": [
     {
       "title": "Meta is laying off 10 percent of its staff",
@@ -38,6 +38,17 @@
       ]
     },
     {
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "score": 28,
+      "fetched_at": "2026-04-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
       "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation",
       "score": 24,
@@ -71,6 +82,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+      "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+      "score": 18,
+      "fetched_at": "2026-04-24",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Inside our approach to the Model Spec",

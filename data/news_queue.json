@@ -3152,6 +3152,19 @@
       "topic": "ai"
     },
     {
+      "title": "Prestigious photo contest answers \u2018what is a photo?\u2019",
+      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "score": 28,
+      "fetched_at": "2026-04-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
       "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
       "score": 27,
@@ -10326,6 +10339,19 @@
       "topic": ""
     },
     {
+      "title": "5 Reasons to Think Twice Before Using ChatGPT\u2014or Any Chatbot\u2014for Financial Advice",
+      "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+      "score": 18,
+      "fetched_at": "2026-04-24",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14894,7 +14920,7 @@
     {
       "date": "2026-04-24",
       "posts": 0,
-      "items_processed": 5500,
+      "items_processed": 7334,
       "estimated_tokens": 0
     }
   ]
