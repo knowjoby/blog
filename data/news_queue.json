@@ -23,19 +23,6 @@
       "topic": "coding"
     },
     {
-      "title": "Fear and loathing at OpenAI",
-      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-      "score": 49,
-      "fetched_at": "2026-04-10",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman\u2019s home and OpenAI\u2019s HQ",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
       "score": 49,
@@ -176,20 +163,6 @@
       ],
       "topics": [],
       "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
-      "url": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex",
-      "score": 48,
-      "fetched_at": "2026-04-10",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -407,19 +380,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "score": 43,
-      "fetched_at": "2026-04-10",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "The new show making fun of tech bros",
@@ -1018,19 +978,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Cloudflare made a WordPress for AI agents",
-      "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
-      "score": 37,
-      "fetched_at": "2026-04-10",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
@@ -1932,32 +1879,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
-      "url": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-      "score": 30,
-      "fetched_at": "2026-04-10",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "score": 30,
-      "fetched_at": "2026-04-10",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "OpenAI acquires TBPN",
@@ -3669,84 +3590,6 @@
       ],
       "company": "anthropic",
       "topic": "coding"
-    },
-    {
-      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
-      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
-      "score": 24,
-      "fetched_at": "2026-04-10",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s New AI Asked for My Raw Health Data\u2014and Gave Me Terrible Advice",
-      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
-      "score": 24,
-      "fetched_at": "2026-04-10",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
-      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "score": 24,
-      "fetched_at": "2026-04-10",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "\"Uncanny Valley\": OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
-      "score": 24,
-      "fetched_at": "2026-04-10",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "score": 24,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s Mythos Will Force a Cybersecurity Reckoning\u2014Just Not the One You Think",
-      "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
-      "score": 24,
-      "fetched_at": "2026-04-10",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Introducing the Child Safety Blueprint",
@@ -6938,6 +6781,19 @@
       "topic": ""
     },
     {
+      "title": "Google will invest as much as $40 billion in Anthropic",
+      "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
+      "score": 24,
+      "fetched_at": "2026-04-25",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -7128,227 +6984,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
-      "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for customer success teams",
-      "url": "https://openai.com/academy/customer-success",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for operations teams",
-      "url": "https://openai.com/academy/operations",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Personalizing ChatGPT",
-      "url": "https://openai.com/academy/personalization",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AI fundamentals",
-      "url": "https://openai.com/academy/what-is-ai",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Using skills",
-      "url": "https://openai.com/academy/skills",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for managers",
-      "url": "https://openai.com/academy/managers",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Working with files in ChatGPT",
-      "url": "https://openai.com/academy/working-with-files",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
-      "score": 18,
-      "fetched_at": "2026-04-10",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Our response to the Axios developer tool compromise",
@@ -15099,6 +14734,12 @@
       "date": "2026-04-24",
       "posts": 2,
       "items_processed": 27517,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-25",
+      "posts": 0,
+      "items_processed": 1835,
       "estimated_tokens": 0
     }
   ]
