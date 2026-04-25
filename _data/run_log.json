@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-04-22 04:16:14 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1819,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-        "file": "_posts/2026-04-21-spacex-cuts-a-deal-to-maybe-buy-cursor-for-60-billion.md",
-        "score": 57,
-        "tags": [
-          "xai",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-22 05:10:43 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1148,6 +1116,28 @@
   },
   {
     "ran_at": "2026-04-25 12:57:01 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1835,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-25 14:01:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
