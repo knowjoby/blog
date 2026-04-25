@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-25T17:10:52.622283+00:00",
-  "pending_count": 1036,
+  "updated_at_utc": "2026-04-25T18:06:08.023858+00:00",
+  "pending_count": 1037,
   "pending": [
     {
       "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
@@ -10,6 +10,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "score": 24,
+      "fetched_at": "2026-04-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
