@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-04-23 21:32:24 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1822,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Greenhouse gases from data center boom could outpace entire nations",
-        "file": "_posts/2026-04-23-greenhouse-gases-from-data-center-boom-could-outpace-entire-nations.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "meta",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-23 23:24:02 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1095,6 +1062,28 @@
   },
   {
     "ran_at": "2026-04-26 17:13:21 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1835,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-26 18:48:59 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
