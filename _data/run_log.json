@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-04-23 17:11:14 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1822,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint",
-        "file": "_posts/2026-04-23-microsoft-launches-vibe-working-in-word-excel-and-powerpoint.md",
-        "score": 71,
-        "tags": [
-          "microsoft",
-          "agentic",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-23 19:29:11 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1116,6 +1083,28 @@
   },
   {
     "ran_at": "2026-04-26 15:01:28 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1835,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-26 16:21:59 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
