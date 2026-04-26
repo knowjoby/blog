@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-26T15:10:45.466360+00:00",
-  "pending_count": 1009,
+  "updated_at_utc": "2026-04-26T16:07:41.374156+00:00",
+  "pending_count": 1010,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -1906,6 +1906,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "score": 24,
+      "fetched_at": "2026-04-26",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI o1 Contributions",
