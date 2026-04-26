@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-26T22:04:22.756232+00:00",
-  "pending_count": 1010,
+  "updated_at_utc": "2026-04-26T23:08:37.349996+00:00",
+  "pending_count": 1011,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -4589,6 +4589,17 @@
     {
       "title": "Using AI to improve patient access to clinical trials",
       "url": "https://openai.com/index/paradigm",
+      "score": 18,
+      "fetched_at": "2026-04-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Our Principles",
+      "url": "https://openai.com/index/our-principles",
       "score": 18,
       "fetched_at": "2026-04-26",
       "source": "OpenAI",
