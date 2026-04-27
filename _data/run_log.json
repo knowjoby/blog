@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-04-24 15:37:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1834,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
-        "file": "_posts/2026-04-24-chinas-deepseek-previews-new-ai-model-a-year-after-jolting-us-rivals.md",
-        "score": 94,
-        "tags": [
-          "openai",
-          "anthropic",
-          "deepseek",
-          "china"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-24 17:11:55 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1118,6 +1084,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-27 05:36:42 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1836,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
