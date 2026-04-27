@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-04-24 19:21:11 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 1835,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-        "file": "_posts/2026-04-24-in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amaz.md",
-        "score": 56,
-        "tags": [
-          "meta",
-          "amazon",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-24 20:43:16 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1090,6 +1057,28 @@
   },
   {
     "ran_at": "2026-04-27 09:38:19 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1836,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-04-27 12:46:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
