@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-27T21:08:57.790904+00:00",
-  "pending_count": 1028,
+  "updated_at_utc": "2026-04-27T22:27:02.814008+00:00",
+  "pending_count": 1030,
   "pending": [
     {
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
@@ -129,6 +129,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "score": 24,
@@ -160,6 +171,18 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
+      "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
+      "score": 19,
+      "fetched_at": "2026-04-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
     },
     {
       "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
