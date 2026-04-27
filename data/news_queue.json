@@ -291,6 +291,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI ends its exclusive partnership with Microsoft",
+      "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+      "score": 48,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "amazon"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft is working on yet another OpenClaw-like agent",
       "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
       "score": 46,
@@ -6753,6 +6767,32 @@
       "topic": ""
     },
     {
+      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Agentic coding at enterprise scale demands spec-driven development",
       "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
       "score": 22,
@@ -10139,6 +10179,19 @@
       "score": 18,
       "fetched_at": "2026-04-27",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk Boosts New Yorker\u2019s Sam Altman Expos\u00e9 on X as Trial Begins",
+      "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+      "score": 18,
+      "fetched_at": "2026-04-27",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
@@ -14862,7 +14915,7 @@
     {
       "date": "2026-04-27",
       "posts": 2,
-      "items_processed": 18371,
+      "items_processed": 20211,
       "estimated_tokens": 0
     }
   ]

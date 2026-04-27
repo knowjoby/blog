@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-27T19:41:21.934828+00:00",
-  "pending_count": 1024,
+  "updated_at_utc": "2026-04-27T21:08:57.790904+00:00",
+  "pending_count": 1028,
   "pending": [
     {
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI ends its exclusive partnership with Microsoft",
+      "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+      "score": 48,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "amazon"
       ],
       "topics": []
     },
@@ -128,8 +140,41 @@
       "topics": []
     },
     {
+      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
+      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
       "url": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/",
+      "score": 18,
+      "fetched_at": "2026-04-27",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk Boosts New Yorker’s Sam Altman Exposé on X as Trial Begins",
+      "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
       "score": 18,
       "fetched_at": "2026-04-27",
       "source": "Wired",
