@@ -366,6 +366,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Samsung\u2019s first smart glasses have leaked",
+      "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
+      "score": 45,
+      "fetched_at": "2026-04-27",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Pioneering an AI clinical copilot with Penda Health",
       "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
       "score": 44,
@@ -6686,6 +6699,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Agentic coding at enterprise scale demands spec-driven development",
       "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
       "score": 22,
@@ -10067,6 +10106,19 @@
       "topic": ""
     },
     {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-04-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
       "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
       "score": 17,
@@ -10888,6 +10940,19 @@
       ],
       "company": "",
       "topic": "open_source"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "score": 14,
+      "fetched_at": "2026-04-27",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
@@ -14445,6 +14510,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "score": 55,
+      "file": "_posts/2026-04-27-microsoft-and-openais-famed-agi-agreement-is-dead.md",
+      "posted_at": "2026-04-27",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14757,8 +14833,8 @@
     },
     {
       "date": "2026-04-27",
-      "posts": 1,
-      "items_processed": 14691,
+      "posts": 2,
+      "items_processed": 16531,
       "estimated_tokens": 0
     }
   ]

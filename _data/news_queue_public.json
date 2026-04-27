@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-27T16:09:04.795346+00:00",
-  "pending_count": 1017,
+  "updated_at_utc": "2026-04-27T17:49:40.587129+00:00",
+  "pending_count": 1022,
   "pending": [
+    {
+      "title": "Samsung’s first smart glasses have leaked",
+      "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
+      "score": 45,
+      "fetched_at": "2026-04-27",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
       "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
@@ -27,6 +38,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI could be making a phone with AI agents replacing apps",
       "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
       "score": 24,
@@ -45,6 +67,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -80,6 +113,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-04-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "score": 14,
+      "fetched_at": "2026-04-27",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
