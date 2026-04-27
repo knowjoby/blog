@@ -6673,6 +6673,19 @@
       "topic": ""
     },
     {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Hugging Face",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Agentic coding at enterprise scale demands spec-driven development",
       "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
       "score": 22,
@@ -14421,6 +14434,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "score": 55,
+      "file": "_posts/2026-04-27-elon-musk-and-sam-altmans-court-battle-over-the-future-of-openai.md",
+      "posted_at": "2026-04-27",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14733,8 +14757,8 @@
     },
     {
       "date": "2026-04-27",
-      "posts": 0,
-      "items_processed": 12853,
+      "posts": 1,
+      "items_processed": 14691,
       "estimated_tokens": 0
     }
   ]

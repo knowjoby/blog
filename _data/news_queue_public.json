@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-27T14:09:23.380864+00:00",
-  "pending_count": 1016,
+  "updated_at_utc": "2026-04-27T16:09:04.795346+00:00",
+  "pending_count": 1017,
   "pending": [
     {
       "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
@@ -56,6 +56,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Hugging Face",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
