@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-27T17:49:40.587129+00:00",
-  "pending_count": 1022,
+  "updated_at_utc": "2026-04-27T19:41:21.934828+00:00",
+  "pending_count": 1024,
   "pending": [
+    {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "score": 49,
+      "fetched_at": "2026-04-27",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Samsung’s first smart glasses have leaked",
       "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
@@ -12,6 +23,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "China kills Meta’s acquisition of Manus as US-China AI rivalry deepens",
+      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+      "score": 35,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "china"
+      ]
     },
     {
       "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",

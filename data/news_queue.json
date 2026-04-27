@@ -166,6 +166,19 @@
       "topic": ""
     },
     {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "score": 49,
+      "fetched_at": "2026-04-27",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
       "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
       "score": 48,
@@ -1112,6 +1125,21 @@
       ],
       "company": "nvidia",
       "topic": "reasoning"
+    },
+    {
+      "title": "China kills Meta\u2019s acquisition of Manus as US-China AI rivalry deepens",
+      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+      "score": 35,
+      "fetched_at": "2026-04-27",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "meta",
+      "topic": "china"
     },
     {
       "title": "Ballmer gives $80 million to NPR, with strings attached",
@@ -14834,7 +14862,7 @@
     {
       "date": "2026-04-27",
       "posts": 2,
-      "items_processed": 16531,
+      "items_processed": 18371,
       "estimated_tokens": 0
     }
   ]
