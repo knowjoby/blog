@@ -2752,6 +2752,21 @@
       "topic": ""
     },
     {
+      "title": "The Download: DeepSeek\u2019s latest AI breakthrough, and the race to build world models",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "score": 30,
+      "fetched_at": "2026-04-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "deepseek",
+      "topic": "china"
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -6611,6 +6626,45 @@
       "score": 24,
       "fetched_at": "2026-04-27",
       "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "China vetoes Meta\u2019s $2B Manus deal after months-long probe",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Best Smart Glasses (2026): Meta, Viture, Xreal, and More",
+      "url": "https://www.wired.com/gallery/best-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Wired",
       "companies": [
         "meta"
       ],
@@ -11395,6 +11449,32 @@
       "topic": "coding"
     },
     {
+      "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
+      "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk",
+      "score": 11,
+      "fetched_at": "2026-04-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "score": 11,
+      "fetched_at": "2026-04-27",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "How to Use Transformers.js in a Chrome Extension",
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "score": 10,
@@ -14654,7 +14734,7 @@
     {
       "date": "2026-04-27",
       "posts": 0,
-      "items_processed": 11016,
+      "items_processed": 12853,
       "estimated_tokens": 0
     }
   ]

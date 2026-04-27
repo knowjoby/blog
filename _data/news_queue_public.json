@@ -1,10 +1,56 @@
 {
-  "updated_at_utc": "2026-04-27T11:49:23.750786+00:00",
-  "pending_count": 1010,
+  "updated_at_utc": "2026-04-27T14:09:23.380864+00:00",
+  "pending_count": 1016,
   "pending": [
+    {
+      "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+      "score": 30,
+      "fetched_at": "2026-04-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "china"
+      ]
+    },
+    {
+      "title": "Best Smart Glasses (2026): Meta, Viture, Xreal, and More",
+      "url": "https://www.wired.com/gallery/best-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta inks deal for solar power at night, beamed from space",
       "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "score": 24,
+      "fetched_at": "2026-04-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
       "score": 24,
       "fetched_at": "2026-04-27",
       "source": "TechCrunch",
@@ -23,6 +69,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
+      "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk",
+      "score": 11,
+      "fetched_at": "2026-04-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "score": 11,
+      "fetched_at": "2026-04-27",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
