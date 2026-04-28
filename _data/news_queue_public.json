@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-28T17:12:48.769734+00:00",
-  "pending_count": 1032,
+  "updated_at_utc": "2026-04-28T19:08:52.307014+00:00",
+  "pending_count": 1035,
   "pending": [
     {
       "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "score": 49,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -106,6 +117,28 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
+      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+      "score": 24,
+      "fetched_at": "2026-04-28",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "score": 24,
+      "fetched_at": "2026-04-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
