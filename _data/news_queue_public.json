@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-28T19:08:52.307014+00:00",
-  "pending_count": 1035,
+  "updated_at_utc": "2026-04-28T20:48:25.746613+00:00",
+  "pending_count": 1037,
   "pending": [
     {
       "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
@@ -47,6 +47,17 @@
       "topics": []
     },
     {
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "score": 43,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "score": 41,
@@ -57,6 +68,19 @@
       ],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "score": 38,
+      "fetched_at": "2026-04-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
