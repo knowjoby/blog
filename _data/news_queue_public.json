@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-04-27T23:29:25.584168+00:00",
-  "pending_count": 1030,
+  "updated_at_utc": "2026-04-28T01:16:43.457100+00:00",
+  "pending_count": 1021,
   "pending": [
+    {
+      "title": "Google is testing AI chatbot search for YouTube",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "score": 31,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
+      "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+      "score": 30,
+      "fetched_at": "2026-04-28",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
+      "url": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
+      "score": 18,
+      "fetched_at": "2026-04-28",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
@@ -11470,146 +11503,6 @@
         "anthropic"
       ],
       "topics": []
-    },
-    {
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "score": 46,
-      "fetched_at": "2026-04-13",
-      "source": "TechCrunch",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ]
-    },
-    {
-      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
-      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
-      "score": 39,
-      "fetched_at": "2026-04-13",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "SwitchBot’s button-pressing robot is now available with a rechargeable battery",
-      "url": "https://www.theverge.com/tech/909765/switchbot-bot-rechargeable-smart-home-usb-c",
-      "score": 39,
-      "fetched_at": "2026-04-13",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Sam Altman reportedly targeted in second attack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-      "score": 39,
-      "fetched_at": "2026-04-13",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-04-13",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
-      "url": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance",
-      "score": 32,
-      "fetched_at": "2026-04-13",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
-      "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
-      "score": 24,
-      "fetched_at": "2026-04-13",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta spins up AI version of Mark Zuckerberg to engage with employees",
-      "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees/",
-      "score": 24,
-      "fetched_at": "2026-04-13",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Agentic coding at enterprise scale demands spec-driven development",
-      "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development",
-      "score": 22,
-      "fetched_at": "2026-04-13",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ]
-    },
-    {
-      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "score": 18,
-      "fetched_at": "2026-04-13",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "To teach in the time of ChatGPT is to know pain",
-      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-      "score": 18,
-      "fetched_at": "2026-04-13",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Designing the agentic AI enterprise for measurable performance",
-      "url": "https://venturebeat.com/orchestration/designing-the-agentic-ai-enterprise-for-measurable-performance",
-      "score": 11,
-      "fetched_at": "2026-04-13",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
     }
   ]
 }
