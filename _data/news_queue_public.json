@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-04-28T12:11:38.107695+00:00",
-  "pending_count": 1025,
+  "updated_at_utc": "2026-04-28T15:09:20.608912+00:00",
+  "pending_count": 1027,
   "pending": [
     {
       "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
       "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "score": 43,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Musk and Altman go to court",
+      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
       "score": 43,
       "fetched_at": "2026-04-28",
       "source": "The Verge",
@@ -76,6 +87,17 @@
       "score": 18,
       "fetched_at": "2026-04-28",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "score": 18,
+      "fetched_at": "2026-04-28",
+      "source": "MIT Tech Review",
       "companies": [
         "openai"
       ],

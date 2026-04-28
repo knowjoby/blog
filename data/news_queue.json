@@ -523,6 +523,19 @@
       "topic": ""
     },
     {
+      "title": "Musk and Altman go to court",
+      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+      "score": 43,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -10169,6 +10182,19 @@
       "topic": ""
     },
     {
+      "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "score": 18,
+      "fetched_at": "2026-04-28",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
       "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
       "score": 17,
@@ -14877,7 +14903,7 @@
     {
       "date": "2026-04-28",
       "posts": 0,
-      "items_processed": 11046,
+      "items_processed": 12887,
       "estimated_tokens": 0
     }
   ]
