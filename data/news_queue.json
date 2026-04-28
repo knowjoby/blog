@@ -3030,6 +3030,19 @@
       "topic": ""
     },
     {
+      "title": "Attack of the killer script kiddies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "score": 28,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
       "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
       "score": 27,
@@ -6826,6 +6839,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
+      "score": 22,
+      "fetched_at": "2026-04-28",
+      "source": "VentureBeat",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
       "topic": ""
     },
     {
@@ -14851,7 +14877,7 @@
     {
       "date": "2026-04-28",
       "posts": 0,
-      "items_processed": 9205,
+      "items_processed": 11046,
       "estimated_tokens": 0
     }
   ]

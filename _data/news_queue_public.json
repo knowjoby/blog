@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-28T10:21:01.849234+00:00",
-  "pending_count": 1023,
+  "updated_at_utc": "2026-04-28T12:11:38.107695+00:00",
+  "pending_count": 1025,
   "pending": [
     {
       "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
@@ -45,6 +45,28 @@
       "source": "VentureBeat",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Attack of the killer script kiddies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "score": 28,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
+      "score": 22,
+      "fetched_at": "2026-04-28",
+      "source": "VentureBeat",
+      "companies": [
+        "mistral"
       ],
       "topics": []
     },
