@@ -510,6 +510,19 @@
       "topic": ""
     },
     {
+      "title": "Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "score": 43,
+      "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -1084,6 +1097,21 @@
       ],
       "company": "meta",
       "topic": "china"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-04-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Ballmer gives $80 million to NPR, with strings attached",
@@ -14823,7 +14851,7 @@
     {
       "date": "2026-04-28",
       "posts": 0,
-      "items_processed": 1841,
+      "items_processed": 3682,
       "estimated_tokens": 0
     }
   ]
