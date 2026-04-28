@@ -6898,6 +6898,19 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a \u2018Terminator Outcome\u2019",
+      "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-04-28",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -15039,7 +15052,7 @@
     {
       "date": "2026-04-28",
       "posts": 0,
-      "items_processed": 18413,
+      "items_processed": 20255,
       "estimated_tokens": 0
     }
   ]
