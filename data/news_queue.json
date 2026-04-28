@@ -347,6 +347,22 @@
       "topic": "coding"
     },
     {
+      "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
+      "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
+      "score": 46,
+      "fetched_at": "2026-04-28",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Walmart is updating its 4K streaming box with Gemini and Matter support",
       "url": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
       "score": 45,
@@ -15052,7 +15068,7 @@
     {
       "date": "2026-04-28",
       "posts": 0,
-      "items_processed": 20255,
+      "items_processed": 22097,
       "estimated_tokens": 0
     }
   ]

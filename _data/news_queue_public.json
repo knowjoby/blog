@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-28T22:03:45.780333+00:00",
-  "pending_count": 1038,
+  "updated_at_utc": "2026-04-28T23:29:42.155242+00:00",
+  "pending_count": 1039,
   "pending": [
     {
       "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
@@ -23,6 +23,20 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
+      "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
+      "score": 46,
+      "fetched_at": "2026-04-28",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
