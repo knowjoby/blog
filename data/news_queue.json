@@ -166,6 +166,19 @@
       "topic": ""
     },
     {
+      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect\u2019s ChatGPT activity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-04-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic\u2019s rise is giving some OpenAI investors second thoughts",
       "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
       "score": 48,
@@ -10268,6 +10281,19 @@
       "topic": ""
     },
     {
+      "title": "FOMO is why enterprises pay for GPUs they don't use \u2014 and why prices keep climbing",
+      "url": "https://venturebeat.com/infrastructure/fomo-is-why-enterprises-pay-for-gpus-they-dont-use-and-why-prices-keep-climbing",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -15019,7 +15045,7 @@
     {
       "date": "2026-04-29",
       "posts": 1,
-      "items_processed": 12903,
+      "items_processed": 14748,
       "estimated_tokens": 0
     }
   ]

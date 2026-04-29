@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-29T14:13:39.090010+00:00",
-  "pending_count": 1034,
+  "updated_at_utc": "2026-04-29T16:14:39.861621+00:00",
+  "pending_count": 1036,
   "pending": [
+    {
+      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-04-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "General Motors is adding Gemini to four million cars",
       "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
@@ -79,6 +90,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "FOMO is why enterprises pay for GPUs they don't use — and why prices keep climbing",
+      "url": "https://venturebeat.com/infrastructure/fomo-is-why-enterprises-pay-for-gpus-they-dont-use-and-why-prices-keep-climbing",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
