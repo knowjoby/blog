@@ -10229,6 +10229,19 @@
       "topic": ""
     },
     {
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -14631,6 +14644,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta isn\u2019t doing enough to keep kids off Facebook and Instagram, rules EU",
+      "url": "https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification",
+      "score": 55,
+      "file": "_posts/2026-04-29-meta-isnt-doing-enough-to-keep-kids-off-facebook-and-instagram-rules-e.md",
+      "posted_at": "2026-04-29",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -14955,8 +14979,8 @@
     },
     {
       "date": "2026-04-29",
-      "posts": 0,
-      "items_processed": 9215,
+      "posts": 1,
+      "items_processed": 11059,
       "estimated_tokens": 0
     }
   ]

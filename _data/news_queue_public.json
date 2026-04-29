@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-29T10:04:43.222671+00:00",
-  "pending_count": 1030,
+  "updated_at_utc": "2026-04-29T11:43:30.487773+00:00",
+  "pending_count": 1031,
   "pending": [
     {
       "title": "General Motors is adding Gemini to four million cars",
@@ -74,6 +74,17 @@
     {
       "title": "Helping disaster response teams turn AI into action across Asia",
       "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "score": 18,
       "fetched_at": "2026-04-29",
       "source": "OpenAI",
