@@ -524,6 +524,19 @@
       "topic": ""
     },
     {
+      "title": "Larry\u2019s risky business",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "score": 43,
+      "fetched_at": "2026-04-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -10242,6 +10255,19 @@
       "topic": ""
     },
     {
+      "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
+      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -11674,6 +11700,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "Definity embeds agents inside Spark pipelines to catch failures before they reach agentic AI systems",
+      "url": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems",
+      "score": 11,
+      "fetched_at": "2026-04-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -14980,7 +15019,7 @@
     {
       "date": "2026-04-29",
       "posts": 1,
-      "items_processed": 11059,
+      "items_processed": 12903,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-29T11:43:30.487773+00:00",
-  "pending_count": 1031,
+  "updated_at_utc": "2026-04-29T14:13:39.090010+00:00",
+  "pending_count": 1034,
   "pending": [
     {
       "title": "General Motors is adding Gemini to four million cars",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Larry’s risky business",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "score": 43,
+      "fetched_at": "2026-04-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -94,6 +105,17 @@
       "topics": []
     },
     {
+      "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
+      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
       "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
       "score": 12,
@@ -113,6 +135,17 @@
       "companies": [],
       "topics": [
         "reasoning"
+      ]
+    },
+    {
+      "title": "Definity embeds agents inside Spark pipelines to catch failures before they reach agentic AI systems",
+      "url": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems",
+      "score": 11,
+      "fetched_at": "2026-04-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
