@@ -23,45 +23,6 @@
       "topic": "coding"
     },
     {
-      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman\u2019s home and OpenAI\u2019s HQ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-      "score": 49,
-      "fetched_at": "2026-04-14",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Has Google\u2019s AI watermarking system been reverse-engineered?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "score": 49,
-      "fetched_at": "2026-04-14",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Chrome now lets you turn AI prompts into repeatable \u2018Skills\u2019",
-      "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-      "score": 49,
-      "fetched_at": "2026-04-14",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "Grok\u2019s sexual deepfakes almost got it banned from Apple\u2019s App Store. Almost.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
       "score": 49,
@@ -199,34 +160,6 @@
       "source": "The Verge",
       "companies": [
         "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-      "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
-      "score": 48,
-      "fetched_at": "2026-04-14",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "In the Wake of Anthropic\u2019s Mythos, OpenAI Has a New Cybersecurity Model\u2014and Strategy",
-      "url": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-      "score": 48,
-      "fetched_at": "2026-04-14",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "anthropic"
       ],
       "topics": [],
       "company": "openai",
@@ -446,19 +379,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "The attacks on Sam Altman are a warning for the AI world",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-      "score": 43,
-      "fetched_at": "2026-04-14",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Ronan Farrow on Sam Altman\u2019s \u2018unconstrained\u2019  relationship with the truth",
@@ -795,18 +715,19 @@
       "topic": ""
     },
     {
-      "title": "Anthropic\u2019s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
-      "url": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but",
-      "score": 38,
-      "fetched_at": "2026-04-14",
-      "source": "VentureBeat",
+      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+      "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+      "score": 40,
+      "fetched_at": "2026-04-29",
+      "source": "Wired",
       "companies": [
-        "anthropic"
+        "openai"
       ],
       "topics": [
-        "agentic"
+        "agentic",
+        "coding"
       ],
-      "company": "anthropic",
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -1904,19 +1825,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Google introduces \"Skills\" in Chrome to make Gemini prompts instantly reusable",
-      "url": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable/",
-      "score": 30,
-      "fetched_at": "2026-04-14",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "We tested Anthropic\u2019s redesigned Claude Code desktop app and 'Routines' -- here's what enterprises should know",
@@ -3619,97 +3527,6 @@
       ],
       "company": "anthropic",
       "topic": "coding"
-    },
-    {
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "How to Use Google Chrome\u2019s New AI-Powered \u2018Skills\u2019",
-      "url": "https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google leaders including Demis Hassabis push back on claim of uneven AI adoption internally",
-      "url": "https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Trusted access for the next era of cyber defense",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "score": 24,
-      "fetched_at": "2026-04-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Accelerating the next phase of AI",
@@ -6927,6 +6744,32 @@
       "topic": ""
     },
     {
+      "title": "At his OpenAI trial, Musk relitigates an old friendship",
+      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+      "score": 24,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "score": 24,
+      "fetched_at": "2026-04-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -7130,19 +6973,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "score": 18,
-      "fetched_at": "2026-04-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
@@ -10347,19 +10177,6 @@
       "topic": ""
     },
     {
-      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "score": 17,
-      "fetched_at": "2026-04-14",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -10881,19 +10698,6 @@
       ],
       "topics": [],
       "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "AI datacenter startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-      "score": 14,
-      "fetched_at": "2026-04-14",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
       "topic": ""
     },
     {
@@ -11779,6 +11583,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "How to build custom reasoning agents with a fraction of the compute",
+      "url": "https://venturebeat.com/orchestration/how-to-build-custom-reasoning-agents-with-a-fraction-of-the-compute",
+      "score": 11,
+      "fetched_at": "2026-04-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -15069,6 +14886,12 @@
       "date": "2026-04-28",
       "posts": 0,
       "items_processed": 22097,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-29",
+      "posts": 0,
+      "items_processed": 1843,
       "estimated_tokens": 0
     }
   ]
