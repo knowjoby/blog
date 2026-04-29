@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-29T19:47:52.798508+00:00",
-  "pending_count": 1041,
+  "updated_at_utc": "2026-04-29T21:12:25.908623+00:00",
+  "pending_count": 1042,
   "pending": [
     {
       "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
@@ -112,6 +112,17 @@
       "source": "Ars Technica",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
+      "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
+      "score": 24,
+      "fetched_at": "2026-04-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
