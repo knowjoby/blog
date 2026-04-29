@@ -2836,6 +2836,19 @@
       "topic": ""
     },
     {
+      "title": "More Gemini features are coming to Google TV",
+      "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "score": 30,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -6822,6 +6835,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs\u2014if you can pay for it",
+      "url": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
+      "score": 24,
+      "fetched_at": "2026-04-29",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -6913,6 +6939,20 @@
       "topics": [],
       "company": "mistral",
       "topic": ""
+    },
+    {
+      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+      "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+      "score": 22,
+      "fetched_at": "2026-04-29",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "open_source",
+        "china"
+      ],
+      "company": "",
+      "topic": "open_source"
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -15045,7 +15085,7 @@
     {
       "date": "2026-04-29",
       "posts": 1,
-      "items_processed": 14748,
+      "items_processed": 16595,
       "estimated_tokens": 0
     }
   ]
