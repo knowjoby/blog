@@ -511,6 +511,19 @@
       "topic": ""
     },
     {
+      "title": "General Motors is adding Gemini to four million cars",
+      "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "score": 43,
+      "fetched_at": "2026-04-29",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -14917,7 +14930,7 @@
     {
       "date": "2026-04-29",
       "posts": 0,
-      "items_processed": 5529,
+      "items_processed": 7372,
       "estimated_tokens": 0
     }
   ]
