@@ -10216,6 +10216,19 @@
       "topic": ""
     },
     {
+      "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -11135,6 +11148,19 @@
       "score": 12,
       "fetched_at": "2026-04-26",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Coby Adcock\u2019s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "score": 12,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "ai"
@@ -14930,7 +14956,7 @@
     {
       "date": "2026-04-29",
       "posts": 0,
-      "items_processed": 7372,
+      "items_processed": 9215,
       "estimated_tokens": 0
     }
   ]
