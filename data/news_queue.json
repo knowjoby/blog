@@ -550,6 +550,19 @@
       "topic": ""
     },
     {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "score": 43,
+      "fetched_at": "2026-04-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -10399,6 +10412,19 @@
       "topic": "coding"
     },
     {
+      "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+      "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
+      "score": 17,
+      "fetched_at": "2026-04-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Building agent-first governance and security",
       "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
       "score": 16,
@@ -15085,7 +15111,7 @@
     {
       "date": "2026-04-29",
       "posts": 1,
-      "items_processed": 16595,
+      "items_processed": 18442,
       "estimated_tokens": 0
     }
   ]
