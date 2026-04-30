@@ -522,6 +522,19 @@
       "topic": ""
     },
     {
+      "title": "The more young people use AI, the more they hate it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+      "score": 43,
+      "fetched_at": "2026-04-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -14754,6 +14767,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI\u2019s new security model is for \u2018critical cyber defenders\u2019 only",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+      "score": 55,
+      "file": "_posts/2026-04-30-openais-new-security-model-is-for-critical-cyber-defenders-only.md",
+      "posted_at": "2026-04-30",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15084,8 +15108,8 @@
     },
     {
       "date": "2026-04-30",
-      "posts": 0,
-      "items_processed": 7396,
+      "posts": 1,
+      "items_processed": 9245,
       "estimated_tokens": 0
     }
   ]

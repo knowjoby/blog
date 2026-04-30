@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-26 21:37:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1835,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-26 22:40:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1125,5 +1103,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-04-30 16:45:00 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1849,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI’s new security model is for ‘critical cyber defenders’ only",
+        "file": "_posts/2026-04-30-openais-new-security-model-is-for-critical-cyber-defenders-only.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]
