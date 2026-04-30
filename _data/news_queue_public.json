@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-04-30T11:15:00.248096+00:00",
-  "pending_count": 1040,
+  "updated_at_utc": "2026-04-30T13:07:15.967996+00:00",
+  "pending_count": 1043,
   "pending": [
+    {
+      "title": "Instagram says it doesn’t want your tweet round ups",
+      "url": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
+      "score": 49,
+      "fetched_at": "2026-04-30",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Elon Musk’s worst enemy in court is Elon Musk",
       "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
@@ -36,6 +47,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "score": 24,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
@@ -101,6 +123,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Netflix wants you to watch ‘Clips,’ its TikTok-like vertical video feed",
+      "url": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
+      "score": 14,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {

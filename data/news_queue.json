@@ -166,6 +166,19 @@
       "topic": ""
     },
     {
+      "title": "Instagram says it doesn\u2019t want your tweet round ups",
+      "url": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
+      "score": 49,
+      "fetched_at": "2026-04-30",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -6869,6 +6882,19 @@
       "topic": ""
     },
     {
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "score": 24,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -11164,6 +11190,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Netflix wants you to watch \u2018Clips,\u2019 its TikTok-like vertical video feed",
+      "url": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
+      "score": 14,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
       "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
       "score": 12,
@@ -14778,6 +14817,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta lost 20 million users last quarter",
+      "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
+      "score": 55,
+      "file": "_posts/2026-04-30-meta-lost-20-million-users-last-quarter.md",
+      "posted_at": "2026-04-30",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15108,8 +15158,8 @@
     },
     {
       "date": "2026-04-30",
-      "posts": 1,
-      "items_processed": 9245,
+      "posts": 2,
+      "items_processed": 11094,
       "estimated_tokens": 0
     }
   ]

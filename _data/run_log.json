@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-26 22:40:40 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1835,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-26 23:36:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1131,6 +1109,37 @@
         "score": 55,
         "tags": [
           "openai"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-04-30 18:37:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1849,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta lost 20 million users last quarter",
+        "file": "_posts/2026-04-30-meta-lost-20-million-users-last-quarter.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]
