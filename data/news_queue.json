@@ -509,6 +509,19 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk\u2019s worst enemy in court is Elon Musk",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "score": 43,
+      "fetched_at": "2026-04-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -3492,6 +3505,21 @@
       ],
       "company": "microsoft",
       "topic": "coding"
+    },
+    {
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "score": 26,
+      "fetched_at": "2026-04-30",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "google",
+      "topic": "multimodal"
     },
     {
       "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
@@ -6781,6 +6809,45 @@
       "score": 24,
       "fetched_at": "2026-04-29",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+      "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+      "score": 24,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "score": 24,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-04-30",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -10235,6 +10302,32 @@
       "topic": ""
     },
     {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-04-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "score": 18,
+      "fetched_at": "2026-04-30",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -10311,6 +10404,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
+      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "score": 17,
+      "fetched_at": "2026-04-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Building agent-first governance and security",
@@ -11641,6 +11747,32 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "score": 11,
+      "fetched_at": "2026-04-30",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-04-30",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -14948,6 +15080,12 @@
       "date": "2026-04-29",
       "posts": 1,
       "items_processed": 23984,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-04-30",
+      "posts": 0,
+      "items_processed": 1849,
       "estimated_tokens": 0
     }
   ]
