@@ -179,6 +179,19 @@
       "topic": ""
     },
     {
+      "title": "All these smart glasses and nothing to do",
+      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+      "score": 49,
+      "fetched_at": "2026-04-30",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -14828,6 +14841,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI talks about not talking about goblins",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+      "score": 57,
+      "file": "_posts/2026-04-30-openai-talks-about-not-talking-about-goblins.md",
+      "posted_at": "2026-04-30",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -15158,8 +15184,8 @@
     },
     {
       "date": "2026-04-30",
-      "posts": 2,
-      "items_processed": 11094,
+      "posts": 3,
+      "items_processed": 12943,
       "estimated_tokens": 0
     }
   ]

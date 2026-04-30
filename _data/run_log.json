@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-26 23:36:45 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1835,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-27 00:59:19 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1140,6 +1118,38 @@
         "score": 55,
         "tags": [
           "meta"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-04-30 20:58:23 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1849,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI talks about not talking about goblins",
+        "file": "_posts/2026-04-30-openai-talks-about-not-talking-about-goblins.md",
+        "score": 57,
+        "tags": [
+          "openai",
+          "coding"
         ]
       }
     ]
