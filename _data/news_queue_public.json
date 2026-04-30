@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-04-29T22:32:38.388781+00:00",
-  "pending_count": 1043,
+  "updated_at_utc": "2026-04-30T00:00:04.476011+00:00",
+  "pending_count": 1029,
   "pending": [
     {
       "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect’s ChatGPT activity",
@@ -47,6 +47,18 @@
       "topics": []
     },
     {
+      "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "score": 42,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "microsoft"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
       "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
       "score": 40,
@@ -57,6 +69,19 @@
       ],
       "topics": [
         "agentic",
+        "coding"
+      ]
+    },
+    {
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "score": 32,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
         "coding"
       ]
     },
@@ -79,6 +104,28 @@
       "source": "TechCrunch",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+      "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+      "score": 24,
+      "fetched_at": "2026-04-29",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta is still burning money on AR/VR",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "score": 24,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -172,6 +219,17 @@
       "topics": []
     },
     {
+      "title": "On the stand, Elon Musk can’t escape his own tweets",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping disaster response teams turn AI into action across Asia",
       "url": "https://openai.com/index/helping-disaster-response-teams-asia",
       "score": 18,
@@ -185,6 +243,17 @@
     {
       "title": "Cybersecurity in the Intelligence Age",
       "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "score": 18,
+      "fetched_at": "2026-04-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
       "score": 18,
       "fetched_at": "2026-04-29",
       "source": "OpenAI",
@@ -11524,237 +11593,6 @@
       "companies": [],
       "topics": [
         "coding"
-      ]
-    },
-    {
-      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
-      "score": 49,
-      "fetched_at": "2026-04-15",
-      "source": "The Verge",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
-      "url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
-      "score": 48,
-      "fetched_at": "2026-04-15",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-      "score": 48,
-      "fetched_at": "2026-04-15",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Walmart is updating its 4K streaming box with Gemini and Matter support",
-      "url": "https://www.theverge.com/tech/912334/walmart-onn-4k-pro-streamer-google-tv-gemini-matter-thread-smart-home",
-      "score": 45,
-      "fetched_at": "2026-04-15",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta researchers introduce 'hyperagents' to unlock self-improving AI for non-coding tasks",
-      "url": "https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks",
-      "score": 41,
-      "fetched_at": "2026-04-15",
-      "source": "VentureBeat",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway.",
-      "url": "https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook",
-      "score": 32,
-      "fetched_at": "2026-04-15",
-      "source": "VentureBeat",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "score": 32,
-      "fetched_at": "2026-04-15",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "We tested Anthropic’s redesigned Claude Code desktop app and 'Routines' -- here's what enterprises should know",
-      "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
-      "score": 30,
-      "fetched_at": "2026-04-15",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "score": 26,
-      "fetched_at": "2026-04-15",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "Google rolls out a native Gemini app for Mac",
-      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-      "score": 24,
-      "fetched_at": "2026-04-15",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-04-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-      "score": 19,
-      "fetched_at": "2026-04-15",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ]
-    },
-    {
-      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-      "url": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
-      "score": 18,
-      "fetched_at": "2026-04-15",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-04-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "score": 18,
-      "fetched_at": "2026-04-15",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
-      "score": 18,
-      "fetched_at": "2026-04-15",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
-      "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt",
-      "score": 14,
-      "fetched_at": "2026-04-15",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "score": 14,
-      "fetched_at": "2026-04-15",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-04-15",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ]
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-04-15",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
       ]
     }
   ]
