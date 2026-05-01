@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-01T21:26:40.409247+00:00",
-  "pending_count": 1053,
+  "updated_at_utc": "2026-05-01T22:27:01.314005+00:00",
+  "pending_count": 1055,
   "pending": [
     {
       "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
@@ -170,6 +170,19 @@
       ]
     },
     {
+      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "score": 32,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -192,6 +205,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+      "url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+      "score": 30,
+      "fetched_at": "2026-05-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Why OpenAI's 'goblin' problem matters — and how you can release the goblins on your own",

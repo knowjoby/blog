@@ -1945,6 +1945,21 @@
       "topic": "china"
     },
     {
+      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "score": 32,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "meta",
+      "topic": "robotics"
+    },
+    {
       "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
       "score": 31,
@@ -2990,6 +3005,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
+      "url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
+      "score": 30,
+      "fetched_at": "2026-05-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15379,7 +15407,7 @@
     {
       "date": "2026-05-01",
       "posts": 3,
-      "items_processed": 22200,
+      "items_processed": 24050,
       "estimated_tokens": 0
     }
   ]
