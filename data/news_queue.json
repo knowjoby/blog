@@ -330,6 +330,20 @@
       "topic": ""
     },
     {
+      "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
+      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
+      "score": 48,
+      "fetched_at": "2026-05-01",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga \u2014 seemingly flawlessly",
       "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
       "score": 46,
@@ -893,6 +907,19 @@
     {
       "title": "Dyson put someone else\u2019s motor in its robot vacuum",
       "url": "https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea",
+      "score": 39,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Dreame \u2014\u00a0the vacuum company \u2014 just \u2018launched\u2019 its own phones",
+      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
       "score": 39,
       "fetched_at": "2026-05-01",
       "source": "The Verge",
@@ -6987,6 +7014,19 @@
       "topic": ""
     },
     {
+      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -7147,6 +7187,19 @@
       ],
       "topics": [],
       "company": "stability",
+      "topic": ""
+    },
+    {
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "score": 20,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -10470,6 +10523,19 @@
       ],
       "company": "huggingface",
       "topic": "open_source"
+    },
+    {
+      "title": "Musk v. Altman is just getting started",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
@@ -15284,7 +15350,7 @@
     {
       "date": "2026-05-01",
       "posts": 2,
-      "items_processed": 16650,
+      "items_processed": 18500,
       "estimated_tokens": 0
     }
   ]
