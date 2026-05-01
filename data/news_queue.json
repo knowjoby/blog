@@ -36,19 +36,6 @@
       "topic": "coding"
     },
     {
-      "title": "Meta blames RAM shortage for $100 Quest 3 price hike",
-      "url": "https://www.theverge.com/tech/912921/meta-quest-3-3s-vr-price-hike-ram-memory-shortage",
-      "score": 49,
-      "fetched_at": "2026-04-16",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
       "score": 49,
@@ -218,6 +205,19 @@
       "topic": ""
     },
     {
+      "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes",
+      "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+      "score": 49,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -282,6 +282,48 @@
       "companies": [
         "openai",
         "amazon"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "score": 48,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "score": 48,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI\u2019s Models to Train Its Own",
+      "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+      "score": 48,
+      "fetched_at": "2026-05-01",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "xai"
       ],
       "topics": [],
       "company": "openai",
@@ -390,19 +432,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Ronan Farrow on Sam Altman\u2019s \u2018unconstrained\u2019  relationship with the truth",
-      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-      "score": 43,
-      "fetched_at": "2026-04-16",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Should you stare into Sam Altman\u2019s orb before your next date?",
@@ -806,50 +835,20 @@
       "topic": "agentic"
     },
     {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-04-16",
-      "source": "OpenAI",
-      "companies": [],
+      "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
+      "url": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
+      "score": 40,
+      "fetched_at": "2026-05-01",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
       "topics": [
-        "agentic",
-        "reasoning",
         "coding",
-        "multimodal"
+        "open_source"
       ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Google adds Nano Banana-powered image generation to Gemini\u2019s Personal Intelligence",
-      "url": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
-      "score": 38,
-      "fetched_at": "2026-04-16",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "google",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Gemini can now create personalized AI images by digging around in Google Photos",
-      "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
-      "score": 38,
-      "fetched_at": "2026-04-16",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "google",
-      "topic": "multimodal"
+      "company": "nvidia",
+      "topic": "coding"
     },
     {
       "title": "AI chip startup Cerebras files for IPO",
@@ -1208,19 +1207,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Ballmer gives $80 million to NPR, with strings attached",
-      "url": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
-      "score": 34,
-      "fetched_at": "2026-04-16",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
       "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
       "score": 34,
@@ -1443,21 +1429,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-04-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
     },
     {
       "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
@@ -1835,19 +1806,6 @@
       "topic": "coding"
     },
     {
-      "title": "Character.AI\u2019s new Books mode turns reading into roleplay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
-      "score": 31,
-      "fetched_at": "2026-04-16",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
       "score": 31,
@@ -1885,32 +1843,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
-      "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-      "score": 30,
-      "fetched_at": "2026-04-16",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
-      "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
-      "score": 30,
-      "fetched_at": "2026-04-16",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -2870,6 +2802,45 @@
       "topic": ""
     },
     {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "score": 30,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Why OpenAI's 'goblin' problem matters \u2014 and how you can release the goblins on your own",
+      "url": "https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own",
+      "score": 30,
+      "fetched_at": "2026-05-01",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
+      "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
+      "score": 30,
+      "fetched_at": "2026-05-01",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3135,21 +3106,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Treating enterprise AI as an operating layer",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-      "score": 26,
-      "fetched_at": "2026-04-16",
-      "source": "MIT Tech Review",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "google",
-      "topic": "reasoning"
     },
     {
       "title": "Beatbot Sora 30 Review: Midrange Price, High-End Results",
@@ -3600,97 +3556,6 @@
       ],
       "company": "anthropic",
       "topic": "coding"
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic Plots Major London Expansion",
-      "url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "The Battle for OpenAI\u2019s Soul",
-      "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
-      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
-      "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
-      "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI starts offering a biology-tuned LLM",
-      "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
-      "score": 24,
-      "fetched_at": "2026-04-16",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
@@ -6934,6 +6799,71 @@
       "topic": ""
     },
     {
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles",
+      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
+      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How Shivon Zilis Operated as Elon Musk\u2019s OpenAI Insider",
+      "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
+      "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -7137,73 +7067,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-04-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-04-16",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-04-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Why having \u201chumans in the loop\u201d in an AI war is an illusion",
-      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
-      "score": 18,
-      "fetched_at": "2026-04-16",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "New ways to create personalized images in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "score": 18,
-      "fetched_at": "2026-04-16",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Codex now offers more flexible pricing for teams",
@@ -10406,6 +10269,32 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
       "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps",
       "score": 17,
@@ -10956,19 +10845,6 @@
       "topic": ""
     },
     {
-      "title": "Mozilla launches Thunderbolt AI client with focus on self-hosted infrastructure",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-      "score": 14,
-      "fetched_at": "2026-04-16",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "open_source"
-      ],
-      "company": "",
-      "topic": "open_source"
-    },
-    {
       "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
       "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
       "score": 14,
@@ -11255,32 +11131,6 @@
       "topic": "agentic"
     },
     {
-      "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-      "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-      "score": 12,
-      "fetched_at": "2026-04-16",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
-      "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
-      "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
-      "score": 12,
-      "fetched_at": "2026-04-16",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Google Maps is about to get a big dose of AI",
       "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
       "score": 12,
@@ -11372,43 +11222,17 @@
       "topic": "ai"
     },
     {
-      "title": "Roblox\u2019s AI assistant gets new agentic tools to plan, build, and test games",
-      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "score": 11,
-      "fetched_at": "2026-04-16",
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "score": 12,
+      "fetched_at": "2026-05-01",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
-        "agentic"
+        "ai"
       ],
       "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "score": 11,
-      "fetched_at": "2026-04-16",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "score": 11,
-      "fetched_at": "2026-04-16",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
+      "topic": "ai"
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
@@ -14917,6 +14741,21 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Claude Code, Copilot and Codex all got hacked. Every attacker went for the credential, not the model.",
+      "url": "https://venturebeat.com/security/six-exploits-broke-ai-coding-agents-iam-never-saw-them",
+      "score": 62,
+      "file": "_posts/2026-05-01-claude-code-copilot-and-codex-all-got-hacked-every-attacker-went-for-t.md",
+      "posted_at": "2026-05-01",
+      "companies": [
+        "openai",
+        "anthropic",
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -15249,6 +15088,12 @@
       "date": "2026-04-30",
       "posts": 5,
       "items_processed": 14793,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-01",
+      "posts": 1,
+      "items_processed": 1850,
       "estimated_tokens": 0
     }
   ]
