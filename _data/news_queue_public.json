@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-01T04:09:42.980231+00:00",
-  "pending_count": 1034,
+  "updated_at_utc": "2026-05-01T07:14:18.277161+00:00",
+  "pending_count": 1041,
   "pending": [
     {
       "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
@@ -61,6 +61,33 @@
       "topics": [
         "coding",
         "open_source"
+      ]
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 38,
+      "fetched_at": "2026-05-01",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning",
+        "coding",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "score": 32,
+      "fetched_at": "2026-05-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
       ]
     },
     {
@@ -141,6 +168,17 @@
       "topics": []
     },
     {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "score": 24,
+      "fetched_at": "2026-05-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
       "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
       "score": 24,
@@ -170,6 +208,52 @@
       "source": "TechCrunch",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "New ways to create personalized images in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+      "score": 18,
+      "fetched_at": "2026-05-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
