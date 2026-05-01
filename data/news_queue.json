@@ -616,6 +616,19 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk had a bad week in court",
+      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "score": 43,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -1906,6 +1919,19 @@
       "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
       "score": 31,
       "fetched_at": "2026-04-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "score": 31,
+      "fetched_at": "2026-05-01",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -15230,7 +15256,7 @@
     {
       "date": "2026-05-01",
       "posts": 1,
-      "items_processed": 11100,
+      "items_processed": 12950,
       "estimated_tokens": 0
     }
   ]

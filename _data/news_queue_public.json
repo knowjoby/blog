@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-01T12:02:23.131421+00:00",
-  "pending_count": 1044,
+  "updated_at_utc": "2026-05-01T14:01:02.171908+00:00",
+  "pending_count": 1046,
   "pending": [
     {
       "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
@@ -46,6 +46,17 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk had a bad week in court",
+      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "score": 43,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -121,6 +132,17 @@
       ],
       "topics": [
         "reasoning"
+      ]
+    },
+    {
+      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "score": 31,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
