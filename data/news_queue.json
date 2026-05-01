@@ -851,6 +851,32 @@
       "topic": "coding"
     },
     {
+      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "score": 39,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Dyson put someone else\u2019s motor in its robot vacuum",
+      "url": "https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea",
+      "score": 39,
+      "fetched_at": "2026-05-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "AI chip startup Cerebras files for IPO",
       "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "score": 38,
@@ -1438,6 +1464,19 @@
       "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
       "score": 33,
       "fetched_at": "2026-04-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Dyson finally made a better robot, but a worse vacuum",
+      "url": "https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review",
+      "score": 33,
+      "fetched_at": "2026-05-01",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -15191,7 +15230,7 @@
     {
       "date": "2026-05-01",
       "posts": 1,
-      "items_processed": 9250,
+      "items_processed": 11100,
       "estimated_tokens": 0
     }
   ]
