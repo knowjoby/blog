@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-28 10:29:13 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1841,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-28 13:07:35 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1143,5 +1121,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-02 05:00:01 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1850,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+        "file": "_posts/2026-05-01-musk-v-altman-week-1-elon-musk-says-he-was-duped-warns-ai-could-kill-u.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "xai"
+        ]
+      }
+    ]
   }
 ]
