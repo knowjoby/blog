@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-04-28 04:59:25 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1841,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-04-28 06:46:43 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1132,5 +1110,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-02 02:56:40 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1850,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
+        "file": "_posts/2026-05-01-200000-mcp-servers-expose-a-command-execution-flaw-that-anthropic-call.md",
+        "score": 50,
+        "tags": [
+          "openai",
+          "anthropic",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
