@@ -14919,6 +14919,20 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "score": 100,
+      "file": "_posts/2026-05-01-pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but.md",
+      "posted_at": "2026-05-01",
+      "companies": [
+        "openai",
+        "anthropic",
+        "xai",
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15255,8 +15269,8 @@
     },
     {
       "date": "2026-05-01",
-      "posts": 1,
-      "items_processed": 12950,
+      "posts": 2,
+      "items_processed": 14800,
       "estimated_tokens": 0
     }
   ]

@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-04-27 23:19:40 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1840,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft and OpenAI’s famed AGI agreement is dead",
-        "file": "_posts/2026-04-27-microsoft-and-openais-famed-agi-agreement-is-dead.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-04-28 01:11:21 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1129,5 +1098,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-01 21:03:27 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1850,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+        "file": "_posts/2026-05-01-pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but.md",
+        "score": 100,
+        "tags": [
+          "openai",
+          "anthropic",
+          "xai",
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]
