@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-01T15:33:27.534467+00:00",
-  "pending_count": 1046,
+  "updated_at_utc": "2026-05-01T17:02:40.703361+00:00",
+  "pending_count": 1047,
   "pending": [
     {
       "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
@@ -57,6 +57,18 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "score": 42,
+      "fetched_at": "2026-05-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "nvidia"
       ],
       "topics": []
     },
