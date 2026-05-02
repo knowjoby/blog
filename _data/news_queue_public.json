@@ -1,7 +1,51 @@
 {
-  "updated_at_utc": "2026-05-02T01:14:26.538518+00:00",
-  "pending_count": 1034,
+  "updated_at_utc": "2026-05-02T04:44:13.874780+00:00",
+  "pending_count": 1038,
   "pending": [
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "score": 30,
+      "fetched_at": "2026-05-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-05-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New ways to balance cost and reliability in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+      "score": 18,
+      "fetched_at": "2026-05-02",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-05-02",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
+    },
     {
       "title": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
       "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
