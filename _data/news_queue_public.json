@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-02T17:53:32.739553+00:00",
-  "pending_count": 1040,
+  "updated_at_utc": "2026-05-02T19:09:01.718003+00:00",
+  "pending_count": 1041,
   "pending": [
+    {
+      "title": "Meta’s historic loss in court could cost a lot more than $375 million",
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "score": 49,
+      "fetched_at": "2026-05-02",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",

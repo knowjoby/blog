@@ -218,6 +218,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s historic loss in court could cost a lot more than $375 million",
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "score": 49,
+      "fetched_at": "2026-05-02",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -15226,7 +15239,7 @@
     {
       "date": "2026-05-02",
       "posts": 0,
-      "items_processed": 24050,
+      "items_processed": 25900,
       "estimated_tokens": 0
     }
   ]
