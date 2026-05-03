@@ -918,20 +918,6 @@
       "topic": "robotics"
     },
     {
-      "title": "AI chip startup Cerebras files for IPO",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "score": 38,
-      "fetched_at": "2026-04-18",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Google\u2019s new Deep Research and Deep Research Max agents can search the web and your private data",
       "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
       "score": 38,
@@ -1430,19 +1416,6 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
-    },
-    {
-      "title": "Cheap stuff that doesn\u2019t suck, take 3",
-      "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
-      "score": 33,
-      "fetched_at": "2026-04-18",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Humanoid \u2018Lightning\u2019 robot smashes the half-marathon record",
@@ -2939,21 +2912,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-04-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3641,32 +3599,6 @@
       ],
       "company": "anthropic",
       "topic": "coding"
-    },
-    {
-      "title": "Schematik Is \u2018Cursor for Hardware.\u2019 Anthropic Wants In",
-      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-      "score": 24,
-      "fetched_at": "2026-04-18",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
-      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-      "score": 24,
-      "fetched_at": "2026-04-18",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "OpenAI\u2019s existential questions",
@@ -7113,19 +7045,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop",
-      "url": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
-      "score": 18,
-      "fetched_at": "2026-04-18",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
@@ -15240,6 +15159,12 @@
       "date": "2026-05-02",
       "posts": 0,
       "items_processed": 33300,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-03",
+      "posts": 0,
+      "items_processed": 1850,
       "estimated_tokens": 0
     }
   ]
