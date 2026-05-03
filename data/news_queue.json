@@ -2957,6 +2957,21 @@
       "topic": "coding"
     },
     {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-05-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Silicon Valley has forgotten what normal people want",
       "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
       "score": 28,
@@ -15164,7 +15179,7 @@
     {
       "date": "2026-05-03",
       "posts": 0,
-      "items_processed": 1850,
+      "items_processed": 3700,
       "estimated_tokens": 0
     }
   ]

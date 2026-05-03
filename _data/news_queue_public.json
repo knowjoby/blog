@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-05-03T00:09:22.338011+00:00",
-  "pending_count": 1035,
+  "updated_at_utc": "2026-05-03T04:28:55.139799+00:00",
+  "pending_count": 1036,
   "pending": [
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-05-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
     {
       "title": "Meta’s historic loss in court could cost a lot more than $375 million",
       "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
