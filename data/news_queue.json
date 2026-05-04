@@ -244,6 +244,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI\u2019s president does \u2018all the things,\u2019 except\u00a0answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "score": 49,
+      "fetched_at": "2026-05-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -6902,6 +6915,19 @@
       "score": 24,
       "fetched_at": "2026-05-04",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Greg Brockman Defends $30B OpenAI Stake: \u2018Blood, Sweat, and Tears\u2019",
+      "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-04",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
@@ -15341,7 +15367,7 @@
     {
       "date": "2026-05-04",
       "posts": 1,
-      "items_processed": 20327,
+      "items_processed": 22178,
       "estimated_tokens": 0
     }
   ]
