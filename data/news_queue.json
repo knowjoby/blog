@@ -1929,19 +1929,6 @@
       "topic": "ai"
     },
     {
-      "title": "Best Meta Glasses (2026): Ray-Ban, Oakley, AR",
-      "url": "https://www.wired.com/story/best-meta-glasses/",
-      "score": 30,
-      "fetched_at": "2026-04-19",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
       "score": 30,
@@ -3614,19 +3601,6 @@
       ],
       "company": "anthropic",
       "topic": "coding"
-    },
-    {
-      "title": "OpenAI\u2019s existential questions",
-      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "score": 24,
-      "fetched_at": "2026-04-19",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI helps Hyatt advance AI among colleagues",
@@ -15180,6 +15154,12 @@
       "date": "2026-05-03",
       "posts": 0,
       "items_processed": 33300,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-04",
+      "posts": 0,
+      "items_processed": 1850,
       "estimated_tokens": 0
     }
   ]

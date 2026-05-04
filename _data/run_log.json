@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-05-01 09:39:42 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 17,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 17
-      },
-      "rss": {
-        "raw": 1850,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 17
-      }
-    },
-    "posts": [
-      {
-        "title": "Claude Code, Copilot and Codex all got hacked. Every attacker went for the credential, not the model.",
-        "file": "_posts/2026-05-01-claude-code-copilot-and-codex-all-got-hacked-every-attacker-went-for-t.md",
-        "score": 62,
-        "tags": [
-          "openai",
-          "anthropic",
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-01 12:44:18 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1124,6 +1090,28 @@
   },
   {
     "ran_at": "2026-05-04 05:24:46 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1850,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-04 09:17:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
