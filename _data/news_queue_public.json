@@ -1,7 +1,30 @@
 {
-  "updated_at_utc": "2026-05-04T21:13:21.766197+00:00",
-  "pending_count": 1044,
+  "updated_at_utc": "2026-05-04T22:33:37.228330+00:00",
+  "pending_count": 1047,
   "pending": [
+    {
+      "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
+      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "score": 49,
+      "fetched_at": "2026-05-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "score": 42,
+      "fetched_at": "2026-05-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "The creator of Roomba is back with a furry robot companion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
@@ -65,6 +88,17 @@
       "source": "MIT Tech Review",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "score": 18,
+      "fetched_at": "2026-05-04",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },

@@ -231,6 +231,19 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk will settle the feds\u2019 Twitter lawsuit with pocket change",
+      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
+      "score": 49,
+      "fetched_at": "2026-05-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -724,6 +737,20 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "score": 42,
+      "fetched_at": "2026-05-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10407,6 +10434,19 @@
       "topic": ""
     },
     {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "score": 18,
+      "fetched_at": "2026-05-04",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "score": 17,
@@ -15301,7 +15341,7 @@
     {
       "date": "2026-05-04",
       "posts": 1,
-      "items_processed": 18476,
+      "items_processed": 20327,
       "estimated_tokens": 0
     }
   ]
