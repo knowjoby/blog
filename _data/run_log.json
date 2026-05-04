@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-05-01 21:03:27 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1850,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
-        "file": "_posts/2026-05-01-pentagon-strikes-classified-ai-deals-with-openai-google-and-nvidia-but.md",
-        "score": 100,
-        "tags": [
-          "openai",
-          "anthropic",
-          "xai",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-01 22:32:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1131,5 +1097,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-04 23:15:42 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1850,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+        "file": "_posts/2026-05-04-anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
