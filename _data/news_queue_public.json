@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-04T13:09:13.204736+00:00",
-  "pending_count": 1034,
+  "updated_at_utc": "2026-05-04T15:31:17.951539+00:00",
+  "pending_count": 1035,
   "pending": [
+    {
+      "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+      "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-04",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
