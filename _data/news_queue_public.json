@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-05T03:42:58.248288+00:00",
-  "pending_count": 1041,
+  "updated_at_utc": "2026-05-05T06:22:40.490034+00:00",
+  "pending_count": 1044,
   "pending": [
+    {
+      "title": "Meta Quest Promo Codes: $50 Off | May 2026",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "score": 30,
+      "fetched_at": "2026-05-05",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
       "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
@@ -10,6 +21,28 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
