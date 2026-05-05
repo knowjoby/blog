@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-05T10:50:06.096126+00:00",
-  "pending_count": 1046,
+  "updated_at_utc": "2026-05-05T12:06:38.949061+00:00",
+  "pending_count": 1048,
   "pending": [
     {
       "title": "Google DeepMind workers are unionizing over AI military contracts",
@@ -14,6 +14,17 @@
       "topics": []
     },
     {
+      "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
+      "url": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+      "score": 43,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Meta Quest Promo Codes: $50 Off | May 2026",
       "url": "https://www.wired.com/story/meta-quest-promo-code/",
       "score": 30,
@@ -21,6 +32,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "Wired",
+      "companies": [
+        "google"
       ],
       "topics": []
     },

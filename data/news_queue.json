@@ -656,6 +656,19 @@
       "topic": ""
     },
     {
+      "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
+      "url": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
+      "score": 43,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "score": 42,
@@ -6920,6 +6933,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+      "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -15334,7 +15360,7 @@
     {
       "date": "2026-05-05",
       "posts": 0,
-      "items_processed": 9259,
+      "items_processed": 11111,
       "estimated_tokens": 0
     }
   ]
