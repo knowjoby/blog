@@ -309,6 +309,32 @@
       "topic": ""
     },
     {
+      "title": "Google Home\u2019s Gemini AI can handle more complicated requests",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -15590,7 +15616,7 @@
     {
       "date": "2026-05-05",
       "posts": 4,
-      "items_processed": 20379,
+      "items_processed": 22233,
       "estimated_tokens": 0
     }
   ]

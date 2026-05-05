@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-05-05T21:11:00.622021+00:00",
-  "pending_count": 1062,
+  "updated_at_utc": "2026-05-05T22:31:59.858311+00:00",
+  "pending_count": 1064,
   "pending": [
+    {
+      "title": "Google Home’s Gemini AI can handle more complicated requests",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "Apple could let you pick a favorite AI model in iOS 27",
       "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
