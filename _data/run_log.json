@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-02 15:32:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1850,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-02 16:53:32 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1124,6 +1102,37 @@
         "tags": [
           "openai",
           "google"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-05-05 22:15:19 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1852,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI is reportedly launching a phone for ChatGPT",
+        "file": "_posts/2026-05-05-openai-is-reportedly-launching-a-phone-for-chatgpt.md",
+        "score": 51,
+        "tags": [
+          "openai"
         ]
       }
     ]

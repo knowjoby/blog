@@ -6988,6 +6988,19 @@
       "topic": ""
     },
     {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -15088,6 +15101,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI is reportedly launching a phone for ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+      "score": 51,
+      "file": "_posts/2026-05-05-openai-is-reportedly-launching-a-phone-for-chatgpt.md",
+      "posted_at": "2026-05-05",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15448,8 +15472,8 @@
     },
     {
       "date": "2026-05-05",
-      "posts": 2,
-      "items_processed": 12963,
+      "posts": 3,
+      "items_processed": 14815,
       "estimated_tokens": 0
     }
   ]

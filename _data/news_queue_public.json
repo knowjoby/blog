@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-05T14:32:56.583018+00:00",
-  "pending_count": 1053,
+  "updated_at_utc": "2026-05-05T16:45:19.256948+00:00",
+  "pending_count": 1054,
   "pending": [
     {
       "title": "Google DeepMind workers are unionizing over AI military contracts",
@@ -87,6 +87,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
