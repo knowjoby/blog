@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-05T22:31:59.858311+00:00",
-  "pending_count": 1064,
+  "updated_at_utc": "2026-05-05T23:54:50.249014+00:00",
+  "pending_count": 1068,
   "pending": [
     {
       "title": "Google Home’s Gemini AI can handle more complicated requests",
@@ -135,6 +135,28 @@
       "topics": []
     },
     {
+      "title": "OpenAI president forced to read his personal diary entries to jury",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+      "score": 30,
+      "fetched_at": "2026-05-05",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
+      "url": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
       "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
       "score": 24,
@@ -234,6 +256,17 @@
       "topics": []
     },
     {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "score": 18,
+      "fetched_at": "2026-05-05",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "New ways to buy ChatGPT ads",
       "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
       "score": 18,
@@ -254,6 +287,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
+      "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
+      "score": 14,
+      "fetched_at": "2026-05-05",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
