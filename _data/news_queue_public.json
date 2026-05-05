@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-05T12:06:38.949061+00:00",
-  "pending_count": 1048,
+  "updated_at_utc": "2026-05-05T14:32:56.583018+00:00",
+  "pending_count": 1053,
   "pending": [
     {
       "title": "Google DeepMind workers are unionizing over AI military contracts",
@@ -21,6 +21,28 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New Mexico has a plan to overhaul Facebook and Instagram",
+      "url": "https://www.theverge.com/policy/923653/meta-new-mexico-public-nuisance-injunctive-relief",
+      "score": 43,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Researchers gaslit Claude into giving instructions to build explosives",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
+      "score": 43,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -58,6 +80,17 @@
       "topics": []
     },
     {
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
       "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
       "score": 24,
@@ -89,6 +122,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "score": 18,
+      "fetched_at": "2026-05-05",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "score": 12,
+      "fetched_at": "2026-05-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Elon Musk will settle the feds’ Twitter lawsuit with pocket change",
