@@ -15216,6 +15216,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft gives up on Xbox Copilot AI",
+      "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+      "score": 63,
+      "file": "_posts/2026-05-05-microsoft-gives-up-on-xbox-copilot-ai.md",
+      "posted_at": "2026-05-05",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -15576,8 +15589,8 @@
     },
     {
       "date": "2026-05-05",
-      "posts": 3,
-      "items_processed": 18525,
+      "posts": 4,
+      "items_processed": 20379,
       "estimated_tokens": 0
     }
   ]
