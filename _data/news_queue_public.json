@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-05T08:33:23.981071+00:00",
-  "pending_count": 1044,
+  "updated_at_utc": "2026-05-05T10:01:52.005325+00:00",
+  "pending_count": 1045,
   "pending": [
     {
       "title": "Meta Quest Promo Codes: $50 Off | May 2026",
@@ -10,6 +10,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI turns its sold-out GPT-5.5 party into a monthlong Codex giveaway for 8,000 developers",
+      "url": "https://venturebeat.com/technology/openai-turns-its-sold-out-gpt-5-5-party-into-a-monthlong-codex-giveaway-for-8-000-developers",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
