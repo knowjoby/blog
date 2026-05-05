@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-05T16:45:19.256948+00:00",
-  "pending_count": 1054,
+  "updated_at_utc": "2026-05-05T18:15:24.059287+00:00",
+  "pending_count": 1059,
   "pending": [
+    {
+      "title": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
+      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Google DeepMind workers are unionizing over AI military contracts",
       "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
@@ -10,6 +21,17 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -54,6 +76,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "score": 30,
+      "fetched_at": "2026-05-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -140,6 +173,28 @@
       "score": 18,
       "fetched_at": "2026-05-05",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-05-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "score": 18,
+      "fetched_at": "2026-05-05",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
