@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-05T18:15:24.059287+00:00",
-  "pending_count": 1059,
+  "updated_at_utc": "2026-05-05T19:57:49.002213+00:00",
+  "pending_count": 1062,
   "pending": [
+    {
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+      "score": 49,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "Book publishers sue Meta over AI’s ‘word-for-word’ copying",
       "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
@@ -32,6 +43,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Threads is finally getting DMs on the web",
+      "url": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
+      "score": 43,
+      "fetched_at": "2026-05-05",
+      "source": "The Verge",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -164,6 +186,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "score": 24,
+      "fetched_at": "2026-05-05",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
