@@ -461,22 +461,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga \u2014 seemingly flawlessly",
-      "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly",
-      "score": 46,
-      "fetched_at": "2026-04-21",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding",
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
       "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
       "score": 46,
@@ -550,32 +534,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
-      "score": 43,
-      "fetched_at": "2026-04-21",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Framework\u2019s first eGPUs turn its laptop into a desktop PC",
-      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
-      "score": 43,
-      "fetched_at": "2026-04-21",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
@@ -770,20 +728,6 @@
       ],
       "topics": [],
       "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
-      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "score": 42,
-      "fetched_at": "2026-04-21",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -1073,21 +1017,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Google\u2019s new Deep Research and Deep Research Max agents can search the web and your private data",
-      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
-      "score": 38,
-      "fetched_at": "2026-04-21",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
     },
     {
       "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
@@ -1627,21 +1556,6 @@
       "topic": "robotics"
     },
     {
-      "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
-      "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
-      "score": 32,
-      "fetched_at": "2026-04-21",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "multimodal"
-    },
-    {
       "title": "Google makes an interesting choice with its new agent building tool for enterprises",
       "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
       "score": 32,
@@ -2047,19 +1961,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Yelp is making its AI chatbot way more useful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-      "score": 31,
-      "fetched_at": "2026-04-21",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Google is testing AI chatbot search for YouTube",
       "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
       "score": 31,
@@ -2084,19 +1985,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "score": 30,
-      "fetched_at": "2026-04-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Google\u2019s Gemini can now run on a single air-gapped server \u2014 and vanish when you pull the plug",
@@ -3769,125 +3657,6 @@
       ],
       "company": "google",
       "topic": "multimodal"
-    },
-    {
-      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
-      "url": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
-      "score": 25,
-      "fetched_at": "2026-04-21",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "coding"
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta Is Sued Over Scam Ads on Facebook and Instagram",
-      "url": "https://www.wired.com/story/meta-is-sued-over-scam-ads-on-facebook-and-instagram/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-      "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 271 Bugs in Firefox",
-      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
-      "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
-      "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Mozilla: Anthropic's Mythos found 271 zero-day vulnerabilities in Firefox 150",
-      "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
-      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "score": 24,
-      "fetched_at": "2026-04-21",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
@@ -7336,32 +7105,6 @@
       "topic": "agentic"
     },
     {
-      "title": "What AI model should you use for revenue intelligence? Von says all the big ones, and it will automate mixing and matching for you",
-      "url": "https://venturebeat.com/orchestration/what-ai-model-should-you-use-for-revenue-intelligence-von-says-all-the-big-ones-and-it-will-automate-mixing-and-matching-for-you",
-      "score": 18,
-      "fetched_at": "2026-04-21",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT\u2019s new Images 2.0 model is surprisingly good at generating text",
-      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "score": 18,
-      "fetched_at": "2026-04-21",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Creating with Sora Safely",
       "url": "https://openai.com/index/creating-with-sora-safely",
       "score": 18,
@@ -10694,6 +10437,19 @@
       "topic": ""
     },
     {
+      "title": "GPT-5.5 Instant shows you what it remembered \u2014 just not all of it",
+      "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "score": 17,
@@ -10770,20 +10526,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Building agent-first governance and security",
-      "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/",
-      "score": 16,
-      "fetched_at": "2026-04-21",
-      "source": "MIT Tech Review",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Are you paying an AI \u2018swarm tax\u2019? Why single agents often beat complex systems",
@@ -15669,6 +15411,12 @@
       "date": "2026-05-05",
       "posts": 4,
       "items_processed": 24087,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-06",
+      "posts": 0,
+      "items_processed": 1854,
       "estimated_tokens": 0
     }
   ]
