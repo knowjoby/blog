@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-06T13:16:33.671658+00:00",
-  "pending_count": 1052,
+  "updated_at_utc": "2026-05-06T15:41:36.325302+00:00",
+  "pending_count": 1055,
   "pending": [
+    {
+      "title": "The Litter-Robot 4 bundle is back down to its best price of the year",
+      "url": "https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-05-06",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
@@ -12,6 +23,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "score": 26,
+      "fetched_at": "2026-05-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Scaling Codex to enterprises worldwide",
@@ -45,6 +69,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
+      "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
+      "score": 17,
+      "fetched_at": "2026-05-06",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Google Home’s Gemini AI can handle more complicated requests",

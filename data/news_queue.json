@@ -1556,6 +1556,19 @@
       "topic": "robotics"
     },
     {
+      "title": "The Litter-Robot 4 bundle is back down to its best price of the year",
+      "url": "https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-05-06",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Google makes an interesting choice with its new agent building tool for enterprises",
       "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
       "score": 32,
@@ -3670,6 +3683,21 @@
       ],
       "company": "google",
       "topic": "multimodal"
+    },
+    {
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "score": 26,
+      "fetched_at": "2026-05-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
@@ -10567,6 +10595,19 @@
       "topic": "robotics"
     },
     {
+      "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
+      "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
+      "score": 17,
+      "fetched_at": "2026-05-06",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Are you paying an AI \u2018swarm tax\u2019? Why single agents often beat complex systems",
       "url": "https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems",
       "score": 16,
@@ -15455,7 +15496,7 @@
     {
       "date": "2026-05-06",
       "posts": 0,
-      "items_processed": 11129,
+      "items_processed": 12986,
       "estimated_tokens": 0
     }
   ]
