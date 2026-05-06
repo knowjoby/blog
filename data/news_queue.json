@@ -828,6 +828,20 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+      "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
+      "score": 42,
+      "fetched_at": "2026-05-06",
+      "source": "Wired",
+      "companies": [
+        "anthropic",
+        "xai"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -6993,6 +7007,45 @@
       "topic": ""
     },
     {
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google DeepMind partners with EVE Online for AI model testing",
+      "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
+      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -10553,6 +10606,19 @@
       ],
       "topics": [],
       "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "Robinhood\u2019s venture fund IPO attracted 150,000+ retail investors, CEO says",
+      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15207,6 +15273,19 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Mira Murati tells the court that she couldn\u2019t trust Sam Altman\u2019s words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "score": 51,
+      "file": "_posts/2026-05-06-mira-murati-tells-the-court-that-she-couldnt-trust-sam-altmans-words.md",
+      "posted_at": "2026-05-06",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -15573,8 +15652,8 @@
     },
     {
       "date": "2026-05-06",
-      "posts": 0,
-      "items_processed": 14844,
+      "posts": 1,
+      "items_processed": 16703,
       "estimated_tokens": 0
     }
   ]

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-03 09:58:55 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1850,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-03 12:37:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1146,5 +1124,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-07 01:23:32 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1859,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+        "file": "_posts/2026-05-06-mira-murati-tells-the-court-that-she-couldnt-trust-sam-altmans-words.md",
+        "score": 51,
+        "tags": [
+          "openai",
+          "regulation"
+        ]
+      }
+    ]
   }
 ]
