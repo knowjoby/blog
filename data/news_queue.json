@@ -6967,6 +6967,32 @@
       "topic": ""
     },
     {
+      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
+      "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -10517,6 +10543,19 @@
       "topic": ""
     },
     {
+      "title": "SpaceX may spend up to $119 billion on \u2018Terafab\u2019 chip factory in Texas",
+      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "score": 17,
@@ -11066,6 +11105,19 @@
       "topic": ""
     },
     {
+      "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
+      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
+      "score": 16,
+      "fetched_at": "2026-05-06",
+      "source": "VentureBeat",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
       "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
       "url": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
       "score": 14,
@@ -11493,6 +11545,19 @@
       ],
       "company": "",
       "topic": "ai"
+    },
+    {
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "score": 12,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "deepseek",
+      "topic": ""
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
@@ -11974,6 +12039,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "score": 11,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -15496,7 +15574,7 @@
     {
       "date": "2026-05-06",
       "posts": 0,
-      "items_processed": 12986,
+      "items_processed": 14844,
       "estimated_tokens": 0
     }
   ]
