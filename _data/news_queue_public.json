@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-06T21:16:17.523161+00:00",
-  "pending_count": 1066,
+  "updated_at_utc": "2026-05-06T22:25:22.607308+00:00",
+  "pending_count": 1070,
   "pending": [
     {
       "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
@@ -57,6 +57,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Is xAI a neocloud now?",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
@@ -127,6 +138,28 @@
       "topics": []
     },
     {
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "score": 22,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+      "url": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "GPT-5.5 Instant shows you what it remembered — just not all of it",
       "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it",
       "score": 18,
@@ -151,6 +184,17 @@
     {
       "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
       "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
       "score": 18,
       "fetched_at": "2026-05-06",
       "source": "TechCrunch",

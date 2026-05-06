@@ -7046,6 +7046,19 @@
       "topic": ""
     },
     {
+      "title": "Is xAI a neocloud now?",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -7151,6 +7164,19 @@
       ],
       "company": "",
       "topic": "open_source"
+    },
+    {
+      "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
+      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "score": 22,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
+      "topic": ""
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -10619,6 +10645,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
+      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
+      "url": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+      "score": 18,
+      "fetched_at": "2026-05-06",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -15653,7 +15705,7 @@
     {
       "date": "2026-05-06",
       "posts": 1,
-      "items_processed": 18562,
+      "items_processed": 20421,
       "estimated_tokens": 0
     }
   ]
