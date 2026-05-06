@@ -6926,6 +6926,19 @@
       "topic": ""
     },
     {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -15442,7 +15455,7 @@
     {
       "date": "2026-05-06",
       "posts": 0,
-      "items_processed": 9273,
+      "items_processed": 11129,
       "estimated_tokens": 0
     }
   ]

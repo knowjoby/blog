@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-06T11:26:21.444112+00:00",
-  "pending_count": 1051,
+  "updated_at_utc": "2026-05-06T13:16:33.671658+00:00",
+  "pending_count": 1052,
   "pending": [
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -16,6 +16,17 @@
     {
       "title": "Scaling Codex to enterprises worldwide",
       "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "score": 24,
+      "fetched_at": "2026-05-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
       "score": 24,
       "fetched_at": "2026-05-06",
       "source": "OpenAI",
