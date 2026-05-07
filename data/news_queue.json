@@ -1478,6 +1478,19 @@
       "topic": "robotics"
     },
     {
+      "title": "A hacker ran me over with a robot lawn mower",
+      "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
+      "score": 33,
+      "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -2887,6 +2900,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s $9.99-per-month AI health coach launches May 19",
+      "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+      "score": 30,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -6885,6 +6911,19 @@
       "topic": ""
     },
     {
+      "title": "How Anthropic\u2019s Mythos has rewritten Firefox\u2019s approach to cybersecurity",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -10513,6 +10552,32 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+      "url": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "score": 18,
+      "fetched_at": "2026-05-07",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "score": 18,
+      "fetched_at": "2026-05-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11345,6 +11410,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "score": 14,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ],
+      "company": "",
+      "topic": "open_source"
     },
     {
       "title": "Talking to AI agents is one thing \u2014 what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
@@ -15496,7 +15574,7 @@
     {
       "date": "2026-05-07",
       "posts": 1,
-      "items_processed": 13029,
+      "items_processed": 14892,
       "estimated_tokens": 0
     }
   ]
