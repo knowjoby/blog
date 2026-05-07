@@ -666,6 +666,32 @@
       "topic": ""
     },
     {
+      "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "score": 43,
+      "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+      "score": 43,
+      "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -2926,6 +2952,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "score": 30,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -6947,6 +6986,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope",
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How to Disable Google's Gemini in Chrome",
+      "url": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -11149,6 +11214,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Perplexity\u2019s Personal Computer is now available to everyone on Mac",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "score": 16,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
       "topic": ""
     },
     {
@@ -15628,7 +15706,7 @@
     {
       "date": "2026-05-07",
       "posts": 2,
-      "items_processed": 16756,
+      "items_processed": 18620,
       "estimated_tokens": 0
     }
   ]
