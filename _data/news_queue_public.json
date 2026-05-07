@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-07T20:48:46.912554+00:00",
-  "pending_count": 1068,
+  "updated_at_utc": "2026-05-07T22:05:50.862687+00:00",
+  "pending_count": 1070,
   "pending": [
     {
       "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
@@ -237,6 +237,17 @@
       "topics": []
     },
     {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "score": 18,
+      "fetched_at": "2026-05-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Creating with Sora Safely",
       "url": "https://openai.com/index/creating-with-sora-safely",
       "score": 18,
@@ -268,6 +279,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "score": 17,
+      "fetched_at": "2026-05-07",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "We're launching two specialized TPUs for the agentic era.",

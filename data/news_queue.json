@@ -10669,6 +10669,19 @@
       "topic": ""
     },
     {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "score": 18,
+      "fetched_at": "2026-05-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10758,6 +10771,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "score": 17,
+      "fetched_at": "2026-05-07",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Another customer of troubled startup Delve suffered a big security incident",
@@ -15706,7 +15732,7 @@
     {
       "date": "2026-05-07",
       "posts": 2,
-      "items_processed": 18620,
+      "items_processed": 20485,
       "estimated_tokens": 0
     }
   ]
