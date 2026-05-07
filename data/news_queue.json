@@ -270,6 +270,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT\u2019s \u2018Trusted Contact\u2019 will alert loved ones of safety concerns",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "score": 49,
+      "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -6924,6 +6937,19 @@
       "topic": ""
     },
     {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
       "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
       "score": 22,
@@ -11425,6 +11451,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Jeff Bezos rep leaves Slate Auto\u2019s board",
+      "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+      "score": 14,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Talking to AI agents is one thing \u2014 what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
       "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
       "score": 12,
@@ -15201,6 +15240,21 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
+      "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
+      "score": 71,
+      "file": "_posts/2026-05-07-meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-in.md",
+      "posted_at": "2026-05-07",
+      "companies": [
+        "openai",
+        "anthropic",
+        "xai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
     }
   ],
   "daily_usage": [
@@ -15573,8 +15627,8 @@
     },
     {
       "date": "2026-05-07",
-      "posts": 1,
-      "items_processed": 14892,
+      "posts": 2,
+      "items_processed": 16756,
       "estimated_tokens": 0
     }
   ]

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-04 01:25:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1850,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-04 02:24:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1166,5 +1144,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-08 00:45:42 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1864,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
+        "file": "_posts/2026-05-07-meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-in.md",
+        "score": 71,
+        "tags": [
+          "openai",
+          "anthropic",
+          "xai",
+          "reasoning"
+        ]
+      }
+    ]
   }
 ]

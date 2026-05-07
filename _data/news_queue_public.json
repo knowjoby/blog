@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-07T17:17:50.186787+00:00",
-  "pending_count": 1059,
+  "updated_at_utc": "2026-05-07T19:15:42.857123+00:00",
+  "pending_count": 1062,
   "pending": [
+    {
+      "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "score": 49,
+      "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
@@ -96,6 +107,17 @@
     {
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
       "score": 24,
       "fetched_at": "2026-05-07",
       "source": "OpenAI",
@@ -201,6 +223,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Jeff Bezos rep leaves Slate Auto’s board",
+      "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+      "score": 14,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
