@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-07T22:05:50.862687+00:00",
-  "pending_count": 1070,
+  "updated_at_utc": "2026-05-07T23:28:24.786667+00:00",
+  "pending_count": 1072,
   "pending": [
     {
       "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
@@ -32,6 +32,18 @@
       "source": "The Verge",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
+      "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
+      "score": 42,
+      "fetched_at": "2026-05-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic",
+        "google"
       ],
       "topics": []
     },
@@ -70,6 +82,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "score": 30,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
