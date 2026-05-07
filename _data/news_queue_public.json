@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-07T12:19:44.236763+00:00",
-  "pending_count": 1048,
+  "updated_at_utc": "2026-05-07T15:14:52.561008+00:00",
+  "pending_count": 1053,
   "pending": [
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -17,6 +17,17 @@
       ]
     },
     {
+      "title": "Ploopy’s new mouse makes the ThinkPad’s iconic TrackPoint portable",
+      "url": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
+      "score": 39,
+      "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
       "title": "Introducing OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
       "score": 30,
@@ -28,6 +39,28 @@
       "topics": []
     },
     {
+      "title": "Google Ditches the Screen With the New Fitbit Air (2026)",
+      "url": "https://www.wired.com/story/google-fitbit-air/",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic Skill scanners passed every check. The malicious code rode in on a test file.",
+      "url": "https://venturebeat.com/security/anthropic-skill-scanners-passed-every-check-malicious-code-test-file",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "score": 24,
@@ -35,6 +68,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+      "score": 24,
+      "fetched_at": "2026-05-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "score": 18,
+      "fetched_at": "2026-05-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
