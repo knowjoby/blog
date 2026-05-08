@@ -967,6 +967,22 @@
       "topic": "reasoning"
     },
     {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "score": 40,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
       "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
       "score": 39,
@@ -15812,7 +15828,7 @@
     {
       "date": "2026-05-08",
       "posts": 1,
-      "items_processed": 20540,
+      "items_processed": 22411,
       "estimated_tokens": 0
     }
   ]

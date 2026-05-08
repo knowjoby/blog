@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-08T19:27:00.913867+00:00",
-  "pending_count": 1075,
+  "updated_at_utc": "2026-05-08T20:35:36.498294+00:00",
+  "pending_count": 1076,
   "pending": [
     {
       "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
@@ -12,6 +12,20 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "score": 40,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
