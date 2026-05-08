@@ -1,7 +1,42 @@
 {
-  "updated_at_utc": "2026-05-08T17:41:32.035611+00:00",
-  "pending_count": 1071,
+  "updated_at_utc": "2026-05-08T19:27:00.913867+00:00",
+  "pending_count": 1075,
   "pending": [
+    {
+      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
+      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "score": 43,
+      "fetched_at": "2026-05-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
+      "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous",
+      "score": 38,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Here is Yarbo’s promise to fix the robot mower that ran me over",
+      "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
+      "score": 33,
+      "fetched_at": "2026-05-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
@@ -137,6 +172,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.",
+      "url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model",
+      "score": 14,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",

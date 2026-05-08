@@ -676,6 +676,19 @@
       "topic": ""
     },
     {
+      "title": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
+      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
+      "score": 43,
+      "fetched_at": "2026-05-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -1127,6 +1140,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Anthropic wants to own your agent's memory, evals, and orchestration \u2014 and that should make enterprises nervous",
+      "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous",
+      "score": 38,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "score": 36,
@@ -1504,6 +1532,19 @@
       "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
       "score": 33,
       "fetched_at": "2026-05-07",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Here is Yarbo\u2019s promise to fix the robot mower that ran me over",
+      "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
+      "score": 33,
+      "fetched_at": "2026-05-08",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -11589,6 +11630,19 @@
       "topic": "robotics"
     },
     {
+      "title": "An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.",
+      "url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model",
+      "score": 14,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -15758,7 +15812,7 @@
     {
       "date": "2026-05-08",
       "posts": 1,
-      "items_processed": 18670,
+      "items_processed": 20540,
       "estimated_tokens": 0
     }
   ]
