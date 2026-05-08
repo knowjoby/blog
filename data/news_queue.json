@@ -1888,6 +1888,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Google is testing AI chatbot search for YouTube",
       "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
       "score": 31,
@@ -2923,6 +2938,32 @@
       "topic": ""
     },
     {
+      "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
+      "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+      "score": 30,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3573,6 +3614,21 @@
       "url": "https://openai.com/index/introducing-b2b-signals",
       "score": 26,
       "fetched_at": "2026-05-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-05-08",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -6900,6 +6956,32 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "score": 24,
+      "fetched_at": "2026-05-08",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15599,7 +15681,7 @@
     {
       "date": "2026-05-08",
       "posts": 0,
-      "items_processed": 1866,
+      "items_processed": 3732,
       "estimated_tokens": 0
     }
   ]
