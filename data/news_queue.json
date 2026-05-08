@@ -815,6 +815,20 @@
       "topic": ""
     },
     {
+      "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+      "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
+      "score": 42,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -1347,6 +1361,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI brings GPT-5-class reasoning to real-time voice \u2014 and it changes what voice agents can actually orchestrate",
+      "url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate",
+      "score": 35,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "SchoolAI builds an AI platform that empowers teachers",
@@ -15828,7 +15857,7 @@
     {
       "date": "2026-05-08",
       "posts": 1,
-      "items_processed": 24282,
+      "items_processed": 26153,
       "estimated_tokens": 0
     }
   ]
