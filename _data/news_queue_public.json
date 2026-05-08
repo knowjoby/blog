@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-08T11:54:32.967342+00:00",
-  "pending_count": 1067,
+  "updated_at_utc": "2026-05-08T14:03:29.929460+00:00",
+  "pending_count": 1068,
   "pending": [
     {
       "title": "Powering product discovery in ChatGPT",
@@ -58,6 +58,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "5% GPU utilization: The $401 billion AI infrastructure problem enterprises can't keep ignoring",
+      "url": "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring",
+      "score": 24,
+      "fetched_at": "2026-05-08",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
