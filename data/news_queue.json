@@ -15328,6 +15328,18 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Microsoft was worried OpenAI would run off to Amazon and \u2018shit-talk\u2019 Azure",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "score": 79,
+      "file": "_posts/2026-05-08-microsoft-was-worried-openai-would-run-off-to-amazon-and-shit-talk-azu.md",
+      "posted_at": "2026-05-08",
+      "companies": [
+        "openai",
+        "microsoft"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15706,8 +15718,8 @@
     },
     {
       "date": "2026-05-08",
-      "posts": 0,
-      "items_processed": 14933,
+      "posts": 1,
+      "items_processed": 16800,
       "estimated_tokens": 0
     }
   ]

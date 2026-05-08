@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-05-04 23:15:42 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 1850,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-        "file": "_posts/2026-05-04-anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-05 01:18:22 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1178,5 +1146,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-08 21:29:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1867,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+        "file": "_posts/2026-05-08-microsoft-was-worried-openai-would-run-off-to-amazon-and-shit-talk-azu.md",
+        "score": 79,
+        "tags": [
+          "openai",
+          "microsoft"
+        ]
+      }
+    ]
   }
 ]
