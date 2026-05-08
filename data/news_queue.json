@@ -10652,6 +10652,19 @@
       "topic": ""
     },
     {
+      "title": "MedQA: Fine-Tuning a Clinical AI on AMD ROCm \u2014 No CUDA Required",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "score": 18,
+      "fetched_at": "2026-05-08",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -15681,7 +15694,7 @@
     {
       "date": "2026-05-08",
       "posts": 0,
-      "items_processed": 5598,
+      "items_processed": 7465,
       "estimated_tokens": 0
     }
   ]
