@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-07T23:28:24.786667+00:00",
-  "pending_count": 1072,
+  "updated_at_utc": "2026-05-08T01:19:56.140478+00:00",
+  "pending_count": 1060,
   "pending": [
+    {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "ChatGPT’s ‘Trusted Contact’ will alert loved ones of safety concerns",
       "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
@@ -11905,159 +11916,6 @@
         "huggingface"
       ],
       "topics": []
-    },
-    {
-      "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
-      "url": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
-      "score": 52,
-      "fetched_at": "2026-04-23",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
-      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
-      "score": 38,
-      "fetched_at": "2026-04-23",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
-      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "score": 30,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How Balyasny Asset Management built an AI research engine",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "score": 26,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
-      "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
-      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta is revamping its cross-app management system",
-      "url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "AI galaxy hunters are adding to the global GPU crunch",
-      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-      "score": 18,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "score": 16,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ]
-    },
-    {
-      "title": "Talking to AI agents is one thing — what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
-      "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
-      "score": 12,
-      "fetched_at": "2026-04-23",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
     }
   ]
 }

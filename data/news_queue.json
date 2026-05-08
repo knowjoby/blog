@@ -20,22 +20,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
-      "url": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
-      "score": 52,
-      "fetched_at": "2026-04-23",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Meta is laying off 10 percent of its staff",
       "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
       "score": 49,
@@ -1022,21 +1006,6 @@
       "topic": "open_source"
     },
     {
-      "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
-      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
-      "score": 38,
-      "fetched_at": "2026-04-23",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -1544,21 +1513,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
       "score": 32,
@@ -1958,32 +1912,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018superapp\u2019",
-      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "score": 30,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Google to invest up to $40B in Anthropic in cash and compute",
@@ -3236,21 +3164,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How Balyasny Asset Management built an AI research engine",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "score": 26,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Designing AI agents to resist prompt injection",
       "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
       "score": 26,
@@ -3669,58 +3582,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
-      "url": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta is revamping its cross-app management system",
-      "url": "https://techcrunch.com/2026/04/23/meta-is-revamping-its-cross-app-management-system/",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
-      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "score": 24,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
@@ -7260,19 +7121,6 @@
       "topic": "agentic"
     },
     {
-      "title": "AI galaxy hunters are adding to the global GPU crunch",
-      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-      "score": 18,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
       "url": "https://openai.com/index/cyberagent",
       "score": 18,
@@ -10709,6 +10557,19 @@
       "topic": ""
     },
     {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10811,20 +10672,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "score": 16,
-      "fetched_at": "2026-04-23",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
@@ -11593,19 +11440,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Talking to AI agents is one thing \u2014 what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
-      "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
-      "score": 12,
-      "fetched_at": "2026-04-23",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -15760,6 +15594,12 @@
       "date": "2026-05-07",
       "posts": 2,
       "items_processed": 22350,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-08",
+      "posts": 0,
+      "items_processed": 1866,
       "estimated_tokens": 0
     }
   ]
