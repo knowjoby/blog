@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-08T15:59:41.530785+00:00",
-  "pending_count": 1068,
+  "updated_at_utc": "2026-05-08T17:41:32.035611+00:00",
+  "pending_count": 1071,
   "pending": [
     {
       "title": "Powering product discovery in ChatGPT",
@@ -13,6 +13,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "PlayStation sees AI as a ‘powerful tool’ to help make games",
+      "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "score": 31,
+      "fetched_at": "2026-05-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -86,6 +97,28 @@
     {
       "title": "Simplex rethinks software development with Codex",
       "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "score": 18,
+      "fetched_at": "2026-05-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
       "score": 18,
       "fetched_at": "2026-05-08",
       "source": "OpenAI",
