@@ -20,19 +20,6 @@
       "topic": ""
     },
     {
-      "title": "Meta is laying off 10 percent of its staff",
-      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
-      "score": 49,
-      "fetched_at": "2026-04-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
       "score": 49,
@@ -453,32 +440,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "score": 43,
-      "fetched_at": "2026-04-24",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk and Sam Altman\u2019s court showdown will dish the dirt",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "score": 43,
-      "fetched_at": "2026-04-24",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019",
@@ -1047,21 +1008,6 @@
       ],
       "company": "",
       "topic": "open_source"
-    },
-    {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "score": 38,
-      "fetched_at": "2026-04-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
@@ -2026,34 +1972,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "score": 30,
-      "fetched_at": "2026-04-24",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Three reasons why DeepSeek\u2019s new model V4 matters",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "score": 30,
-      "fetched_at": "2026-04-24",
-      "source": "MIT Tech Review",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "deepseek",
-      "topic": "china"
     },
     {
       "title": "OpenAI acquires TBPN",
@@ -3123,19 +3041,6 @@
       "topic": "coding"
     },
     {
-      "title": "Prestigious photo contest answers \u2018what is a photo?\u2019",
-      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "score": 28,
-      "fetched_at": "2026-04-24",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Best practices for deploying language models",
       "url": "https://openai.com/index/best-practices-for-deploying-language-models",
       "score": 28,
@@ -3737,88 +3642,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
-      "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation",
-      "score": 24,
-      "fetched_at": "2026-04-24",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
-      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
-      "score": 24,
-      "fetched_at": "2026-04-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "DeepSeek previews new AI model that \u2018closes the gap\u2019 with frontier models",
-      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "score": 24,
-      "fetched_at": "2026-04-24",
-      "source": "TechCrunch",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "deepseek",
-      "topic": "reasoning"
-    },
-    {
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "score": 24,
-      "fetched_at": "2026-04-24",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
-      "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
-      "score": 24,
-      "fetched_at": "2026-04-24",
-      "source": "VentureBeat",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "deepseek",
-      "topic": "china"
-    },
-    {
-      "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "score": 24,
-      "fetched_at": "2026-04-24",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Google will invest as much as $40 billion in Anthropic",
@@ -7097,16 +6920,16 @@
       "topic": ""
     },
     {
-      "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
-      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "score": 22,
-      "fetched_at": "2026-04-24",
-      "source": "TechCrunch",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "score": 24,
+      "fetched_at": "2026-05-09",
+      "source": "MIT Tech Review",
       "companies": [
-        "cohere"
+        "openai"
       ],
       "topics": [],
-      "company": "cohere",
+      "company": "openai",
       "topic": ""
     },
     {
@@ -7217,21 +7040,6 @@
       "topic": ""
     },
     {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "score": 21,
-      "fetched_at": "2026-04-24",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "huggingface",
-      "topic": "multimodal"
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -7313,71 +7121,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "url": "https://openai.com/index/cyberagent",
-      "score": 18,
-      "fetched_at": "2026-04-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "score": 18,
-      "fetched_at": "2026-04-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "5 Reasons to Think Twice Before Using ChatGPT\u2014or Any Chatbot\u2014for Financial Advice",
-      "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
-      "score": 18,
-      "fetched_at": "2026-04-24",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AI-Designed Drugs by a DeepMind Spinoff Are Headed to Human Trials",
-      "url": "https://www.wired.com/story/wired-health-2026-how-ai-is-powering-drug-discovery-max-jaderberg/",
-      "score": 18,
-      "fetched_at": "2026-04-24",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "score": 18,
-      "fetched_at": "2026-04-24",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Brainstorming with ChatGPT",
@@ -10907,19 +10650,6 @@
       "topic": "regulation"
     },
     {
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "score": 16,
-      "fetched_at": "2026-04-24",
-      "source": "Hugging Face",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
-    },
-    {
       "title": "Why Cohere is merging with Aleph Alpha",
       "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
       "score": 16,
@@ -11361,19 +11091,6 @@
       "topics": [],
       "company": "perplexity",
       "topic": ""
-    },
-    {
-      "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
-      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "score": 14,
-      "fetched_at": "2026-04-24",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Introducing GPT-5.5",
@@ -12271,19 +11988,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "score": 10,
-      "fetched_at": "2026-04-24",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Deep double descent",
@@ -15858,6 +15562,12 @@
       "date": "2026-05-08",
       "posts": 1,
       "items_processed": 26153,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-09",
+      "posts": 0,
+      "items_processed": 1871,
       "estimated_tokens": 0
     }
   ]
