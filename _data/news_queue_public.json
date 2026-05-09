@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-09T15:30:36.007366+00:00",
-  "pending_count": 1066,
+  "updated_at_utc": "2026-05-09T17:01:09.442776+00:00",
+  "pending_count": 1067,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -13,6 +13,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+      "score": 33,
+      "fetched_at": "2026-05-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
