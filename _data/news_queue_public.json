@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-05-09T01:18:40.720437+00:00",
-  "pending_count": 1056,
+  "updated_at_utc": "2026-05-09T04:52:06.067215+00:00",
+  "pending_count": 1064,
   "pending": [
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-05-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
       "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
@@ -10,6 +23,85 @@
       "source": "MIT Tech Review",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+      "score": 24,
+      "fetched_at": "2026-05-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-05-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-05-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "score": 18,
+      "fetched_at": "2026-05-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "score": 18,
+      "fetched_at": "2026-05-09",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-05-09",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-05-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
       ],
       "topics": []
     },
