@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-05-05 20:02:56 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 2,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1852,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-        "file": "_posts/2026-05-05-google-microsoft-and-xai-will-allow-the-us-government-to-review-their.md",
-        "score": 79,
-        "tags": [
-          "google",
-          "xai"
-        ]
-      },
-      {
-        "title": "Google’s AI architect lived rent-free in Elon Musk’s head",
-        "file": "_posts/2026-05-05-googles-ai-architect-lived-rent-free-in-elon-musks-head.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-05 22:15:19 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1159,6 +1118,28 @@
   },
   {
     "ran_at": "2026-05-09 14:48:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1871,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-09 15:45:11 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
