@@ -7068,6 +7068,21 @@
       "topic": ""
     },
     {
+      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+      "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+      "score": 22,
+      "fetched_at": "2026-05-09",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "meta",
+      "topic": "robotics"
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -15675,7 +15690,7 @@
     {
       "date": "2026-05-09",
       "posts": 0,
-      "items_processed": 11226,
+      "items_processed": 13097,
       "estimated_tokens": 0
     }
   ]
