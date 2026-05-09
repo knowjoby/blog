@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-09T14:18:27.953095+00:00",
-  "pending_count": 1065,
+  "updated_at_utc": "2026-05-09T15:30:36.007366+00:00",
+  "pending_count": 1066,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -23,6 +23,17 @@
       "source": "MIT Tech Review",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "score": 24,
+      "fetched_at": "2026-05-09",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
