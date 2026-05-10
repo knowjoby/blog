@@ -6947,6 +6947,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
+      "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "score": 24,
+      "fetched_at": "2026-05-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10608,6 +10621,19 @@
       "score": 18,
       "fetched_at": "2026-05-10",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Get ready for the whisper-filled office of the future",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "score": 18,
+      "fetched_at": "2026-05-10",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -15656,7 +15682,7 @@
     {
       "date": "2026-05-10",
       "posts": 0,
-      "items_processed": 22452,
+      "items_processed": 24323,
       "estimated_tokens": 0
     }
   ]
