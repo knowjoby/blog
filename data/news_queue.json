@@ -380,6 +380,20 @@
       "topic": ""
     },
     {
+      "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "score": 48,
+      "fetched_at": "2026-05-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "xai"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
       "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
       "score": 46,
@@ -15642,7 +15656,7 @@
     {
       "date": "2026-05-10",
       "posts": 0,
-      "items_processed": 16839,
+      "items_processed": 18710,
       "estimated_tokens": 0
     }
   ]
