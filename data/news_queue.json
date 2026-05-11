@@ -1587,6 +1587,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "score": 33,
+      "fetched_at": "2026-05-11",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
       "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
       "score": 32,
@@ -3005,6 +3018,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "score": 30,
+      "fetched_at": "2026-05-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15701,7 +15727,7 @@
     {
       "date": "2026-05-11",
       "posts": 0,
-      "items_processed": 9362,
+      "items_processed": 11235,
       "estimated_tokens": 0
     }
   ]
