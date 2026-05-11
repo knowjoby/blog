@@ -6960,6 +6960,19 @@
       "topic": ""
     },
     {
+      "title": "CUDA Proves Nvidia Is a Software Company",
+      "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+      "score": 24,
+      "fetched_at": "2026-05-11",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
       "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
       "score": 22,
@@ -15688,7 +15701,7 @@
     {
       "date": "2026-05-11",
       "posts": 0,
-      "items_processed": 5616,
+      "items_processed": 7489,
       "estimated_tokens": 0
     }
   ]
