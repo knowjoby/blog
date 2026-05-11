@@ -6947,6 +6947,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "score": 24,
+      "fetched_at": "2026-05-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
       "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
       "score": 22,
@@ -15675,7 +15688,7 @@
     {
       "date": "2026-05-11",
       "posts": 0,
-      "items_processed": 3743,
+      "items_processed": 5616,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-11T05:38:35.091054+00:00",
-  "pending_count": 1063,
+  "updated_at_utc": "2026-05-11T09:51:58.524131+00:00",
+  "pending_count": 1064,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -2625,6 +2625,17 @@
     {
       "title": "OpenAI Codex",
       "url": "https://openai.com/index/openai-codex",
+      "score": 24,
+      "fetched_at": "2026-05-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
       "score": 24,
       "fetched_at": "2026-05-11",
       "source": "OpenAI",
