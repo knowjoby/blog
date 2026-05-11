@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-11T21:50:17.012393+00:00",
-  "pending_count": 1067,
+  "updated_at_utc": "2026-05-11T22:59:48.497254+00:00",
+  "pending_count": 1070,
   "pending": [
+    {
+      "title": "Here’s what Mira Murati’s AI company is up to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "score": 49,
+      "fetched_at": "2026-05-11",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
@@ -518,6 +529,17 @@
         "mistral"
       ],
       "topics": []
+    },
+    {
+      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
+      "score": 33,
+      "fetched_at": "2026-05-11",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Joanna Stern is not a robot, but she lived with them",
@@ -4035,6 +4057,17 @@
         "agentic",
         "reasoning"
       ]
+    },
+    {
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "score": 18,
+      "fetched_at": "2026-05-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",

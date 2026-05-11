@@ -254,6 +254,19 @@
       "topic": ""
     },
     {
+      "title": "Here\u2019s what Mira Murati\u2019s AI company is up to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "score": 49,
+      "fetched_at": "2026-05-11",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI ends its exclusive partnership with Microsoft",
       "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
       "score": 48,
@@ -1589,6 +1602,19 @@
     {
       "title": "Joanna Stern is not a robot, but she lived with them",
       "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "score": 33,
+      "fetched_at": "2026-05-11",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
+      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
       "score": 33,
       "fetched_at": "2026-05-11",
       "source": "The Verge",
@@ -10681,6 +10707,19 @@
       "topic": ""
     },
     {
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "score": 18,
+      "fetched_at": "2026-05-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Lovable launches its vibe-coding app on iOS and Android",
       "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
       "score": 17,
@@ -15727,7 +15766,7 @@
     {
       "date": "2026-05-11",
       "posts": 0,
-      "items_processed": 16854,
+      "items_processed": 18728,
       "estimated_tokens": 0
     }
   ]
