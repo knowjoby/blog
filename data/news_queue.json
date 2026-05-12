@@ -20,19 +20,6 @@
       "topic": ""
     },
     {
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "score": 49,
-      "fetched_at": "2026-04-27",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
       "score": 49,
@@ -267,20 +254,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI ends its exclusive partnership with Microsoft",
-      "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
-      "score": 48,
-      "fetched_at": "2026-04-27",
-      "source": "Ars Technica",
-      "companies": [
-        "openai",
-        "amazon"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
       "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "score": 48,
@@ -421,19 +394,6 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
-    },
-    {
-      "title": "Samsung\u2019s first smart glasses have leaked",
-      "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
-      "score": 45,
-      "fetched_at": "2026-04-27",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
@@ -1199,21 +1159,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "China kills Meta\u2019s acquisition of Manus as US-China AI rivalry deepens",
-      "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
-      "score": 35,
-      "fetched_at": "2026-04-27",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "meta",
-      "topic": "china"
     },
     {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -2038,21 +1983,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The Download: DeepSeek\u2019s latest AI breakthrough, and the race to build world models",
-      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-      "score": 30,
-      "fetched_at": "2026-04-27",
-      "source": "MIT Tech Review",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "deepseek",
-      "topic": "china"
     },
     {
       "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
@@ -3721,136 +3651,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Meta inks deal for solar power at night, beamed from space",
-      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "China vetoes Meta\u2019s $2B Manus deal after months-long probe",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Best Smart Glasses (2026): Meta, Viture, Xreal, and More",
-      "url": "https://www.wired.com/gallery/best-smart-glasses/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "Hugging Face",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Musk and Altman face off in trial that will determine OpenAI's future",
-      "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "EU tells Google to open up AI on Android; Google says that's \"unwarranted intervention\"",
-      "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "score": 24,
-      "fetched_at": "2026-04-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
@@ -7025,6 +6825,19 @@
       "topic": ""
     },
     {
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
+      "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
       "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
       "score": 22,
@@ -7203,20 +7016,6 @@
       "topic": ""
     },
     {
-      "title": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
-      "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
-      "score": 19,
-      "fetched_at": "2026-04-27",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
       "url": "https://huggingface.co/blog/intel-deepmath",
       "score": 19,
@@ -7243,45 +7042,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Here\u2019s How Much San Francisco Tech Companies Pay for Police Protection",
-      "url": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/",
-      "score": 18,
-      "fetched_at": "2026-04-27",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "score": 18,
-      "fetched_at": "2026-04-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk Boosts New Yorker\u2019s Sam Altman Expos\u00e9 on X as Trial Begins",
-      "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
-      "score": 18,
-      "fetched_at": "2026-04-27",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
@@ -11267,19 +11027,6 @@
       "topic": ""
     },
     {
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "score": 14,
-      "fetched_at": "2026-04-27",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Netflix wants you to watch \u2018Clips,\u2019 its TikTok-like vertical video feed",
       "url": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
       "score": 14,
@@ -11681,32 +11428,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
-      "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk",
-      "score": 11,
-      "fetched_at": "2026-04-27",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "score": 11,
-      "fetched_at": "2026-04-27",
-      "source": "Google AI",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "How to build custom reasoning agents with a fraction of the compute",
@@ -15369,6 +15090,20 @@
         "microsoft"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "score": 81,
+      "file": "_posts/2026-05-12-openai-just-released-its-answer-to-claude-mythos.md",
+      "posted_at": "2026-05-12",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -15767,6 +15502,12 @@
       "date": "2026-05-11",
       "posts": 0,
       "items_processed": 18728,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-12",
+      "posts": 1,
+      "items_processed": 1875,
       "estimated_tokens": 0
     }
   ]
