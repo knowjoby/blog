@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-12T17:34:15.688207+00:00",
-  "pending_count": 1066,
+  "updated_at_utc": "2026-05-12T20:01:02.723990+00:00",
+  "pending_count": 1073,
   "pending": [
+    {
+      "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
+      "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
+      "score": 49,
+      "fetched_at": "2026-05-12",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Gemini’s biggest new features are all about controlling your phone",
       "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
@@ -21,6 +32,29 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "score": 49,
+      "fetched_at": "2026-05-12",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
+      "url": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
+      "score": 48,
+      "fetched_at": "2026-05-12",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -107,6 +141,17 @@
       "topics": []
     },
     {
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "score": 30,
+      "fetched_at": "2026-05-12",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
       "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
       "score": 24,
@@ -125,6 +170,28 @@
       "source": "Wired",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -178,6 +245,17 @@
       "score": 18,
       "fetched_at": "2026-05-12",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
+      "score": 18,
+      "fetched_at": "2026-05-12",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
