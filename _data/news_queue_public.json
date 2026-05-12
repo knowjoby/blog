@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-12T00:07:20.019512+00:00",
-  "pending_count": 1049,
+  "updated_at_utc": "2026-05-12T04:24:14.500690+00:00",
+  "pending_count": 1054,
   "pending": [
     {
       "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
@@ -12,6 +12,61 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "Hugging Face",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "score": 14,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "score": 11,
+      "fetched_at": "2026-05-12",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Here’s what Mira Murati’s AI company is up to",

@@ -6838,6 +6838,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "Hugging Face",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
       "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
       "score": 22,
@@ -10480,6 +10506,19 @@
       "topic": ""
     },
     {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Lovable launches its vibe-coding app on iOS and Android",
       "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
       "score": 17,
@@ -11326,6 +11365,19 @@
       "topic": "open_source"
     },
     {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "score": 14,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Coby Adcock\u2019s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
       "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
       "score": 12,
@@ -11877,6 +11929,19 @@
       "score": 11,
       "fetched_at": "2026-05-11",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "score": 11,
+      "fetched_at": "2026-05-12",
+      "source": "Google AI",
       "companies": [],
       "topics": [
         "coding"
@@ -15507,7 +15572,7 @@
     {
       "date": "2026-05-12",
       "posts": 1,
-      "items_processed": 1875,
+      "items_processed": 3750,
       "estimated_tokens": 0
     }
   ]
