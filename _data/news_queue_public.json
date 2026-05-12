@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-12T21:50:16.490619+00:00",
-  "pending_count": 1073,
+  "updated_at_utc": "2026-05-12T23:06:53.704056+00:00",
+  "pending_count": 1075,
   "pending": [
     {
       "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
@@ -207,6 +207,17 @@
       "topics": []
     },
     {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "score": 24,
@@ -242,6 +253,17 @@
     {
       "title": "Choco automates food distribution with AI agents",
       "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "score": 18,
       "fetched_at": "2026-05-12",
       "source": "OpenAI",

@@ -7078,6 +7078,19 @@
       "topic": ""
     },
     {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "score": 24,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
       "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
       "score": 22,
@@ -10764,6 +10777,19 @@
       "score": 18,
       "fetched_at": "2026-05-12",
       "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "score": 18,
+      "fetched_at": "2026-05-12",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -15836,7 +15862,7 @@
     {
       "date": "2026-05-12",
       "posts": 2,
-      "items_processed": 18752,
+      "items_processed": 20631,
       "estimated_tokens": 0
     }
   ]
