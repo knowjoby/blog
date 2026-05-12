@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-05-08 21:29:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1867,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-        "file": "_posts/2026-05-08-microsoft-was-worried-openai-would-run-off-to-amazon-and-shit-talk-azu.md",
-        "score": 79,
-        "tags": [
-          "openai",
-          "microsoft"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-08 23:11:32 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1116,6 +1084,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 5
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-12 12:53:36 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1875,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
