@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-12T07:23:36.853887+00:00",
-  "pending_count": 1054,
+  "updated_at_utc": "2026-05-12T10:05:16.326950+00:00",
+  "pending_count": 1055,
   "pending": [
+    {
+      "title": "These new Roombas are smaller and cheaper",
+      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "score": 39,
+      "fetched_at": "2026-05-12",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
       "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",

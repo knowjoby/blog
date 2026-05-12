@@ -997,6 +997,19 @@
       "topic": "open_source"
     },
     {
+      "title": "These new Roombas are smaller and cheaper",
+      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "score": 39,
+      "fetched_at": "2026-05-12",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Amazon is already offering new OpenAI products on AWS",
       "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
       "score": 38,
@@ -15572,7 +15585,7 @@
     {
       "date": "2026-05-12",
       "posts": 1,
-      "items_processed": 5625,
+      "items_processed": 7500,
       "estimated_tokens": 0
     }
   ]
