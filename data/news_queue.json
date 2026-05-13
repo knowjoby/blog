@@ -434,6 +434,36 @@
       "topic": ""
     },
     {
+      "title": "Anthropic finally beat OpenAI in business AI adoption \u2014 but 3 big threats could erase its lead",
+      "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
+      "score": 48,
+      "fetched_at": "2026-05-13",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions \u2014 with a catch",
+      "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+      "score": 46,
+      "fetched_at": "2026-05-13",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "open_source"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -15479,6 +15509,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft\u2019s Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "score": 57,
+      "file": "_posts/2026-05-13-microsofts-edge-copilot-update-uses-ai-to-pull-information-from-across.md",
+      "posted_at": "2026-05-13",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -15887,8 +15930,8 @@
     },
     {
       "date": "2026-05-13",
-      "posts": 1,
-      "items_processed": 18793,
+      "posts": 2,
+      "items_processed": 20673,
       "estimated_tokens": 0
     }
   ]

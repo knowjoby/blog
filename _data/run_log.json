@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-10 02:26:45 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1871,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-10 03:25:20 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1127,5 +1105,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-14 04:40:40 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1880,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft’s Edge Copilot update uses AI to pull information from across your tabs",
+        "file": "_posts/2026-05-13-microsofts-edge-copilot-update-uses-ai-to-pull-information-from-across.md",
+        "score": 57,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      }
+    ]
   }
 ]

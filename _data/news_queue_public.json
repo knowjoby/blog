@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-05-13T21:54:19.907489+00:00",
-  "pending_count": 1076,
+  "updated_at_utc": "2026-05-13T23:10:40.446637+00:00",
+  "pending_count": 1078,
   "pending": [
+    {
+      "title": "Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead",
+      "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
+      "score": 48,
+      "fetched_at": "2026-05-13",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
       "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
@@ -13,6 +25,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
+      "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+      "score": 46,
+      "fetched_at": "2026-05-13",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
     },
     {
       "title": "Sam Altman was winning on the stand, but it might not be enough",
