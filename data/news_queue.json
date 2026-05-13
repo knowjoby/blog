@@ -847,6 +847,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "score": 41,
+      "fetched_at": "2026-05-13",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "nvidia",
+      "topic": "multimodal"
+    },
+    {
       "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
       "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
       "score": 40,
@@ -1331,6 +1346,21 @@
         "agentic"
       ],
       "company": "google",
+      "topic": "agentic"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-05-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -6895,6 +6925,19 @@
       ],
       "topics": [],
       "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15623,7 +15666,7 @@
     {
       "date": "2026-05-13",
       "posts": 0,
-      "items_processed": 1879,
+      "items_processed": 3758,
       "estimated_tokens": 0
     }
   ]
