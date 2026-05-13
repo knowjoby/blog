@@ -1624,6 +1624,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Unitree will sell you a massive \u2018transformable mecha\u2019 for $650,000",
+      "url": "https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot",
+      "score": 33,
+      "fetched_at": "2026-05-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
       "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
       "score": 32,
@@ -3254,6 +3267,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Alexa is moving into Amazon.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "score": 28,
+      "fetched_at": "2026-05-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
@@ -15666,7 +15692,7 @@
     {
       "date": "2026-05-13",
       "posts": 0,
-      "items_processed": 9395,
+      "items_processed": 11274,
       "estimated_tokens": 0
     }
   ]

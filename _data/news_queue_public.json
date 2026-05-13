@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-13T11:09:17.723299+00:00",
-  "pending_count": 1060,
+  "updated_at_utc": "2026-05-13T13:36:34.975154+00:00",
+  "pending_count": 1062,
   "pending": [
     {
       "title": "Sam Altman was winning on the stand, but it might not be enough",
@@ -37,6 +37,28 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Unitree will sell you a massive ‘transformable mecha’ for $650,000",
+      "url": "https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot",
+      "score": 33,
+      "fetched_at": "2026-05-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Alexa is moving into Amazon.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
+      "score": 28,
+      "fetched_at": "2026-05-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
