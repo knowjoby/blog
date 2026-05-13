@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-05-12T23:06:53.704056+00:00",
-  "pending_count": 1075,
+  "updated_at_utc": "2026-05-13T01:24:02.789799+00:00",
+  "pending_count": 1057,
   "pending": [
+    {
+      "title": "Sam Altman was winning on the stand, but it might not be enough",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+      "score": 43,
+      "fetched_at": "2026-05-13",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
+      "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
+      "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
       "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
@@ -11845,248 +11878,6 @@
       "companies": [],
       "topics": [
         "agentic"
-      ]
-    },
-    {
-      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-      "score": 49,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-      "score": 49,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
-      "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
-      "score": 46,
-      "fetched_at": "2026-04-28",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ]
-    },
-    {
-      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "score": 43,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Musk and Altman go to court",
-      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
-      "score": 43,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-      "score": 43,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "score": 41,
-      "fetched_at": "2026-04-28",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "score": 38,
-      "fetched_at": "2026-04-28",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-04-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Google is testing AI chatbot search for YouTube",
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "score": 31,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
-      "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
-      "score": 30,
-      "fetched_at": "2026-04-28",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Attack of the killer script kiddies",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-      "score": 28,
-      "fetched_at": "2026-04-28",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "title": "GitHub will start charging Copilot users based on their actual AI usage",
-      "url": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
-      "score": 26,
-      "fetched_at": "2026-04-28",
-      "source": "Ars Technica",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-      "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-      "score": 24,
-      "fetched_at": "2026-04-28",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "‘It’s Undignified’: Hundreds of Workers Training Meta’s AI Could Be Laid Off",
-      "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
-      "score": 24,
-      "fetched_at": "2026-04-28",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "score": 24,
-      "fetched_at": "2026-04-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "score": 24,
-      "fetched_at": "2026-04-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mistral AI launches Workflows, a Temporal-powered orchestration engine already running millions of daily executions",
-      "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
-      "score": 22,
-      "fetched_at": "2026-04-28",
-      "source": "VentureBeat",
-      "companies": [
-        "mistral"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
-      "url": "https://www.wired.com/story/some-musk-v-altman-jurors-dont-like-elon-musk/",
-      "score": 18,
-      "fetched_at": "2026-04-28",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-      "score": 18,
-      "fetched_at": "2026-04-28",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Lovable launches its vibe-coding app on iOS and Android",
-      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-      "score": 17,
-      "fetched_at": "2026-04-28",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
       ]
     }
   ]
