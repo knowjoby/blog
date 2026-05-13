@@ -3731,6 +3731,21 @@
       "topic": "open_source"
     },
     {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 26,
+      "fetched_at": "2026-05-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
       "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
       "score": 24,
@@ -7030,6 +7045,32 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic blames dystopian sci-fi for training AI models to act \u201cevil\u201d",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Brings Its Ass to Court",
+      "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10701,6 +10742,19 @@
       "topic": ""
     },
     {
+      "title": "Who trusts Sam Altman?",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "score": 18,
+      "fetched_at": "2026-05-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
       "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
       "score": 17,
@@ -10790,6 +10844,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Rivian spinoff Mind Robotics raises another $400M",
+      "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+      "score": 17,
+      "fetched_at": "2026-05-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Beyond Lovable and Mistral: 21 European startups to watch",
@@ -15349,6 +15416,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Mark Zuckerberg announces \u2018completely private\u2019 encrypted Meta AI chat",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "score": 55,
+      "file": "_posts/2026-05-13-mark-zuckerberg-announces-completely-private-encrypted-meta-ai-chat.md",
+      "posted_at": "2026-05-13",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15757,8 +15835,8 @@
     },
     {
       "date": "2026-05-13",
-      "posts": 0,
-      "items_processed": 13153,
+      "posts": 1,
+      "items_processed": 15033,
       "estimated_tokens": 0
     }
   ]

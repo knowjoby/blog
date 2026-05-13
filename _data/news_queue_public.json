@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-13T16:25:05.135808+00:00",
-  "pending_count": 1067,
+  "updated_at_utc": "2026-05-13T18:24:22.051204+00:00",
+  "pending_count": 1072,
   "pending": [
     {
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
@@ -74,6 +74,19 @@
       ]
     },
     {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 26,
+      "fetched_at": "2026-05-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
       "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
       "score": 24,
@@ -98,6 +111,17 @@
     {
       "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
       "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI Brings Its Ass to Court",
+      "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
       "score": 24,
       "fetched_at": "2026-05-13",
       "source": "Wired",
@@ -149,6 +173,39 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
+      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
+      "score": 24,
+      "fetched_at": "2026-05-13",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Who trusts Sam Altman?",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "score": 18,
+      "fetched_at": "2026-05-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Rivian spinoff Mind Robotics raises another $400M",
+      "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+      "score": 17,
+      "fetched_at": "2026-05-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
