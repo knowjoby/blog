@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-10 19:30:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1871,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-10 21:01:35 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1159,6 +1137,37 @@
       {
         "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
         "file": "_posts/2026-05-14-metas-summer-sale-drops-ray-bans-new-smart-glasses-to-record-low-price.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-05-15 03:44:59 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1885,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
+        "file": "_posts/2026-05-14-meta-brings-virtual-writing-to-everyone-with-meta-ray-ban-display-glas.md",
         "score": 55,
         "tags": [
           "meta"
