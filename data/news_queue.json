@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
+      "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
+      "score": 49,
+      "fetched_at": "2026-05-14",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
       "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "score": 48,
@@ -10661,6 +10674,19 @@
       "topic": ""
     },
     {
+      "title": "How to turn off Instagram\u2019s new Instants feature and retract photos you accidentally shared",
+      "url": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
+      "score": 18,
+      "fetched_at": "2026-05-14",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "score": 17,
@@ -12038,6 +12064,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Data readiness for agentic AI in financial services",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "score": 11,
+      "fetched_at": "2026-05-14",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -15709,7 +15748,7 @@
     {
       "date": "2026-05-14",
       "posts": 0,
-      "items_processed": 11285,
+      "items_processed": 13167,
       "estimated_tokens": 0
     }
   ]
