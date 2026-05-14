@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-10 17:40:44 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1871,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-10 19:30:49 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1144,6 +1122,46 @@
         "tags": [
           "anthropic",
           "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-05-15 02:23:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 2,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1885,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI’s Codex is now in the ChatGPT mobile app",
+        "file": "_posts/2026-05-14-openais-codex-is-now-in-the-chatgpt-mobile-app.md",
+        "score": 67,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      },
+      {
+        "title": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+        "file": "_posts/2026-05-14-metas-summer-sale-drops-ray-bans-new-smart-glasses-to-record-low-price.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]

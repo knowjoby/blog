@@ -3697,6 +3697,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "score": 26,
+      "fetched_at": "2026-05-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
       "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
       "score": 24,
@@ -7048,6 +7063,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "An Engineer\u2019s Post Protesting Laptop Surveillance Is Going Viral Inside Meta",
+      "url": "https://www.wired.com/story/meta-employee-protest-mouse-tracking-surveillance-ai-training/",
+      "score": 24,
+      "fetched_at": "2026-05-14",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -10859,6 +10887,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Lovable just backed a company that\u2019s looking to bring vibe coding to hardware",
+      "url": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "score": 17,
+      "fetched_at": "2026-05-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Beyond Lovable and Mistral: 21 European startups to watch",
@@ -15429,6 +15470,29 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI\u2019s Codex is now in the ChatGPT mobile app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "score": 67,
+      "file": "_posts/2026-05-14-openais-codex-is-now-in-the-chatgpt-mobile-app.md",
+      "posted_at": "2026-05-14",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta\u2019s summer sale drops Ray-Ban\u2019s new smart glasses to record-low prices",
+      "url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+      "score": 55,
+      "file": "_posts/2026-05-14-metas-summer-sale-drops-ray-bans-new-smart-glasses-to-record-low-price.md",
+      "posted_at": "2026-05-14",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15843,8 +15907,8 @@
     },
     {
       "date": "2026-05-14",
-      "posts": 1,
-      "items_processed": 16933,
+      "posts": 3,
+      "items_processed": 18818,
       "estimated_tokens": 0
     }
   ]
