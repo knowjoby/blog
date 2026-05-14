@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-14T08:11:28.451859+00:00",
-  "pending_count": 1058,
+  "updated_at_utc": "2026-05-14T10:13:31.701026+00:00",
+  "pending_count": 1060,
   "pending": [
+    {
+      "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
+      "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+      "score": 24,
+      "fetched_at": "2026-05-14",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
       "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
@@ -43,6 +54,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "These Instagram Ads Sure Seem to Be Selling Cocaine Accessories",
+      "url": "https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/",
+      "score": 18,
+      "fetched_at": "2026-05-14",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
