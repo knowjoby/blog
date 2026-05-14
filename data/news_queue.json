@@ -1495,6 +1495,22 @@
       "topic": ""
     },
     {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "score": 34,
+      "fetched_at": "2026-05-14",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding",
+        "open_source"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
+    },
+    {
       "title": "Dyson finally made a better robot, but a worse vacuum",
       "url": "https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review",
       "score": 33,
@@ -3664,6 +3680,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
+      "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done",
+      "score": 26,
+      "fetched_at": "2026-05-14",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
     },
     {
       "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
@@ -7168,6 +7199,19 @@
       ],
       "topics": [],
       "company": "stability",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn\u2019t be the first partner to feel burned",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "score": 20,
+      "fetched_at": "2026-05-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10700,6 +10744,19 @@
       "topic": ""
     },
     {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "score": 18,
+      "fetched_at": "2026-05-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "score": 17,
@@ -10789,6 +10846,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "score": 17,
+      "fetched_at": "2026-05-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "Beyond Lovable and Mistral: 21 European startups to watch",
@@ -15346,6 +15416,19 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "score": 51,
+      "file": "_posts/2026-05-14-microsoft-starts-canceling-claude-code-licenses.md",
+      "posted_at": "2026-05-14",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -15760,8 +15843,8 @@
     },
     {
       "date": "2026-05-14",
-      "posts": 0,
-      "items_processed": 15049,
+      "posts": 1,
+      "items_processed": 16933,
       "estimated_tokens": 0
     }
   ]

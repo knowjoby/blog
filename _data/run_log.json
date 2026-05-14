@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-10 16:57:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1871,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-10 17:40:44 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1137,5 +1115,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-15 00:49:53 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1884,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft starts canceling Claude Code licenses",
+        "file": "_posts/2026-05-14-microsoft-starts-canceling-claude-code-licenses.md",
+        "score": 51,
+        "tags": [
+          "anthropic",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
