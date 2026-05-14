@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-14T10:58:08.642618+00:00",
-  "pending_count": 1060,
+  "updated_at_utc": "2026-05-14T13:00:11.907350+00:00",
+  "pending_count": 1061,
   "pending": [
     {
       "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
@@ -109,6 +109,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Desperate Trump taps \"Tim Apple,\" Jensen Huang, Elon Musk to attend Xi summit",
+      "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
+      "score": 18,
+      "fetched_at": "2026-05-14",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
