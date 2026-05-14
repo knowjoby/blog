@@ -20,19 +20,6 @@
       "topic": ""
     },
     {
-      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect\u2019s ChatGPT activity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
-      "score": 49,
-      "fetched_at": "2026-04-29",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Instagram says it doesn\u2019t want your tweet round ups",
       "url": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
       "score": 49,
@@ -497,45 +484,6 @@
       "topic": "coding"
     },
     {
-      "title": "General Motors is adding Gemini to four million cars",
-      "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
-      "score": 43,
-      "fetched_at": "2026-04-29",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Larry\u2019s risky business",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
-      "score": 43,
-      "fetched_at": "2026-04-29",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "All the evidence unveiled so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "score": 43,
-      "fetched_at": "2026-04-29",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Elon Musk\u2019s worst enemy in court is Elon Musk",
       "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
       "score": 43,
@@ -686,20 +634,6 @@
       "source": "The Verge",
       "companies": [
         "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Satya Nadella says he\u2019s ready to \u2018exploit\u2019 the new OpenAI deal",
-      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-      "score": 42,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "microsoft"
       ],
       "topics": [],
       "company": "openai",
@@ -904,22 +838,6 @@
       ],
       "company": "nvidia",
       "topic": "multimodal"
-    },
-    {
-      "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
-      "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-      "score": 40,
-      "fetched_at": "2026-04-29",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
@@ -1681,21 +1599,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-      "score": 32,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "microsoft",
-      "topic": "coding"
-    },
-    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -2080,32 +1983,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "More Gemini features are coming to Google TV",
-      "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-      "score": 30,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Amazon\u2019s OpenAI gambit signals a new phase in the cloud wars \u2014 one where exclusivity no longer applies",
-      "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
-      "score": 30,
-      "fetched_at": "2026-04-29",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
@@ -3774,97 +3651,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Trusted access for the next era of cyber defense",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia fixes the 8GB RAM problem with one of its GPUs\u2014if you can pay for it",
-      "url": "https://arstechnica.com/gadgets/2026/04/nvidia-fixes-the-8gb-ram-problem-with-one-of-its-gpus-if-you-can-pay-for-it/",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Codex system prompt includes explicit directive to \"never talk about goblins\"",
-      "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta is still burning money on AR/VR",
-      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me\u2019",
-      "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
-      "score": 24,
-      "fetched_at": "2026-04-29",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
@@ -7143,20 +6929,6 @@
       "topic": ""
     },
     {
-      "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
-      "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
-      "score": 22,
-      "fetched_at": "2026-04-29",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "open_source",
-        "china"
-      ],
-      "company": "",
-      "topic": "open_source"
-    },
-    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -7334,97 +7106,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "When Robots Have Their ChatGPT Moment, Remember These Pincers",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Sam Altman is \u201cthe face of evil\u201d for not reporting school shooter, says lawyer",
-      "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "FOMO is why enterprises pay for GPUs they don't use \u2014 and why prices keep climbing",
-      "url": "https://venturebeat.com/infrastructure/fomo-is-why-enterprises-pay-for-gpus-they-dont-use-and-why-prices-keep-climbing",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "On the stand, Elon Musk can\u2019t escape his own tweets",
-      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "score": 18,
-      "fetched_at": "2026-04-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "The next evolution of the Agents SDK",
@@ -10837,19 +10518,6 @@
       "topic": ""
     },
     {
-      "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
-      "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
-      "score": 17,
-      "fetched_at": "2026-04-29",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "score": 17,
@@ -11696,19 +11364,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Coby Adcock\u2019s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
-      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-      "score": 12,
-      "fetched_at": "2026-04-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
       "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
       "score": 12,
@@ -11798,32 +11453,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "How to build custom reasoning agents with a fraction of the compute",
-      "url": "https://venturebeat.com/orchestration/how-to-build-custom-reasoning-agents-with-a-fraction-of-the-compute",
-      "score": 11,
-      "fetched_at": "2026-04-29",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Definity embeds agents inside Spark pipelines to catch failures before they reach agentic AI systems",
-      "url": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems",
-      "score": 11,
-      "fetched_at": "2026-04-29",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
@@ -15932,6 +15561,12 @@
       "date": "2026-05-13",
       "posts": 2,
       "items_processed": 20673,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-14",
+      "posts": 0,
+      "items_processed": 1880,
       "estimated_tokens": 0
     }
   ]
