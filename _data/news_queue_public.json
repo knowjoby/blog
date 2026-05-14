@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-14T22:14:59.812705+00:00",
-  "pending_count": 1075,
+  "updated_at_utc": "2026-05-14T23:30:26.509649+00:00",
+  "pending_count": 1077,
   "pending": [
     {
       "title": "Razer’s Blade 18 is getting a $500 price hike and a new Intel chip",
@@ -175,6 +175,17 @@
       "topics": []
     },
     {
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "score": 18,
+      "fetched_at": "2026-05-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared",
       "url": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
       "score": 18,
@@ -271,6 +282,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
+      "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
+      "score": 14,
+      "fetched_at": "2026-05-14",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "open_source"
       ]
     },
     {
