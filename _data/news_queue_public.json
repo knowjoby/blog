@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-15T17:45:54.310836+00:00",
-  "pending_count": 1072,
+  "updated_at_utc": "2026-05-15T19:46:08.953578+00:00",
+  "pending_count": 1073,
   "pending": [
     {
       "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
@@ -44,6 +44,17 @@
       "score": 24,
       "fetched_at": "2026-05-15",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
+      "score": 24,
+      "fetched_at": "2026-05-15",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
