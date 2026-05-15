@@ -10718,6 +10718,19 @@
       "topic": ""
     },
     {
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "score": 18,
+      "fetched_at": "2026-05-15",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "score": 17,
@@ -15845,7 +15858,7 @@
     {
       "date": "2026-05-15",
       "posts": 0,
-      "items_processed": 9409,
+      "items_processed": 11295,
       "estimated_tokens": 0
     }
   ]

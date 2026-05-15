@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-15T11:25:15.335686+00:00",
-  "pending_count": 1067,
+  "updated_at_utc": "2026-05-15T13:14:27.484749+00:00",
+  "pending_count": 1068,
   "pending": [
     {
       "title": "Accelerating the next phase of AI",
@@ -54,6 +54,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+      "score": 18,
+      "fetched_at": "2026-05-15",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
