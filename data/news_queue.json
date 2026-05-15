@@ -228,6 +228,19 @@
       "topic": ""
     },
     {
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "score": 49,
+      "fetched_at": "2026-05-15",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
       "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
       "score": 48,
@@ -15962,7 +15975,7 @@
     {
       "date": "2026-05-15",
       "posts": 3,
-      "items_processed": 16955,
+      "items_processed": 18842,
       "estimated_tokens": 0
     }
   ]

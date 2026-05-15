@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-15T19:46:08.953578+00:00",
-  "pending_count": 1073,
+  "updated_at_utc": "2026-05-15T21:11:10.317959+00:00",
+  "pending_count": 1074,
   "pending": [
+    {
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "score": 49,
+      "fetched_at": "2026-05-15",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
       "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
