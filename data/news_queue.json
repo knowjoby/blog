@@ -10705,6 +10705,19 @@
       "topic": ""
     },
     {
+      "title": "Mira Murati Wants Her AI to \u2018Keep Humans in the Loop\u2019",
+      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "score": 18,
+      "fetched_at": "2026-05-15",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "score": 17,
@@ -15832,7 +15845,7 @@
     {
       "date": "2026-05-15",
       "posts": 0,
-      "items_processed": 5657,
+      "items_processed": 7523,
       "estimated_tokens": 0
     }
   ]
