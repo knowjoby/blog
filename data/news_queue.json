@@ -7,58 +7,6 @@
   },
   "pending": [
     {
-      "title": "Here\u2019s how the new Microsoft and OpenAI deal breaks down",
-      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-      "score": 55,
-      "fetched_at": "2026-04-30",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Instagram says it doesn\u2019t want your tweet round ups",
-      "url": "https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups",
-      "score": 49,
-      "fetched_at": "2026-04-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "All these smart glasses and nothing to do",
-      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
-      "score": 49,
-      "fetched_at": "2026-04-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta is running get-rich-quick ads for its AI tools",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
-      "score": 49,
-      "fetched_at": "2026-04-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes",
       "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
       "score": 49,
@@ -495,32 +443,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Elon Musk\u2019s worst enemy in court is Elon Musk",
-      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
-      "score": 43,
-      "fetched_at": "2026-04-30",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The more young people use AI, the more they hate it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-      "score": 43,
-      "fetched_at": "2026-04-30",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Elon Musk had a bad week in court",
@@ -3260,21 +3182,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
-      "score": 26,
-      "fetched_at": "2026-04-30",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "google",
-      "topic": "multimodal"
-    },
-    {
       "title": "How frontier enterprises are building an AI advantage",
       "url": "https://openai.com/index/introducing-b2b-signals",
       "score": 26,
@@ -3723,58 +3630,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
-      "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
-      "score": 24,
-      "fetched_at": "2026-04-30",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-      "score": 24,
-      "fetched_at": "2026-04-30",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-04-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "score": 24,
-      "fetched_at": "2026-04-30",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
@@ -7297,32 +7152,6 @@
       "topic": "agentic"
     },
     {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-04-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "score": 18,
-      "fetched_at": "2026-04-30",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
       "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
       "score": 18,
@@ -10824,17 +10653,17 @@
       "topic": ""
     },
     {
-      "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "score": 17,
-      "fetched_at": "2026-04-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
+      "title": "The Real Losers of the Musk v. Altman Trial",
+      "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
+      "score": 18,
+      "fetched_at": "2026-05-15",
+      "source": "Wired",
+      "companies": [
+        "openai"
       ],
-      "company": "",
-      "topic": "robotics"
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
@@ -11384,32 +11213,6 @@
       "topic": ""
     },
     {
-      "title": "Netflix wants you to watch \u2018Clips,\u2019 its TikTok-like vertical video feed",
-      "url": "https://techcrunch.com/2026/04/30/netflix-wants-you-to-watch-clips-its-tiktok-like-vertical-video-feed/",
-      "score": 14,
-      "fetched_at": "2026-04-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "Writer launches AI agents that can act without prompts, taking on Amazon, Microsoft and Salesforce",
-      "url": "https://venturebeat.com/technology/writer-launches-ai-agents-that-can-act-without-prompts-taking-on-amazon-microsoft-and-salesforce",
-      "score": 14,
-      "fetched_at": "2026-04-30",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
       "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
       "score": 14,
@@ -11798,32 +11601,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-04-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-04-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
@@ -15972,6 +15749,12 @@
       "date": "2026-05-14",
       "posts": 4,
       "items_processed": 22588,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-15",
+      "posts": 0,
+      "items_processed": 1885,
       "estimated_tokens": 0
     }
   ]
