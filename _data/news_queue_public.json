@@ -1,7 +1,43 @@
 {
-  "updated_at_utc": "2026-05-15T15:37:26.648908+00:00",
-  "pending_count": 1068,
+  "updated_at_utc": "2026-05-15T17:45:54.310836+00:00",
+  "pending_count": 1072,
   "pending": [
+    {
+      "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
+      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+      "score": 44,
+      "fetched_at": "2026-05-15",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "score": 30,
+      "fetched_at": "2026-05-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shakeup",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "score": 24,
+      "fetched_at": "2026-05-15",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Accelerating the next phase of AI",
       "url": "https://openai.com/index/accelerating-the-next-phase-ai",
@@ -38,6 +74,17 @@
     {
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-05-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
       "score": 18,
       "fetched_at": "2026-05-15",
       "source": "OpenAI",

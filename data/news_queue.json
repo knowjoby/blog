@@ -445,6 +445,22 @@
       "topic": "coding"
     },
     {
+      "title": "Claude\u2019s next enterprise battle is not models: it\u2019s the agent control plane",
+      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
+      "score": 44,
+      "fetched_at": "2026-05-15",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Elon Musk had a bad week in court",
       "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
       "score": 43,
@@ -2951,6 +2967,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "score": 30,
+      "fetched_at": "2026-05-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -6973,6 +7002,19 @@
       "topic": ""
     },
     {
+      "title": "Greg Brockman Officially Takes Control of OpenAI\u2019s Products in Latest Shakeup",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "score": 24,
+      "fetched_at": "2026-05-15",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -10728,6 +10770,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-05-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15437,6 +15492,29 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "AI radio hosts demonstrate why AI can\u2019t be trusted alone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "score": 61,
+      "file": "_posts/2026-05-15-ai-radio-hosts-demonstrate-why-ai-cant-be-trusted-alone.md",
+      "posted_at": "2026-05-15",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+      "score": 55,
+      "file": "_posts/2026-05-15-openai-now-wants-chatgpt-to-access-your-bank-accounts.md",
+      "posted_at": "2026-05-15",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -15857,8 +15935,8 @@
     },
     {
       "date": "2026-05-15",
-      "posts": 0,
-      "items_processed": 13181,
+      "posts": 2,
+      "items_processed": 15068,
       "estimated_tokens": 0
     }
   ]

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-11 11:08:35 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 776,
-    "posts_created": 0,
-    "queued": 776,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 776
-      },
-      "rss": {
-        "raw": 1872,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 776
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-11 15:21:58 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1174,5 +1152,45 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-15 23:15:54 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 2,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1887,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "AI radio hosts demonstrate why AI can’t be trusted alone",
+        "file": "_posts/2026-05-15-ai-radio-hosts-demonstrate-why-ai-cant-be-trusted-alone.md",
+        "score": 61,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      },
+      {
+        "title": "OpenAI now wants ChatGPT to access your bank accounts",
+        "file": "_posts/2026-05-15-openai-now-wants-chatgpt-to-access-your-bank-accounts.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]
