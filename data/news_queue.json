@@ -11658,6 +11658,32 @@
       "topic": "open_source"
     },
     {
+      "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+      "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+      "score": 14,
+      "fetched_at": "2026-05-15",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
+      "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
+      "score": 14,
+      "fetched_at": "2026-05-15",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
       "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
       "score": 12,
@@ -15975,7 +16001,7 @@
     {
       "date": "2026-05-15",
       "posts": 3,
-      "items_processed": 18842,
+      "items_processed": 20729,
       "estimated_tokens": 0
     }
   ]

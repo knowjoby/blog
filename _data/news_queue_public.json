@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-15T21:11:10.317959+00:00",
-  "pending_count": 1074,
+  "updated_at_utc": "2026-05-15T22:31:05.831071+00:00",
+  "pending_count": 1076,
   "pending": [
     {
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
@@ -136,6 +136,28 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+      "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+      "score": 14,
+      "fetched_at": "2026-05-15",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
+      "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
+      "score": 14,
+      "fetched_at": "2026-05-15",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
