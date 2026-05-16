@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-05-13 03:20:16 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1876,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta won’t let you block its AI account on Threads",
-        "file": "_posts/2026-05-12-meta-wont-let-you-block-its-ai-account-on-threads.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-13 04:36:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1172,6 +1141,28 @@
   },
   {
     "ran_at": "2026-05-17 02:55:34 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1892,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-17 03:53:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
