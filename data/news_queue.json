@@ -2950,6 +2950,21 @@
       "topic": "ai"
     },
     {
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "score": 28,
+      "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
       "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
       "score": 27,
@@ -10475,6 +10490,19 @@
       "topic": ""
     },
     {
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "score": 18,
+      "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "score": 17,
@@ -15657,7 +15685,7 @@
     {
       "date": "2026-05-16",
       "posts": 0,
-      "items_processed": 15125,
+      "items_processed": 17017,
       "estimated_tokens": 0
     }
   ]

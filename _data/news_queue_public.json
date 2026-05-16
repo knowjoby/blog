@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-16T14:23:44.201316+00:00",
-  "pending_count": 1050,
+  "updated_at_utc": "2026-05-16T15:35:20.473433+00:00",
+  "pending_count": 1052,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -27,6 +27,19 @@
       ],
       "topics": [
         "reasoning"
+      ]
+    },
+    {
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "score": 28,
+      "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -70,6 +83,17 @@
       "source": "MIT Tech Review",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "score": 18,
+      "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
