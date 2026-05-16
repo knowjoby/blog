@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-16T09:58:15.225830+00:00",
-  "pending_count": 1048,
+  "updated_at_utc": "2026-05-16T11:11:12.970700+00:00",
+  "pending_count": 1050,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -30,11 +30,33 @@
       ]
     },
     {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "score": 24,
+      "fetched_at": "2026-05-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "url": "https://openai.com/index/gradient-labs",
       "score": 24,
       "fetched_at": "2026-05-16",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+      "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+      "score": 18,
+      "fetched_at": "2026-05-16",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
