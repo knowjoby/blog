@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta threatens to pull its apps from New Mexico if forced to make \u2018technologically impractical\u2019 changes",
-      "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
-      "score": 49,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Meta\u2019s historic loss in court could cost a lot more than $375 million",
       "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
       "score": 49,
@@ -241,62 +228,6 @@
       "topic": ""
     },
     {
-      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-      "score": 48,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "score": 48,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI\u2019s Models to Train Its Own",
-      "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
-      "score": 48,
-      "fetched_at": "2026-05-01",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
-      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
-      "score": 48,
-      "fetched_at": "2026-05-01",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "score": 48,
@@ -474,19 +405,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Elon Musk had a bad week in court",
-      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
-      "score": 43,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
       "url": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
       "score": 43,
@@ -614,20 +532,6 @@
       ],
       "topics": [],
       "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "score": 42,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "anthropic",
       "topic": ""
     },
     {
@@ -817,22 +721,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "One tool call to rule them all? New open source Python tool Runpod Flash eliminates containers for faster AI dev",
-      "url": "https://venturebeat.com/infrastructure/one-tool-call-to-rule-them-all-new-open-source-python-tool-runpod-flash-eliminates-containers-for-faster-ai-dev",
-      "score": 40,
-      "fetched_at": "2026-05-01",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "coding",
-        "open_source"
-      ],
-      "company": "nvidia",
-      "topic": "coding"
-    },
-    {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
       "score": 40,
@@ -909,45 +797,6 @@
       "topic": ""
     },
     {
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "score": 39,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Dyson put someone else\u2019s motor in its robot vacuum",
-      "url": "https://www.theverge.com/tech/921432/dyson-robot-vacuum-motor-picea",
-      "score": 39,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Dreame \u2014\u00a0the vacuum company \u2014 just \u2018launched\u2019 its own phones",
-      "url": "https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular",
-      "score": 39,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Ploopy\u2019s new mouse makes the ThinkPad\u2019s iconic TrackPoint portable",
       "url": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
       "score": 39,
@@ -972,22 +821,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-05-01",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Anthropic wants to own your agent's memory, evals, and orchestration \u2014 and that should make enterprises nervous",
@@ -1475,19 +1308,6 @@
       "topic": "coding"
     },
     {
-      "title": "Dyson finally made a better robot, but a worse vacuum",
-      "url": "https://www.theverge.com/tech/921136/dyson-spot-scrub-ai-wet-dry-robot-vacuum-cleaner-review",
-      "score": 33,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "The creator of Roomba is back with a furry robot companion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
       "score": 33,
@@ -1589,51 +1409,6 @@
         "robotics"
       ],
       "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-05-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-      "url": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-      "score": 32,
-      "fetched_at": "2026-05-01",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "openai",
-      "topic": "china"
-    },
-    {
-      "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "score": 32,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "meta",
       "topic": "robotics"
     },
     {
@@ -1952,19 +1727,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
-      "score": 31,
-      "fetched_at": "2026-05-01",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
       "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
       "score": 31,
@@ -1976,58 +1738,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "score": 30,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Why OpenAI's 'goblin' problem matters \u2014 and how you can release the goblins on your own",
-      "url": "https://venturebeat.com/technology/why-openais-goblin-problem-matters-and-how-you-can-release-the-goblins-on-your-own",
-      "score": 30,
-      "fetched_at": "2026-05-01",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta cuts contractors who reported seeing Ray-Ban Meta users have sex",
-      "url": "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
-      "score": 30,
-      "fetched_at": "2026-05-01",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users",
-      "url": "https://www.wired.com/story/openai-enables-cookies-by-default-for-free-chatgpt-users/",
-      "score": 30,
-      "fetched_at": "2026-05-01",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -3672,97 +3382,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles",
-      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-      "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Shivon Zilis Operated as Elon Musk\u2019s OpenAI Insider",
-      "url": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
-      "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-      "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-      "score": 24,
-      "fetched_at": "2026-05-01",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Musk\u2019s \u201cWorld War III\u201d threat in Twitter lawsuit haunts him at OpenAI trial",
@@ -7164,19 +6783,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "score": 20,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -7244,99 +6850,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to create personalized images in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "Musk v. Altman is just getting started",
-      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "score": 18,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Codex now offers more flexible pricing for teams",
@@ -10825,6 +10338,19 @@
       "topic": ""
     },
     {
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "score": 18,
+      "fetched_at": "2026-05-16",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "score": 17,
@@ -11695,19 +11221,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
-      "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
-      "score": 12,
-      "fetched_at": "2026-05-01",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Image AI models now drive app growth, beating chatbot upgrades",
@@ -16015,6 +15528,12 @@
       "date": "2026-05-15",
       "posts": 3,
       "items_processed": 22616,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-16",
+      "posts": 0,
+      "items_processed": 1888,
       "estimated_tokens": 0
     }
   ]
