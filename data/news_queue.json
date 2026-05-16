@@ -6745,6 +6745,19 @@
       "topic": ""
     },
     {
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "score": 24,
+      "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -11453,6 +11466,19 @@
       "topic": "ai"
     },
     {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "score": 12,
+      "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
       "url": "https://huggingface.co/blog/gemma4",
       "score": 11,
@@ -15685,7 +15711,7 @@
     {
       "date": "2026-05-16",
       "posts": 0,
-      "items_processed": 20801,
+      "items_processed": 22693,
       "estimated_tokens": 0
     }
   ]
