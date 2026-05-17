@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-17T18:01:32.693603+00:00",
-  "pending_count": 1053,
+  "updated_at_utc": "2026-05-17T19:45:26.711568+00:00",
+  "pending_count": 1054,
   "pending": [
     {
       "title": "ElliQ is a surprisingly helpful companion robot for older adults",
@@ -28,6 +28,17 @@
       "title": "Chatbots at the drive-thru are just the beginning",
       "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
       "score": 28,
+      "fetched_at": "2026-05-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "score": 24,
       "fetched_at": "2026-05-17",
       "source": "The Verge",
       "companies": [],
