@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-05-13 23:54:22 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1880,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
-        "file": "_posts/2026-05-13-mark-zuckerberg-announces-completely-private-encrypted-meta-ai-chat.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-14 01:48:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1179,6 +1148,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-17 20:32:09 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1892,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
