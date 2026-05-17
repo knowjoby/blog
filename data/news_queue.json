@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta\u2019s historic loss in court could cost a lot more than $375 million",
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-      "score": 49,
-      "fetched_at": "2026-05-02",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Elon Musk will settle the feds\u2019 Twitter lawsuit with pocket change",
       "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
       "score": 49,
@@ -1769,19 +1756,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "score": 30,
-      "fetched_at": "2026-05-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Meta Quest Promo Codes: $50 Off | May 2026",
@@ -6937,45 +6911,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "score": 18,
-      "fetched_at": "2026-05-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "score": 18,
-      "fetched_at": "2026-05-02",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "score": 18,
-      "fetched_at": "2026-05-02",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Week one of the Musk v. Altman trial: What it was like in the room",
       "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
       "score": 18,
@@ -10620,19 +10555,6 @@
       "topic": "coding"
     },
     {
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "score": 16,
-      "fetched_at": "2026-05-02",
-      "source": "TechCrunch",
-      "companies": [
-        "mistral"
-      ],
-      "topics": [],
-      "company": "mistral",
-      "topic": ""
-    },
-    {
       "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
       "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
       "score": 16,
@@ -11477,19 +11399,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "score": 11,
-      "fetched_at": "2026-05-02",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "The RAG era is ending for agentic AI \u2014 a new compilation-stage knowledge layer is what comes next",
@@ -15712,6 +15621,12 @@
       "date": "2026-05-16",
       "posts": 0,
       "items_processed": 28369,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-17",
+      "posts": 0,
+      "items_processed": 1892,
       "estimated_tokens": 0
     }
   ]

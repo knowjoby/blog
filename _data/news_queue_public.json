@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-16T23:29:12.186986+00:00",
-  "pending_count": 1054,
+  "updated_at_utc": "2026-05-17T01:27:03.104721+00:00",
+  "pending_count": 1047,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -11770,83 +11770,6 @@
       ],
       "topics": [
         "coding"
-      ]
-    },
-    {
-      "title": "Meta’s historic loss in court could cost a lot more than $375 million",
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
-      "score": 49,
-      "fetched_at": "2026-05-02",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "score": 30,
-      "fetched_at": "2026-05-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-      "score": 18,
-      "fetched_at": "2026-05-02",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "score": 18,
-      "fetched_at": "2026-05-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "score": 18,
-      "fetched_at": "2026-05-02",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "score": 16,
-      "fetched_at": "2026-05-02",
-      "source": "TechCrunch",
-      "companies": [
-        "mistral"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "score": 11,
-      "fetched_at": "2026-05-02",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
       ]
     }
   ]
