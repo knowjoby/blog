@@ -1415,6 +1415,19 @@
       "topic": "robotics"
     },
     {
+      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+      "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "score": 33,
+      "fetched_at": "2026-05-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -2950,6 +2963,19 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "score": 28,
+      "fetched_at": "2026-05-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
@@ -15678,7 +15704,7 @@
     {
       "date": "2026-05-17",
       "posts": 0,
-      "items_processed": 11352,
+      "items_processed": 13244,
       "estimated_tokens": 0
     }
   ]
