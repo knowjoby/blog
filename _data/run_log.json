@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-05-15 03:44:59 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1885,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses",
-        "file": "_posts/2026-05-14-meta-brings-virtual-writing-to-everyone-with-meta-ray-ban-display-glas.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-15 05:00:26 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1152,6 +1121,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 3
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-19 03:17:36 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1894,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
       }
     },
     "posts": []

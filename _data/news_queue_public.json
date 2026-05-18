@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-18T20:14:57.726384+00:00",
-  "pending_count": 1066,
+  "updated_at_utc": "2026-05-18T21:47:36.334328+00:00",
+  "pending_count": 1067,
   "pending": [
     {
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
@@ -126,6 +126,17 @@
       "score": 18,
       "fetched_at": "2026-05-18",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "score": 18,
+      "fetched_at": "2026-05-18",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
