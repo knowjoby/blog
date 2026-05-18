@@ -327,6 +327,20 @@
       "topic": ""
     },
     {
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "score": 48,
+      "fetched_at": "2026-05-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions \u2014 with a catch",
       "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
       "score": 46,
@@ -513,6 +527,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
       "score": 43,
       "fetched_at": "2026-05-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Musk v. Altman proved that AI is led by the wrong people",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "score": 43,
+      "fetched_at": "2026-05-18",
       "source": "The Verge",
       "companies": [
         "openai"
@@ -6872,6 +6899,19 @@
       "score": 24,
       "fetched_at": "2026-05-18",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -15871,7 +15911,7 @@
     {
       "date": "2026-05-18",
       "posts": 2,
-      "items_processed": 11359,
+      "items_processed": 13253,
       "estimated_tokens": 0
     }
   ]
