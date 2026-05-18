@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-05-18T12:38:18.387424+00:00",
-  "pending_count": 1057,
+  "updated_at_utc": "2026-05-18T16:29:01.037310+00:00",
+  "pending_count": 1060,
   "pending": [
+    {
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "score": 40,
+      "fetched_at": "2026-05-18",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics",
+        "multimodal"
+      ]
+    },
     {
       "title": "How to Watch Google I/O",
       "url": "https://www.wired.com/story/how-to-watch-google-io/",
@@ -27,6 +41,17 @@
       ]
     },
     {
+      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "I’m a Normie. Can Normies Really Vibe Code?",
       "url": "https://www.wired.com/story/normie-vibe-code/",
       "score": 18,
@@ -34,6 +59,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "score": 10,
+      "fetched_at": "2026-05-18",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
       ],
       "topics": []
     },

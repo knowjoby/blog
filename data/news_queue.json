@@ -784,6 +784,22 @@
       "topic": ""
     },
     {
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "score": 40,
+      "fetched_at": "2026-05-18",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics",
+        "multimodal"
+      ],
+      "company": "nvidia",
+      "topic": "robotics"
+    },
+    {
       "title": "Ploopy\u2019s new mouse makes the ThinkPad\u2019s iconic TrackPoint portable",
       "url": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
       "score": 39,
@@ -6807,6 +6823,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -13999,6 +14028,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "score": 10,
+      "fetched_at": "2026-05-18",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -15762,7 +15804,7 @@
     {
       "date": "2026-05-18",
       "posts": 0,
-      "items_processed": 7568,
+      "items_processed": 9463,
       "estimated_tokens": 0
     }
   ]
