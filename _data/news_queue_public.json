@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-18T08:31:47.752970+00:00",
-  "pending_count": 1055,
+  "updated_at_utc": "2026-05-18T11:43:17.362441+00:00",
+  "pending_count": 1057,
   "pending": [
+    {
+      "title": "How to Watch Google I/O",
+      "url": "https://www.wired.com/story/how-to-watch-google-io/",
+      "score": 30,
+      "fetched_at": "2026-05-18",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
@@ -14,6 +25,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "I’m a Normie. Can Normies Really Vibe Code?",
+      "url": "https://www.wired.com/story/normie-vibe-code/",
+      "score": 18,
+      "fetched_at": "2026-05-18",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "ElliQ is a surprisingly helpful companion robot for older adults",
