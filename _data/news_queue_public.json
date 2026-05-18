@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-18T16:29:01.037310+00:00",
-  "pending_count": 1060,
+  "updated_at_utc": "2026-05-18T18:20:06.795045+00:00",
+  "pending_count": 1063,
   "pending": [
     {
       "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
@@ -14,6 +14,19 @@
       "topics": [
         "robotics",
         "multimodal"
+      ]
+    },
+    {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "score": 32,
+      "fetched_at": "2026-05-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -41,6 +54,17 @@
       ]
     },
     {
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
       "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
       "score": 24,
@@ -48,6 +72,17 @@
       "source": "MIT Tech Review",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

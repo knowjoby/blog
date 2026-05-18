@@ -1774,6 +1774,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "score": 32,
+      "fetched_at": "2026-05-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
       "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
       "score": 31,
@@ -6836,6 +6851,32 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
+      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "score": 24,
+      "fetched_at": "2026-05-18",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15365,6 +15406,32 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
+      "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix",
+      "score": 60,
+      "file": "_posts/2026-05-18-four-ai-supply-chain-attacks-in-50-days-exposed-the-release-pipeline-r.md",
+      "posted_at": "2026-05-18",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk lost his case against Sam Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "score": 51,
+      "file": "_posts/2026-05-18-elon-musk-lost-his-case-against-sam-altman.md",
+      "posted_at": "2026-05-18",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
     }
   ],
   "daily_usage": [
@@ -15803,8 +15870,8 @@
     },
     {
       "date": "2026-05-18",
-      "posts": 0,
-      "items_processed": 9463,
+      "posts": 2,
+      "items_processed": 11359,
       "estimated_tokens": 0
     }
   ]
