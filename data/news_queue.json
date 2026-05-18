@@ -2737,21 +2737,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-05-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -15731,6 +15716,12 @@
       "date": "2026-05-17",
       "posts": 0,
       "items_processed": 26488,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-18",
+      "posts": 0,
+      "items_processed": 1892,
       "estimated_tokens": 0
     }
   ]

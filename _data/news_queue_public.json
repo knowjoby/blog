@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-17T23:31:21.343353+00:00",
-  "pending_count": 1055,
+  "updated_at_utc": "2026-05-18T04:12:00.186978+00:00",
+  "pending_count": 1054,
   "pending": [
     {
       "title": "ElliQ is a surprisingly helpful companion robot for older adults",
@@ -11845,19 +11845,6 @@
       "companies": [],
       "topics": [
         "agentic"
-      ]
-    },
-    {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-05-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
       ]
     }
   ]
