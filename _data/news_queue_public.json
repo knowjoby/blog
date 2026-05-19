@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-19T11:16:18.260926+00:00",
-  "pending_count": 1058,
+  "updated_at_utc": "2026-05-19T13:41:19.974800+00:00",
+  "pending_count": 1061,
   "pending": [
     {
       "title": "Google I/O 2026: How to watch and what to expect",
@@ -12,6 +12,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "These are the robot vacuum-mops I recommend for every type of home",
+      "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
+      "score": 33,
+      "fetched_at": "2026-05-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
@@ -36,11 +47,33 @@
       "topics": []
     },
     {
+      "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+      "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+      "score": 24,
+      "fetched_at": "2026-05-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
       "score": 24,
       "fetched_at": "2026-05-19",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "score": 18,
+      "fetched_at": "2026-05-19",
+      "source": "MIT Tech Review",
       "companies": [
         "openai"
       ],

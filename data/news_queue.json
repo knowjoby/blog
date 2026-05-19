@@ -1431,6 +1431,19 @@
       "topic": "robotics"
     },
     {
+      "title": "These are the robot vacuum-mops I recommend for every type of home",
+      "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
+      "score": 33,
+      "fetched_at": "2026-05-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -6854,6 +6867,19 @@
       "topic": ""
     },
     {
+      "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+      "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+      "score": 24,
+      "fetched_at": "2026-05-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -10596,6 +10622,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+      "score": 18,
+      "fetched_at": "2026-05-19",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15826,7 +15865,7 @@
     {
       "date": "2026-05-19",
       "posts": 1,
-      "items_processed": 7576,
+      "items_processed": 9470,
       "estimated_tokens": 0
     }
   ]
