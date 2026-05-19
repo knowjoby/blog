@@ -189,6 +189,19 @@
       "topic": ""
     },
     {
+      "title": "Google I/O 2026: How to watch and what to expect",
+      "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
+      "score": 49,
+      "fetched_at": "2026-05-19",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "score": 48,
@@ -15354,6 +15367,20 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Gemini is in danger of going full Copilot",
+      "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+      "score": 69,
+      "file": "_posts/2026-05-19-gemini-is-in-danger-of-going-full-copilot.md",
+      "posted_at": "2026-05-19",
+      "companies": [
+        "google",
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -15798,8 +15825,8 @@
     },
     {
       "date": "2026-05-19",
-      "posts": 0,
-      "items_processed": 5682,
+      "posts": 1,
+      "items_processed": 7576,
       "estimated_tokens": 0
     }
   ]
