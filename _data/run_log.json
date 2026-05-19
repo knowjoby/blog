@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-15 21:07:26 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1886,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-15 23:15:54 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1164,6 +1142,58 @@
         "tags": [
           "google",
           "agentic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-05-20 00:35:31 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 28,
+    "posts_created": 3,
+    "queued": 25,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 28
+      },
+      "rss": {
+        "raw": 1896,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 28
+      }
+    },
+    "posts": [
+      {
+        "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+        "file": "_posts/2026-05-19-agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli.md",
+        "score": 64,
+        "tags": [
+          "openai",
+          "anthropic",
+          "agentic",
+          "coding"
+        ]
+      },
+      {
+        "title": "Google wants to compete with Anthropic’s Mythos",
+        "file": "_posts/2026-05-19-google-wants-to-compete-with-anthropics-mythos.md",
+        "score": 63,
+        "tags": [
+          "anthropic",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Google can now vibe-code you an Android app",
+        "file": "_posts/2026-05-19-google-can-now-vibe-code-you-an-android-app.md",
+        "score": 63,
+        "tags": [
+          "google",
+          "coding"
         ]
       }
     ]
