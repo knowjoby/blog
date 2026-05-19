@@ -6815,6 +6815,19 @@
       "topic": ""
     },
     {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-05-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -10544,6 +10557,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "score": 18,
+      "fetched_at": "2026-05-19",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -15760,7 +15786,7 @@
     {
       "date": "2026-05-19",
       "posts": 0,
-      "items_processed": 1894,
+      "items_processed": 3788,
       "estimated_tokens": 0
     }
   ]

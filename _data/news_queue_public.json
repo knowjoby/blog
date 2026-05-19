@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-19T01:30:31.297430+00:00",
-  "pending_count": 1054,
+  "updated_at_utc": "2026-05-19T06:13:38.546559+00:00",
+  "pending_count": 1056,
   "pending": [
     {
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -10,6 +10,28 @@
       "source": "MIT Tech Review",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-05-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "score": 18,
+      "fetched_at": "2026-05-19",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
