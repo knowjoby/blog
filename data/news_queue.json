@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Elon Musk will settle the feds\u2019 Twitter lawsuit with pocket change",
-      "url": "https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x",
-      "score": 49,
-      "fetched_at": "2026-05-04",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s president does \u2018all the things,\u2019 except\u00a0answer a question",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-      "score": 49,
-      "fetched_at": "2026-05-04",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Google DeepMind workers are unionizing over AI military contracts",
       "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
       "score": 49,
@@ -543,20 +517,6 @@
       "source": "The Verge",
       "companies": [
         "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
-      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "score": 42,
-      "fetched_at": "2026-05-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "nvidia"
       ],
       "topics": [],
       "company": "openai",
@@ -1352,19 +1312,6 @@
       ],
       "company": "anthropic",
       "topic": "coding"
-    },
-    {
-      "title": "The creator of Roomba is back with a furry robot companion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-      "score": 33,
-      "fetched_at": "2026-05-04",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "The Litter-Robot 4 bundle is back down to its best price of the year",
@@ -2808,6 +2755,19 @@
       "topic": ""
     },
     {
+      "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "score": 30,
+      "fetched_at": "2026-05-19",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3512,71 +3472,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Musk\u2019s \u201cWorld War III\u201d threat in Twitter lawsuit haunts him at OpenAI trial",
-      "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-04",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk\u2019s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "score": 24,
-      "fetched_at": "2026-05-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-      "score": 24,
-      "fetched_at": "2026-05-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "score": 24,
-      "fetched_at": "2026-05-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Greg Brockman Defends $30B OpenAI Stake: \u2018Blood, Sweat, and Tears\u2019",
-      "url": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-04",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
@@ -7097,45 +6992,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "score": 18,
-      "fetched_at": "2026-05-04",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Influential study touting ChatGPT in education retracted over red flags",
-      "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
-      "score": 18,
-      "fetched_at": "2026-05-04",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "score": 18,
-      "fetched_at": "2026-05-04",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
@@ -11550,19 +11406,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "score": 12,
-      "fetched_at": "2026-05-04",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
       "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
       "score": 12,
@@ -11639,32 +11482,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The RAG era is ending for agentic AI \u2014 a new compilation-stage knowledge layer is what comes next",
-      "url": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next",
-      "score": 11,
-      "fetched_at": "2026-05-04",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside AMEX\u2019s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
-      "url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions",
-      "score": 11,
-      "fetched_at": "2026-05-04",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
@@ -12107,6 +11924,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+      "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+      "score": 11,
+      "fetched_at": "2026-05-19",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -15925,6 +15755,12 @@
       "date": "2026-05-18",
       "posts": 2,
       "items_processed": 17041,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-19",
+      "posts": 0,
+      "items_processed": 1894,
       "estimated_tokens": 0
     }
   ]
