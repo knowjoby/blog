@@ -328,6 +328,34 @@
       "topic": ""
     },
     {
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "score": 48,
+      "fetched_at": "2026-05-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
+      "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+      "score": 48,
+      "fetched_at": "2026-05-19",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions \u2014 with a catch",
       "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
       "score": 46,
@@ -1442,6 +1470,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Google I/O 2026 live blog: On the ground at Google\u2019s keynote",
+      "url": "https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote",
+      "score": 33,
+      "fetched_at": "2026-05-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Powering product discovery in ChatGPT",
@@ -2804,6 +2845,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+      "url": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+      "score": 30,
+      "fetched_at": "2026-05-19",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
       "topic": ""
     },
     {
@@ -10638,6 +10692,19 @@
       "topic": ""
     },
     {
+      "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a \u2018Beach Water Person\u2019",
+      "url": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+      "score": 18,
+      "fetched_at": "2026-05-19",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "score": 17,
@@ -15420,6 +15487,19 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Google I/O 2026: All the news and announcements",
+      "url": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
+      "score": 63,
+      "file": "_posts/2026-05-19-google-io-2026-all-the-news-and-announcements.md",
+      "posted_at": "2026-05-19",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -15864,8 +15944,8 @@
     },
     {
       "date": "2026-05-19",
-      "posts": 1,
-      "items_processed": 9470,
+      "posts": 2,
+      "items_processed": 11365,
       "estimated_tokens": 0
     }
   ]

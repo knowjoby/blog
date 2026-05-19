@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-15 18:44:27 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1886,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-15 21:07:26 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1157,5 +1135,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-19 22:21:24 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1895,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Google I/O 2026: All the news and announcements",
+        "file": "_posts/2026-05-19-google-io-2026-all-the-news-and-announcements.md",
+        "score": 63,
+        "tags": [
+          "google",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]

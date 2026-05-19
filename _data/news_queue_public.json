@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-19T13:41:19.974800+00:00",
-  "pending_count": 1061,
+  "updated_at_utc": "2026-05-19T16:51:24.201714+00:00",
+  "pending_count": 1066,
   "pending": [
     {
       "title": "Google I/O 2026: How to watch and what to expect",
@@ -12,6 +12,41 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
+      "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
+      "score": 48,
+      "fetched_at": "2026-05-19",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "score": 48,
+      "fetched_at": "2026-05-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google I/O 2026 live blog: On the ground at Google’s keynote",
+      "url": "https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote",
+      "score": 33,
+      "fetched_at": "2026-05-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "These are the robot vacuum-mops I recommend for every type of home",
@@ -47,6 +82,17 @@
       "topics": []
     },
     {
+      "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+      "url": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+      "score": 30,
+      "fetched_at": "2026-05-19",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
       "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
       "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
       "score": 24,
@@ -65,6 +111,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a ‘Beach Water Person’",
+      "url": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
+      "score": 18,
+      "fetched_at": "2026-05-19",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
