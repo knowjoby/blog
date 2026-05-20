@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-20T22:25:56.057360+00:00",
-  "pending_count": 1103,
+  "updated_at_utc": "2026-05-20T23:49:49.312094+00:00",
+  "pending_count": 1105,
   "pending": [
     {
       "title": "You can now remix other people’s YouTube Shorts with AI",
@@ -77,6 +77,19 @@
       "fetched_at": "2026-05-20",
       "source": "The Verge",
       "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
+      "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
+      "score": 38,
+      "fetched_at": "2026-05-20",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
       "topics": [
         "agentic"
       ]
@@ -201,6 +214,17 @@
       "source": "VentureBeat",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },

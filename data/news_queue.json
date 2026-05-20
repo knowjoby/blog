@@ -1095,6 +1095,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
+      "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
+      "score": 38,
+      "fetched_at": "2026-05-20",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "score": 36,
@@ -7271,6 +7286,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "xAI burned $6.4B last year \u2014 SpaceX\u2019s IPO filing shows why the spending is far from over",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
       "topic": ""
     },
     {
@@ -16542,7 +16570,7 @@
     {
       "date": "2026-05-20",
       "posts": 3,
-      "items_processed": 17082,
+      "items_processed": 18982,
       "estimated_tokens": 0
     }
   ]
