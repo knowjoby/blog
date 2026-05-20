@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-20T08:29:46.934514+00:00",
-  "pending_count": 1078,
+  "updated_at_utc": "2026-05-20T10:49:20.970418+00:00",
+  "pending_count": 1080,
   "pending": [
     {
       "title": "We react to Google I/O 2026",
@@ -44,6 +44,28 @@
       "source": "Wired",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
+      "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai",
+      "score": 30,
+      "fetched_at": "2026-05-20",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "score": 30,
+      "fetched_at": "2026-05-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
