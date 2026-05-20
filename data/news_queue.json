@@ -220,6 +220,32 @@
       "topic": ""
     },
     {
+      "title": "You can now remix other people\u2019s YouTube Shorts with AI",
+      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "score": 49,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google Search\u2019s AI evolution includes more ads",
+      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "score": 49,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "score": 48,
@@ -1081,6 +1107,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Vibe coding is coming to your phone",
+      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+      "score": 36,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "OpenAI brings GPT-5-class reasoning to real-time voice \u2014 and it changes what voice agents can actually orchestrate",
@@ -7307,6 +7346,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI barrels towards IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "score": 20,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
       "url": "https://huggingface.co/blog/intel-deepmath",
       "score": 19,
@@ -11527,6 +11579,20 @@
       "topic": "agentic"
     },
     {
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "score": 16,
+      "fetched_at": "2026-05-20",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
       "score": 14,
@@ -12377,6 +12443,19 @@
       "score": 11,
       "fetched_at": "2026-05-19",
       "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "score": 11,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
       "companies": [],
       "topics": [
         "agentic"
@@ -15854,6 +15933,18 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic and OpenAI take their beef to the midterm elections",
+      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+      "score": 73,
+      "file": "_posts/2026-05-20-anthropic-and-openai-take-their-beef-to-the-midterm-elections.md",
+      "posted_at": "2026-05-20",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16304,8 +16395,8 @@
     },
     {
       "date": "2026-05-20",
-      "posts": 2,
-      "items_processed": 11384,
+      "posts": 3,
+      "items_processed": 13282,
       "estimated_tokens": 0
     }
   ]

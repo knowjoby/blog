@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-05-20T15:37:33.735829+00:00",
-  "pending_count": 1086,
+  "updated_at_utc": "2026-05-20T18:23:09.240366+00:00",
+  "pending_count": 1092,
   "pending": [
+    {
+      "title": "You can now remix other people’s YouTube Shorts with AI",
+      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "score": 49,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Search’s AI evolution includes more ads",
+      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "score": 49,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "We react to Google I/O 2026",
       "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
@@ -45,6 +67,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Vibe coding is coming to your phone",
+      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+      "score": 36,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -184,6 +217,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI barrels towards IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "score": 20,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Roundtables: Inside the Musk v. Altman Trial",
       "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
       "score": 18,
@@ -239,6 +283,18 @@
       "topics": []
     },
     {
+      "title": "I Gave My OpenClaw Agent a Physical Body",
+      "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+      "score": 16,
+      "fetched_at": "2026-05-20",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
+    {
       "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
       "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
       "score": 16,
@@ -259,6 +315,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
+      "score": 11,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
