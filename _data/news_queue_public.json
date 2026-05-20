@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-20T00:11:58.093413+00:00",
-  "pending_count": 1073,
+  "updated_at_utc": "2026-05-20T04:47:41.570879+00:00",
+  "pending_count": 1077,
   "pending": [
     {
       "title": "We react to Google I/O 2026",
@@ -70,6 +70,28 @@
       "topics": []
     },
     {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -99,6 +121,28 @@
       "score": 18,
       "fetched_at": "2026-05-20",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-05-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "score": 18,
+      "fetched_at": "2026-05-20",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
