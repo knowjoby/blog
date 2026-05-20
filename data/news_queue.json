@@ -891,6 +891,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "score": 39,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Anthropic wants to own your agent's memory, evals, and orchestration \u2014 and that should make enterprises nervous",
       "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous",
       "score": 38,
@@ -1535,6 +1548,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Trump is waging a silent war on legal immigration",
+      "url": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
+      "score": 33,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
     },
     {
       "title": "Powering product discovery in ChatGPT",
@@ -2983,6 +3009,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
+      "url": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
+      "score": 30,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -7074,6 +7113,21 @@
       "topic": ""
     },
     {
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
+      "companies": [
+        "figure"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "figure",
+      "topic": "robotics"
+    },
+    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -7182,6 +7236,19 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "score": 22,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "stability"
+      ],
+      "topics": [],
+      "company": "stability",
+      "topic": ""
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -11444,6 +11511,20 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
+      "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
+      "score": 16,
+      "fetched_at": "2026-05-20",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
@@ -16224,7 +16305,7 @@
     {
       "date": "2026-05-20",
       "posts": 2,
-      "items_processed": 9486,
+      "items_processed": 11384,
       "estimated_tokens": 0
     }
   ]

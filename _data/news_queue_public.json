@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-20T11:31:17.203028+00:00",
-  "pending_count": 1080,
+  "updated_at_utc": "2026-05-20T15:37:33.735829+00:00",
+  "pending_count": 1086,
   "pending": [
     {
       "title": "We react to Google I/O 2026",
@@ -37,6 +37,28 @@
       "topics": []
     },
     {
+      "title": "If Google can’t make AI agents useful, maybe no one can",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "score": 39,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Trump is waging a silent war on legal immigration",
+      "url": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
+      "score": 33,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
       "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
       "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
       "score": 30,
@@ -66,6 +88,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
+      "url": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
+      "score": 30,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -114,6 +147,19 @@
       "topics": []
     },
     {
+      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
+      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
+      "companies": [
+        "figure"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -125,6 +171,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create six-minute songs",
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "score": 22,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "stability"
+      ],
+      "topics": []
     },
     {
       "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -180,6 +237,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
+      "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
+      "score": 16,
+      "fetched_at": "2026-05-20",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
     },
     {
       "title": "How to use Google’s new AI agents to go beyond your standard searches",
