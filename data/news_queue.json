@@ -51,84 +51,6 @@
       "topic": ""
     },
     {
-      "title": "Google DeepMind workers are unionizing over AI military contracts",
-      "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
-      "score": 49,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI claims ChatGPT\u2019s new default model hallucinates way less",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-      "score": 49,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Book publishers sue Meta over AI\u2019s \u2018word-for-word\u2019 copying",
-      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-      "score": 49,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
-      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-      "score": 49,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
-      "title": "Google Home\u2019s Gemini AI can handle more complicated requests",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "score": 49,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-      "score": 49,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
       "title": "ChatGPT\u2019s \u2018Trusted Contact\u2019 will alert loved ones of safety concerns",
       "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
       "score": 49,
@@ -276,6 +198,19 @@
       "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
       "score": 49,
       "fetched_at": "2026-05-19",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "We react to Google I/O 2026",
+      "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
+      "score": 49,
+      "fetched_at": "2026-05-20",
       "source": "The Verge",
       "companies": [
         "google"
@@ -439,6 +374,20 @@
       "topic": ""
     },
     {
+      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
+      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
+      "score": 48,
+      "fetched_at": "2026-05-20",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions \u2014 with a catch",
       "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
       "score": 46,
@@ -518,58 +467,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Facebook and Instagram are using AI bone structure analysis to identify photos of kids",
-      "url": "https://www.theverge.com/tech/923564/facebook-instagram-teen-accounts-ai-bone-analysis",
-      "score": 43,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "New Mexico has a plan to overhaul Facebook and Instagram",
-      "url": "https://www.theverge.com/policy/923653/meta-new-mexico-public-nuisance-injunctive-relief",
-      "score": 43,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Researchers gaslit Claude into giving instructions to build explosives",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
-      "score": 43,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Threads is finally getting DMs on the web",
-      "url": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
-      "score": 43,
-      "fetched_at": "2026-05-05",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
@@ -660,6 +557,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
+      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
+      "score": 43,
+      "fetched_at": "2026-05-20",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -2045,45 +1955,6 @@
       "topic": "ai"
     },
     {
-      "title": "Meta Quest Promo Codes: $50 Off | May 2026",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "score": 30,
-      "fetched_at": "2026-05-05",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "score": 30,
-      "fetched_at": "2026-05-05",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI president forced to read his personal diary entries to jury",
-      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-      "score": 30,
-      "fetched_at": "2026-05-05",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
       "score": 30,
@@ -3076,6 +2947,19 @@
       "topic": ""
     },
     {
+      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
+      "score": 30,
+      "fetched_at": "2026-05-20",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3808,123 +3692,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
-      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI turns its sold-out GPT-5.5 party into a monthlong Codex giveaway for 8,000 developers",
-      "url": "https://venturebeat.com/technology/openai-turns-its-sold-out-gpt-5-5-party-into-a-monthlong-codex-giveaway-for-8-000-developers",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-      "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
-      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "\u2018I Actually Thought He Was Going to Hit Me,\u2019 OpenAI\u2019s Greg Brockman Says of Elon Musk",
-      "url": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-05",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Scaling Codex to enterprises worldwide",
@@ -7229,6 +6996,32 @@
       "topic": ""
     },
     {
+      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
+      "url": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
+      "score": 24,
+      "fetched_at": "2026-05-20",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "score": 22,
@@ -7324,6 +7117,21 @@
       "topic": ""
     },
     {
+      "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
+      "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
+      "score": 22,
+      "fetched_at": "2026-05-20",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -7406,58 +7214,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "score": 18,
-      "fetched_at": "2026-05-05",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "score": 18,
-      "fetched_at": "2026-05-05",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-05-05",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "score": 18,
-      "fetched_at": "2026-05-05",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "GPT-5.5 Instant shows you what it remembered \u2014 just not all of it",
@@ -11039,6 +10795,32 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
+      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+      "score": 18,
+      "fetched_at": "2026-05-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Roundtables: Inside the Musk v. Altman Trial",
+      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+      "score": 18,
+      "fetched_at": "2026-05-20",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
       "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
       "score": 17,
@@ -11573,19 +11355,6 @@
       "topic": ""
     },
     {
-      "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
-      "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner",
-      "score": 14,
-      "fetched_at": "2026-05-05",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
       "score": 14,
@@ -11898,19 +11667,6 @@
       "topic": "agentic"
     },
     {
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "score": 12,
-      "fetched_at": "2026-05-05",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "DeepSeek could hit $45B valuation from its first investment round",
       "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
       "score": 12,
@@ -11967,6 +11723,19 @@
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "score": 12,
       "fetched_at": "2026-05-16",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "score": 12,
+      "fetched_at": "2026-05-20",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
@@ -15888,6 +15657,31 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Google\u2019s AI future demands trust \u2014 and your personal data",
+      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+      "score": 57,
+      "file": "_posts/2026-05-20-googles-ai-future-demands-trust-and-your-personal-data.md",
+      "posted_at": "2026-05-20",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Google takes a page out of Meta\u2019s book, announces new audio-powered smart glasses at IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
+      "score": 54,
+      "file": "_posts/2026-05-20-google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smar.md",
+      "posted_at": "2026-05-20",
+      "companies": [
+        "google",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16334,6 +16128,12 @@
       "date": "2026-05-19",
       "posts": 5,
       "items_processed": 13261,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-20",
+      "posts": 2,
+      "items_processed": 1896,
       "estimated_tokens": 0
     }
   ]

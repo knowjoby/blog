@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-16 02:41:10 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1887,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-16 04:01:05 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1151,5 +1129,46 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-20 05:41:58 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 12,
+    "posts_created": 2,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 12
+      },
+      "rss": {
+        "raw": 1896,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 12
+      }
+    },
+    "posts": [
+      {
+        "title": "Google’s AI future demands trust — and your personal data",
+        "file": "_posts/2026-05-20-googles-ai-future-demands-trust-and-your-personal-data.md",
+        "score": 57,
+        "tags": [
+          "google",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+        "file": "_posts/2026-05-20-google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smar.md",
+        "score": 54,
+        "tags": [
+          "google",
+          "meta"
+        ]
+      }
+    ]
   }
 ]
