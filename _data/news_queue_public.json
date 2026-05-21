@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-05-20T23:49:49.312094+00:00",
-  "pending_count": 1105,
+  "updated_at_utc": "2026-05-21T04:15:48.478617+00:00",
+  "pending_count": 1081,
   "pending": [
+    {
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "score": 24,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "score": 24,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+      "score": 18,
+      "fetched_at": "2026-05-21",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
     {
       "title": "You can now remix other people’s YouTube Shorts with AI",
       "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
@@ -12148,307 +12181,6 @@
       "companies": [],
       "topics": [
         "agentic"
-      ]
-    },
-    {
-      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-      "url": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
-      "score": 42,
-      "fetched_at": "2026-05-06",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-      "url": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-      "score": 42,
-      "fetched_at": "2026-05-06",
-      "source": "Wired",
-      "companies": [
-        "anthropic",
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Litter-Robot 4 bundle is back down to its best price of the year",
-      "url": "https://www.theverge.com/gadgets/924446/litter-robot-4-fujifilm-x-half-digital-camera-deal-sale",
-      "score": 33,
-      "fetched_at": "2026-05-06",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "score": 30,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-      "score": 30,
-      "fetched_at": "2026-05-06",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How frontier enterprises are building an AI advantage",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "score": 26,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-      "url": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Is xAI a neocloud now?",
-      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Google DeepMind partners with EVE Online for AI model testing",
-      "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
-      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
-      "score": 24,
-      "fetched_at": "2026-05-06",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "score": 22,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": []
-    },
-    {
-      "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
-      "url": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
-      "score": 18,
-      "fetched_at": "2026-05-06",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "GPT-5.5 Instant shows you what it remembered — just not all of it",
-      "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it",
-      "score": 18,
-      "fetched_at": "2026-05-06",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "SpaceX may spend up to $119 billion on ‘Terafab’ chip factory in Texas",
-      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "score": 18,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-      "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-      "score": 18,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "score": 18,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-      "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-      "score": 18,
-      "fetched_at": "2026-05-06",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "AI agents are missing all the discussions your team is having. SageOX has an answer: agentic context infrastructure",
-      "url": "https://venturebeat.com/technology/ai-agents-are-missing-all-the-discussions-your-team-is-having-sageox-has-an-answer-agentic-context-infrastructure",
-      "score": 17,
-      "fetched_at": "2026-05-06",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "The app store for robots has arrived: Hugging Face launches open-source Reachy Mini App Store with 200+ apps",
-      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
-      "score": 16,
-      "fetched_at": "2026-05-06",
-      "source": "VentureBeat",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": []
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "score": 12,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "score": 11,
-      "fetched_at": "2026-05-06",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
       ]
     }
   ]
