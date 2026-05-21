@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-21T18:04:19.131885+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-05-21T20:21:21.872736+00:00",
+  "pending_count": 1102,
   "pending": [
+    {
+      "title": "One of Meta’s big legal reckonings just ended in a settlement",
+      "url": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement",
+      "score": 49,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta and Google get data from the app your boss uses to track you",
       "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
