@@ -626,6 +626,19 @@
       "topic": ""
     },
     {
+      "title": "Musk v. Altman: Much ado about nothing",
+      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "score": 43,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
       "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
       "score": 42,
@@ -1301,6 +1314,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "score": 35,
+      "fetched_at": "2026-05-21",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
+    },
+    {
       "title": "SchoolAI builds an AI platform that empowers teachers",
       "url": "https://openai.com/index/schoolai",
       "score": 34,
@@ -1601,6 +1629,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "I review robot vacuums for a living, ask me anything!",
+      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
+      "score": 33,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Powering product discovery in ChatGPT",
@@ -11138,6 +11179,19 @@
       "topic": "coding"
     },
     {
+      "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
+      "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
+      "score": 17,
+      "fetched_at": "2026-05-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Perplexity\u2019s Personal Computer is now available to everyone on Mac",
       "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
       "score": 16,
@@ -11895,6 +11949,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
+      "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -11952,6 +12019,19 @@
       "score": 12,
       "fetched_at": "2026-05-20",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "AI didn\u2019t kill brand consistency \u2014 it made it mission-critical",
+      "url": "https://venturebeat.com/technology/ai-didnt-kill-brand-consistency-it-made-it-mission-critical",
+      "score": 12,
+      "fetched_at": "2026-05-21",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "ai"
@@ -16366,7 +16446,7 @@
     {
       "date": "2026-05-21",
       "posts": 0,
-      "items_processed": 7600,
+      "items_processed": 9500,
       "estimated_tokens": 0
     }
   ]

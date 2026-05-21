@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-21T11:48:16.169128+00:00",
-  "pending_count": 1089,
+  "updated_at_utc": "2026-05-21T15:40:26.405244+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "Meta lays off thousands of employees to offset AI investments",
@@ -12,6 +12,41 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Musk v. Altman: Much ado about nothing",
+      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "score": 43,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "score": 35,
+      "fetched_at": "2026-05-21",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "I review robot vacuums for a living, ask me anything!",
+      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
+      "score": 33,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -124,6 +159,39 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
+      "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
+      "score": 17,
+      "fetched_at": "2026-05-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
+      "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "AI didn’t kill brand consistency — it made it mission-critical",
+      "url": "https://venturebeat.com/technology/ai-didnt-kill-brand-consistency-it-made-it-mission-critical",
+      "score": 12,
+      "fetched_at": "2026-05-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "You can now remix other people’s YouTube Shorts with AI",
