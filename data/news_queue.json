@@ -272,6 +272,19 @@
       "topic": ""
     },
     {
+      "title": "Anker\u2019s new earbuds are the first with its AI chip that boosts noise reduction",
+      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+      "score": 49,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "score": 48,
@@ -11153,6 +11166,19 @@
       "topic": ""
     },
     {
+      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+      "score": 18,
+      "fetched_at": "2026-05-21",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "score": 17,
@@ -12624,6 +12650,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "IoT gadget maker AcuRite shares reasoning for killing customers\u2019 favorite app",
+      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+      "score": 11,
+      "fetched_at": "2026-05-21",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -16564,7 +16603,7 @@
     {
       "date": "2026-05-21",
       "posts": 0,
-      "items_processed": 15203,
+      "items_processed": 17104,
       "estimated_tokens": 0
     }
   ]

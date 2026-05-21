@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-21T21:59:50.442212+00:00",
-  "pending_count": 1104,
+  "updated_at_utc": "2026-05-21T23:14:23.772982+00:00",
+  "pending_count": 1107,
   "pending": [
+    {
+      "title": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+      "score": 49,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "One of Meta’s big legal reckonings just ended in a settlement",
       "url": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement",
@@ -216,6 +227,17 @@
       "topics": []
     },
     {
+      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
+      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
+      "score": 18,
+      "fetched_at": "2026-05-21",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
       "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
       "score": 17,
@@ -291,6 +313,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+      "score": 11,
+      "fetched_at": "2026-05-21",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "reasoning"
       ]
     },
     {
