@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-21T08:08:05.460500+00:00",
-  "pending_count": 1088,
+  "updated_at_utc": "2026-05-21T11:23:16.922787+00:00",
+  "pending_count": 1089,
   "pending": [
+    {
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "score": 45,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
