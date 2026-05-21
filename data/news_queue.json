@@ -246,6 +246,19 @@
       "topic": ""
     },
     {
+      "title": "Meta and Google get data from the app your boss uses to track you",
+      "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+      "score": 49,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "score": 48,
@@ -7263,6 +7276,19 @@
       "topic": ""
     },
     {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "score": 24,
+      "fetched_at": "2026-05-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
       "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
       "score": 22,
@@ -11088,6 +11114,19 @@
       "topic": ""
     },
     {
+      "title": "I Cloned Myself With Gemini\u2019s AI Avatar Tool. The Result Was Unnervingly Me",
+      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+      "score": 18,
+      "fetched_at": "2026-05-21",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "We're launching two specialized TPUs for the agentic era.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
       "score": 17,
@@ -11954,6 +11993,45 @@
       "score": 14,
       "fetched_at": "2026-05-21",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Trump delays AI security executive order: \u2018I don\u2019t want to get in the way of that leading\u2019",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive \u2018universal\u2019 AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "agentic"
@@ -16446,7 +16524,7 @@
     {
       "date": "2026-05-21",
       "posts": 0,
-      "items_processed": 9500,
+      "items_processed": 11401,
       "estimated_tokens": 0
     }
   ]

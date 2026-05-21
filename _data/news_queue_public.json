@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-21T15:40:26.405244+00:00",
-  "pending_count": 1095,
+  "updated_at_utc": "2026-05-21T18:04:19.131885+00:00",
+  "pending_count": 1101,
   "pending": [
+    {
+      "title": "Meta and Google get data from the app your boss uses to track you",
+      "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
+      "score": 49,
+      "fetched_at": "2026-05-21",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta lays off thousands of employees to offset AI investments",
       "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
@@ -150,6 +161,17 @@
       "topics": []
     },
     {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "score": 24,
+      "fetched_at": "2026-05-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
       "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
       "score": 18,
@@ -157,6 +179,17 @@
       "source": "Wired",
       "companies": [
         "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+      "score": 18,
+      "fetched_at": "2026-05-21",
+      "source": "Wired",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -177,6 +210,39 @@
       "score": 14,
       "fetched_at": "2026-05-21",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "score": 14,
+      "fetched_at": "2026-05-21",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "agentic"
