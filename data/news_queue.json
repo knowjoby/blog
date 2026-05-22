@@ -15887,6 +15887,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft is letting Office users remove an annoying Copilot button",
+      "url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
+      "score": 57,
+      "file": "_posts/2026-05-22-microsoft-is-letting-office-users-remove-an-annoying-copilot-button.md",
+      "posted_at": "2026-05-22",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -16349,8 +16362,8 @@
     },
     {
       "date": "2026-05-22",
-      "posts": 0,
-      "items_processed": 3802,
+      "posts": 1,
+      "items_processed": 5703,
       "estimated_tokens": 0
     }
   ]
