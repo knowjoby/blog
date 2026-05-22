@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-22T17:57:35.481662+00:00",
-  "pending_count": 1096,
+  "updated_at_utc": "2026-05-22T20:01:26.368922+00:00",
+  "pending_count": 1097,
   "pending": [
     {
       "title": "Elon, stop trying to make Grok happen",
@@ -162,6 +162,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

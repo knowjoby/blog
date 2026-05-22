@@ -7268,6 +7268,19 @@
       "topic": ""
     },
     {
+      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+      "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
       "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
       "score": 22,
@@ -16510,7 +16523,7 @@
     {
       "date": "2026-05-22",
       "posts": 3,
-      "items_processed": 13310,
+      "items_processed": 15207,
       "estimated_tokens": 0
     }
   ]
