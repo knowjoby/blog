@@ -11643,6 +11643,20 @@
       "topic": "agentic"
     },
     {
+      "title": "Your AI agents need a terminal, not just a vector database",
+      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+      "score": 16,
+      "fetched_at": "2026-05-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.",
       "url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model",
       "score": 14,
@@ -16536,7 +16550,7 @@
     {
       "date": "2026-05-22",
       "posts": 3,
-      "items_processed": 17104,
+      "items_processed": 19002,
       "estimated_tokens": 0
     }
   ]

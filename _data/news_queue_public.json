@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-22T21:43:59.014521+00:00",
-  "pending_count": 1098,
+  "updated_at_utc": "2026-05-22T23:07:20.788617+00:00",
+  "pending_count": 1099,
   "pending": [
     {
       "title": "Elon, stop trying to make Grok happen",
@@ -252,6 +252,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Your AI agents need a terminal, not just a vector database",
+      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+      "score": 16,
+      "fetched_at": "2026-05-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
+      ]
     },
     {
       "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
