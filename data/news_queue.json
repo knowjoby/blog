@@ -2093,6 +2093,19 @@
       "topic": "ai"
     },
     {
+      "title": "Google\u2019s AI search is so broken it can \u2018disregard\u2019 what you\u2019re looking for",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "score": 31,
+      "fetched_at": "2026-05-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
       "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
       "score": 30,
@@ -16523,7 +16536,7 @@
     {
       "date": "2026-05-22",
       "posts": 3,
-      "items_processed": 15207,
+      "items_processed": 17104,
       "estimated_tokens": 0
     }
   ]
