@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-22T09:57:06.708772+00:00",
-  "pending_count": 1087,
+  "updated_at_utc": "2026-05-22T10:50:04.380105+00:00",
+  "pending_count": 1088,
   "pending": [
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -48,6 +48,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "MIT Tech Review",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
