@@ -1604,6 +1604,19 @@
       "topic": "robotics"
     },
     {
+      "title": "The post-search Google era begins",
+      "url": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
+      "score": 33,
+      "fetched_at": "2026-05-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -3070,6 +3083,19 @@
       "topic": ""
     },
     {
+      "title": "Meta quietly launches a new Reddit-like app called Forum",
+      "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+      "score": 30,
+      "fetched_at": "2026-05-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3143,6 +3169,21 @@
       ],
       "company": "google",
       "topic": "agentic"
+    },
+    {
+      "title": "The Download: coding\u2019s future, the \u2018Steroid Olympics,\u2019 and AI-driven science",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "score": 29,
+      "fetched_at": "2026-05-22",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
     },
     {
       "title": "Best practices for deploying language models",
@@ -7165,6 +7206,32 @@
       "score": 24,
       "fetched_at": "2026-05-22",
       "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "Wired",
       "companies": [
         "google"
       ],
@@ -16389,7 +16456,7 @@
     {
       "date": "2026-05-22",
       "posts": 2,
-      "items_processed": 9505,
+      "items_processed": 11407,
       "estimated_tokens": 0
     }
   ]

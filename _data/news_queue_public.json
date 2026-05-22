@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-22T12:29:23.504811+00:00",
-  "pending_count": 1088,
+  "updated_at_utc": "2026-05-22T15:37:46.496604+00:00",
+  "pending_count": 1093,
   "pending": [
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -17,6 +17,17 @@
       ]
     },
     {
+      "title": "The post-search Google era begins",
+      "url": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
+      "score": 33,
+      "fetched_at": "2026-05-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
       "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
       "score": 32,
@@ -30,6 +41,17 @@
       ]
     },
     {
+      "title": "Meta quietly launches a new Reddit-like app called Forum",
+      "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
+      "score": 30,
+      "fetched_at": "2026-05-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
       "score": 30,
@@ -39,6 +61,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+      "score": 29,
+      "fetched_at": "2026-05-22",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
@@ -52,11 +87,33 @@
       "topics": []
     },
     {
+      "title": "Even If You Hate AI, You Will Use Google AI Search",
+      "url": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
       "score": 24,
       "fetched_at": "2026-05-22",
       "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "We tried Google’s AI glasses and they’re almost there",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "score": 24,
+      "fetched_at": "2026-05-22",
+      "source": "TechCrunch",
       "companies": [
         "google"
       ],
