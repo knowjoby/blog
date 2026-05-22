@@ -639,6 +639,19 @@
       "topic": ""
     },
     {
+      "title": "Elon, stop trying to make Grok happen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "score": 43,
+      "fetched_at": "2026-05-22",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
       "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
       "score": 42,
@@ -1299,6 +1312,21 @@
         "coding"
       ],
       "company": "anthropic",
+      "topic": "coding"
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "score": 35,
+      "fetched_at": "2026-05-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
       "topic": "coding"
     },
     {
@@ -12005,6 +12033,19 @@
       "topic": "ai"
     },
     {
+      "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "score": 12,
+      "fetched_at": "2026-05-22",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Coding and design with GPT-5",
       "url": "https://openai.com/index/gpt-5-coding-design",
       "score": 11,
@@ -15993,6 +16034,19 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Meta\u2019s Forum is part Reddit, part Facebook, and part Google AI Overview",
+      "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
+      "score": 91,
+      "file": "_posts/2026-05-22-metas-forum-is-part-reddit-part-facebook-and-part-google-ai-overview.md",
+      "posted_at": "2026-05-22",
+      "companies": [
+        "openai",
+        "google",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16455,8 +16509,8 @@
     },
     {
       "date": "2026-05-22",
-      "posts": 2,
-      "items_processed": 11407,
+      "posts": 3,
+      "items_processed": 13310,
       "estimated_tokens": 0
     }
   ]

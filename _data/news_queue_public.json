@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-22T15:37:46.496604+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-05-22T17:57:35.481662+00:00",
+  "pending_count": 1096,
   "pending": [
+    {
+      "title": "Elon, stop trying to make Grok happen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "score": 43,
+      "fetched_at": "2026-05-22",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
@@ -14,6 +25,19 @@
       "topics": [
         "reasoning",
         "multimodal"
+      ]
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "score": 35,
+      "fetched_at": "2026-05-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -206,6 +230,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "score": 12,
+      "fetched_at": "2026-05-22",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
