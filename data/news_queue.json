@@ -846,6 +846,22 @@
       "topic": "reasoning"
     },
     {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "score": 40,
+      "fetched_at": "2026-05-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "These new Roombas are smaller and cheaper",
       "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
       "score": 39,
@@ -1979,6 +1995,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-05-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Google\u2019s AI search is so broken it can \u2018disregard\u2019 what you\u2019re looking for",
       "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
       "score": 31,
@@ -2997,6 +3028,19 @@
       "topic": ""
     },
     {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-05-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3720,6 +3764,21 @@
       "url": "https://openai.com/index/introducing-b2b-signals",
       "score": 26,
       "fetched_at": "2026-05-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-05-23",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -7097,6 +7156,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-05-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10864,6 +10936,45 @@
       "url": "https://openai.com/index/creating-with-sora-safely",
       "score": 18,
       "fetched_at": "2026-05-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-05-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "score": 18,
+      "fetched_at": "2026-05-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "score": 18,
+      "fetched_at": "2026-05-23",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -16297,7 +16408,7 @@
     {
       "date": "2026-05-23",
       "posts": 0,
-      "items_processed": 1898,
+      "items_processed": 3796,
       "estimated_tokens": 0
     }
   ]
