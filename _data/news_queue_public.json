@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-23T14:41:11.560062+00:00",
-  "pending_count": 1090,
+  "updated_at_utc": "2026-05-23T16:04:42.277112+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "Google’s new anything-to-anything AI model is wild",
@@ -72,6 +72,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "These special phone and app features can help protect you from spyware",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "score": 18,
+      "fetched_at": "2026-05-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

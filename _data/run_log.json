@@ -1,47 +1,5 @@
 [
   {
-    "ran_at": "2026-05-18 23:50:06 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 2,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 1896,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
-        "file": "_posts/2026-05-18-four-ai-supply-chain-attacks-in-50-days-exposed-the-release-pipeline-r.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta"
-        ]
-      },
-      {
-        "title": "Elon Musk lost his case against Sam Altman",
-        "file": "_posts/2026-05-18-elon-musk-lost-his-case-against-sam-altman.md",
-        "score": 51,
-        "tags": [
-          "openai",
-          "reasoning"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-19 01:44:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1192,6 +1150,28 @@
   },
   {
     "ran_at": "2026-05-23 20:11:11 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1898,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-23 21:34:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
     "posts_created": 0,
