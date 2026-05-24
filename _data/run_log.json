@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-05-19 16:46:18 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1894,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Gemini is in danger of going full Copilot",
-        "file": "_posts/2026-05-19-gemini-is-in-danger-of-going-full-copilot.md",
-        "score": 69,
-        "tags": [
-          "google",
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-19 19:11:19 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1172,6 +1139,28 @@
   },
   {
     "ran_at": "2026-05-24 05:04:44 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1898,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-24 09:39:55 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
