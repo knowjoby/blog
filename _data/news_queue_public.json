@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-24T11:36:12.091259+00:00",
-  "pending_count": 1086,
+  "updated_at_utc": "2026-05-24T13:47:35.212517+00:00",
+  "pending_count": 1087,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -13,6 +13,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Hackers are learning to exploit chatbot ‘personalities’",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "score": 28,
+      "fetched_at": "2026-05-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
