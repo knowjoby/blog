@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-05-20 23:53:09 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 1,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1898,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic and OpenAI take their beef to the midterm elections",
-        "file": "_posts/2026-05-20-anthropic-and-openai-take-their-beef-to-the-midterm-elections.md",
-        "score": 73,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-21 02:04:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1120,6 +1088,28 @@
   },
   {
     "ran_at": "2026-05-25 04:01:05 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1898,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-05-25 05:34:52 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
