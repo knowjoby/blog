@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-25T13:33:06.437180+00:00",
-  "pending_count": 1084,
+  "updated_at_utc": "2026-05-25T16:25:29.237583+00:00",
+  "pending_count": 1085,
   "pending": [
+    {
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "score": 37,
+      "fetched_at": "2026-05-25",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
     {
       "title": "Applications of AI at OpenAI",
       "url": "https://openai.com/academy/applications-of-ai",

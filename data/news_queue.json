@@ -1051,6 +1051,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "score": 37,
+      "fetched_at": "2026-05-25",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "score": 36,
@@ -16365,7 +16378,7 @@
     {
       "date": "2026-05-25",
       "posts": 0,
-      "items_processed": 9490,
+      "items_processed": 11389,
       "estimated_tokens": 0
     }
   ]
