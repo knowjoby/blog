@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-26T21:11:55.717309+00:00",
-  "pending_count": 1083,
+  "updated_at_utc": "2026-05-26T22:50:00.315093+00:00",
+  "pending_count": 1084,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -49,6 +49,20 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
+      "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+      "score": 47,
+      "fetched_at": "2026-05-26",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
