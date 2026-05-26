@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-05-22 15:27:06 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1901,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft is letting Office users remove an annoying Copilot button",
-        "file": "_posts/2026-05-22-microsoft-is-letting-office-users-remove-an-annoying-copilot-button.md",
-        "score": 57,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-22 16:20:04 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1138,5 +1106,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-05-27 00:54:40 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1900,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": []
   }
 ]

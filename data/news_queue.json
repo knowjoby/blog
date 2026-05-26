@@ -7177,6 +7177,21 @@
       "topic": "multimodal"
     },
     {
+      "title": "3D-printable humanoid legs let robotics experiments run wild",
+      "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+      "score": 21,
+      "fetched_at": "2026-05-26",
+      "source": "Ars Technica",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn\u2019t be the first partner to feel burned",
       "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "score": 20,
@@ -16343,7 +16358,7 @@
     {
       "date": "2026-05-26",
       "posts": 1,
-      "items_processed": 9500,
+      "items_processed": 11400,
       "estimated_tokens": 0
     }
   ]
