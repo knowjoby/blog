@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-26T13:27:42.751524+00:00",
-  "pending_count": 1080,
+  "updated_at_utc": "2026-05-26T16:57:06.780965+00:00",
+  "pending_count": 1081,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -6754,6 +6754,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "score": 11,
+      "fetched_at": "2026-05-26",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {

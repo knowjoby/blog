@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-22 11:43:27 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 11,
-    "posts_created": 0,
-    "queued": 11,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 11
-      },
-      "rss": {
-        "raw": 1901,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 11
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-22 15:27:06 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1129,5 +1107,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-26 22:27:06 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1900,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia has retired its GeForce Control Panel app after 20 years",
+        "file": "_posts/2026-05-26-nvidia-has-retired-its-geforce-control-panel-app-after-20-years.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]

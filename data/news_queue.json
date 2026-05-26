@@ -12312,6 +12312,19 @@
       "topic": "coding"
     },
     {
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "score": 11,
+      "fetched_at": "2026-05-26",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "score": 10,
@@ -15832,6 +15845,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia has retired its GeForce Control Panel app after 20 years",
+      "url": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement",
+      "score": 55,
+      "file": "_posts/2026-05-26-nvidia-has-retired-its-geforce-control-panel-app-after-20-years.md",
+      "posted_at": "2026-05-26",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16318,8 +16342,8 @@
     },
     {
       "date": "2026-05-26",
-      "posts": 0,
-      "items_processed": 7600,
+      "posts": 1,
+      "items_processed": 9500,
       "estimated_tokens": 0
     }
   ]
