@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-26T19:24:40.053201+00:00",
-  "pending_count": 1082,
+  "updated_at_utc": "2026-05-26T21:11:55.717309+00:00",
+  "pending_count": 1083,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -1917,6 +1917,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "score": 24,
+      "fetched_at": "2026-05-26",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI o1 Contributions",
