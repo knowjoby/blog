@@ -2868,6 +2868,19 @@
       "topic": ""
     },
     {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "score": 30,
+      "fetched_at": "2026-05-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -10696,6 +10709,32 @@
       "topic": ""
     },
     {
+      "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
+      "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved",
+      "score": 18,
+      "fetched_at": "2026-05-27",
+      "source": "VentureBeat",
+      "companies": [
+        "amazon"
+      ],
+      "topics": [],
+      "company": "amazon",
+      "topic": ""
+    },
+    {
+      "title": "How to use Codex for everyday work",
+      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+      "score": 18,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Rivian spinoff Mind Robotics raises another $400M",
       "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
       "score": 17,
@@ -12181,6 +12220,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "score": 11,
+      "fetched_at": "2026-05-27",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
@@ -16219,7 +16271,7 @@
     {
       "date": "2026-05-27",
       "posts": 1,
-      "items_processed": 9503,
+      "items_processed": 11407,
       "estimated_tokens": 0
     }
   ]

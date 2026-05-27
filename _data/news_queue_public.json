@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-27T16:24:20.854456+00:00",
-  "pending_count": 1070,
+  "updated_at_utc": "2026-05-27T18:38:50.482423+00:00",
+  "pending_count": 1074,
   "pending": [
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
@@ -12,6 +12,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "score": 30,
+      "fetched_at": "2026-05-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "The Pope isn’t AGI-pilled",
@@ -82,6 +93,17 @@
       "topics": []
     },
     {
+      "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
+      "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved",
+      "score": 18,
+      "fetched_at": "2026-05-27",
+      "source": "VentureBeat",
+      "companies": [
+        "amazon"
+      ],
+      "topics": []
+    },
+    {
       "title": "Choco automates food distribution with AI agents",
       "url": "https://openai.com/index/choco",
       "score": 18,
@@ -95,6 +117,17 @@
     {
       "title": "AutoScout24 scales engineering with AI-powered workflows",
       "url": "https://openai.com/index/autoscout24",
+      "score": 18,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to use Codex for everyday work",
+      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
       "score": 18,
       "fetched_at": "2026-05-27",
       "source": "OpenAI",
@@ -131,6 +164,17 @@
       "score": 14,
       "fetched_at": "2026-05-27",
       "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "score": 11,
+      "fetched_at": "2026-05-27",
+      "source": "Hugging Face",
       "companies": [],
       "topics": [
         "agentic"
