@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-27T08:44:46.642073+00:00",
-  "pending_count": 1064,
+  "updated_at_utc": "2026-05-27T12:24:12.245780+00:00",
+  "pending_count": 1065,
   "pending": [
+    {
+      "title": "The Pope isn’t AGI-pilled",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
+      "score": 28,
+      "fetched_at": "2026-05-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
     {
       "title": "OpenAI available at FedRAMP Moderate",
       "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
