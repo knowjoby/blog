@@ -6817,6 +6817,45 @@
       "topic": ""
     },
     {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "score": 24,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "score": 24,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-05-27",
+      "source": "Hugging Face",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -10577,6 +10616,32 @@
       "topic": ""
     },
     {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "score": 18,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Rivian spinoff Mind Robotics raises another $400M",
       "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
       "score": 17,
@@ -11427,6 +11492,19 @@
       "topic": "open_source"
     },
     {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "score": 14,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "score": 12,
@@ -12010,6 +12088,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "score": 11,
+      "fetched_at": "2026-05-27",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
@@ -16036,7 +16127,7 @@
     {
       "date": "2026-05-27",
       "posts": 0,
-      "items_processed": 1900,
+      "items_processed": 3800,
       "estimated_tokens": 0
     }
   ]
