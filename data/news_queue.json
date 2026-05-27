@@ -797,6 +797,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "score": 39,
+      "fetched_at": "2026-05-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -3628,6 +3641,21 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "score": 26,
+      "fetched_at": "2026-05-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
@@ -6866,6 +6894,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
+      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
+      "score": 24,
+      "fetched_at": "2026-05-27",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -10733,6 +10774,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "score": 17,
+      "fetched_at": "2026-05-27",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
       "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
       "score": 16,
@@ -11516,6 +11570,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI\u2019s Missing Feedback Loop",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "score": 14,
+      "fetched_at": "2026-05-27",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
@@ -15647,6 +15714,18 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "AI tried to bury this politician \u2014 now people have actually heard of him",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "score": 61,
+      "file": "_posts/2026-05-27-ai-tried-to-bury-this-politician-now-people-have-actually-heard-of-him.md",
+      "posted_at": "2026-05-27",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16139,8 +16218,8 @@
     },
     {
       "date": "2026-05-27",
-      "posts": 0,
-      "items_processed": 7600,
+      "posts": 1,
+      "items_processed": 9503,
       "estimated_tokens": 0
     }
   ]
