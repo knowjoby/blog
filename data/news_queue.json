@@ -51,58 +51,6 @@
       "topic": ""
     },
     {
-      "title": "Android Auto is now one (screen) size fits all",
-      "url": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
-      "score": 49,
-      "fetched_at": "2026-05-12",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Gemini\u2019s biggest new features are all about controlling your phone",
-      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-      "score": 49,
-      "fetched_at": "2026-05-12",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
-      "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
-      "score": 49,
-      "fetched_at": "2026-05-12",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Sam Altman says Elon Musk\u2019s mind games were damaging OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "score": 49,
-      "fetched_at": "2026-05-12",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Razer\u2019s Blade 18 is getting a $500 price hike and a new Intel chip",
       "url": "https://www.theverge.com/gadgets/930343/razers-blade-18-is-getting-a-500-price-hike-and-a-new-intel-chip",
       "score": 49,
@@ -269,20 +217,6 @@
       ],
       "topics": [],
       "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
-      "url": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
-      "score": 48,
-      "fetched_at": "2026-05-12",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -550,19 +484,6 @@
       "topic": "coding"
     },
     {
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "score": 43,
-      "fetched_at": "2026-05-12",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Sam Altman was winning on the stand, but it might not be enough",
       "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
       "score": 43,
@@ -638,20 +559,6 @@
       ],
       "topics": [],
       "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Threads tests a Meta AI integration that works similarly to Grok",
-      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "score": 42,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "meta",
-        "xai"
-      ],
-      "topics": [],
-      "company": "meta",
       "topic": ""
     },
     {
@@ -864,19 +771,6 @@
       "topic": ""
     },
     {
-      "title": "These new Roombas are smaller and cheaper",
-      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
-      "score": 39,
-      "fetched_at": "2026-05-12",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Google Pics is a new app that tries to fix AI image editing",
       "url": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026",
       "score": 39,
@@ -900,21 +794,6 @@
         "agentic"
       ],
       "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-      "score": 38,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
       "topic": "agentic"
     },
     {
@@ -1106,21 +985,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-      "score": 35,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
     },
     {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -1997,45 +1861,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "score": 30,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google unveils Googlebooks, a new line of AI-native laptops",
-      "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
-      "score": 30,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-      "score": 30,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
@@ -3790,97 +3615,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Ilya Sutskever Stands by His Role in Sam Altman\u2019s OpenAI Ouster: \u2018I Didn\u2019t Want It to Be Destroyed\u2019",
-      "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "Hugging Face",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Top New Features in Google\u2019s Android 17\u2014and Gemini Intelligence\u2014Coming This Summer",
-      "url": "https://www.wired.com/story/android-17-gemini-top-new-features/",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "score": 24,
-      "fetched_at": "2026-05-12",
-      "source": "OpenAI",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
@@ -7301,71 +7035,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "score": 18,
-      "fetched_at": "2026-05-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Epson Lifestudio Grand Plus Review: Rich Colors, Gemini Support",
-      "url": "https://www.wired.com/review/epson-lifestudio-grand-plus/",
-      "score": 18,
-      "fetched_at": "2026-05-12",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
-      "url": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots",
-      "score": 18,
-      "fetched_at": "2026-05-12",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "\u201cWill I be OK?\u201d Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-      "score": 18,
-      "fetched_at": "2026-05-12",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "score": 18,
-      "fetched_at": "2026-05-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Who trusts Sam Altman?",
@@ -11446,19 +11115,6 @@
       "topic": ""
     },
     {
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "score": 14,
-      "fetched_at": "2026-05-12",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
       "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
       "score": 14,
@@ -11873,19 +11529,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "score": 11,
-      "fetched_at": "2026-05-12",
-      "source": "Google AI",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Data readiness for agentic AI in financial services",
@@ -16388,6 +16031,12 @@
       "date": "2026-05-26",
       "posts": 1,
       "items_processed": 15200,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-27",
+      "posts": 0,
+      "items_processed": 1900,
       "estimated_tokens": 0
     }
   ]
