@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-28T16:57:41.617968+00:00",
-  "pending_count": 1070,
+  "updated_at_utc": "2026-05-28T19:41:14.788746+00:00",
+  "pending_count": 1076,
   "pending": [
     {
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
@@ -24,6 +24,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "score": 43,
+      "fetched_at": "2026-05-28",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -79,6 +90,39 @@
       ]
     },
     {
+      "title": "Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment",
+      "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
+      "score": 30,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "score": 30,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "score": 30,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
       "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
       "score": 26,
@@ -92,6 +136,17 @@
       ]
     },
     {
+      "title": "Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook",
+      "url": "https://www.wired.com/story/meta-copies-snapchats-homework-again/",
+      "score": 24,
+      "fetched_at": "2026-05-28",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
       "score": 24,
@@ -99,6 +154,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How DeepSeek’s radical architecture is shattering Silicon Valley's token moat",
+      "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
+      "score": 22,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
       ],
       "topics": []
     },

@@ -547,6 +547,19 @@
       "topic": ""
     },
     {
+      "title": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "score": 43,
+      "fetched_at": "2026-05-28",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -2895,6 +2908,45 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "score": 30,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic releases Opus 4.8 with new \u2018dynamic workflow\u2019 tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "score": 30,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment",
+      "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
+      "score": 30,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -6797,6 +6849,19 @@
       "topic": ""
     },
     {
+      "title": "Meta Copies Snapchat\u2019s Homework Again With \u2018Plus\u2019 Features for Instagram and Facebook",
+      "url": "https://www.wired.com/story/meta-copies-snapchats-homework-again/",
+      "score": 24,
+      "fetched_at": "2026-05-28",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -6902,6 +6967,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "How DeepSeek\u2019s radical architecture is shattering Silicon Valley's token moat",
+      "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
+      "score": 22,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "deepseek",
       "topic": ""
     },
     {
@@ -15741,6 +15819,20 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
+      "score": 53,
+      "file": "_posts/2026-05-28-trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmar.md",
+      "posted_at": "2026-05-28",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -16239,8 +16331,8 @@
     },
     {
       "date": "2026-05-28",
-      "posts": 1,
-      "items_processed": 11431,
+      "posts": 2,
+      "items_processed": 13337,
       "estimated_tokens": 0
     }
   ]
