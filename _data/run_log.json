@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-23 18:06:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1898,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-23 20:11:11 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1117,5 +1095,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-05-28 17:07:27 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1905,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Gemini for Google Home can now use your cameras to trigger automations",
+        "file": "_posts/2026-05-28-gemini-for-google-home-can-now-use-your-cameras-to-trigger-automations.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]

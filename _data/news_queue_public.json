@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-28T08:47:33.802782+00:00",
-  "pending_count": 1062,
+  "updated_at_utc": "2026-05-28T11:37:27.000643+00:00",
+  "pending_count": 1063,
   "pending": [
     {
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
@@ -86,6 +86,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "score": 11,
+      "fetched_at": "2026-05-28",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
