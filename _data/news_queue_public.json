@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-28T04:51:19.921771+00:00",
-  "pending_count": 1060,
+  "updated_at_utc": "2026-05-28T08:47:33.802782+00:00",
+  "pending_count": 1062,
   "pending": [
     {
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
@@ -43,6 +43,19 @@
       ]
     },
     {
+      "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
+      "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
+      "score": 26,
+      "fetched_at": "2026-05-28",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
       "url": "https://openai.com/index/openai-on-aws",
       "score": 24,
@@ -63,6 +76,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "score": 14,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Facebook launches a ‘Plus’ subscription that gives you extra features",

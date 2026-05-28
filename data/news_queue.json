@@ -3618,6 +3618,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Vertu Is Back With a Folding Phone Powered by\u2014Surprise\u2014an AI Agent",
+      "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
+      "score": 26,
+      "fetched_at": "2026-05-28",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
       "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
       "score": 24,
@@ -11428,6 +11443,19 @@
       "topic": "coding"
     },
     {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "score": 14,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "score": 12,
@@ -16094,7 +16122,7 @@
     {
       "date": "2026-05-28",
       "posts": 0,
-      "items_processed": 3810,
+      "items_processed": 5715,
       "estimated_tokens": 0
     }
   ]
