@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-28T12:34:12.413294+00:00",
-  "pending_count": 1063,
+  "updated_at_utc": "2026-05-28T16:57:41.617968+00:00",
+  "pending_count": 1070,
   "pending": [
     {
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
@@ -17,6 +17,29 @@
       ]
     },
     {
+      "title": "These new iOS 27 renders hint at Siri’s big redesign",
+      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+      "score": 43,
+      "fetched_at": "2026-05-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "score": 42,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "xai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "score": 41,
@@ -27,6 +50,19 @@
       ],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-05-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
       ]
     },
     {
@@ -67,6 +103,17 @@
       "topics": []
     },
     {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "score": 18,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "url": "https://openai.com/index/building-codex-windows-sandbox",
       "score": 18,
@@ -76,6 +123,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
+      "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
+      "score": 14,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
@@ -89,6 +147,17 @@
       ]
     },
     {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "score": 12,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
       "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
       "score": 11,
@@ -97,6 +166,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "score": 11,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {

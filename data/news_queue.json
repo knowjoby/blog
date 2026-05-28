@@ -534,6 +534,19 @@
       "topic": ""
     },
     {
+      "title": "These new iOS 27 renders hint at Siri\u2019s big redesign",
+      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+      "score": 43,
+      "fetched_at": "2026-05-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -573,6 +586,20 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "score": 42,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "xai"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -923,6 +950,21 @@
       "url": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai",
       "score": 38,
       "fetched_at": "2026-05-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-05-28",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -10567,6 +10609,19 @@
       "topic": ""
     },
     {
+      "title": "Sneak peek at new Siri app reveals Apple\u2019s plans to take on ChatGPT and more",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "score": 18,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
       "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "score": 17,
@@ -11456,6 +11511,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code \u2014 with built-in governance",
+      "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
+      "score": 14,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "score": 12,
@@ -11551,6 +11619,19 @@
       "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
       "score": 12,
       "fetched_at": "2026-05-26",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "score": 12,
+      "fetched_at": "2026-05-28",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
@@ -12091,6 +12172,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "score": 11,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
@@ -16146,7 +16240,7 @@
     {
       "date": "2026-05-28",
       "posts": 1,
-      "items_processed": 9525,
+      "items_processed": 11431,
       "estimated_tokens": 0
     }
   ]
