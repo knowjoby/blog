@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-28T21:59:43.582617+00:00",
-  "pending_count": 1080,
+  "updated_at_utc": "2026-05-28T23:38:26.395231+00:00",
+  "pending_count": 1081,
   "pending": [
     {
       "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
@@ -277,6 +277,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
+      "url": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
+      "score": 11,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "reasoning"
       ]
     },
     {

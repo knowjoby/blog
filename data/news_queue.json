@@ -12318,6 +12318,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
+      "url": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
+      "score": 11,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
+    },
+    {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "score": 10,
@@ -16398,7 +16411,7 @@
     {
       "date": "2026-05-28",
       "posts": 3,
-      "items_processed": 15243,
+      "items_processed": 17149,
       "estimated_tokens": 0
     }
   ]
