@@ -233,34 +233,6 @@
       "topic": ""
     },
     {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "score": 48,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic finally beat OpenAI in business AI adoption \u2014 but 3 big threats could erase its lead",
-      "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
-      "score": 48,
-      "fetched_at": "2026-05-13",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
       "score": 48,
@@ -403,22 +375,6 @@
       "topic": "coding"
     },
     {
-      "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions \u2014 with a catch",
-      "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
-      "score": 46,
-      "fetched_at": "2026-05-13",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
       "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
       "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
       "score": 46,
@@ -495,19 +451,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Sam Altman was winning on the stand, but it might not be enough",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-      "score": 43,
-      "fetched_at": "2026-05-13",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Behold, the Elon Musk jackass trophy",
@@ -615,21 +558,6 @@
       "topics": [],
       "company": "meta",
       "topic": ""
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "score": 41,
-      "fetched_at": "2026-05-13",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "nvidia",
-      "topic": "multimodal"
     },
     {
       "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
@@ -1029,21 +957,6 @@
       "topic": ""
     },
     {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-05-13",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "score": 35,
@@ -1364,19 +1277,6 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
-    },
-    {
-      "title": "Unitree will sell you a massive \u2018transformable mecha\u2019 for $650,000",
-      "url": "https://www.theverge.com/tech/929487/unitree-gd01-giant-mech-suit-robot",
-      "score": 33,
-      "fetched_at": "2026-05-13",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "ElliQ is a surprisingly helpful companion robot for older adults",
@@ -3000,19 +2900,6 @@
       "topic": "coding"
     },
     {
-      "title": "Alexa is moving into Amazon.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "score": 28,
-      "fetched_at": "2026-05-13",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "score": 28,
@@ -3233,21 +3120,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "score": 26,
-      "fetched_at": "2026-05-13",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
@@ -3698,162 +3570,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI Onto His Kids, Sam Altman Says",
-      "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "xAI Adds 19 New Gas Turbines Despite Ongoing Lawsuit",
-      "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
-      "url": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-      "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic blames dystopian sci-fi for training AI models to act \u201cevil\u201d",
-      "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Brings Its Ass to Court",
-      "url": "https://www.wired.com/story/musk-altman-trial-ass-statue-evidence/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Musk\u2019s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-      "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-      "score": 24,
-      "fetched_at": "2026-05-13",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
@@ -7183,32 +6899,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Who trusts Sam Altman?",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "score": 18,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AI chatbots are giving out people\u2019s real phone numbers",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-      "score": 18,
-      "fetched_at": "2026-05-13",
-      "source": "MIT Tech Review",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Our response to the TanStack npm supply chain attack",
@@ -10788,19 +10478,6 @@
       "topics": [],
       "company": "nvidia",
       "topic": ""
-    },
-    {
-      "title": "Rivian spinoff Mind Robotics raises another $400M",
-      "url": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-      "score": 17,
-      "fetched_at": "2026-05-13",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
@@ -16340,6 +16017,12 @@
       "date": "2026-05-27",
       "posts": 1,
       "items_processed": 15217,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-28",
+      "posts": 0,
+      "items_processed": 1905,
       "estimated_tokens": 0
     }
   ]
