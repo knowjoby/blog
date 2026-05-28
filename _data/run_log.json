@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-24 00:49:20 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1898,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-24 01:56:06 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1134,6 +1112,38 @@
           "openai",
           "anthropic",
           "regulation"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-05-29 03:29:43 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1906,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+        "file": "_posts/2026-05-28-microsoft-365-copilot-gets-a-speed-boost-and-cleaner-design.md",
+        "score": 63,
+        "tags": [
+          "microsoft",
+          "coding"
         ]
       }
     ]

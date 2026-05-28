@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-05-28T19:41:14.788746+00:00",
-  "pending_count": 1076,
+  "updated_at_utc": "2026-05-28T21:59:43.582617+00:00",
+  "pending_count": 1080,
   "pending": [
+    {
+      "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+      "score": 46,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "mistral"
+      ],
+      "topics": []
+    },
     {
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
       "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
@@ -191,6 +203,28 @@
       "topics": []
     },
     {
+      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "score": 18,
+      "fetched_at": "2026-05-28",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "score": 18,
+      "fetched_at": "2026-05-28",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
       "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
       "score": 14,
@@ -204,6 +238,17 @@
     {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
       "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "score": 14,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
       "score": 14,
       "fetched_at": "2026-05-28",
       "source": "TechCrunch",

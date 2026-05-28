@@ -391,6 +391,20 @@
       "topic": "agentic"
     },
     {
+      "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+      "score": 46,
+      "fetched_at": "2026-05-28",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "mistral"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Meta lays off thousands of employees to offset AI investments",
       "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
       "score": 45,
@@ -10700,6 +10714,32 @@
       "topic": ""
     },
     {
+      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
+      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+      "score": 18,
+      "fetched_at": "2026-05-28",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
+      "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
+      "score": 18,
+      "fetched_at": "2026-05-28",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
       "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "score": 17,
@@ -11600,6 +11640,19 @@
       ],
       "company": "",
       "topic": "regulation"
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "score": 14,
+      "fetched_at": "2026-05-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
@@ -15833,6 +15886,19 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "score": 63,
+      "file": "_posts/2026-05-28-microsoft-365-copilot-gets-a-speed-boost-and-cleaner-design.md",
+      "posted_at": "2026-05-28",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -16331,8 +16397,8 @@
     },
     {
       "date": "2026-05-28",
-      "posts": 2,
-      "items_processed": 13337,
+      "posts": 3,
+      "items_processed": 15243,
       "estimated_tokens": 0
     }
   ]
