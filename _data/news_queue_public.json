@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-29T15:55:20.548417+00:00",
-  "pending_count": 1069,
+  "updated_at_utc": "2026-05-29T18:42:29.806684+00:00",
+  "pending_count": 1074,
   "pending": [
     {
       "title": "Adobe’s conversational AI agent is a mediocre design intern",
@@ -21,6 +21,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "score": 26,
+      "fetched_at": "2026-05-29",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -93,6 +104,29 @@
       "topics": []
     },
     {
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "score": 19,
+      "fetched_at": "2026-05-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "score": 18,
+      "fetched_at": "2026-05-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Our response to the TanStack npm supply chain attack",
       "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
       "score": 18,
@@ -144,6 +178,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "score": 18,
+      "fetched_at": "2026-05-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "11 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "score": 18,
+      "fetched_at": "2026-05-29",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
