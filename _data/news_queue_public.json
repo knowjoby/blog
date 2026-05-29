@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-29T18:42:29.806684+00:00",
-  "pending_count": 1074,
+  "updated_at_utc": "2026-05-29T21:10:09.369175+00:00",
+  "pending_count": 1077,
   "pending": [
     {
       "title": "Adobe’s conversational AI agent is a mediocre design intern",
@@ -23,6 +23,30 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "score": 30,
+      "fetched_at": "2026-05-29",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "score": 26,
+      "fetched_at": "2026-05-29",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
@@ -56,6 +80,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters",
+      "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
+      "score": 24,
+      "fetched_at": "2026-05-29",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

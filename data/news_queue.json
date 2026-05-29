@@ -2948,6 +2948,19 @@
       "topic": ""
     },
     {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "score": 30,
+      "fetched_at": "2026-05-29",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3721,6 +3734,21 @@
       "topics": [],
       "company": "nvidia",
       "topic": ""
+    },
+    {
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "score": 26,
+      "fetched_at": "2026-05-29",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
     },
     {
       "title": "Accelerating the next phase of AI",
@@ -6816,6 +6844,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "\u2018We\u2019re Just Getting the Crumbs Here\u2019: Contractors Protest Layoffs at Meta\u2019s European Headquarters",
+      "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
+      "score": 24,
+      "fetched_at": "2026-05-29",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -16322,7 +16363,7 @@
     {
       "date": "2026-05-29",
       "posts": 0,
-      "items_processed": 11457,
+      "items_processed": 13370,
       "estimated_tokens": 0
     }
   ]
