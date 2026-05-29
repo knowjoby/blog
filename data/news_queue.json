@@ -1430,6 +1430,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Adobe\u2019s conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "score": 33,
+      "fetched_at": "2026-05-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -6767,6 +6780,19 @@
       "topic": ""
     },
     {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "score": 24,
+      "fetched_at": "2026-05-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -11559,6 +11585,19 @@
       "topic": "ai"
     },
     {
+      "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "score": 12,
+      "fetched_at": "2026-05-29",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
       "url": "https://openai.com/index/sea-david-chen",
       "score": 11,
@@ -16204,7 +16243,7 @@
     {
       "date": "2026-05-29",
       "posts": 0,
-      "items_processed": 3815,
+      "items_processed": 5725,
       "estimated_tokens": 0
     }
   ]

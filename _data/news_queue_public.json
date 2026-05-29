@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-29T08:24:40.695546+00:00",
-  "pending_count": 1065,
+  "updated_at_utc": "2026-05-29T11:28:30.417028+00:00",
+  "pending_count": 1068,
   "pending": [
+    {
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "score": 33,
+      "fetched_at": "2026-05-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "Meta Quest Promo Codes and Coupons for June 2026",
       "url": "https://www.wired.com/story/meta-quest-promo-code/",
@@ -25,6 +36,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "score": 24,
+      "fetched_at": "2026-05-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Trusted access for the next era of cyber defense",
@@ -113,6 +135,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "score": 12,
+      "fetched_at": "2026-05-29",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "How Endava builds an agentic organization with Codex",
