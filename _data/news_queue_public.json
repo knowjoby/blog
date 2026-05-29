@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-29T11:48:10.381350+00:00",
-  "pending_count": 1068,
+  "updated_at_utc": "2026-05-29T15:55:20.548417+00:00",
+  "pending_count": 1069,
   "pending": [
     {
       "title": "Adobe’s conversational AI agent is a mediocre design intern",
@@ -36,6 +36,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "The Vatican’s Man Inside Anthropic",
+      "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "score": 24,
+      "fetched_at": "2026-05-29",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Strengthening societal resilience with Rosalind Biodefense",

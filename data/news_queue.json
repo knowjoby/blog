@@ -6793,6 +6793,19 @@
       "topic": ""
     },
     {
+      "title": "The Vatican\u2019s Man Inside Anthropic",
+      "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "score": 24,
+      "fetched_at": "2026-05-29",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -16243,7 +16256,7 @@
     {
       "date": "2026-05-29",
       "posts": 0,
-      "items_processed": 7635,
+      "items_processed": 9545,
       "estimated_tokens": 0
     }
   ]
