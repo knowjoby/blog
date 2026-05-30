@@ -1,7 +1,73 @@
 {
-  "updated_at_utc": "2026-05-30T00:13:09.509369+00:00",
-  "pending_count": 1059,
+  "updated_at_utc": "2026-05-30T04:35:20.968951+00:00",
+  "pending_count": 1065,
   "pending": [
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-05-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-05-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-05-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "score": 11,
+      "fetched_at": "2026-05-30",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "score": 11,
+      "fetched_at": "2026-05-30",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-05-30",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
+    },
     {
       "title": "Adobe’s conversational AI agent is a mediocre design intern",
       "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
