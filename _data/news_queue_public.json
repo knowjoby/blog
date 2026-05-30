@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-05-30T15:14:22.140477+00:00",
-  "pending_count": 1067,
+  "updated_at_utc": "2026-05-30T16:34:20.456466+00:00",
+  "pending_count": 1070,
   "pending": [
     {
       "title": "How one founder’s bet on ‘the old school web’ is paying off",
@@ -25,6 +25,30 @@
       "topics": []
     },
     {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "score": 26,
+      "fetched_at": "2026-05-30",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "score": 24,
+      "fetched_at": "2026-05-30",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Accelerating the next phase of AI",
       "url": "https://openai.com/index/accelerating-the-next-phase-ai",
       "score": 24,
@@ -32,6 +56,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "score": 20,
+      "fetched_at": "2026-05-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
