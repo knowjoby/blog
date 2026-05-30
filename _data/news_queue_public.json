@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-05-30T11:53:48.280290+00:00",
-  "pending_count": 1065,
+  "updated_at_utc": "2026-05-30T13:52:20.395525+00:00",
+  "pending_count": 1067,
   "pending": [
+    {
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "score": 43,
+      "fetched_at": "2026-05-30",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sometimes, a short game hits the spot",
+      "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
+      "score": 43,
+      "fetched_at": "2026-05-30",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Accelerating the next phase of AI",
       "url": "https://openai.com/index/accelerating-the-next-phase-ai",
