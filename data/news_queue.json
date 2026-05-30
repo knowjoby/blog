@@ -51,19 +51,6 @@
       "topic": ""
     },
     {
-      "title": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "score": 49,
-      "fetched_at": "2026-05-15",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Google I/O 2026: How to watch and what to expect",
       "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
       "score": 49,
@@ -417,22 +404,6 @@
         "agentic",
         "reasoning",
         "regulation"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Claude\u2019s next enterprise battle is not models: it\u2019s the agent control plane",
-      "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
-      "score": 44,
-      "fetched_at": "2026-05-15",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
       ],
       "company": "openai",
       "topic": "agentic"
@@ -1889,19 +1860,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "score": 30,
-      "fetched_at": "2026-05-15",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -3749,58 +3707,6 @@
       ],
       "company": "google",
       "topic": "agentic"
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-05-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Greg Brockman Officially Takes Control of OpenAI\u2019s Products in Latest Shakeup",
-      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-      "score": 24,
-      "fetched_at": "2026-05-15",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI feels \u201cburned\u201d by Apple\u2019s crappy ChatGPT integration, insiders say",
-      "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-      "score": 24,
-      "fetched_at": "2026-05-15",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s $1.5B copyright settlement is getting messy as judge delays approval",
-      "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-      "score": 24,
-      "fetched_at": "2026-05-15",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Gradient Labs gives every bank customer an AI account manager",
@@ -7092,84 +6998,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The Real Losers of the Musk v. Altman Trial",
-      "url": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "score": 18,
-      "fetched_at": "2026-05-15",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-05-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
-      "score": 18,
-      "fetched_at": "2026-05-15",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Mira Murati Wants Her AI to \u2018Keep Humans in the Loop\u2019",
-      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-      "score": 18,
-      "fetched_at": "2026-05-15",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-      "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-      "score": 18,
-      "fetched_at": "2026-05-15",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-05-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
@@ -11224,32 +11052,6 @@
       "topic": ""
     },
     {
-      "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
-      "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
-      "score": 14,
-      "fetched_at": "2026-05-15",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "How RecursiveMAS speeds up multi-agent inference by 2.4x and reduces token usage by 75%",
-      "url": "https://venturebeat.com/orchestration/how-recursivemas-speeds-up-multi-agent-inference-by-2-4x-and-reduces-token-usage-by-75",
-      "score": 14,
-      "fetched_at": "2026-05-15",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
       "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
       "score": 14,
@@ -11716,45 +11518,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-05-15",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-05-15",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-05-15",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
@@ -15858,6 +15621,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia\u2019s new N1X laptop processors",
+      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+      "score": 55,
+      "file": "_posts/2026-05-30-nvidia-microsoft-and-arm-are-all-teasing-nvidias-new-n1x-laptop-proces.md",
+      "posted_at": "2026-05-30",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16364,6 +16138,12 @@
       "date": "2026-05-29",
       "posts": 0,
       "items_processed": 15283,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-30",
+      "posts": 1,
+      "items_processed": 1913,
       "estimated_tokens": 0
     }
   ]
