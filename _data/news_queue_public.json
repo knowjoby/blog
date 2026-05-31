@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-05-31T21:33:02.223428+00:00",
-  "pending_count": 1064,
+  "updated_at_utc": "2026-05-31T23:06:21.877330+00:00",
+  "pending_count": 1065,
   "pending": [
+    {
+      "title": "Apple’s strategy for smart glasses is the same as smart watches",
+      "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
+      "score": 49,
+      "fetched_at": "2026-05-31",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
