@@ -1028,6 +1028,20 @@
       "topic": ""
     },
     {
+      "title": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
+      "url": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow",
+      "score": 36,
+      "fetched_at": "2026-05-31",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "score": 35,
@@ -16201,7 +16215,7 @@
     {
       "date": "2026-05-31",
       "posts": 0,
-      "items_processed": 15304,
+      "items_processed": 17217,
       "estimated_tokens": 0
     }
   ]
