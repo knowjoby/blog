@@ -823,22 +823,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-05-16",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
       "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
       "score": 38,
@@ -1438,21 +1422,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-05-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
     },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -3035,21 +3004,6 @@
       "topic": "coding"
     },
     {
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "score": 28,
-      "fetched_at": "2026-05-16",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Chatbots at the drive-thru are just the beginning",
       "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
       "score": 28,
@@ -3748,45 +3702,6 @@
       ],
       "company": "microsoft",
       "topic": "coding"
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-05-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "score": 24,
-      "fetched_at": "2026-05-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "score": 24,
-      "fetched_at": "2026-05-16",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Revamped Siri will reportedly offer auto-deleting chats",
@@ -7078,99 +6993,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to create personalized images in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-      "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-      "score": 18,
-      "fetched_at": "2026-05-16",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Codex now offers more flexible pricing for teams",
@@ -11494,19 +11316,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "score": 12,
-      "fetched_at": "2026-05-16",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
@@ -16289,6 +16098,12 @@
       "date": "2026-05-30",
       "posts": 1,
       "items_processed": 24869,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-05-31",
+      "posts": 0,
+      "items_processed": 1913,
       "estimated_tokens": 0
     }
   ]
