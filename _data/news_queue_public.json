@@ -1,7 +1,91 @@
 {
-  "updated_at_utc": "2026-05-31T00:04:57.628144+00:00",
-  "pending_count": 1056,
+  "updated_at_utc": "2026-05-31T05:04:56.158670+00:00",
+  "pending_count": 1063,
   "pending": [
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 38,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning",
+        "coding",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "score": 32,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "score": 24,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "score": 24,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "score": 18,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "score": 18,
+      "fetched_at": "2026-05-31",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
     {
       "title": "How one founder’s bet on ‘the old school web’ is paying off",
       "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",

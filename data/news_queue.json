@@ -958,6 +958,22 @@
       "topic": "regulation"
     },
     {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 38,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning",
+        "coding",
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
       "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "score": 37,
@@ -1842,6 +1858,21 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "score": 32,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "Google\u2019s AI search is so broken it can \u2018disregard\u2019 what you\u2019re looking for",
@@ -6748,6 +6779,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "score": 24,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "score": 24,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -10466,6 +10523,47 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "score": 18,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-05-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "score": 18,
+      "fetched_at": "2026-05-31",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "huggingface",
+      "topic": "open_source"
     },
     {
       "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
@@ -16103,7 +16201,7 @@
     {
       "date": "2026-05-31",
       "posts": 0,
-      "items_processed": 1913,
+      "items_processed": 3826,
       "estimated_tokens": 0
     }
   ]
