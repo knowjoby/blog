@@ -1,7 +1,22 @@
 {
-  "updated_at_utc": "2026-06-01T13:34:50.879198+00:00",
-  "pending_count": 1062,
+  "updated_at_utc": "2026-06-01T19:08:51.504418+00:00",
+  "pending_count": 1072,
   "pending": [
+    {
+      "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+      "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
+      "score": 48,
+      "fetched_at": "2026-06-01",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic",
+        "coding",
+        "china"
+      ]
+    },
     {
       "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
       "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
@@ -16,6 +31,52 @@
       ]
     },
     {
+      "title": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
+      "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
+      "score": 32,
+      "fetched_at": "2026-06-01",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "score": 31,
+      "fetched_at": "2026-06-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "score": 30,
+      "fetched_at": "2026-06-01",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+      "url": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+      "score": 30,
+      "fetched_at": "2026-06-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "score": 30,
@@ -27,6 +88,50 @@
       "topics": []
     },
     {
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
+      "url": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
       "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
       "score": 24,
@@ -34,6 +139,17 @@
       "source": "Ars Technica",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+      "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },

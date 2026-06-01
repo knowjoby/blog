@@ -346,6 +346,23 @@
       "topic": ""
     },
     {
+      "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+      "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
+      "score": 48,
+      "fetched_at": "2026-06-01",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic",
+        "coding",
+        "china"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
       "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
       "score": 47,
@@ -1904,10 +1921,38 @@
       "topic": "reasoning"
     },
     {
+      "title": "Anthropic\u2019s browser agent got hijacked 31.5% of the time before safeguards engaged",
+      "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
+      "score": 32,
+      "fetched_at": "2026-06-01",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Google\u2019s AI search is so broken it can \u2018disregard\u2019 what you\u2019re looking for",
       "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
       "score": 31,
       "fetched_at": "2026-05-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "score": 31,
+      "fetched_at": "2026-06-01",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -2971,6 +3016,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+      "url": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+      "score": 30,
+      "fetched_at": "2026-06-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "score": 30,
+      "fetched_at": "2026-06-01",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -6805,6 +6876,71 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+      "url": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory",
+      "url": "https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+      "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -15718,6 +15854,18 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic has officially filed to go public",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "score": 67,
+      "file": "_posts/2026-06-01-anthropic-has-officially-filed-to-go-public.md",
+      "posted_at": "2026-06-01",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16240,8 +16388,8 @@
     },
     {
       "date": "2026-06-01",
-      "posts": 3,
-      "items_processed": 7652,
+      "posts": 4,
+      "items_processed": 9566,
       "estimated_tokens": 0
     }
   ]
