@@ -1376,19 +1376,6 @@
       "topic": ""
     },
     {
-      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
-      "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
-      "score": 33,
-      "fetched_at": "2026-05-17",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "These are the robot vacuum-mops I recommend for every type of home",
       "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
       "score": 33,
@@ -1913,19 +1900,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "score": 30,
-      "fetched_at": "2026-05-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "How to Watch Google I/O",
@@ -3062,19 +3036,6 @@
       "topic": "coding"
     },
     {
-      "title": "Chatbots at the drive-thru are just the beginning",
-      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-      "score": 28,
-      "fetched_at": "2026-05-17",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Google Search is getting its biggest changes ever",
       "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
       "score": 28,
@@ -3760,32 +3721,6 @@
       ],
       "company": "microsoft",
       "topic": "coding"
-    },
-    {
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
-      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "score": 24,
-      "fetched_at": "2026-05-17",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "score": 24,
-      "fetched_at": "2026-05-17",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
@@ -7077,32 +7012,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "score": 18,
-      "fetched_at": "2026-05-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to balance cost and reliability in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
-      "score": 18,
-      "fetched_at": "2026-05-17",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "I\u2019m a Normie. Can Normies Really Vibe Code?",
@@ -11558,19 +11467,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "score": 11,
-      "fetched_at": "2026-05-17",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
@@ -16240,6 +16136,12 @@
       "date": "2026-05-31",
       "posts": 1,
       "items_processed": 24869,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-01",
+      "posts": 0,
+      "items_processed": 1913,
       "estimated_tokens": 0
     }
   ]
