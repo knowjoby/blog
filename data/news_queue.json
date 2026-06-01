@@ -6795,6 +6795,19 @@
       "topic": ""
     },
     {
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -15694,6 +15707,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "These are the first Nvidia RTX Spark laptops",
+      "url": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+      "score": 55,
+      "file": "_posts/2026-06-01-these-are-the-first-nvidia-rtx-spark-laptops.md",
+      "posted_at": "2026-06-01",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16216,8 +16240,8 @@
     },
     {
       "date": "2026-06-01",
-      "posts": 2,
-      "items_processed": 3826,
+      "posts": 3,
+      "items_processed": 5739,
       "estimated_tokens": 0
     }
   ]

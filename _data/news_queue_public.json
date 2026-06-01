@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-01T07:06:04.960156+00:00",
-  "pending_count": 1061,
+  "updated_at_utc": "2026-06-01T13:12:51.449692+00:00",
+  "pending_count": 1062,
   "pending": [
     {
       "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
@@ -21,6 +21,17 @@
       "score": 30,
       "fetched_at": "2026-06-01",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+      "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+      "score": 24,
+      "fetched_at": "2026-06-01",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],

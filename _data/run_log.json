@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-27 17:54:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1900,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-27 21:54:20 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1168,6 +1146,37 @@
         "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
         "file": "_posts/2026-06-01-nvidia-announces-rtx-spark-as-the-most-efficient-pc-chip-ever-built.md",
         "score": 51,
+        "tags": [
+          "nvidia"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-01 18:42:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1913,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "These are the first Nvidia RTX Spark laptops",
+        "file": "_posts/2026-06-01-these-are-the-first-nvidia-rtx-spark-laptops.md",
+        "score": 55,
         "tags": [
           "nvidia"
         ]
