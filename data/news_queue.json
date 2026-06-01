@@ -1220,6 +1220,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "score": 35,
+      "fetched_at": "2026-06-01",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "nvidia",
+      "topic": "reasoning"
+    },
+    {
       "title": "SchoolAI builds an AI platform that empowers teachers",
       "url": "https://openai.com/index/schoolai",
       "score": 34,
@@ -2943,6 +2958,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "score": 30,
+      "fetched_at": "2026-06-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10502,6 +10530,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-06-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
       "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
       "score": 17,
@@ -12006,6 +12047,19 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
       "score": 11,
       "fetched_at": "2026-05-30",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-06-01",
       "source": "Hugging Face",
       "companies": [],
       "topics": [
@@ -15618,6 +15672,28 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+      "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+      "score": 55,
+      "file": "_posts/2026-06-01-this-is-the-microsoft-surface-laptop-ultra-with-nvidia-rtx-spark.md",
+      "posted_at": "2026-06-01",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia announces RTX Spark as \u2018the most efficient PC chip ever built\u2019",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
+      "score": 51,
+      "file": "_posts/2026-06-01-nvidia-announces-rtx-spark-as-the-most-efficient-pc-chip-ever-built.md",
+      "posted_at": "2026-06-01",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16140,8 +16216,8 @@
     },
     {
       "date": "2026-06-01",
-      "posts": 0,
-      "items_processed": 1913,
+      "posts": 2,
+      "items_processed": 3826,
       "estimated_tokens": 0
     }
   ]
