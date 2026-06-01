@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-05-27 21:54:20 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1903,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "AI tried to bury this politician — now people have actually heard of him",
-        "file": "_posts/2026-05-27-ai-tried-to-bury-this-politician-now-people-have-actually-heard-of-him.md",
-        "score": 61,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-28 00:08:50 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1182,5 +1150,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-06-01 19:04:50 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1913,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
   }
 ]
