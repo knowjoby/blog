@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-05-29 01:11:14 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 1,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1906,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-        "file": "_posts/2026-05-28-trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmar.md",
-        "score": 53,
-        "tags": [
-          "openai",
-          "anthropic",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-29 03:29:43 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1212,5 +1179,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-06-03 04:35:32 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1922,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
+      }
+    },
+    "posts": []
   }
 ]
