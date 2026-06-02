@@ -11568,6 +11568,19 @@
       "topic": "regulation"
     },
     {
+      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "score": 14,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
       "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
       "score": 12,
@@ -15918,6 +15931,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "score": 51,
+      "file": "_posts/2026-06-02-gemini-spark-is-the-most-impressive-and-terrifying-ai-experience-ive-h.md",
+      "posted_at": "2026-06-02",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -16446,8 +16472,8 @@
     },
     {
       "date": "2026-06-02",
-      "posts": 0,
-      "items_processed": 5753,
+      "posts": 1,
+      "items_processed": 7671,
       "estimated_tokens": 0
     }
   ]
