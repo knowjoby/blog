@@ -246,6 +246,19 @@
       "topic": ""
     },
     {
+      "title": "How to watch Microsoft\u2019s Build 2026 conference",
+      "url": "https://www.theverge.com/tech/941379/microsoft-build-conference-2026-how-to-watch-livestream",
+      "score": 49,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
       "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
       "score": 48,
@@ -10666,6 +10679,19 @@
       "topic": ""
     },
     {
+      "title": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
+      "url": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
+      "score": 18,
+      "fetched_at": "2026-06-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
       "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
       "score": 17,
@@ -10716,6 +10742,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
+      "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "score": 17,
+      "fetched_at": "2026-06-02",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
@@ -12203,6 +12242,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "score": 11,
+      "fetched_at": "2026-06-02",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -16395,7 +16447,7 @@
     {
       "date": "2026-06-02",
       "posts": 0,
-      "items_processed": 3835,
+      "items_processed": 5753,
       "estimated_tokens": 0
     }
   ]
