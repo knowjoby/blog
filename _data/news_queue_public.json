@@ -1,7 +1,31 @@
 {
-  "updated_at_utc": "2026-06-01T23:52:22.384350+00:00",
-  "pending_count": 1079,
+  "updated_at_utc": "2026-06-02T04:40:51.296376+00:00",
+  "pending_count": 1068,
   "pending": [
+    {
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "score": 26,
+      "fetched_at": "2026-06-02",
+      "source": "Ars Technica",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "score": 14,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
     {
       "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
       "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
@@ -12024,157 +12048,6 @@
       "topics": [
         "agentic"
       ]
-    },
-    {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "score": 48,
-      "fetched_at": "2026-05-18",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "score": 43,
-      "fetched_at": "2026-05-18",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "score": 40,
-      "fetched_at": "2026-05-18",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics",
-        "multimodal"
-      ]
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-05-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "How to Watch Google I/O",
-      "url": "https://www.wired.com/story/how-to-watch-google-io/",
-      "score": 30,
-      "fetched_at": "2026-05-18",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-05-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "MIT Tech Review",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "I’m a Normie. Can Normies Really Vibe Code?",
-      "url": "https://www.wired.com/story/normie-vibe-code/",
-      "score": 18,
-      "fetched_at": "2026-05-18",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "score": 18,
-      "fetched_at": "2026-05-18",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-05-18",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": []
     }
   ]
 }

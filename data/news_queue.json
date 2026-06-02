@@ -246,20 +246,6 @@
       "topic": ""
     },
     {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "score": 48,
-      "fetched_at": "2026-05-18",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
       "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
       "score": 48,
@@ -497,19 +483,6 @@
       "topic": "regulation"
     },
     {
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "score": 43,
-      "fetched_at": "2026-05-18",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
       "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
       "score": 43,
@@ -730,22 +703,6 @@
       ],
       "company": "nvidia",
       "topic": "multimodal"
-    },
-    {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "score": 40,
-      "fetched_at": "2026-05-18",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics",
-        "multimodal"
-      ],
-      "company": "nvidia",
-      "topic": "robotics"
     },
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -1512,21 +1469,6 @@
       "topic": "agentic"
     },
     {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-05-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Google\u2019s Genie world model can now simulate real streets with Street View",
       "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
       "score": 32,
@@ -2001,19 +1943,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "How to Watch Google I/O",
-      "url": "https://www.wired.com/story/how-to-watch-google-io/",
-      "score": 30,
-      "fetched_at": "2026-05-18",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
@@ -3086,21 +3015,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-05-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "I/O 2026: Welcome to the agentic Gemini era",
       "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
       "score": 29,
@@ -3863,56 +3777,19 @@
       "topic": "coding"
     },
     {
-      "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "MIT Tech Review",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-      "score": 24,
-      "fetched_at": "2026-05-18",
+      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+      "score": 26,
+      "fetched_at": "2026-06-02",
       "source": "Ars Technica",
       "companies": [
-        "openai"
+        "microsoft"
       ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
@@ -7282,32 +7159,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "I\u2019m a Normie. Can Normies Really Vibe Code?",
-      "url": "https://www.wired.com/story/normie-vibe-code/",
-      "score": 18,
-      "fetched_at": "2026-05-18",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "score": 18,
-      "fetched_at": "2026-05-18",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
@@ -11635,6 +11486,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "score": 14,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
       "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
       "score": 12,
@@ -12309,19 +12173,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-05-18",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
@@ -16496,6 +16347,12 @@
       "date": "2026-06-01",
       "posts": 5,
       "items_processed": 11482,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-02",
+      "posts": 0,
+      "items_processed": 1917,
       "estimated_tokens": 0
     }
   ]
