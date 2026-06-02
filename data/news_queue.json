@@ -1919,6 +1919,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "score": 32,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Google\u2019s AI search is so broken it can \u2018disregard\u2019 what you\u2019re looking for",
       "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
       "score": 31,
@@ -3087,6 +3102,21 @@
         "coding"
       ],
       "company": "microsoft",
+      "topic": "coding"
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
       "topic": "coding"
     },
     {
@@ -14188,6 +14218,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "score": 10,
+      "fetched_at": "2026-06-02",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -16352,7 +16395,7 @@
     {
       "date": "2026-06-02",
       "posts": 0,
-      "items_processed": 1917,
+      "items_processed": 3835,
       "estimated_tokens": 0
     }
   ]
