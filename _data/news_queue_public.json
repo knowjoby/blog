@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-02T12:56:27.180643+00:00",
-  "pending_count": 1076,
+  "updated_at_utc": "2026-06-02T17:46:08.263098+00:00",
+  "pending_count": 1087,
   "pending": [
     {
       "title": "How to watch Microsoft’s Build 2026 conference",
@@ -12,6 +12,54 @@
         "microsoft"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
+      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+      "score": 49,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "score": 39,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
+      "url": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins",
+      "score": 38,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "score": 38,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -53,11 +101,77 @@
       ]
     },
     {
+      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Zip’s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts",
+      "url": "https://venturebeat.com/technology/zips-new-ai-agents-want-to-stop-your-finance-team-from-uploading-contracts-into-personal-chatgpt-accounts",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta tests ‘Series’ for episodic Reels on Instagram and Facebook",
+      "url": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
       "url": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
       "score": 18,
       "fetched_at": "2026-06-02",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "score": 18,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -77,6 +191,17 @@
     {
       "title": "ZeroDrift raises $10 million to protect AI models from themselves",
       "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "score": 14,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
       "score": 14,
       "fetched_at": "2026-06-02",
       "source": "TechCrunch",

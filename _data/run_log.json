@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-28 18:04:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1905,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-28 22:27:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1181,6 +1159,38 @@
         "tags": [
           "google",
           "agentic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-02 23:16:08 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 12,
+    "posts_created": 1,
+    "queued": 11,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 12
+      },
+      "rss": {
+        "raw": 1922,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 12
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board",
+        "file": "_posts/2026-06-02-microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-a.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "nvidia"
         ]
       }
     ]

@@ -259,6 +259,19 @@
       "topic": ""
     },
     {
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn\u2019t",
+      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+      "score": 49,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
       "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
       "score": 48,
@@ -849,6 +862,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Microsoft\u2019s Project Solara is an OS for AI agent gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "score": 39,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
       "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
       "score": 38,
@@ -997,6 +1023,36 @@
         "multimodal"
       ],
       "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "score": 38,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
+      "url": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins",
+      "score": 38,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -6957,6 +7013,71 @@
       "topic": ""
     },
     {
+      "title": "Meta tests \u2018Series\u2019 for episodic Reels on Instagram and Facebook",
+      "url": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Zip\u2019s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts",
+      "url": "https://venturebeat.com/technology/zips-new-ai-agents-want-to-stop-your-finance-team-from-uploading-contracts-into-personal-chatgpt-accounts",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "score": 24,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -10692,6 +10813,19 @@
       "topic": ""
     },
     {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "score": 18,
+      "fetched_at": "2026-06-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
       "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
       "score": 17,
@@ -11570,6 +11704,19 @@
     {
       "title": "ZeroDrift raises $10 million to protect AI models from themselves",
       "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "score": 14,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
       "score": 14,
       "fetched_at": "2026-06-02",
       "source": "TechCrunch",
@@ -15944,6 +16091,18 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Microsoft launches MXC, an OS-level sandbox for AI agents, with OpenAI and Nvidia already on board",
+      "url": "https://venturebeat.com/security/microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-and-nvidia-already-on-board",
+      "score": 54,
+      "file": "_posts/2026-06-02-microsoft-launches-mxc-an-os-level-sandbox-for-ai-agents-with-openai-a.md",
+      "posted_at": "2026-06-02",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16472,8 +16631,8 @@
     },
     {
       "date": "2026-06-02",
-      "posts": 1,
-      "items_processed": 7671,
+      "posts": 2,
+      "items_processed": 9593,
       "estimated_tokens": 0
     }
   ]
