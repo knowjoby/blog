@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-02T17:46:08.263098+00:00",
-  "pending_count": 1087,
+  "updated_at_utc": "2026-06-02T20:56:33.849914+00:00",
+  "pending_count": 1092,
   "pending": [
     {
       "title": "How to watch Microsoft’s Build 2026 conference",
@@ -23,6 +23,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "score": 39,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
@@ -156,6 +167,30 @@
       "topics": []
     },
     {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "score": 22,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
+    },
+    {
+      "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
+      "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
+      "score": 19,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
+    },
+    {
       "title": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
       "url": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
       "score": 18,
@@ -186,6 +221,18 @@
       "companies": [],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.",
+      "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin",
+      "score": 16,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
       ]
     },
     {
@@ -220,6 +267,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
+      "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026",
+      "score": 12,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": []
     },
     {
       "title": "Rehumanizing global health care with agentic AI",

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-28 22:27:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 0,
-    "queued": 7,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1906,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 7
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-29 01:11:14 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1191,6 +1169,46 @@
         "tags": [
           "openai",
           "nvidia"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-03 02:26:33 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 2,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 1922,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft’s first advanced reasoning AI is here",
+        "file": "_posts/2026-06-02-microsofts-first-advanced-reasoning-ai-is-here.md",
+        "score": 60,
+        "tags": [
+          "openai",
+          "reasoning"
+        ]
+      },
+      {
+        "title": "Microsoft Build 2026: The 7 biggest announcements",
+        "file": "_posts/2026-06-02-microsoft-build-2026-the-7-biggest-announcements.md",
+        "score": 55,
+        "tags": [
+          "microsoft"
         ]
       }
     ]

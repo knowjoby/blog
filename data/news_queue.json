@@ -875,6 +875,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Trump signs executive order to review AI models before they\u2019re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "score": 39,
+      "fetched_at": "2026-06-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
       "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
       "score": 38,
@@ -7199,6 +7212,20 @@
       "topic": ""
     },
     {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "score": 22,
+      "fetched_at": "2026-06-02",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -7320,6 +7347,20 @@
       "topics": [
         "agentic",
         "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem \u2014 and most are building the wrong solution",
+      "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
+      "score": 19,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
       ],
       "company": "",
       "topic": "agentic"
@@ -11351,6 +11392,20 @@
       "topic": ""
     },
     {
+      "title": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.",
+      "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin",
+      "score": 16,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
       "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
       "score": 14,
@@ -11843,6 +11898,19 @@
       ],
       "company": "",
       "topic": "ai"
+    },
+    {
+      "title": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
+      "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026",
+      "score": 12,
+      "fetched_at": "2026-06-02",
+      "source": "VentureBeat",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
+      "topic": ""
     },
     {
       "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
@@ -16103,6 +16171,30 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft\u2019s first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "score": 60,
+      "file": "_posts/2026-06-02-microsofts-first-advanced-reasoning-ai-is-here.md",
+      "posted_at": "2026-06-02",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "score": 55,
+      "file": "_posts/2026-06-02-microsoft-build-2026-the-7-biggest-announcements.md",
+      "posted_at": "2026-06-02",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16631,8 +16723,8 @@
     },
     {
       "date": "2026-06-02",
-      "posts": 2,
-      "items_processed": 9593,
+      "posts": 4,
+      "items_processed": 11515,
       "estimated_tokens": 0
     }
   ]
