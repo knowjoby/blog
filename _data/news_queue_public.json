@@ -1,7 +1,53 @@
 {
-  "updated_at_utc": "2026-06-03T12:40:32.906612+00:00",
-  "pending_count": 1062,
+  "updated_at_utc": "2026-06-03T17:28:05.601249+00:00",
+  "pending_count": 1071,
   "pending": [
+    {
+      "title": "Supernatural isn’t dead after all",
+      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
+      "score": 49,
+      "fetched_at": "2026-06-03",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A first look at Microsoft’s Surface Laptop Ultra and Surface Dev Box",
+      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
+      "score": 43,
+      "fetched_at": "2026-06-03",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "score": 32,
+      "fetched_at": "2026-06-03",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "score": 30,
+      "fetched_at": "2026-06-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "I/O 2026: Welcome to the agentic Gemini era",
       "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
@@ -13,6 +59,19 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "score": 26,
+      "fetched_at": "2026-06-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
       ]
     },
     {
@@ -34,6 +93,17 @@
       "source": "Wired",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -71,6 +141,17 @@
       "topics": []
     },
     {
+      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+      "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
+      "score": 18,
+      "fetched_at": "2026-06-03",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "url": "https://openai.com/index/advancing-content-provenance",
       "score": 18,
@@ -93,6 +174,17 @@
       "topics": []
     },
     {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "score": 17,
+      "fetched_at": "2026-06-03",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
       "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
       "score": 14,
@@ -101,6 +193,17 @@
       "companies": [],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "score": 12,
+      "fetched_at": "2026-06-03",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {

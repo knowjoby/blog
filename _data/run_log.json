@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-29 16:58:30 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 0,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1910,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-29 17:18:10 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1191,5 +1169,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-03 22:58:05 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 10,
+    "posts_created": 1,
+    "queued": 9,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 10
+      },
+      "rss": {
+        "raw": 1925,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 10
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "file": "_posts/2026-06-03-microsoft-and-openai-broke-up-now-theyre-ready-to-fight.md",
+        "score": 63,
+        "tags": [
+          "openai",
+          "reasoning"
+        ]
+      }
+    ]
   }
 ]
