@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-03T07:22:52.826849+00:00",
-  "pending_count": 1059,
+  "updated_at_utc": "2026-06-03T12:20:35.562587+00:00",
+  "pending_count": 1062,
   "pending": [
     {
       "title": "I/O 2026: Welcome to the agentic Gemini era",
@@ -14,6 +14,28 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+      "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
@@ -34,6 +56,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
+      "url": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
+      "score": 18,
+      "fetched_at": "2026-06-03",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
