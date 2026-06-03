@@ -7,102 +7,6 @@
   },
   "pending": [
     {
-      "title": "Google is launching its own version of OpenClaw",
-      "url": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026",
-      "score": 63,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
-      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
-      "score": 60,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic",
-        "google"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI co-founder Andrej Karpathy announces he's joining Anthropic",
-      "url": "https://venturebeat.com/technology/andrej-karpathy-announces-hes-joining-anthropic",
-      "score": 54,
-      "fetched_at": "2026-05-19",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google I/O 2026: How to watch and what to expect",
-      "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
-      "score": 49,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Gemini will use Volvo\u2019s external cameras to interpret parking signs",
-      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-      "score": 49,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Would you let robots spend your money? Google is betting on it",
-      "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
-      "score": 49,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Gmail is going to start talking to you",
-      "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
-      "score": 49,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "We react to Google I/O 2026",
       "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
       "score": 49,
@@ -272,34 +176,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
-      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-      "score": 48,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
-      "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
-      "score": 48,
-      "fetched_at": "2026-05-19",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
       "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
       "score": 48,
@@ -415,22 +291,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "score": 46,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "google",
-      "topic": "agentic"
     },
     {
       "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
@@ -656,21 +516,6 @@
       "topic": ""
     },
     {
-      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
-      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
-      "score": 41,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
-    },
-    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -823,19 +668,6 @@
       "topic": "coding"
     },
     {
-      "title": "Google Pics is a new app that tries to fix AI image editing",
-      "url": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026",
-      "score": 39,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
       "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
       "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
       "score": 39,
@@ -886,21 +718,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Google announces agent-optimized Gemini 3.5.Flash and a do-anything model called Omni",
-      "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
-      "score": 38,
-      "fetched_at": "2026-05-19",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
     },
     {
       "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
@@ -1473,32 +1290,6 @@
       "topic": ""
     },
     {
-      "title": "These are the robot vacuum-mops I recommend for every type of home",
-      "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
-      "score": 33,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Google I/O 2026 live blog: On the ground at Google\u2019s keynote",
-      "url": "https://www.theverge.com/tech/932275/google-io-2026-live-blog-on-the-ground-at-googles-keynote",
-      "score": 33,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Trump is waging a silent war on legal immigration",
       "url": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
       "score": 33,
@@ -1548,66 +1339,6 @@
         "agentic"
       ],
       "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Google\u2019s Genie world model can now simulate real streets with Street View",
-      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-      "score": 32,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "google",
-      "topic": "robotics"
-    },
-    {
-      "title": "Google\u2019s Gemini Omni turns images, audio, and text into video \u2014 and that\u2019s just the start",
-      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
-      "score": 32,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "google",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Google\u2019s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
-      "url": "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money",
-      "score": 32,
-      "fetched_at": "2026-05-19",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
-    },
-    {
-      "title": "Gemini Spark Is Google\u2019s Response to OpenClaw\u2019s 24/7 AI Agent",
-      "url": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
-      "score": 32,
-      "fetched_at": "2026-05-19",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
       "topic": "agentic"
     },
     {
@@ -2040,58 +1771,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Here\u2019s why Elon Musk lost his suit against OpenAI",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "score": 30,
-      "fetched_at": "2026-05-19",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-      "url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-      "score": 30,
-      "fetched_at": "2026-05-19",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Apple announces Apple Intelligence powered accessibility feature updates",
-      "url": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
-      "score": 30,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "score": 30,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
@@ -3112,21 +2791,6 @@
       "topic": ""
     },
     {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "score": 29,
-      "fetched_at": "2026-05-19",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
-    },
-    {
       "title": "The Download: coding\u2019s future, the \u2018Steroid Olympics,\u2019 and AI-driven science",
       "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
       "score": 29,
@@ -3200,19 +2864,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Google Search is getting its biggest changes ever",
-      "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-      "score": 28,
-      "fetched_at": "2026-05-19",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Hackers are learning to exploit chatbot \u2018personalities\u2019",
@@ -3902,84 +3553,6 @@
       ],
       "company": "microsoft",
       "topic": "coding"
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "score": 24,
-      "fetched_at": "2026-05-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-      "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
-      "score": 24,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google\u2019s AI now lets you talk to your Gmail inbox",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
-      "score": 24,
-      "fetched_at": "2026-05-19",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google says Gemini 3.5 Flash can slash enterprise AI costs by more than $1 billion a year",
-      "url": "https://venturebeat.com/technology/google-says-gemini-3-5-flash-can-slash-enterprise-ai-costs-by-more-than-1-billion-a-year",
-      "score": 24,
-      "fetched_at": "2026-05-19",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google unveils Gemini Omni 'any-to-any' AI model: what enterprises should know",
-      "url": "https://venturebeat.com/technology/google-unveils-gemini-omni-any-to-any-ai-model-what-enterprises-should-know",
-      "score": 24,
-      "fetched_at": "2026-05-19",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "score": 24,
-      "fetched_at": "2026-05-19",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
@@ -7364,84 +6937,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "score": 18,
-      "fetched_at": "2026-05-19",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-      "score": 18,
-      "fetched_at": "2026-05-19",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Zuckerbergs Are Hiring a Lifeguard but Calling It a \u2018Beach Water Person\u2019",
-      "url": "https://www.wired.com/story/mark-zuckerberg-priscilla-chan-lifeguard-beach-water-person/",
-      "score": 18,
-      "fetched_at": "2026-05-19",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
-      "url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-      "score": 18,
-      "fetched_at": "2026-05-19",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "score": 18,
-      "fetched_at": "2026-05-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 18,
-      "fetched_at": "2026-05-19",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
@@ -11783,6 +11278,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token \u2014 but it's proprietary",
+      "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
+      "score": 14,
+      "fetched_at": "2026-06-03",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
       "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
       "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
       "score": 12,
@@ -11911,32 +11419,6 @@
       "topics": [],
       "company": "perplexity",
       "topic": ""
-    },
-    {
-      "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
-      "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
-      "score": 11,
-      "fetched_at": "2026-05-19",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Google Search Goes Agentic\u2014and Doesn\u2019t Need You Anymore",
-      "url": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "score": 11,
-      "fetched_at": "2026-05-19",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
@@ -16725,6 +16207,12 @@
       "date": "2026-06-02",
       "posts": 4,
       "items_processed": 13437,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-03",
+      "posts": 0,
+      "items_processed": 1922,
       "estimated_tokens": 0
     }
   ]
