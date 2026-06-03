@@ -1,7 +1,64 @@
 {
-  "updated_at_utc": "2026-06-03T02:09:33.256798+00:00",
-  "pending_count": 1054,
+  "updated_at_utc": "2026-06-03T07:22:52.826849+00:00",
+  "pending_count": 1059,
   "pending": [
+    {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "score": 29,
+      "fetched_at": "2026-06-03",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-06-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 18,
+      "fetched_at": "2026-06-03",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
       "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",

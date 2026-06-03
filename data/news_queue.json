@@ -2866,6 +2866,21 @@
       "topic": "coding"
     },
     {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "score": 29,
+      "fetched_at": "2026-06-03",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "Hackers are learning to exploit chatbot \u2018personalities\u2019",
       "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
       "score": 28,
@@ -6664,6 +6679,32 @@
       "topic": ""
     },
     {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "score": 24,
+      "fetched_at": "2026-06-03",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
       "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
       "score": 22,
@@ -10359,6 +10400,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-06-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 18,
+      "fetched_at": "2026-06-03",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -16212,7 +16279,7 @@
     {
       "date": "2026-06-03",
       "posts": 0,
-      "items_processed": 1922,
+      "items_processed": 3844,
       "estimated_tokens": 0
     }
   ]
