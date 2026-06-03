@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-29 17:18:10 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1910,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-29 21:25:20 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1198,6 +1176,38 @@
         "tags": [
           "openai",
           "reasoning"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-04 02:09:33 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1926,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "As AI gets better, it reveals an empty promise",
+        "file": "_posts/2026-06-03-as-ai-gets-better-it-reveals-an-empty-promise.md",
+        "score": 51,
+        "tags": [
+          "google",
+          "agentic"
         ]
       }
     ]
