@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-04T07:06:52.643192+00:00",
-  "pending_count": 1046,
+  "updated_at_utc": "2026-06-04T10:48:02.965652+00:00",
+  "pending_count": 1048,
   "pending": [
     {
       "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
@@ -23,6 +23,17 @@
       "companies": [],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Amazon develops a warehouse robot workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "score": 39,
+      "fetched_at": "2026-06-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -94,6 +105,17 @@
     {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
+      "score": 18,
+      "fetched_at": "2026-06-04",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
       "score": 18,
       "fetched_at": "2026-06-04",
       "source": "OpenAI",
