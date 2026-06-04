@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-04T22:05:24.020935+00:00",
-  "pending_count": 1061,
+  "updated_at_utc": "2026-06-04T23:46:10.427485+00:00",
+  "pending_count": 1063,
   "pending": [
     {
       "title": "Windows is back on the Microsoft menu",
@@ -68,6 +68,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "score": 30,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -256,6 +267,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "score": 12,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
