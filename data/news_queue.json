@@ -6732,6 +6732,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic says 80% of its new production code is now authored by Claude \u2014 how your enterprise can keep up",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -16321,7 +16334,7 @@
     {
       "date": "2026-06-04",
       "posts": 0,
-      "items_processed": 12709,
+      "items_processed": 14641,
       "estimated_tokens": 0
     }
   ]

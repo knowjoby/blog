@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-04T20:11:12.836156+00:00",
-  "pending_count": 1060,
+  "updated_at_utc": "2026-06-04T22:05:24.020935+00:00",
+  "pending_count": 1061,
   "pending": [
     {
       "title": "Windows is back on the Microsoft menu",
@@ -79,6 +79,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
+      "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
