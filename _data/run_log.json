@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-05-30 05:43:09 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1913,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
-        "file": "_posts/2026-05-30-nvidia-microsoft-and-arm-are-all-teasing-nvidias-new-n1x-laptop-proces.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-05-30 10:05:20 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1208,6 +1177,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-04 16:44:25 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1928,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
