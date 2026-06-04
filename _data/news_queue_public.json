@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-04T14:06:15.808121+00:00",
-  "pending_count": 1048,
+  "updated_at_utc": "2026-06-04T17:30:20.851145+00:00",
+  "pending_count": 1056,
   "pending": [
+    {
+      "title": "Windows is back on the Microsoft menu",
+      "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
+      "score": 49,
+      "fetched_at": "2026-06-04",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
       "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
@@ -37,6 +48,30 @@
       ]
     },
     {
+      "title": "Meta’s Oversight Board says account bans lack due process, transparency",
+      "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/",
+      "score": 38,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Meta Silently Added Face-Recognition Code for Its Smart Glasses to Millions of Phones",
+      "url": "https://www.wired.com/story/meta-smart-glasses-face-recognition-nametag-connections/",
+      "score": 30,
+      "fetched_at": "2026-06-04",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "score": 30,
@@ -44,6 +79,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta rolls out a new AI creator assistant on Facebook",
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -72,6 +129,17 @@
     {
       "title": "OpenAI helps Hyatt advance AI among colleagues",
       "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "score": 24,
       "fetched_at": "2026-06-04",
       "source": "OpenAI",
@@ -123,6 +191,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+      "url": "https://arstechnica.com/space/2026/06/after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper/",
+      "score": 18,
+      "fetched_at": "2026-06-04",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "score": 14,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
