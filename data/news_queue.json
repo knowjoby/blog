@@ -7,45 +7,6 @@
   },
   "pending": [
     {
-      "title": "We react to Google I/O 2026",
-      "url": "https://www.theverge.com/podcast/934202/we-react-to-google-i-o-2026",
-      "score": 49,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "You can now remix other people\u2019s YouTube Shorts with AI",
-      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-      "score": 49,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google Search\u2019s AI evolution includes more ads",
-      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-      "score": 49,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "Meta and Google get data from the app your boss uses to track you",
       "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
       "score": 49,
@@ -202,34 +163,6 @@
       "topic": ""
     },
     {
-      "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-      "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
-      "score": 48,
-      "fetched_at": "2026-05-20",
-      "source": "Ars Technica",
-      "companies": [
-        "openai",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "score": 48,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic",
-        "xai"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -301,6 +234,20 @@
       ],
       "company": "google",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "score": 48,
+      "fetched_at": "2026-06-04",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
@@ -393,19 +340,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
-      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "score": 43,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Musk v. Altman: Much ado about nothing",
@@ -707,19 +641,6 @@
       "topic": "coding"
     },
     {
-      "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "score": 39,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
       "score": 39,
@@ -759,19 +680,17 @@
       "topic": "regulation"
     },
     {
-      "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
-      "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
-      "score": 38,
-      "fetched_at": "2026-05-20",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
+      "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "score": 39,
+      "fetched_at": "2026-06-04",
+      "source": "The Verge",
+      "companies": [],
       "topics": [
-        "agentic"
+        "regulation"
       ],
-      "company": "google",
-      "topic": "agentic"
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -936,19 +855,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Vibe coding is coming to your phone",
-      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-      "score": 36,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
@@ -1329,19 +1235,6 @@
       "topic": ""
     },
     {
-      "title": "Trump is waging a silent war on legal immigration",
-      "url": "https://www.theverge.com/policy/932865/trump-legal-immigration-denaturalizations-uscis",
-      "score": 33,
-      "fetched_at": "2026-05-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
       "title": "I review robot vacuums for a living, ask me anything!",
       "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
       "score": 33,
@@ -1379,21 +1272,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "OpenAI claims it solved an 80-year-old math problem \u2014 for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "score": 32,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
     },
     {
       "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
@@ -1825,71 +1703,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
-      "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
-      "score": 30,
-      "fetched_at": "2026-05-20",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
-      "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai",
-      "score": 30,
-      "fetched_at": "2026-05-20",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "score": 30,
-      "fetched_at": "2026-05-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
-      "url": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
-      "score": 30,
-      "fetched_at": "2026-05-20",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "score": 30,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -3665,151 +3478,6 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
-    },
-    {
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meta Employees Are Scrambling to Use Up Benefits Ahead of Layoffs",
-      "url": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "Ars Technica",
-      "companies": [
-        "figure"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "figure",
-      "topic": "robotics"
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Musk\u2019s xAI is being sued over its data center generators. Now, it\u2019s buying $2.8B more.",
-      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
-      "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "SpaceX IPO Filing Reveals Anthropic Is Paying $15 Billion a Year to Access Its Data Centers",
-      "url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "xAI burned $6.4B last year \u2014 SpaceX\u2019s IPO filing shows why the spending is far from over",
-      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "score": 24,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
@@ -6880,47 +6548,6 @@
       "topic": ""
     },
     {
-      "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
-      "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
-      "score": 22,
-      "fetched_at": "2026-05-20",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
-      "title": "Stability AI releases a new audio model that can create six-minute songs",
-      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "score": 22,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "stability"
-      ],
-      "topics": [],
-      "company": "stability",
-      "topic": ""
-    },
-    {
-      "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
-      "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
-      "score": 22,
-      "fetched_at": "2026-05-20",
-      "source": "VentureBeat",
-      "companies": [
-        "cohere"
-      ],
-      "topics": [],
-      "company": "cohere",
-      "topic": ""
-    },
-    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -7045,19 +6672,6 @@
       "topic": "robotics"
     },
     {
-      "title": "OpenAI barrels towards IPO that may happen in September",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-      "score": 20,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -7153,97 +6767,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
-      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "\u2018Ask YouTube\u2019 brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
-      "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
-      "url": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Sam Altman makes \u2018mic drop\u2019 offer to every Y Combinator startup",
-      "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-      "score": 18,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "SpaceX Listed Grok\u2019s \u2018Spicy\u2019 Mode as a Risk in Its IPO Filing",
@@ -10721,34 +10244,6 @@
       "topic": "regulation"
     },
     {
-      "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
-      "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain",
-      "score": 16,
-      "fetched_at": "2026-05-20",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "I Gave My OpenClaw Agent a Physical Body",
-      "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
-      "score": 16,
-      "fetched_at": "2026-05-20",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
       "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant",
       "score": 16,
@@ -11611,19 +11106,6 @@
       "topic": "open_source"
     },
     {
-      "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "score": 12,
-      "fetched_at": "2026-05-20",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "AI didn\u2019t kill brand consistency \u2014 it made it mission-critical",
       "url": "https://venturebeat.com/technology/ai-didnt-kill-brand-consistency-it-made-it-mission-critical",
       "score": 12,
@@ -11752,19 +11234,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "score": 11,
-      "fetched_at": "2026-05-20",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "IoT gadget maker AcuRite shares reasoning for killing customers\u2019 favorite app",
@@ -16572,6 +16041,12 @@
       "date": "2026-06-03",
       "posts": 2,
       "items_processed": 13465,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-04",
+      "posts": 0,
+      "items_processed": 1927,
       "estimated_tokens": 0
     }
   ]
