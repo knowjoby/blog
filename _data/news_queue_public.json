@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-04T17:30:20.851145+00:00",
-  "pending_count": 1056,
+  "updated_at_utc": "2026-06-04T20:11:12.836156+00:00",
+  "pending_count": 1060,
   "pending": [
     {
       "title": "Windows is back on the Microsoft menu",
@@ -94,6 +94,17 @@
       "topics": []
     },
     {
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Meta rolls out a new AI creator assistant on Facebook",
       "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
       "score": 24,
@@ -101,6 +112,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "score": 24,
+      "fetched_at": "2026-06-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -160,6 +182,17 @@
       "topics": []
     },
     {
+      "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+      "score": 18,
+      "fetched_at": "2026-06-04",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "New ways to buy ChatGPT ads",
       "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
       "score": 18,
@@ -212,6 +245,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "score": 11,
+      "fetched_at": "2026-06-04",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
       ]
     },
     {
