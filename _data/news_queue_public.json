@@ -1,7 +1,32 @@
 {
-  "updated_at_utc": "2026-06-05T08:30:16.943260+00:00",
-  "pending_count": 1043,
+  "updated_at_utc": "2026-06-05T11:27:45.140705+00:00",
+  "pending_count": 1045,
   "pending": [
+    {
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+      "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "score": 48,
+      "fetched_at": "2026-06-05",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "score": 32,
+      "fetched_at": "2026-06-05",
+      "source": "MIT Tech Review",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",

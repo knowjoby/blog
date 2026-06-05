@@ -224,6 +224,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren\u2019t Picking Sides",
+      "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "score": 48,
+      "fetched_at": "2026-06-05",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
       "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
       "score": 47,
@@ -1617,6 +1631,21 @@
       "score": 32,
       "fetched_at": "2026-06-03",
       "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
+      "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "score": 32,
+      "fetched_at": "2026-06-05",
+      "source": "MIT Tech Review",
       "companies": [
         "meta"
       ],
@@ -16103,7 +16132,7 @@
     {
       "date": "2026-06-05",
       "posts": 0,
-      "items_processed": 3071,
+      "items_processed": 5003,
       "estimated_tokens": 0
     }
   ]
