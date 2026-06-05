@@ -238,6 +238,20 @@
       "topic": ""
     },
     {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "score": 48,
+      "fetched_at": "2026-06-05",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
       "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
       "score": 47,
@@ -614,6 +628,22 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "Microsoft's AI Futurist explains how he uses Copilot \u2014 and the real-world problems enterprises are solving with agents",
+      "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
+      "score": 40,
+      "fetched_at": "2026-06-05",
+      "source": "VentureBeat",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "regulation",
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "regulation"
     },
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
@@ -16204,7 +16234,7 @@
     {
       "date": "2026-06-05",
       "posts": 0,
-      "items_processed": 11145,
+      "items_processed": 13077,
       "estimated_tokens": 0
     }
   ]

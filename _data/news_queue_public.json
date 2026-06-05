@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-05T19:20:41.824340+00:00",
-  "pending_count": 1050,
+  "updated_at_utc": "2026-06-05T21:08:56.573130+00:00",
+  "pending_count": 1052,
   "pending": [
     {
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
@@ -8,6 +8,18 @@
       "score": 48,
       "fetched_at": "2026-06-05",
       "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "score": 48,
+      "fetched_at": "2026-06-05",
+      "source": "Ars Technica",
       "companies": [
         "openai",
         "anthropic"
@@ -24,6 +36,20 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft's AI Futurist explains how he uses Copilot — and the real-world problems enterprises are solving with agents",
+      "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
+      "score": 40,
+      "fetched_at": "2026-06-05",
+      "source": "VentureBeat",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "regulation",
+        "coding"
+      ]
     },
     {
       "title": "Supabase doubles valuation to $10B in 8 months",
