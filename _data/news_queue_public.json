@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-05T11:44:44.221969+00:00",
-  "pending_count": 1045,
+  "updated_at_utc": "2026-06-05T15:19:35.589878+00:00",
+  "pending_count": 1047,
   "pending": [
     {
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
@@ -35,6 +35,30 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "score": 26,
+      "fetched_at": "2026-06-05",
+      "source": "MIT Tech Review",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+      "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "score": 26,
+      "fetched_at": "2026-06-05",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

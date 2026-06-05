@@ -3483,6 +3483,34 @@
       "topic": "agentic"
     },
     {
+      "title": "NSA said to be readying Anthropic\u2019s Mythos for use in cyber operations",
+      "url": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+      "score": 26,
+      "fetched_at": "2026-06-05",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "score": 26,
+      "fetched_at": "2026-06-05",
+      "source": "MIT Tech Review",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?",
       "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
       "score": 24,
@@ -16132,7 +16160,7 @@
     {
       "date": "2026-06-05",
       "posts": 0,
-      "items_processed": 6935,
+      "items_processed": 8074,
       "estimated_tokens": 0
     }
   ]
