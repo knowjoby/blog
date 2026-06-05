@@ -7,45 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta and Google get data from the app your boss uses to track you",
-      "url": "https://www.theverge.com/policy/935299/bossware-employer-surveillance",
-      "score": 49,
-      "fetched_at": "2026-05-21",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "One of Meta\u2019s big legal reckonings just ended in a settlement",
-      "url": "https://www.theverge.com/policy/935552/meta-youtube-tiktok-snap-school-district-settlement",
-      "score": 49,
-      "fetched_at": "2026-05-21",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anker\u2019s new earbuds are the first with its AI chip that boosts noise reduction",
-      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
-      "score": 49,
-      "fetched_at": "2026-05-21",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Google\u2019s new anything-to-anything AI model is wild",
       "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
       "score": 49,
@@ -293,19 +254,6 @@
       "topic": ""
     },
     {
-      "title": "Meta lays off thousands of employees to offset AI investments",
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-      "score": 45,
-      "fetched_at": "2026-05-21",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -353,19 +301,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "Musk v. Altman: Much ado about nothing",
-      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "score": 43,
-      "fetched_at": "2026-05-21",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Elon, stop trying to make Grok happen",
@@ -940,21 +875,6 @@
       "topic": ""
     },
     {
-      "title": "Anthropic\u2019s Code with Claude showed off coding\u2019s future\u2014whether you like it or not",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "score": 35,
-      "fetched_at": "2026-05-21",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "coding"
-    },
-    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -1274,19 +1194,6 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
-    },
-    {
-      "title": "I review robot vacuums for a living, ask me anything!",
-      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
-      "score": 33,
-      "fetched_at": "2026-05-21",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "The post-search Google era begins",
@@ -1744,32 +1651,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "score": 30,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta Is in Crisis, Google Search\u2019s Makeover, and AI Gets Booed by Graduates",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
-      "score": 30,
-      "fetched_at": "2026-05-21",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Introducing OpenAI Privacy Filter",
@@ -3022,21 +2903,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "score": 26,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "How Balyasny Asset Management built an AI research engine",
       "url": "https://openai.com/index/balyasny-asset-management",
       "score": 26,
@@ -3558,110 +3424,6 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
-    },
-    {
-      "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic says it\u2019s about to have its first profitable quarter",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "score": 24,
-      "fetched_at": "2026-05-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?",
@@ -6758,6 +6520,19 @@
       "topic": ""
     },
     {
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "url": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6977,45 +6752,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "SpaceX Listed Grok\u2019s \u2018Spicy\u2019 Mode as a Risk in Its IPO Filing",
-      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
-      "score": 18,
-      "fetched_at": "2026-05-21",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "I Cloned Myself With Gemini\u2019s AI Avatar Tool. The Result Was Unnervingly Me",
-      "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
-      "score": 18,
-      "fetched_at": "2026-05-21",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "As Grok flounders, SpaceX bets future on beating Big Tech at AI",
-      "url": "https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/",
-      "score": 18,
-      "fetched_at": "2026-05-21",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
@@ -10441,19 +10177,6 @@
       "topic": ""
     },
     {
-      "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
-      "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that",
-      "score": 17,
-      "fetched_at": "2026-05-21",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10517,20 +10240,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
-      "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant",
-      "score": 16,
-      "fetched_at": "2026-05-21",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Your AI agents need a terminal, not just a vector database",
@@ -10965,58 +10674,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
-      "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
-      "score": 14,
-      "fetched_at": "2026-05-21",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Trump delays AI security executive order: \u2018I don\u2019t want to get in the way of that leading\u2019",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "score": 14,
-      "fetched_at": "2026-05-21",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive \u2018universal\u2019 AI interface",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "score": 14,
-      "fetched_at": "2026-05-21",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-      "score": 14,
-      "fetched_at": "2026-05-21",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Introducing GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5",
       "score": 14,
@@ -11394,19 +11051,6 @@
       "topic": "robotics"
     },
     {
-      "title": "AI didn\u2019t kill brand consistency \u2014 it made it mission-critical",
-      "url": "https://venturebeat.com/technology/ai-didnt-kill-brand-consistency-it-made-it-mission-critical",
-      "score": 12,
-      "fetched_at": "2026-05-21",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
       "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
       "score": 12,
@@ -11535,19 +11179,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "IoT gadget maker AcuRite shares reasoning for killing customers\u2019 favorite app",
-      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-      "score": 11,
-      "fetched_at": "2026-05-21",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
@@ -16361,6 +15992,12 @@
       "date": "2026-06-04",
       "posts": 0,
       "items_processed": 15780,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-05",
+      "posts": 0,
+      "items_processed": 1139,
       "estimated_tokens": 0
     }
   ]
