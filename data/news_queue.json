@@ -2632,6 +2632,19 @@
       "topic": ""
     },
     {
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "score": 30,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The Download: coding\u2019s future, the \u2018Steroid Olympics,\u2019 and AI-driven science",
       "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
       "score": 29,
@@ -3424,6 +3437,21 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
+    },
+    {
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "score": 26,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Can OpenAI\u2019s \u2018Master of Disaster\u2019 Fix AI\u2019s Reputation Crisis?",
@@ -6525,6 +6553,84 @@
       "score": 24,
       "fetched_at": "2026-06-05",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "score": 24,
+      "fetched_at": "2026-06-05",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -15997,7 +16103,7 @@
     {
       "date": "2026-06-05",
       "posts": 0,
-      "items_processed": 1139,
+      "items_processed": 3071,
       "estimated_tokens": 0
     }
   ]
