@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-06T18:11:44.099833+00:00",
-  "pending_count": 1042,
+  "updated_at_utc": "2026-06-06T19:54:40.371032+00:00",
+  "pending_count": 1043,
   "pending": [
     {
       "title": "Meta made its own AI-generated clickbait news feed",
@@ -93,6 +93,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "When Claude changed, everything changed: Managing AI blast radius in production",
+      "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
+      "score": 18,
+      "fetched_at": "2026-06-06",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
