@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-06-01 03:03:02 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1913,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "How to watch Nvidia’s Computex keynote",
-        "file": "_posts/2026-05-31-how-to-watch-nvidias-computex-keynote.md",
-        "score": 51,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-01 04:36:21 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1210,6 +1179,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-06 23:41:44 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1933,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
