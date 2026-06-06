@@ -1,44 +1,5 @@
 [
   {
-    "ran_at": "2026-06-01 12:36:04 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 2,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1913,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
-        "file": "_posts/2026-06-01-this-is-the-microsoft-surface-laptop-ultra-with-nvidia-rtx-spark.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      },
-      {
-        "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
-        "file": "_posts/2026-06-01-nvidia-announces-rtx-spark-as-the-most-efficient-pc-chip-ever-built.md",
-        "score": 51,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-01 18:42:51 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1201,6 +1162,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-07 04:07:36 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1933,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
