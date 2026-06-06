@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-06T10:10:26.684495+00:00",
-  "pending_count": 1039,
+  "updated_at_utc": "2026-06-06T11:55:38.608132+00:00",
+  "pending_count": 1040,
   "pending": [
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -15,6 +15,18 @@
         "reasoning",
         "multimodal"
       ]
+    },
+    {
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "score": 36,
+      "fetched_at": "2026-06-06",
+      "source": "Wired",
+      "companies": [
+        "anthropic",
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",

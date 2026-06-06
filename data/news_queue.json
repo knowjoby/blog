@@ -919,6 +919,20 @@
       "topic": ""
     },
     {
+      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+      "score": 36,
+      "fetched_at": "2026-06-06",
+      "source": "Wired",
+      "companies": [
+        "anthropic",
+        "meta"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -16080,7 +16094,7 @@
     {
       "date": "2026-06-06",
       "posts": 1,
-      "items_processed": 9665,
+      "items_processed": 11597,
       "estimated_tokens": 0
     }
   ]
