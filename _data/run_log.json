@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-05-31 13:57:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1913,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-05-31 15:45:00 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1202,5 +1180,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-06 05:43:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1933,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
+        "file": "_posts/2026-06-06-microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-sup.md",
+        "score": 62,
+        "tags": [
+          "openai",
+          "microsoft",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
