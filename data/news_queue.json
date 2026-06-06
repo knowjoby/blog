@@ -137,6 +137,19 @@
       "topic": ""
     },
     {
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "score": 49,
+      "fetched_at": "2026-06-06",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -16094,7 +16107,7 @@
     {
       "date": "2026-06-06",
       "posts": 1,
-      "items_processed": 12736,
+      "items_processed": 14668,
       "estimated_tokens": 0
     }
   ]
