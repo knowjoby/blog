@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-07T11:11:51.641805+00:00",
-  "pending_count": 1042,
+  "updated_at_utc": "2026-06-07T13:05:57.015697+00:00",
+  "pending_count": 1043,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -59,6 +59,17 @@
       "score": 24,
       "fetched_at": "2026-06-07",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+      "score": 24,
+      "fetched_at": "2026-06-07",
+      "source": "Hugging Face",
       "companies": [
         "openai"
       ],
