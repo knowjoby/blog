@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-06-02 00:38:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 11,
-    "posts_created": 1,
-    "queued": 10,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 11
-      },
-      "rss": {
-        "raw": 1914,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 11
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic has officially filed to go public",
-        "file": "_posts/2026-06-01-anthropic-has-officially-filed-to-go-public.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-02 03:51:16 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 8,
@@ -1175,6 +1143,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 8
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-07 14:06:07 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1933,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 0
       }
     },
     "posts": []
