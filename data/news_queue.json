@@ -617,6 +617,22 @@
       "topic": "reasoning"
     },
     {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "score": 40,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
       "score": 39,
@@ -1672,6 +1688,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "AI is blowing up music. How should the Grammys handle it?",
       "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
       "score": 31,
@@ -2651,6 +2682,19 @@
       "topic": ""
     },
     {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3455,6 +3499,21 @@
         "agentic"
       ],
       "company": "meta",
+      "topic": "agentic"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -6583,6 +6642,19 @@
       "score": 24,
       "fetched_at": "2026-06-06",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -10180,6 +10252,45 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "score": 18,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "score": 18,
+      "fetched_at": "2026-06-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16002,7 +16113,7 @@
     {
       "date": "2026-06-07",
       "posts": 0,
-      "items_processed": 1933,
+      "items_processed": 3866,
       "estimated_tokens": 0
     }
   ]
