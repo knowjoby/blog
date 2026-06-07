@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-06-02 18:26:27 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1918,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-        "file": "_posts/2026-06-02-gemini-spark-is-the-most-impressive-and-terrifying-ai-experience-ive-h.md",
-        "score": 51,
-        "tags": [
-          "google",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-02 23:16:08 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 12,
@@ -1164,6 +1132,28 @@
         "feeds_ok": 10,
         "feeds_failed": 0,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-07 23:39:13 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1933,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 1
       }
     },
     "posts": []
