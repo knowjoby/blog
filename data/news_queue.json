@@ -6676,6 +6676,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI is still working on that \u2018super app\u2019",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "score": 24,
+      "fetched_at": "2026-06-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6765,6 +6778,20 @@
       "topics": [
         "agentic",
         "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Agentic AI solved coding \u2014 and exposed every other problem in software engineering",
+      "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
+      "score": 22,
+      "fetched_at": "2026-06-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
       ],
       "company": "",
       "topic": "agentic"
@@ -16139,7 +16166,7 @@
     {
       "date": "2026-06-07",
       "posts": 0,
-      "items_processed": 13531,
+      "items_processed": 15464,
       "estimated_tokens": 0
     }
   ]
