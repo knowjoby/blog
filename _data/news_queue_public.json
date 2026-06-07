@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-07T08:36:07.531240+00:00",
-  "pending_count": 1041,
+  "updated_at_utc": "2026-06-07T10:28:46.265226+00:00",
+  "pending_count": 1042,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -94,6 +94,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Her · हेर — a detective for your Claude Code sessions",
+      "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+      "score": 18,
+      "fetched_at": "2026-06-07",
+      "source": "Hugging Face",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
