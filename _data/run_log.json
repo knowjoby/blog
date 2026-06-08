@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-04 04:36:59 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 0,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1926,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-04 07:36:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1120,6 +1098,45 @@
       {
         "title": "Apple announces macOS Golden Gate 27",
         "file": "_posts/2026-06-08-apple-announces-macos-golden-gate-27.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-09 02:10:02 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 10,
+    "posts_created": 2,
+    "queued": 8,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 10
+      },
+      "rss": {
+        "raw": 1935,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 10
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple announces watchOS 27, now with Siri AI",
+        "file": "_posts/2026-06-08-apple-announces-watchos-27-now-with-siri-ai.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      },
+      {
+        "title": "Cameras get an Apple Intelligence boost in Apple Home",
+        "file": "_posts/2026-06-08-cameras-get-an-apple-intelligence-boost-in-apple-home.md",
         "score": 55,
         "tags": [
           "apple"

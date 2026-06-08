@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-08T18:00:30.657474+00:00",
-  "pending_count": 1055,
+  "updated_at_utc": "2026-06-08T20:40:02.903701+00:00",
+  "pending_count": 1063,
   "pending": [
+    {
+      "title": "44 things coming to your Apple devices that you might have missed",
+      "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
       "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
@@ -36,6 +47,29 @@
       "topics": []
     },
     {
+      "title": "Apple’s New Siri AI Is Ready to Get Personal",
+      "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+      "score": 48,
+      "fetched_at": "2026-06-08",
+      "source": "Wired",
+      "companies": [
+        "google",
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
+      "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
+      "score": 43,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -54,6 +88,28 @@
       "score": 30,
       "fetched_at": "2026-06-08",
       "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "score": 30,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
+      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
+      "score": 30,
+      "fetched_at": "2026-06-08",
+      "source": "Ars Technica",
       "companies": [
         "apple"
       ],
@@ -89,6 +145,17 @@
       "source": "TechCrunch",
       "companies": [
         "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -171,6 +238,29 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Built for broad benefit",
+      "url": "https://openai.com/index/built-for-broad-benefit",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 16,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding",
+        "open_source"
+      ]
     },
     {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
