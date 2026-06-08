@@ -698,21 +698,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "score": 38,
-      "fetched_at": "2026-05-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
       "url": "https://openai.com/index/pacific-northwest-national-laboratory",
       "score": 38,
@@ -2768,19 +2753,6 @@
       ],
       "company": "google",
       "topic": "agentic"
-    },
-    {
-      "title": "Hackers are learning to exploit chatbot \u2018personalities\u2019",
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "score": 28,
-      "fetched_at": "2026-05-24",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Best practices for deploying language models",
@@ -6810,21 +6782,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "score": 21,
-      "fetched_at": "2026-05-24",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "huggingface",
-      "topic": "multimodal"
-    },
-    {
       "title": "3D-printable humanoid legs let robotics experiments run wild",
       "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
       "score": 21,
@@ -6935,45 +6892,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "url": "https://openai.com/index/cyberagent",
-      "score": 18,
-      "fetched_at": "2026-05-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "score": 18,
-      "fetched_at": "2026-05-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "score": 18,
-      "fetched_at": "2026-05-24",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "ChatGPT for finance teams",
@@ -10425,19 +10343,6 @@
       "topic": "regulation"
     },
     {
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "score": 16,
-      "fetched_at": "2026-05-24",
-      "source": "Hugging Face",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
-    },
-    {
       "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "url": "https://huggingface.co/blog/storage-buckets",
       "score": 16,
@@ -11868,19 +11773,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "score": 10,
-      "fetched_at": "2026-05-24",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Deep double descent",
@@ -16180,6 +16072,12 @@
       "date": "2026-06-07",
       "posts": 0,
       "items_processed": 23196,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-08",
+      "posts": 0,
+      "items_processed": 1933,
       "estimated_tokens": 0
     }
   ]
