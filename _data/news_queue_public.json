@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-08T10:05:36.512093+00:00",
-  "pending_count": 1044,
+  "updated_at_utc": "2026-06-08T12:27:10.581096+00:00",
+  "pending_count": 1045,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -27,6 +27,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+      "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Inside our approach to the Model Spec",
