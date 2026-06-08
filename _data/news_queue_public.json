@@ -1,7 +1,77 @@
 {
-  "updated_at_utc": "2026-06-08T00:15:17.337997+00:00",
-  "pending_count": 1038,
+  "updated_at_utc": "2026-06-08T05:14:54.445645+00:00",
+  "pending_count": 1044,
   "pending": [
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-06-08",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-06-08",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-06-08",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
