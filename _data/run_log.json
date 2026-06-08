@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-06-04 02:09:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1926,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "As AI gets better, it reveals an empty promise",
-        "file": "_posts/2026-06-03-as-ai-gets-better-it-reveals-an-empty-promise.md",
-        "score": 51,
-        "tags": [
-          "google",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-04 04:36:59 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1119,5 +1087,44 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-08 23:30:30 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 2,
+    "queued": 6,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 1933,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+        "file": "_posts/2026-06-08-apple-announces-siri-ai-and-its-next-generation-of-apple-intelligence.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      },
+      {
+        "title": "Apple announces macOS Golden Gate 27",
+        "file": "_posts/2026-06-08-apple-announces-macos-golden-gate-27.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      }
+    ]
   }
 ]

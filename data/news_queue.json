@@ -163,6 +163,19 @@
       "topic": ""
     },
     {
+      "title": "NotebookLM\u2019s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -2718,6 +2731,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "score": 30,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
       "topic": ""
     },
     {
@@ -6728,6 +6754,45 @@
       "topic": ""
     },
     {
+      "title": "Apple\u2019s long-awaited AI Siri overhaul is finally here",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+      "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10397,6 +10462,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "NotebookLM\u2019s new update will help you build source repository from chat",
+      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -15660,6 +15738,28 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "score": 55,
+      "file": "_posts/2026-06-08-apple-announces-siri-ai-and-its-next-generation-of-apple-intelligence.md",
+      "posted_at": "2026-06-08",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple announces macOS Golden Gate 27",
+      "url": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features",
+      "score": 55,
+      "file": "_posts/2026-06-08-apple-announces-macos-golden-gate-27.md",
+      "posted_at": "2026-06-08",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16224,8 +16324,8 @@
     },
     {
       "date": "2026-06-08",
-      "posts": 0,
-      "items_processed": 9666,
+      "posts": 2,
+      "items_processed": 11599,
       "estimated_tokens": 0
     }
   ]

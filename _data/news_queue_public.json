@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-08T14:35:40.851365+00:00",
-  "pending_count": 1049,
+  "updated_at_utc": "2026-06-08T18:00:30.657474+00:00",
+  "pending_count": 1055,
   "pending": [
     {
       "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -38,11 +49,55 @@
       ]
     },
     {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "score": 30,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+      "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
       "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
       "score": 24,
       "fetched_at": "2026-06-08",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -81,6 +136,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NotebookLM’s new update will help you build source repository from chat",
+      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
