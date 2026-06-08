@@ -137,6 +137,32 @@
       "topic": ""
     },
     {
+      "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta\u2019s AI chatbot",
+      "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Microsoft\u2019s AI chief says superintelligence is near, but won\u2019t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -6689,6 +6715,19 @@
       "topic": ""
     },
     {
+      "title": "The Download: how the World Cup ball will fly and OpenAI\u2019s \u201csuper app\u201d",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -6919,6 +6958,20 @@
       "topics": [
         "agentic",
         "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "score": 19,
+      "fetched_at": "2026-06-08",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
       ],
       "company": "",
       "topic": "agentic"
@@ -16172,7 +16225,7 @@
     {
       "date": "2026-06-08",
       "posts": 0,
-      "items_processed": 7732,
+      "items_processed": 9666,
       "estimated_tokens": 0
     }
   ]

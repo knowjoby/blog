@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-06-08T12:27:10.581096+00:00",
-  "pending_count": 1045,
+  "updated_at_utc": "2026-06-08T14:35:40.851365+00:00",
+  "pending_count": 1049,
   "pending": [
+    {
+      "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
+      "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "score": 49,
+      "fetched_at": "2026-06-08",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
@@ -16,6 +38,17 @@
       ]
     },
     {
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -26,6 +59,18 @@
       ],
       "topics": [
         "multimodal"
+      ]
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "score": 19,
+      "fetched_at": "2026-06-08",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
       ]
     },
     {
