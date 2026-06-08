@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-04 07:36:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1927,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-04 12:36:52 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1140,6 +1118,38 @@
         "score": 55,
         "tags": [
           "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-09 04:12:36 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1936,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+        "file": "_posts/2026-06-08-openai-confidentially-files-for-ipo-on-the-heels-of-spacex-and-anthrop.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "anthropic"
         ]
       }
     ]

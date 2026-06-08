@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-08T20:40:02.903701+00:00",
-  "pending_count": 1063,
+  "updated_at_utc": "2026-06-08T22:42:36.287440+00:00",
+  "pending_count": 1067,
   "pending": [
     {
       "title": "44 things coming to your Apple devices that you might have missed",
@@ -55,6 +55,18 @@
       "companies": [
         "google",
         "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "score": 48,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -149,6 +161,17 @@
       "topics": []
     },
     {
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
       "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
       "score": 24,
@@ -182,6 +205,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "score": 20,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
@@ -220,6 +254,17 @@
     {
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "score": 18,
       "fetched_at": "2026-06-08",
       "source": "OpenAI",

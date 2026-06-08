@@ -318,6 +318,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "score": 48,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
       "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
       "score": 47,
@@ -6872,6 +6886,19 @@
       "topic": ""
     },
     {
+      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
+      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+      "score": 24,
+      "fetched_at": "2026-06-08",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -7048,6 +7075,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "score": 20,
+      "fetched_at": "2026-06-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10559,6 +10599,19 @@
     {
       "title": "Built for broad benefit",
       "url": "https://openai.com/index/built-for-broad-benefit",
+      "score": 18,
+      "fetched_at": "2026-06-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
       "score": 18,
       "fetched_at": "2026-06-08",
       "source": "OpenAI",
@@ -15888,6 +15941,18 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "score": 54,
+      "file": "_posts/2026-06-08-openai-confidentially-files-for-ipo-on-the-heels-of-spacex-and-anthrop.md",
+      "posted_at": "2026-06-08",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16452,8 +16517,8 @@
     },
     {
       "date": "2026-06-08",
-      "posts": 4,
-      "items_processed": 13534,
+      "posts": 5,
+      "items_processed": 15470,
       "estimated_tokens": 0
     }
   ]
