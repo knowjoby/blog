@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-09T08:33:38.770812+00:00",
-  "pending_count": 1069,
+  "updated_at_utc": "2026-06-09T11:13:32.001719+00:00",
+  "pending_count": 1070,
   "pending": [
     {
       "title": "5 things I already love from the iOS 27 beta",
@@ -32,6 +32,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules",
+      "url": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
