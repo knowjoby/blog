@@ -10663,6 +10663,21 @@
       "topic": ""
     },
     {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "score": 18,
+      "fetched_at": "2026-06-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "huggingface",
+      "topic": "agentic"
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -16564,7 +16579,7 @@
     {
       "date": "2026-06-09",
       "posts": 0,
-      "items_processed": 7744,
+      "items_processed": 9681,
       "estimated_tokens": 0
     }
   ]

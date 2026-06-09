@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-09T11:13:32.001719+00:00",
-  "pending_count": 1070,
+  "updated_at_utc": "2026-06-09T12:08:37.640070+00:00",
+  "pending_count": 1071,
   "pending": [
     {
       "title": "5 things I already love from the iOS 27 beta",
@@ -233,6 +233,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "score": 18,
+      "fetched_at": "2026-06-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "44 things coming to your Apple devices that you might have missed",
