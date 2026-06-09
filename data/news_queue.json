@@ -1022,6 +1022,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "score": 37,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "score": 36,
@@ -1089,6 +1102,20 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "score": 36,
+      "fetched_at": "2026-06-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -6974,6 +7001,45 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a \u2018Safe\u2019 Version for the Rest of You",
+      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -16082,6 +16148,28 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple wants Europe to blink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "score": 55,
+      "file": "_posts/2026-06-09-apple-wants-europe-to-blink.md",
+      "posted_at": "2026-06-09",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "score": 55,
+      "file": "_posts/2026-06-09-anthropic-releases-its-first-mythos-class-model-claude-fable.md",
+      "posted_at": "2026-06-09",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16652,8 +16740,8 @@
     },
     {
       "date": "2026-06-09",
-      "posts": 2,
-      "items_processed": 11618,
+      "posts": 4,
+      "items_processed": 13555,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-09T15:39:57.137684+00:00",
-  "pending_count": 1075,
+  "updated_at_utc": "2026-06-09T18:12:19.126169+00:00",
+  "pending_count": 1080,
   "pending": [
     {
       "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
@@ -58,6 +58,17 @@
       ]
     },
     {
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "score": 37,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "Apple’s best AI idea looks a lot like vibe coding",
       "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
       "score": 36,
@@ -67,6 +78,18 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "score": 36,
+      "fetched_at": "2026-06-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -91,6 +114,28 @@
       "topics": []
     },
     {
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Applications of AI at OpenAI",
       "url": "https://openai.com/academy/applications-of-ai",
       "score": 24,
@@ -98,6 +143,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "One day after discovery, Meta pulls facial recognition code from its smart glasses",
+      "url": "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
