@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-05 01:41:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 0,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 1931,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 4
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-05 03:35:24 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1153,5 +1131,44 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-09 21:09:57 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 2,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1937,
+        "feeds_total": 10,
+        "feeds_ok": 10,
+        "feeds_failed": 0,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple’s AI promises are finally, almost, sort of here",
+        "file": "_posts/2026-06-09-apples-ai-promises-are-finally-almost-sort-of-here.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      },
+      {
+        "title": "Apple dials down Liquid Glass, and the Mac looks way better for it",
+        "file": "_posts/2026-06-09-apple-dials-down-liquid-glass-and-the-mac-looks-way-better-for-it.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      }
+    ]
   }
 ]

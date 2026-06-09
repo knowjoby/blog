@@ -189,6 +189,45 @@
       "topic": ""
     },
     {
+      "title": "Square Enix announces Kingdom Hearts 4",
+      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
+      "score": 49,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta will use your activity on other websites to personalize your feeds",
+      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+      "score": 49,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "score": 49,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -1037,6 +1076,19 @@
       "topics": [],
       "company": "anthropic",
       "topic": ""
+    },
+    {
+      "title": "Apple\u2019s best AI idea looks a lot like vibe coding",
+      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "score": 36,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -16008,6 +16060,28 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple\u2019s AI promises are finally, almost, sort of here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "score": 55,
+      "file": "_posts/2026-06-09-apples-ai-promises-are-finally-almost-sort-of-here.md",
+      "posted_at": "2026-06-09",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple dials down Liquid Glass, and the Mac looks way better for it",
+      "url": "https://www.theverge.com/tech/946567/apple-macos-27-golden-gate-dev-beta-hands-on",
+      "score": 55,
+      "file": "_posts/2026-06-09-apple-dials-down-liquid-glass-and-the-mac-looks-way-better-for-it.md",
+      "posted_at": "2026-06-09",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16578,8 +16652,8 @@
     },
     {
       "date": "2026-06-09",
-      "posts": 0,
-      "items_processed": 9681,
+      "posts": 2,
+      "items_processed": 11618,
       "estimated_tokens": 0
     }
   ]

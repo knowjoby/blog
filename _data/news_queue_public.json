@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-06-09T12:08:37.640070+00:00",
-  "pending_count": 1071,
+  "updated_at_utc": "2026-06-09T15:39:57.137684+00:00",
+  "pending_count": 1075,
   "pending": [
+    {
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "score": 49,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta will use your activity on other websites to personalize your feeds",
+      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+      "score": 49,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Square Enix announces Kingdom Hearts 4",
+      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
+      "score": 49,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "5 things I already love from the iOS 27 beta",
       "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
@@ -22,6 +55,17 @@
       "companies": [],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Apple’s best AI idea looks a lot like vibe coding",
+      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "score": 36,
+      "fetched_at": "2026-06-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
