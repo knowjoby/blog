@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-09T18:12:19.126169+00:00",
-  "pending_count": 1080,
+  "updated_at_utc": "2026-06-09T20:29:17.957463+00:00",
+  "pending_count": 1083,
   "pending": [
     {
       "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
@@ -92,6 +92,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+      "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
+      "score": 30,
+      "fetched_at": "2026-06-09",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "score": 30,
@@ -99,6 +110,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "score": 30,
+      "fetched_at": "2026-06-09",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -154,6 +176,17 @@
       "source": "Ars Technica",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

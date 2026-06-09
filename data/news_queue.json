@@ -2919,6 +2919,32 @@
       "topic": ""
     },
     {
+      "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+      "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
+      "score": 30,
+      "fetched_at": "2026-06-09",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "score": 30,
+      "fetched_at": "2026-06-09",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -7035,6 +7061,19 @@
       "score": 24,
       "fetched_at": "2026-06-09",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "score": 24,
+      "fetched_at": "2026-06-09",
+      "source": "Ars Technica",
       "companies": [
         "anthropic"
       ],
@@ -16170,6 +16209,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "score": 73,
+      "file": "_posts/2026-06-09-microsoft-ai-head-calls-out-anthropic-for-acting-like-claude-is-consci.md",
+      "posted_at": "2026-06-09",
+      "companies": [
+        "anthropic",
+        "microsoft"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16740,8 +16791,8 @@
     },
     {
       "date": "2026-06-09",
-      "posts": 4,
-      "items_processed": 13555,
+      "posts": 5,
+      "items_processed": 15493,
       "estimated_tokens": 0
     }
   ]
