@@ -745,6 +745,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
+      "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
+      "score": 41,
+      "fetched_at": "2026-06-10",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "anthropic",
+      "topic": "regulation"
+    },
+    {
       "title": "Warp\u2019s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
       "score": 40,
@@ -931,6 +946,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+      "score": 39,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "OpenAI\u2019s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "score": 38,
@@ -1095,6 +1123,21 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "score": 38,
+      "fetched_at": "2026-06-10",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "google",
+      "topic": "multimodal"
     },
     {
       "title": "Apple is embracing the fantasy of AI photo editing",
@@ -7245,6 +7288,19 @@
       "topic": ""
     },
     {
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How DeepSeek\u2019s radical architecture is shattering Silicon Valley's token moat",
       "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
       "score": 22,
@@ -10998,6 +11054,19 @@
     {
       "title": "How sales teams use Codex",
       "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "score": 18,
+      "fetched_at": "2026-06-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "score": 18,
       "fetched_at": "2026-06-10",
       "source": "OpenAI",
@@ -16988,7 +17057,7 @@
     {
       "date": "2026-06-10",
       "posts": 1,
-      "items_processed": 11634,
+      "items_processed": 13566,
       "estimated_tokens": 0
     }
   ]

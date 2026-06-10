@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-10T19:13:12.739025+00:00",
-  "pending_count": 1097,
+  "updated_at_utc": "2026-06-10T21:35:52.898121+00:00",
+  "pending_count": 1102,
   "pending": [
     {
       "title": "WhatsApp ordered to host rival AI assistants for free",
@@ -193,6 +193,19 @@
       "topics": []
     },
     {
+      "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
+      "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
+      "score": 41,
+      "fetched_at": "2026-06-10",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -270,6 +283,17 @@
       "topics": []
     },
     {
+      "title": "Kalshi adds required employment verification for some prediction market bets",
+      "url": "https://www.theverge.com/business/948083/kalshi-prediction-markets-insider-trading",
+      "score": 39,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Review completed & Altman, Brockman to continue to lead OpenAI",
       "url": "https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai",
       "score": 38,
@@ -332,6 +356,19 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+      "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+      "score": 38,
+      "fetched_at": "2026-06-10",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
       ]
     },
     {
@@ -1991,6 +2028,17 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "A Meta Employee Who Just Lost Their Job Was Detained by Immigration Agents",
+      "url": "https://www.wired.com/story/meta-layoffs-immigration-customs-enforcement/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
@@ -4696,6 +4744,17 @@
     {
       "title": "Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketing",
       "url": "https://openai.com/index/promega",
+      "score": 18,
+      "fetched_at": "2026-06-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
       "score": 18,
       "fetched_at": "2026-06-10",
       "source": "OpenAI",
