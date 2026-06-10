@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-10T08:31:33.406399+00:00",
-  "pending_count": 1083,
+  "updated_at_utc": "2026-06-10T11:37:49.961515+00:00",
+  "pending_count": 1086,
   "pending": [
+    {
+      "title": "WhatsApp ordered to host rival AI assistants for free",
+      "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
@@ -1915,6 +1926,17 @@
       ]
     },
     {
+      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Meta signs first AI data center deal in India with Reliance",
       "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
       "score": 24,
@@ -2929,6 +2951,17 @@
     {
       "title": "Driving growth and ‘WOW’ moments with OpenAI",
       "url": "https://openai.com/index/ly-corporation",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
       "score": 24,
       "fetched_at": "2026-06-10",
       "source": "OpenAI",

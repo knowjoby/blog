@@ -228,6 +228,19 @@
       "topic": ""
     },
     {
+      "title": "WhatsApp ordered to host rival AI assistants for free",
+      "url": "https://www.theverge.com/tech/947516/meta-whatsapp-eu-third-party-ai-chatbot-ban-order",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
       "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
       "score": 48,
@@ -7085,6 +7098,32 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Artificial Intelligence Sneaks Into the World Cup Thanks to Google Gemini",
+      "url": "https://www.wired.com/story/artificial-intelligence-sneaks-into-the-world-cup-thanks-to-google-gemini/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16805,7 +16844,7 @@
     {
       "date": "2026-06-10",
       "posts": 1,
-      "items_processed": 3880,
+      "items_processed": 5821,
       "estimated_tokens": 0
     }
   ]
