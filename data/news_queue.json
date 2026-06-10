@@ -241,6 +241,19 @@
       "topic": ""
     },
     {
+      "title": "The Apple Watch Series 11 is back to its best price",
+      "url": "https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
       "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
       "score": 48,
@@ -553,6 +566,19 @@
     {
       "title": "I tried Siri AI, and so far it actually works",
       "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "score": 43,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "I\u2019m relieved Siri AI isn\u2019t trying to be a health coach",
+      "url": "https://www.theverge.com/column/947005/optimizer-siri-ai-wwdc-2026-health-coaches",
       "score": 43,
       "fetched_at": "2026-06-10",
       "source": "The Verge",
@@ -3745,6 +3771,20 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "score": 25,
+      "fetched_at": "2026-06-10",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "How NVIDIA engineers and researchers build with Codex",
@@ -7124,6 +7164,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+      "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -11848,6 +11914,19 @@
       "score": 12,
       "fetched_at": "2026-06-10",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "score": 12,
+      "fetched_at": "2026-06-10",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "ai"
@@ -16844,7 +16923,7 @@
     {
       "date": "2026-06-10",
       "posts": 1,
-      "items_processed": 7762,
+      "items_processed": 9703,
       "estimated_tokens": 0
     }
   ]
