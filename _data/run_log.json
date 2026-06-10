@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-06-06 05:43:15 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1933,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
-        "file": "_posts/2026-06-06-microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-sup.md",
-        "score": 62,
-        "tags": [
-          "openai",
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-06 10:07:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 12,
@@ -1185,6 +1152,28 @@
       },
       "rss": {
         "raw": 1932,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 5
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-11 05:09:09 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 0,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 1934,
         "feeds_total": 10,
         "feeds_ok": 9,
         "feeds_failed": 1,
