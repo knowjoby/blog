@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-10T16:23:16.682109+00:00",
-  "pending_count": 1092,
+  "updated_at_utc": "2026-06-10T19:13:12.739025+00:00",
+  "pending_count": 1097,
   "pending": [
     {
       "title": "WhatsApp ordered to host rival AI assistants for free",
@@ -14,6 +14,17 @@
       "topics": []
     },
     {
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Apple Watch Series 11 is back to its best price",
       "url": "https://www.theverge.com/gadgets/947773/apple-watch-series-11-beats-studio-buds-plus-deal-sale",
       "score": 49,
@@ -21,6 +32,17 @@
       "source": "The Verge",
       "companies": [
         "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Fable won’t answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -122,6 +144,17 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "score": 42,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Procgen and MineRL Competitions",
@@ -3995,6 +4028,17 @@
       "topics": []
     },
     {
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing deep research",
       "url": "https://openai.com/index/introducing-deep-research",
       "score": 22,
@@ -6027,6 +6071,17 @@
     {
       "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
       "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "score": 18,
+      "fetched_at": "2026-06-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "score": 18,
       "fetched_at": "2026-06-10",
       "source": "OpenAI",

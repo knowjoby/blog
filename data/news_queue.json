@@ -254,6 +254,32 @@
       "topic": ""
     },
     {
+      "title": "Claude Fable won\u2019t answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "score": 49,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
       "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
       "score": 48,
@@ -644,6 +670,19 @@
       "topics": [],
       "company": "meta",
       "topic": ""
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "score": 42,
+      "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -7193,6 +7232,19 @@
       "topic": ""
     },
     {
+      "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+      "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+      "score": 24,
+      "fetched_at": "2026-06-10",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "How DeepSeek\u2019s radical architecture is shattering Silicon Valley's token moat",
       "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
       "score": 22,
@@ -10941,6 +10993,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "score": 18,
+      "fetched_at": "2026-06-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16923,7 +16988,7 @@
     {
       "date": "2026-06-10",
       "posts": 1,
-      "items_processed": 9703,
+      "items_processed": 11634,
       "estimated_tokens": 0
     }
   ]
