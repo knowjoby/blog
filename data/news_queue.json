@@ -2020,6 +2020,21 @@
       "topic": "regulation"
     },
     {
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "score": 32,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "AI is blowing up music. How should the Grammys handle it?",
       "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
       "score": 31,
@@ -11185,6 +11200,19 @@
       "topic": ""
     },
     {
+      "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
+      "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
+      "score": 18,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "The Trump Administration Is at War With Itself Over AI Regulation",
       "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
       "score": 17,
@@ -17145,7 +17173,7 @@
     {
       "date": "2026-06-11",
       "posts": 0,
-      "items_processed": 10021,
+      "items_processed": 11958,
       "estimated_tokens": 0
     }
   ]
