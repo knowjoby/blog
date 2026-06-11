@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Facebook launches a \u2018Plus\u2019 subscription that gives you extra features",
-      "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
-      "score": 49,
-      "fetched_at": "2026-05-27",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Apple\u2019s strategy for smart glasses is the same as smart watches",
       "url": "https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches",
       "score": 49,
@@ -773,22 +760,6 @@
       "topic": "regulation"
     },
     {
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "score": 40,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding",
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Microsoft's AI Futurist explains how he uses Copilot \u2014 and the real-world problems enterprises are solving with agents",
       "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
       "score": 40,
@@ -879,19 +850,6 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
-    },
-    {
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "score": 39,
-      "fetched_at": "2026-05-27",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Microsoft\u2019s Project Solara is an OS for AI agent gadgets",
@@ -2046,19 +2004,6 @@
       "topic": "ai"
     },
     {
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "score": 30,
-      "fetched_at": "2026-05-27",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
       "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
       "score": 30,
@@ -3103,6 +3048,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Walks Back Policy That Could Have \u2018Sabotaged\u2019 AI Researchers Using Claude",
+      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3176,19 +3134,6 @@
       ],
       "company": "microsoft",
       "topic": "coding"
-    },
-    {
-      "title": "The Pope isn\u2019t AGI-pilled",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
-      "score": 28,
-      "fetched_at": "2026-05-27",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Best practices for deploying language models",
@@ -3344,21 +3289,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "score": 26,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Vertu Is Back With a Folding Phone Powered by\u2014Surprise\u2014an AI Agent",
@@ -3909,71 +3839,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "score": 24,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "score": 24,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "score": 24,
-      "fetched_at": "2026-05-27",
-      "source": "Hugging Face",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
-      "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
-      "score": 24,
-      "fetched_at": "2026-05-27",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-      "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-      "score": 24,
-      "fetched_at": "2026-05-27",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
@@ -7369,6 +7234,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u2019s Dario Amodei has just one direct report",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "score": 24,
+      "fetched_at": "2026-06-11",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How DeepSeek\u2019s radical architecture is shattering Silicon Valley's token moat",
       "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
       "score": 22,
@@ -7641,71 +7519,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "score": 18,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "score": 18,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
-      "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved",
-      "score": 18,
-      "fetched_at": "2026-05-27",
-      "source": "VentureBeat",
-      "companies": [
-        "amazon"
-      ],
-      "topics": [],
-      "company": "amazon",
-      "topic": ""
-    },
-    {
-      "title": "How to use Codex for everyday work",
-      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
-      "score": 18,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "score": 18,
-      "fetched_at": "2026-05-27",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
@@ -11146,19 +10959,6 @@
       "topic": ""
     },
     {
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "score": 17,
-      "fetched_at": "2026-05-27",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "The Trump Administration Is at War With Itself Over AI Regulation",
       "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
       "score": 17,
@@ -11643,32 +11443,6 @@
       "topic": ""
     },
     {
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "score": 14,
-      "fetched_at": "2026-05-27",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Former Google and Apple Researchers Launch a Startup to Build AI\u2019s Missing Feedback Loop",
-      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
-      "score": 14,
-      "fetched_at": "2026-05-27",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
       "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
       "score": 14,
@@ -12135,45 +11909,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "score": 11,
-      "fetched_at": "2026-05-27",
-      "source": "Google AI",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks \u2014 by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "score": 11,
-      "fetched_at": "2026-05-27",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.",
-      "url": "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first",
-      "score": 11,
-      "fetched_at": "2026-05-27",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
@@ -17126,6 +16861,12 @@
       "date": "2026-06-10",
       "posts": 1,
       "items_processed": 15500,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-11",
+      "posts": 0,
+      "items_processed": 1137,
       "estimated_tokens": 0
     }
   ]
