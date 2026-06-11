@@ -280,6 +280,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 49,
+      "fetched_at": "2026-06-11",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
       "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
       "score": 48,
@@ -3074,6 +3087,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -7314,6 +7353,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "People Living Near xAI\u2019s Dirty Data Centers Are Furious About the SpaceX IPO",
+      "url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
+      "score": 24,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
       "topic": ""
     },
     {
@@ -17001,7 +17053,7 @@
     {
       "date": "2026-06-11",
       "posts": 0,
-      "items_processed": 3072,
+      "items_processed": 4210,
       "estimated_tokens": 0
     }
   ]

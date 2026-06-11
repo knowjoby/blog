@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-11T09:15:09.330413+00:00",
-  "pending_count": 1097,
+  "updated_at_utc": "2026-06-11T12:08:51.839180+00:00",
+  "pending_count": 1101,
   "pending": [
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 49,
+      "fetched_at": "2026-06-11",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
@@ -28,6 +39,28 @@
       "topics": []
     },
     {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Building self-improving tax agents with Codex",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "score": 26,
@@ -39,6 +72,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "People Living Near xAI’s Dirty Data Centers Are Furious About the SpaceX IPO",
+      "url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
+      "score": 24,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
     },
     {
       "title": "Anthropic’s Dario Amodei has just one direct report",
