@@ -3116,6 +3116,19 @@
       "topic": ""
     },
     {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -7369,6 +7382,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s Edits app is getting an AI assistant and a desktop version",
+      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "score": 24,
+      "fetched_at": "2026-06-11",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How DeepSeek\u2019s radical architecture is shattering Silicon Valley's token moat",
       "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
       "score": 22,
@@ -11146,6 +11172,19 @@
       "topic": ""
     },
     {
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "score": 18,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "The Trump Administration Is at War With Itself Over AI Regulation",
       "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
       "score": 17,
@@ -11628,6 +11667,20 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit",
+      "url": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit",
+      "score": 16,
+      "fetched_at": "2026-06-11",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
@@ -17092,7 +17145,7 @@
     {
       "date": "2026-06-11",
       "posts": 0,
-      "items_processed": 8083,
+      "items_processed": 10021,
       "estimated_tokens": 0
     }
   ]

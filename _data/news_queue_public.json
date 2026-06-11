@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-11T17:06:20.298789+00:00",
-  "pending_count": 1104,
+  "updated_at_utc": "2026-06-11T19:58:12.665218+00:00",
+  "pending_count": 1108,
   "pending": [
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
@@ -61,6 +61,17 @@
       "topics": []
     },
     {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "score": 30,
+      "fetched_at": "2026-06-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Building self-improving tax agents with Codex",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "score": 26,
@@ -81,6 +92,17 @@
       "source": "Wired",
       "companies": [
         "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "score": 24,
+      "fetched_at": "2026-06-11",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -125,6 +147,17 @@
       "source": "Hugging Face",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "score": 18,
+      "fetched_at": "2026-06-11",
+      "source": "Wired",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
@@ -182,6 +215,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit",
+      "url": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit",
+      "score": 16,
+      "fetched_at": "2026-06-11",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
+      ]
     },
     {
       "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
