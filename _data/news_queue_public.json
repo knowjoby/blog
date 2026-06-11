@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-11T13:01:38.165558+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-06-11T17:06:20.298789+00:00",
+  "pending_count": 1104,
   "pending": [
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
@@ -129,6 +129,17 @@
       "topics": []
     },
     {
+      "title": "What AI benchmarks miss about real-world performance",
+      "url": "https://venturebeat.com/orchestration/what-ai-benchmarks-miss-about-real-world-performance",
+      "score": 18,
+      "fetched_at": "2026-06-11",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "score": 18,
@@ -173,6 +184,17 @@
       "topics": []
     },
     {
+      "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
+      "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
+      "score": 14,
+      "fetched_at": "2026-06-11",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "An open-source spec for orchestration: Symphony",
       "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "score": 14,
@@ -182,6 +204,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
+      "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
+      "score": 10,
+      "fetched_at": "2026-06-11",
+      "source": "VentureBeat",
+      "companies": [
+        "stability"
+      ],
+      "topics": []
     },
     {
       "title": "Apple’s new Siri AI knows when to shut up",
