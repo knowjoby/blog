@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-07 01:24:40 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1139,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-07 02:39:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1193,5 +1171,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-12 15:14:01 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 1938,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Siri won’t be your AI girlfriend",
+        "file": "_posts/2026-06-12-siri-wont-be-your-ai-girlfriend.md",
+        "score": 57,
+        "tags": [
+          "openai",
+          "apple"
+        ]
+      }
+    ]
   }
 ]

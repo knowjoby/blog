@@ -7273,6 +7273,19 @@
       "topic": ""
     },
     {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -16325,6 +16338,18 @@
         "coding",
         "open_source"
       ]
+    },
+    {
+      "title": "Siri won\u2019t be your AI girlfriend",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "score": 57,
+      "file": "_posts/2026-06-12-siri-wont-be-your-ai-girlfriend.md",
+      "posted_at": "2026-06-12",
+      "companies": [
+        "openai",
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16913,8 +16938,8 @@
     },
     {
       "date": "2026-06-12",
-      "posts": 1,
-      "items_processed": 3874,
+      "posts": 2,
+      "items_processed": 5812,
       "estimated_tokens": 0
     }
   ]

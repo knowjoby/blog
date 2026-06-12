@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-12T05:16:10.111754+00:00",
-  "pending_count": 1089,
+  "updated_at_utc": "2026-06-12T09:44:01.454036+00:00",
+  "pending_count": 1090,
   "pending": [
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -40,6 +40,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
