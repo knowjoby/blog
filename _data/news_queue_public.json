@@ -1,7 +1,68 @@
 {
-  "updated_at_utc": "2026-06-12T00:05:03.765081+00:00",
-  "pending_count": 1084,
+  "updated_at_utc": "2026-06-12T05:16:10.111754+00:00",
+  "pending_count": 1089,
   "pending": [
+    {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "score": 41,
+      "fetched_at": "2026-06-12",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 18,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",

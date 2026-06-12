@@ -688,6 +688,21 @@
       "topic": "regulation"
     },
     {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "score": 41,
+      "fetched_at": "2026-06-12",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "nvidia",
+      "topic": "multimodal"
+    },
+    {
       "title": "Microsoft's AI Futurist explains how he uses Copilot \u2014 and the real-world problems enterprises are solving with agents",
       "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
       "score": 40,
@@ -1040,6 +1055,21 @@
       "topic": "multimodal"
     },
     {
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
       "title": "Apple is embracing the fantasy of AI photo editing",
       "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
       "score": 37,
@@ -1298,6 +1328,21 @@
       ],
       "company": "nvidia",
       "topic": "reasoning"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Supabase doubles valuation to $10B in 8 months",
@@ -7215,6 +7260,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -10950,6 +11008,19 @@
       ],
       "topics": [],
       "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 18,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16843,7 +16914,7 @@
     {
       "date": "2026-06-12",
       "posts": 1,
-      "items_processed": 1937,
+      "items_processed": 3874,
       "estimated_tokens": 0
     }
   ]
