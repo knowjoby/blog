@@ -436,20 +436,6 @@
       "topic": ""
     },
     {
-      "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
-      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
-      "score": 46,
-      "fetched_at": "2026-05-28",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "mistral"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -467,22 +453,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Illinois Lawmakers Just Passed America\u2019s Strongest AI Safety Bill",
-      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "score": 44,
-      "fetched_at": "2026-05-28",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
       "title": "Pioneering an AI clinical copilot with Penda Health",
       "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
       "score": 44,
@@ -497,32 +467,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "These new iOS 27 renders hint at Siri\u2019s big redesign",
-      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-      "score": 43,
-      "fetched_at": "2026-05-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "score": 43,
-      "fetched_at": "2026-05-28",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
@@ -629,20 +573,6 @@
       "topic": ""
     },
     {
-      "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "score": 42,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic",
-        "xai"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -696,21 +626,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "score": 41,
-      "fetched_at": "2026-05-28",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "nvidia",
-      "topic": "multimodal"
     },
     {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
@@ -956,21 +871,6 @@
         "regulation"
       ],
       "company": "",
-      "topic": "regulation"
-    },
-    {
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "score": 38,
-      "fetched_at": "2026-05-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
       "topic": "regulation"
     },
     {
@@ -1248,21 +1148,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-05-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
@@ -2046,45 +1931,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "score": 30,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic releases Opus 4.8 with new \u2018dynamic workflow\u2019 tool",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "score": 30,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment",
-      "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment",
-      "score": 30,
-      "fetched_at": "2026-05-28",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Meta Quest Promo Codes and Coupons for June 2026",
@@ -3374,21 +3220,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Vertu Is Back With a Folding Phone Powered by\u2014Surprise\u2014an AI Agent",
-      "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
-      "score": 26,
-      "fetched_at": "2026-05-28",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
-    },
-    {
       "title": "Work with Codex from anywhere",
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
       "score": 26,
@@ -3937,32 +3768,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "score": 24,
-      "fetched_at": "2026-05-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta Copies Snapchat\u2019s Homework Again With \u2018Plus\u2019 Features for Instagram and Facebook",
-      "url": "https://www.wired.com/story/meta-copies-snapchats-homework-again/",
-      "score": 24,
-      "fetched_at": "2026-05-28",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "MUFG aims to become AI-native with OpenAI",
@@ -7410,19 +7215,6 @@
       "topic": ""
     },
     {
-      "title": "How DeepSeek\u2019s radical architecture is shattering Silicon Valley's token moat",
-      "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat",
-      "score": 22,
-      "fetched_at": "2026-05-28",
-      "source": "VentureBeat",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
-    },
-    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -7682,58 +7474,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "score": 18,
-      "fetched_at": "2026-05-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Sneak peek at new Siri app reveals Apple\u2019s plans to take on ChatGPT and more",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "score": 18,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-      "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-      "score": 18,
-      "fetched_at": "2026-05-28",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors",
-      "url": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
-      "score": 18,
-      "fetched_at": "2026-05-28",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Helping ChatGPT better recognize context in sensitive conversations",
@@ -11711,45 +11451,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "score": 14,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code \u2014 with built-in governance",
-      "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance",
-      "score": 14,
-      "fetched_at": "2026-05-28",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
-      "title": "Asana acquires no-code agent-builder StackAI",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "score": 14,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Our views on AI policy and political advocacy",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "score": 14,
@@ -12088,19 +11789,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "score": 12,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "score": 12,
@@ -12203,45 +11891,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
-      "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
-      "score": 11,
-      "fetched_at": "2026-05-28",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "score": 11,
-      "fetched_at": "2026-05-28",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
-      "url": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
-      "score": 11,
-      "fetched_at": "2026-05-28",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
     },
     {
       "title": "How Endava builds an agentic organization with Codex",
@@ -16590,6 +16239,21 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
+      "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+      "score": 54,
+      "file": "_posts/2026-06-12-xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-clau.md",
+      "posted_at": "2026-06-12",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "coding",
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -17174,6 +16838,12 @@
       "date": "2026-06-11",
       "posts": 0,
       "items_processed": 11958,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-12",
+      "posts": 1,
+      "items_processed": 1937,
       "estimated_tokens": 0
     }
   ]
