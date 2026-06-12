@@ -3035,6 +3035,19 @@
       "topic": ""
     },
     {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "score": 30,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -7299,6 +7312,19 @@
       "topic": ""
     },
     {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -7419,6 +7445,20 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
+      "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
+      "score": 22,
+      "fetched_at": "2026-06-12",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -11042,6 +11082,32 @@
       "score": 18,
       "fetched_at": "2026-06-12",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Mistral is rumored to be raising \u20ac3B at \u20ac20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "score": 18,
+      "fetched_at": "2026-06-12",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
+    },
+    {
+      "title": "China Didn't Make People Hate Data Centers",
+      "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "score": 18,
+      "fetched_at": "2026-06-12",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
@@ -16966,7 +17032,7 @@
     {
       "date": "2026-06-12",
       "posts": 3,
-      "items_processed": 11627,
+      "items_processed": 13567,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-12T16:32:37.799792+00:00",
-  "pending_count": 1091,
+  "updated_at_utc": "2026-06-12T19:10:28.141518+00:00",
+  "pending_count": 1096,
   "pending": [
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -42,6 +42,17 @@
       ]
     },
     {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "score": 30,
+      "fetched_at": "2026-06-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How Preply combines AI and human tutors to personalize learning",
       "url": "https://openai.com/index/preply",
       "score": 24,
@@ -71,6 +82,51 @@
       "source": "Ars Technica",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
+      "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
+      "score": 22,
+      "fetched_at": "2026-06-12",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
+    },
+    {
+      "title": "China Didn't Make People Hate Data Centers",
+      "url": "https://www.wired.com/story/china-us-data-center-opposition/",
+      "score": 18,
+      "fetched_at": "2026-06-12",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "score": 18,
+      "fetched_at": "2026-06-12",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
       ],
       "topics": []
     },
