@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-12T13:30:12.180678+00:00",
-  "pending_count": 1090,
+  "updated_at_utc": "2026-06-12T16:32:37.799792+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -58,6 +58,17 @@
       "score": 24,
       "fetched_at": "2026-06-12",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],

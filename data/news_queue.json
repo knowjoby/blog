@@ -7286,6 +7286,19 @@
       "topic": ""
     },
     {
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "score": 24,
+      "fetched_at": "2026-06-12",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -16350,6 +16363,20 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "score": 84,
+      "file": "_posts/2026-06-12-spacex-anthropic-and-openais-hot-ipo-summer.md",
+      "posted_at": "2026-06-12",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta",
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -16938,8 +16965,8 @@
     },
     {
       "date": "2026-06-12",
-      "posts": 2,
-      "items_processed": 9688,
+      "posts": 3,
+      "items_processed": 11627,
       "estimated_tokens": 0
     }
   ]
