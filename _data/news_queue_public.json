@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-13T13:06:26.915296+00:00",
-  "pending_count": 1100,
+  "updated_at_utc": "2026-06-13T15:18:05.245445+00:00",
+  "pending_count": 1101,
   "pending": [
     {
       "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "My first 24 hours with Siri AI on the Mac",
+      "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+      "score": 43,
+      "fetched_at": "2026-06-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
       ],
       "topics": []
     },
