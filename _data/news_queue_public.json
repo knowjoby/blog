@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-13T15:18:05.245445+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-06-13T16:57:26.295188+00:00",
+  "pending_count": 1102,
   "pending": [
     {
       "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
@@ -100,6 +100,17 @@
       "source": "VentureBeat",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "score": 24,
+      "fetched_at": "2026-06-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
