@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-06-13T11:19:57.873512+00:00",
-  "pending_count": 1097,
+  "updated_at_utc": "2026-06-13T13:06:26.915296+00:00",
+  "pending_count": 1100,
   "pending": [
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "score": 49,
+      "fetched_at": "2026-06-13",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "score": 43,
+      "fetched_at": "2026-06-13",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
@@ -54,6 +76,17 @@
       "score": 24,
       "fetched_at": "2026-06-13",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
+      "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
+      "score": 24,
+      "fetched_at": "2026-06-13",
+      "source": "VentureBeat",
       "companies": [
         "anthropic"
       ],
