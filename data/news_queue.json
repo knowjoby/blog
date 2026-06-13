@@ -16532,6 +16532,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "score": 51,
+      "file": "_posts/2026-06-13-amazon-security-research-reportedly-led-to-the-white-houses-anthropic.md",
+      "posted_at": "2026-06-13",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17126,8 +17137,8 @@
     },
     {
       "date": "2026-06-13",
-      "posts": 0,
-      "items_processed": 18602,
+      "posts": 1,
+      "items_processed": 20542,
       "estimated_tokens": 0
     }
   ]
