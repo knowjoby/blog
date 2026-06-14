@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-14T17:59:49.256054+00:00",
-  "pending_count": 1100,
+  "updated_at_utc": "2026-06-14T19:52:01.477002+00:00",
+  "pending_count": 1101,
   "pending": [
+    {
+      "title": "China may have accessed Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "score": 43,
+      "fetched_at": "2026-06-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
