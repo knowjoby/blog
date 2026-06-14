@@ -482,32 +482,6 @@
       "topic": "coding"
     },
     {
-      "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "score": 43,
-      "fetched_at": "2026-05-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Sometimes, a short game hits the spot",
-      "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
-      "score": 43,
-      "fetched_at": "2026-05-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "A first look at Microsoft\u2019s Surface Laptop Ultra and Surface Dev Box",
       "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
       "score": 43,
@@ -3304,21 +3278,6 @@
       "topic": "robotics"
     },
     {
-      "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "score": 26,
-      "fetched_at": "2026-05-30",
-      "source": "TechCrunch",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "microsoft",
-      "topic": "coding"
-    },
-    {
       "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
       "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
       "score": 26,
@@ -3824,32 +3783,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "score": 24,
-      "fetched_at": "2026-05-30",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -7566,19 +7499,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "score": 20,
-      "fetched_at": "2026-05-30",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says",
       "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
       "score": 20,
@@ -7630,6 +7550,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "score": 20,
+      "fetched_at": "2026-06-14",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -7687,32 +7620,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Accelerating the cyber defense ecosystem that protects us all",
@@ -12143,45 +12050,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-05-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-05-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
@@ -17139,6 +17007,12 @@
       "date": "2026-06-13",
       "posts": 1,
       "items_processed": 22482,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-14",
+      "posts": 0,
+      "items_processed": 1940,
       "estimated_tokens": 0
     }
   ]

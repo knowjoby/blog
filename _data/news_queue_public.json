@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-13T23:11:27.632516+00:00",
-  "pending_count": 1103,
+  "updated_at_utc": "2026-06-14T01:56:10.242379+00:00",
+  "pending_count": 1093,
   "pending": [
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "score": 20,
+      "fetched_at": "2026-06-14",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
@@ -12305,129 +12316,6 @@
       ],
       "topics": [
         "open_source"
-      ]
-    },
-    {
-      "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "score": 43,
-      "fetched_at": "2026-05-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Sometimes, a short game hits the spot",
-      "url": "https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc",
-      "score": 43,
-      "fetched_at": "2026-05-30",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "score": 26,
-      "fetched_at": "2026-05-30",
-      "source": "TechCrunch",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "score": 24,
-      "fetched_at": "2026-05-30",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "score": 20,
-      "fetched_at": "2026-05-30",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-05-30",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-05-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ]
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-05-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
       ]
     }
   ]
