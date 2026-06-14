@@ -1,44 +1,5 @@
 [
   {
-    "ran_at": "2026-06-09 23:42:19 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 2,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1937,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Apple wants Europe to blink",
-        "file": "_posts/2026-06-09-apple-wants-europe-to-blink.md",
-        "score": 55,
-        "tags": [
-          "apple"
-        ]
-      },
-      {
-        "title": "Anthropic releases its first Mythos-class model Claude Fable",
-        "file": "_posts/2026-06-09-anthropic-releases-its-first-mythos-class-model-claude-fable.md",
-        "score": 55,
-        "tags": [
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-10 01:59:18 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1144,6 +1105,28 @@
   },
   {
     "ran_at": "2026-06-15 02:49:19 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1940,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-15 04:14:12 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
