@@ -7334,6 +7334,32 @@
       "topic": ""
     },
     {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "score": 24,
+      "fetched_at": "2026-06-14",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-06-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -11112,6 +11138,32 @@
       "topic": ""
     },
     {
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-06-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-06-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The Trump Administration Is at War With Itself Over AI Regulation",
       "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
       "score": 17,
@@ -12453,6 +12505,45 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "score": 11,
+      "fetched_at": "2026-06-14",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "score": 11,
+      "fetched_at": "2026-06-14",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-06-14",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
@@ -17012,7 +17103,7 @@
     {
       "date": "2026-06-14",
       "posts": 0,
-      "items_processed": 1940,
+      "items_processed": 3880,
       "estimated_tokens": 0
     }
   ]
