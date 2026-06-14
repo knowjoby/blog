@@ -1,44 +1,5 @@
 [
   {
-    "ran_at": "2026-06-09 02:10:02 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 10,
-    "posts_created": 2,
-    "queued": 8,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 10
-      },
-      "rss": {
-        "raw": 1935,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 10
-      }
-    },
-    "posts": [
-      {
-        "title": "Apple announces watchOS 27, now with Siri AI",
-        "file": "_posts/2026-06-08-apple-announces-watchos-27-now-with-siri-ai.md",
-        "score": 55,
-        "tags": [
-          "apple"
-        ]
-      },
-      {
-        "title": "Cameras get an Apple Intelligence boost in Apple Home",
-        "file": "_posts/2026-06-08-cameras-get-an-apple-intelligence-boost-in-apple-home.md",
-        "score": 55,
-        "tags": [
-          "apple"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-09 04:12:36 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1204,6 +1165,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 7
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-14 15:57:47 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1940,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
