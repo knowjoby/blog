@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-10 17:07:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 0,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1941,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 3
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-10 17:57:51 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1141,5 +1119,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-16 02:41:12 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 1,
+    "queued": 6,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 1940,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "All the news about Anthropic’s new AI fight with the White House",
+        "file": "_posts/2026-06-15-all-the-news-about-anthropics-new-ai-fight-with-the-white-house.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

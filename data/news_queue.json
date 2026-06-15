@@ -293,6 +293,19 @@
       "topic": ""
     },
     {
+      "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "score": 49,
+      "fetched_at": "2026-06-15",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
       "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
       "score": 48,
@@ -632,6 +645,19 @@
       "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
       "score": 42,
       "fetched_at": "2026-06-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
+      "title": "Big Tech\u2019s desperate last push at AI regulation",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "score": 42,
+      "fetched_at": "2026-06-15",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -3057,6 +3083,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "score": 30,
+      "fetched_at": "2026-06-15",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -7385,6 +7424,19 @@
       "topic": ""
     },
     {
+      "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+      "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
+      "score": 24,
+      "fetched_at": "2026-06-15",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -11189,6 +11241,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+      "score": 18,
+      "fetched_at": "2026-06-15",
+      "source": "VentureBeat",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
       "title": "The Trump Administration Is at War With Itself Over AI Regulation",
       "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
       "score": 17,
@@ -12029,6 +12094,19 @@
       "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
       "score": 14,
       "fetched_at": "2026-06-11",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
+      "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+      "score": 14,
+      "fetched_at": "2026-06-15",
       "source": "VentureBeat",
       "companies": [],
       "topics": [
@@ -16566,6 +16644,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "All the news about Anthropic\u2019s new AI fight with the White House",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "score": 55,
+      "file": "_posts/2026-06-15-all-the-news-about-anthropics-new-ai-fight-with-the-white-house.md",
+      "posted_at": "2026-06-15",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17172,8 +17261,8 @@
     },
     {
       "date": "2026-06-15",
-      "posts": 0,
-      "items_processed": 9701,
+      "posts": 1,
+      "items_processed": 11641,
       "estimated_tokens": 0
     }
   ]
