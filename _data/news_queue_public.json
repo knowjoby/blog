@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-15T05:39:47.300901+00:00",
-  "pending_count": 1100,
+  "updated_at_utc": "2026-06-15T12:28:42.023346+00:00",
+  "pending_count": 1102,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -37,6 +37,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta Tapped a Pentagon Supplier to Prototype Face Recognition for Its Glasses",
+      "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
+      "score": 24,
+      "fetched_at": "2026-06-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -95,6 +106,17 @@
       ],
       "topics": [
         "open_source"
+      ]
+    },
+    {
+      "title": "The US Government Is Letting a Key Data Center Regulation Expire",
+      "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
+      "score": 17,
+      "fetched_at": "2026-06-15",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
       ]
     },
     {
