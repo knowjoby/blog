@@ -599,6 +599,19 @@
       "topic": ""
     },
     {
+      "title": "Facebook\u2019s new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "score": 43,
+      "fetched_at": "2026-06-15",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -3096,6 +3109,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "score": 30,
+      "fetched_at": "2026-06-15",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -7434,6 +7460,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Meta CTO Andrew Bosworth Admits the Company\u2019s AI Reorg Was \u2018Atrocious\u2019",
+      "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "score": 24,
+      "fetched_at": "2026-06-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -17262,7 +17301,7 @@
     {
       "date": "2026-06-15",
       "posts": 1,
-      "items_processed": 11641,
+      "items_processed": 13581,
       "estimated_tokens": 0
     }
   ]
