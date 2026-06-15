@@ -1,40 +1,5 @@
 [
   {
-    "ran_at": "2026-06-10 09:45:32 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1940,
-        "feeds_total": 10,
-        "feeds_ok": 10,
-        "feeds_failed": 0,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Cohere open-sources a coding agent that runs on a single H100",
-        "file": "_posts/2026-06-10-cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100.md",
-        "score": 77,
-        "tags": [
-          "anthropic",
-          "nvidia",
-          "cohere",
-          "agentic",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-10 14:01:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 775,
@@ -1151,6 +1116,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-15 19:24:10 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1940,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
