@@ -280,6 +280,19 @@
       "topic": ""
     },
     {
+      "title": "Apple\u2019s smart home camera service is starting to impress me",
+      "url": "https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video",
+      "score": 49,
+      "fetched_at": "2026-06-16",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
       "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
       "score": 48,
@@ -7271,6 +7284,19 @@
       "topic": ""
     },
     {
+      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
+      "url": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
+      "score": 24,
+      "fetched_at": "2026-06-16",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "score": 22,
@@ -7419,6 +7445,21 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "score": 22,
+      "fetched_at": "2026-06-16",
+      "source": "Ars Technica",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -16515,6 +16556,43 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Half a billion people are using Threads every month",
+      "url": "https://www.theverge.com/tech/950480/meta-threads-500-million-monthly-active-users-communities-your-algo",
+      "score": 67,
+      "file": "_posts/2026-06-16-half-a-billion-people-are-using-threads-every-month.md",
+      "posted_at": "2026-06-16",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "SpaceX is officially buying Cursor for $60 billion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+      "score": 61,
+      "file": "_posts/2026-06-16-spacex-is-officially-buying-cursor-for-60-billion.md",
+      "posted_at": "2026-06-16",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT\u2019s market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "score": 54,
+      "file": "_posts/2026-06-16-chatgpts-market-share-slips-below-50-for-first-time.md",
+      "posted_at": "2026-06-16",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17127,8 +17205,8 @@
     },
     {
       "date": "2026-06-16",
-      "posts": 1,
-      "items_processed": 3880,
+      "posts": 4,
+      "items_processed": 5820,
       "estimated_tokens": 0
     }
   ]
