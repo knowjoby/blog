@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-11 05:09:09 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 0,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 1934,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-11 10:08:38 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1186,6 +1164,38 @@
           "openai",
           "anthropic",
           "google"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-16 18:45:27 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1940,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips",
+        "file": "_posts/2026-06-16-the-microsoft-surface-laptop-8-and-surface-pro-12-now-come-with-snapdr.md",
+        "score": 63,
+        "tags": [
+          "microsoft",
+          "coding"
         ]
       }
     ]
