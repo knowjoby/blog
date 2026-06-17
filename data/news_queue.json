@@ -556,6 +556,19 @@
       "topic": ""
     },
     {
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "score": 43,
+      "fetched_at": "2026-06-17",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -1430,6 +1443,19 @@
     {
       "title": "The next humanoid robot might not look human at all",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "score": 33,
+      "fetched_at": "2026-06-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+      "url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
       "score": 33,
       "fetched_at": "2026-06-17",
       "source": "The Verge",
@@ -7255,6 +7281,19 @@
       "topic": ""
     },
     {
+      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+      "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Agentic AI solved coding \u2014 and exposed every other problem in software engineering",
       "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
       "score": 22,
@@ -12481,6 +12520,19 @@
       "topic": "coding"
     },
     {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "score": 11,
+      "fetched_at": "2026-06-17",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "How to Use Transformers.js in a Chrome Extension",
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
       "score": 10,
@@ -17130,7 +17182,7 @@
     {
       "date": "2026-06-17",
       "posts": 0,
-      "items_processed": 7768,
+      "items_processed": 9712,
       "estimated_tokens": 0
     }
   ]

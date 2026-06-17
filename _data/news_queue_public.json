@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-06-17T12:20:56.326030+00:00",
-  "pending_count": 1096,
+  "updated_at_utc": "2026-06-17T16:23:53.218818+00:00",
+  "pending_count": 1100,
   "pending": [
+    {
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "score": 43,
+      "fetched_at": "2026-06-17",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "In Toy Story 5, the problem really is these damn phones (and tablets)",
+      "url": "https://www.theverge.com/entertainment/950739/toy-story-5-review",
+      "score": 33,
+      "fetched_at": "2026-06-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "The next humanoid robot might not look human at all",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
@@ -74,6 +96,17 @@
         "coding",
         "china"
       ]
+    },
+    {
+      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+      "url": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
@@ -196,6 +229,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "score": 11,
+      "fetched_at": "2026-06-17",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {

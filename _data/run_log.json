@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-06-12 05:35:03 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1937,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-        "file": "_posts/2026-06-12-xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-clau.md",
-        "score": 54,
-        "tags": [
-          "anthropic",
-          "agentic",
-          "coding",
-          "open_source"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-12 10:46:10 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1169,6 +1135,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-17 21:53:53 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 0,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1944,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
       }
     },
     "posts": []
