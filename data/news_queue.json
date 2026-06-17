@@ -1428,6 +1428,19 @@
       "topic": ""
     },
     {
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "score": 33,
+      "fetched_at": "2026-06-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
       "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
       "score": 32,
@@ -11059,6 +11072,21 @@
       "topic": ""
     },
     {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "score": 18,
+      "fetched_at": "2026-06-17",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
       "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
       "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
       "score": 17,
@@ -17102,7 +17130,7 @@
     {
       "date": "2026-06-17",
       "posts": 0,
-      "items_processed": 3882,
+      "items_processed": 5825,
       "estimated_tokens": 0
     }
   ]

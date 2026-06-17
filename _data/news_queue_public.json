@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-17T07:35:28.215319+00:00",
-  "pending_count": 1094,
+  "updated_at_utc": "2026-06-17T12:14:57.706636+00:00",
+  "pending_count": 1096,
   "pending": [
+    {
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "score": 33,
+      "fetched_at": "2026-06-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -151,6 +162,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "score": 18,
+      "fetched_at": "2026-06-17",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Our views on AI policy and political advocacy",
