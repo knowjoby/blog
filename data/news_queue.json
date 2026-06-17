@@ -3048,6 +3048,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
+      "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem",
+      "score": 30,
+      "fetched_at": "2026-06-17",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "I/O 2026: Welcome to the agentic Gemini era",
       "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
       "score": 29,
@@ -3120,6 +3133,21 @@
         "coding"
       ],
       "company": "openai",
+      "topic": "coding"
+    },
+    {
+      "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
+      "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+      "score": 29,
+      "fetched_at": "2026-06-17",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "nvidia",
       "topic": "coding"
     },
     {
@@ -12065,6 +12093,19 @@
       "topic": "regulation"
     },
     {
+      "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "score": 14,
+      "fetched_at": "2026-06-17",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
       "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "score": 12,
@@ -17299,7 +17340,7 @@
     {
       "date": "2026-06-17",
       "posts": 0,
-      "items_processed": 11657,
+      "items_processed": 13603,
       "estimated_tokens": 0
     }
   ]
