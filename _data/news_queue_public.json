@@ -1,7 +1,131 @@
 {
-  "updated_at_utc": "2026-06-16T23:06:19.933030+00:00",
-  "pending_count": 1103,
+  "updated_at_utc": "2026-06-17T02:03:06.795648+00:00",
+  "pending_count": 1088,
   "pending": [
+    {
+      "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+      "score": 32,
+      "fetched_at": "2026-06-17",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "score": 30,
+      "fetched_at": "2026-06-17",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "score": 25,
+      "fetched_at": "2026-06-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding",
+        "china"
+      ]
+    },
+    {
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+      "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "score": 20,
+      "fetched_at": "2026-06-17",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+      "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "score": 18,
+      "fetched_at": "2026-06-17",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
+      "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
+      "score": 12,
+      "fetched_at": "2026-06-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
+      "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
+      "score": 11,
+      "fetched_at": "2026-06-17",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
     {
       "title": "Apple’s smart home camera service is starting to impress me",
       "url": "https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video",
@@ -12119,305 +12243,6 @@
       "topics": [
         "ai"
       ]
-    },
-    {
-      "title": "How to watch Microsoft’s Build 2026 conference",
-      "url": "https://www.theverge.com/tech/941379/microsoft-build-conference-2026-how-to-watch-livestream",
-      "score": 49,
-      "fetched_at": "2026-06-02",
-      "source": "The Verge",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn’t",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "score": 49,
-      "fetched_at": "2026-06-02",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-      "score": 39,
-      "fetched_at": "2026-06-02",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Microsoft’s Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "score": 39,
-      "fetched_at": "2026-06-02",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins",
-      "url": "https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins",
-      "score": 38,
-      "fetched_at": "2026-06-02",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "score": 38,
-      "fetched_at": "2026-06-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-06-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-06-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-      "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-      "score": 26,
-      "fetched_at": "2026-06-02",
-      "source": "Ars Technica",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
-      "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
-      "score": 24,
-      "fetched_at": "2026-06-02",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Zip’s new AI agents want to stop your finance team from uploading contracts into personal ChatGPT accounts",
-      "url": "https://venturebeat.com/technology/zips-new-ai-agents-want-to-stop-your-finance-team-from-uploading-contracts-into-personal-chatgpt-accounts",
-      "score": 24,
-      "fetched_at": "2026-06-02",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta tests ‘Series’ for episodic Reels on Instagram and Facebook",
-      "url": "https://techcrunch.com/2026/06/02/meta-tests-series-for-episodic-reels-on-instagram-and-facebook/",
-      "score": 24,
-      "fetched_at": "2026-06-02",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "score": 24,
-      "fetched_at": "2026-06-02",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "score": 24,
-      "fetched_at": "2026-06-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-      "score": 22,
-      "fetched_at": "2026-06-02",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ]
-    },
-    {
-      "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
-      "url": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
-      "score": 19,
-      "fetched_at": "2026-06-02",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ]
-    },
-    {
-      "title": "Coway Airmega Pedestal Fan P50 Review: Anti-App",
-      "url": "https://www.wired.com/review/coway-airmega-pedestal-fan-p50/",
-      "score": 18,
-      "fetched_at": "2026-06-02",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "score": 18,
-      "fetched_at": "2026-06-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Trump Administration Is at War With Itself Over AI Regulation",
-      "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
-      "score": 17,
-      "fetched_at": "2026-06-02",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.",
-      "url": "https://venturebeat.com/data/enterprise-ai-agents-keep-creating-data-silos-microsofts-build-answer-is-microsoft-iq-and-rayfin",
-      "score": 16,
-      "fetched_at": "2026-06-02",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ]
-    },
-    {
-      "title": "ZeroDrift raises $10 million to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "score": 14,
-      "fetched_at": "2026-06-02",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "score": 14,
-      "fetched_at": "2026-06-02",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "score": 14,
-      "fetched_at": "2026-06-02",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
-      "url": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026",
-      "score": 12,
-      "fetched_at": "2026-06-02",
-      "source": "VentureBeat",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Rehumanizing global health care with agentic AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "score": 11,
-      "fetched_at": "2026-06-02",
-      "source": "MIT Tech Review",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-06-02",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": []
     }
   ]
 }
