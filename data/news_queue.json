@@ -7413,6 +7413,19 @@
       "topic": ""
     },
     {
+      "title": "The Korean Telecom Giant at the Center of Anthropic\u2019s Mythos Controversy",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "score": 24,
+      "fetched_at": "2026-06-17",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Agentic AI solved coding \u2014 and exposed every other problem in software engineering",
       "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
       "score": 22,
@@ -17340,7 +17353,7 @@
     {
       "date": "2026-06-17",
       "posts": 0,
-      "items_processed": 13603,
+      "items_processed": 15549,
       "estimated_tokens": 0
     }
   ]
