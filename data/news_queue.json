@@ -712,6 +712,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "score": 41,
+      "fetched_at": "2026-06-18",
+      "source": "The Verge",
+      "companies": [
+        "midjourney"
+      ],
+      "topics": [],
+      "company": "midjourney",
+      "topic": ""
+    },
+    {
       "title": "Microsoft's AI Futurist explains how he uses Copilot \u2014 and the real-world problems enterprises are solving with agents",
       "url": "https://venturebeat.com/orchestration/microsofts-ai-futurist-explains-how-he-uses-copilot-and-the-real-world-problems-enterprises-are-solving-with-agents",
       "score": 40,
@@ -2994,6 +3007,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "score": 30,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3067,6 +3093,21 @@
       ],
       "company": "nvidia",
       "topic": "coding"
+    },
+    {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "score": 29,
+      "fetched_at": "2026-06-18",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
     },
     {
       "title": "Best practices for deploying language models",
@@ -3670,6 +3711,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "score": 26,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
@@ -7215,6 +7271,32 @@
       "score": 24,
       "fetched_at": "2026-06-18",
       "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "Google AI",
       "companies": [
         "google"
       ],
@@ -11016,6 +11098,32 @@
       "topic": ""
     },
     {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 18,
+      "fetched_at": "2026-06-18",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11797,6 +11905,19 @@
       "topics": [],
       "company": "anthropic",
       "topic": ""
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "score": 14,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
     },
     {
       "title": "Airbnb\u2019s Brian Chesky plans to launch a new AI lab",
@@ -17026,7 +17147,7 @@
     {
       "date": "2026-06-18",
       "posts": 0,
-      "items_processed": 1946,
+      "items_processed": 3892,
       "estimated_tokens": 0
     }
   ]

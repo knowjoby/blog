@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-06-12 22:02:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1939,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-        "file": "_posts/2026-06-12-spacex-anthropic-and-openais-hot-ipo-summer.md",
-        "score": 84,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-13 00:40:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1147,6 +1113,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-18 12:46:33 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 9,
+    "posts_created": 0,
+    "queued": 9,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 9
+      },
+      "rss": {
+        "raw": 1946,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 9
       }
     },
     "posts": []

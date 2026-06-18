@@ -1,7 +1,55 @@
 {
-  "updated_at_utc": "2026-06-18T02:01:46.617649+00:00",
-  "pending_count": 1088,
+  "updated_at_utc": "2026-06-18T07:16:33.754003+00:00",
+  "pending_count": 1097,
   "pending": [
+    {
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "score": 41,
+      "fetched_at": "2026-06-18",
+      "source": "The Verge",
+      "companies": [
+        "midjourney"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "score": 30,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "score": 29,
+      "fetched_at": "2026-06-18",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "score": 26,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
     {
       "title": "How to turn off AI in your Google Docs",
       "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
@@ -12,6 +60,61 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 18,
+      "fetched_at": "2026-06-18",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "score": 14,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ]
     },
     {
       "title": "Vibe-decoding the White House-Anthropic fight over Fable",
