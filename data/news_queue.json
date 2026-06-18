@@ -3795,6 +3795,36 @@
       "topic": "reasoning"
     },
     {
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "score": 26,
+      "fetched_at": "2026-06-18",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
       "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
       "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
       "score": 25,
@@ -7372,6 +7402,19 @@
       "topic": ""
     },
     {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Agentic AI solved coding \u2014 and exposed every other problem in software engineering",
       "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
       "score": 22,
@@ -7513,6 +7556,21 @@
       "score": 22,
       "fetched_at": "2026-06-16",
       "source": "Ars Technica",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
+    },
+    {
+      "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+      "score": 22,
+      "fetched_at": "2026-06-18",
+      "source": "VentureBeat",
       "companies": [
         "microsoft"
       ],
@@ -17240,7 +17298,7 @@
     {
       "date": "2026-06-18",
       "posts": 0,
-      "items_processed": 9733,
+      "items_processed": 11684,
       "estimated_tokens": 0
     }
   ]

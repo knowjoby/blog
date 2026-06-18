@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-18T15:38:49.057584+00:00",
-  "pending_count": 1104,
+  "updated_at_utc": "2026-06-18T18:28:35.990506+00:00",
+  "pending_count": 1108,
   "pending": [
     {
       "title": "Who decides when AI is too dangerous?",
@@ -82,6 +82,32 @@
       ]
     },
     {
+      "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+      "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
+      "score": 26,
+      "fetched_at": "2026-06-18",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-06-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
       "title": "A blueprint for democratic governance of frontier AI",
       "url": "https://openai.com/index/frontier-safety-blueprint",
       "score": 26,
@@ -106,6 +132,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "How to turn off AI in your Google Docs",
@@ -139,6 +176,19 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+      "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
+      "score": 22,
+      "fetched_at": "2026-06-18",
+      "source": "VentureBeat",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
