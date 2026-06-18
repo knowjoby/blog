@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Supernatural isn\u2019t dead after all",
-      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
-      "score": 49,
-      "fetched_at": "2026-06-03",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia is already planning N2X and N3X chips \u2014 the goal is the Star Trek computer",
-      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-      "score": 49,
-      "fetched_at": "2026-06-03",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Windows is back on the Microsoft menu",
       "url": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
       "score": 49,
@@ -450,19 +424,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "A first look at Microsoft\u2019s Surface Laptop Ultra and Surface Dev Box",
-      "url": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "score": 43,
-      "fetched_at": "2026-06-03",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "This is your laptop\u2026 on AI",
@@ -1506,21 +1467,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
-      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "score": 32,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "meta",
-      "topic": "agentic"
-    },
-    {
       "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "score": 32,
@@ -1937,19 +1883,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "score": 30,
-      "fetched_at": "2026-06-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "The next phase of OpenAI\u2019s Education for Countries",
@@ -3061,21 +2994,6 @@
       "topic": ""
     },
     {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "score": 29,
-      "fetched_at": "2026-06-03",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
-    },
-    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3303,36 +3221,6 @@
         "robotics"
       ],
       "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "score": 26,
-      "fetched_at": "2026-06-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
-      "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-      "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-      "score": 26,
-      "fetched_at": "2026-06-03",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "nvidia",
       "topic": "robotics"
     },
     {
@@ -3810,110 +3698,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia\u2019s RTX Spark Laptops Look Hell-Bent on Disruption",
-      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "What\u2019s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-      "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta mercifully spun out VR fitness game Supernatural instead of just killing it",
-      "url": "https://techcrunch.com/2026/06/03/meta-mercifully-spun-out-vr-fitness-game-supernatural-instead-of-just-killing-it/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
-      "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Inside Meta's attempts to play catch-up with AI",
-      "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
-      "score": 24,
-      "fetched_at": "2026-06-03",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
@@ -7426,6 +7210,19 @@
       "topic": ""
     },
     {
+      "title": "How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "score": 24,
+      "fetched_at": "2026-06-18",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Agentic AI solved coding \u2014 and exposed every other problem in software engineering",
       "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
       "score": 22,
@@ -7712,71 +7509,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "score": 18,
-      "fetched_at": "2026-06-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "score": 18,
-      "fetched_at": "2026-06-03",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Redditors Are Using AI to Beat Obscene World Cup Ticket Prices",
-      "url": "https://www.wired.com/story/redditors-are-using-ai-to-beat-obscene-fifa-world-cup-ticket-prices/",
-      "score": 18,
-      "fetched_at": "2026-06-03",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
-      "url": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
-      "score": 18,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
-      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-      "score": 18,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
@@ -11284,19 +11016,6 @@
       "topic": ""
     },
     {
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "score": 17,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11768,45 +11487,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token \u2014 but it's proprietary",
-      "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
-      "score": 14,
-      "fetched_at": "2026-06-03",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "score": 14,
-      "fetched_at": "2026-06-03",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Google's new open source Gemma 4 12B analyzes audio, video \u2014 and runs entirely locally on a typical 16GB enterprise laptop",
-      "url": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
-      "score": 14,
-      "fetched_at": "2026-06-03",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "open_source"
-      ],
-      "company": "",
-      "topic": "open_source"
-    },
-    {
       "title": "Is Silicon Valley ready to put robots in people\u2019s homes? Hello Robot is.",
       "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
       "score": 14,
@@ -12117,19 +11797,6 @@
       "topics": [],
       "company": "anthropic",
       "topic": ""
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "score": 12,
-      "fetched_at": "2026-06-03",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Airbnb\u2019s Brian Chesky plans to launch a new AI lab",
@@ -17354,6 +17021,12 @@
       "date": "2026-06-17",
       "posts": 0,
       "items_processed": 15549,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-18",
+      "posts": 0,
+      "items_processed": 1946,
       "estimated_tokens": 0
     }
   ]
