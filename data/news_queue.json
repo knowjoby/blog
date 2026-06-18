@@ -11289,6 +11289,19 @@
       "topic": ""
     },
     {
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "score": 18,
+      "fetched_at": "2026-06-18",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -17338,7 +17351,7 @@
     {
       "date": "2026-06-18",
       "posts": 0,
-      "items_processed": 13636,
+      "items_processed": 15588,
       "estimated_tokens": 0
     }
   ]

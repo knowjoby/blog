@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-18T21:05:36.499359+00:00",
-  "pending_count": 1111,
+  "updated_at_utc": "2026-06-18T23:18:58.812154+00:00",
+  "pending_count": 1112,
   "pending": [
     {
       "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
@@ -223,6 +223,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "The White House Is Making Up Its Rules for AI in Real Time",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "score": 18,
+      "fetched_at": "2026-06-18",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
