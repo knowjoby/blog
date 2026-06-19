@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-19T07:40:10.187122+00:00",
-  "pending_count": 1099,
+  "updated_at_utc": "2026-06-19T12:05:04.486084+00:00",
+  "pending_count": 1101,
   "pending": [
     {
       "title": "Barret Zoph is out at OpenAI again after just five months",
@@ -43,6 +43,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Try One of macOS 27’s Best Features Right Now",
+      "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
+      "score": 24,
+      "fetched_at": "2026-06-19",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -133,6 +144,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "score": 12,
+      "fetched_at": "2026-06-19",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",

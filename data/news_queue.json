@@ -7335,6 +7335,19 @@
       "topic": ""
     },
     {
+      "title": "Try One of macOS 27\u2019s Best Features Right Now",
+      "url": "https://www.wired.com/story/try-one-of-macos-27s-best-features-right-now-shortcuts-playground-agent/",
+      "score": 24,
+      "fetched_at": "2026-06-19",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Agentic AI solved coding \u2014 and exposed every other problem in software engineering",
       "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering",
       "score": 22,
@@ -12035,6 +12048,19 @@
       "score": 12,
       "fetched_at": "2026-06-17",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "score": 12,
+      "fetched_at": "2026-06-19",
+      "source": "MIT Tech Review",
       "companies": [],
       "topics": [
         "ai"
@@ -17185,7 +17211,7 @@
     {
       "date": "2026-06-19",
       "posts": 0,
-      "items_processed": 3904,
+      "items_processed": 5856,
       "estimated_tokens": 0
     }
   ]
