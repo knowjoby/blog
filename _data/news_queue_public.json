@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-19T20:16:35.662553+00:00",
-  "pending_count": 1103,
+  "updated_at_utc": "2026-06-19T21:45:54.171913+00:00",
+  "pending_count": 1104,
   "pending": [
     {
       "title": "Barret Zoph is out at OpenAI again after just five months",
@@ -67,6 +67,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+      "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+      "score": 26,
+      "fetched_at": "2026-06-19",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Try One of macOS 27’s Best Features Right Now",

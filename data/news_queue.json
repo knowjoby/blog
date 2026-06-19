@@ -3810,6 +3810,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
+      "url": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+      "score": 26,
+      "fetched_at": "2026-06-19",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
       "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
       "score": 25,
@@ -17237,7 +17252,7 @@
     {
       "date": "2026-06-19",
       "posts": 0,
-      "items_processed": 13664,
+      "items_processed": 15616,
       "estimated_tokens": 0
     }
   ]

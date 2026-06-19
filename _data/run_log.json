@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-06-14 03:17:22 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1940,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-        "file": "_posts/2026-06-13-amazon-security-research-reportedly-led-to-the-white-houses-anthropic.md",
-        "score": 51,
-        "tags": [
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-14 04:41:27 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1135,6 +1104,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-20 03:15:54 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1952,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
