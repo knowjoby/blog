@@ -872,6 +872,19 @@
       "topic": "regulation"
     },
     {
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "score": 39,
+      "fetched_at": "2026-06-19",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -17211,7 +17224,7 @@
     {
       "date": "2026-06-19",
       "posts": 0,
-      "items_processed": 7808,
+      "items_processed": 9760,
       "estimated_tokens": 0
     }
   ]

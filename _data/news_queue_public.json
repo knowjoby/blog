@@ -1,11 +1,22 @@
 {
-  "updated_at_utc": "2026-06-19T12:12:57.602087+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-06-19T15:49:21.086629+00:00",
+  "pending_count": 1102,
   "pending": [
     {
       "title": "Barret Zoph is out at OpenAI again after just five months",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
       "score": 49,
+      "fetched_at": "2026-06-19",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "score": 39,
       "fetched_at": "2026-06-19",
       "source": "The Verge",
       "companies": [
