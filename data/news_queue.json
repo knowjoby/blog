@@ -609,6 +609,20 @@
       "topic": "regulation"
     },
     {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "score": 42,
+      "fetched_at": "2026-06-20",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "google"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -17153,7 +17167,7 @@
     {
       "date": "2026-06-20",
       "posts": 0,
-      "items_processed": 13664,
+      "items_processed": 15616,
       "estimated_tokens": 0
     }
   ]
