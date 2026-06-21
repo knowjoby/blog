@@ -1418,6 +1418,19 @@
       "topic": "robotics"
     },
     {
+      "title": "How Roomba started a robot revolution",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "score": 33,
+      "fetched_at": "2026-06-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -17120,7 +17133,7 @@
     {
       "date": "2026-06-21",
       "posts": 0,
-      "items_processed": 8957,
+      "items_processed": 10909,
       "estimated_tokens": 0
     }
   ]

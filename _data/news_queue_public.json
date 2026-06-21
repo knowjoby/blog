@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-21T12:00:00.693734+00:00",
-  "pending_count": 1094,
+  "updated_at_utc": "2026-06-21T14:29:53.651274+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -27,6 +27,17 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "How Roomba started a robot revolution",
+      "url": "https://www.theverge.com/podcast/953275/roomba-robot-vacuum-version-history",
+      "score": 33,
+      "fetched_at": "2026-06-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
