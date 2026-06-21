@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-06-16 13:59:07 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 8,
-    "posts_created": 1,
-    "queued": 7,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 8
-      },
-      "rss": {
-        "raw": 1940,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 8
-      }
-    },
-    "posts": [
-      {
-        "title": "Inside the fight over Claude Mythos 5",
-        "file": "_posts/2026-06-16-inside-the-fight-over-claude-mythos-5.md",
-        "score": 57,
-        "tags": [
-          "anthropic",
-          "open_source"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-16 18:22:03 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1117,6 +1085,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-22 01:43:19 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1952,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
