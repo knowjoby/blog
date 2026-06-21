@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "score": 49,
-      "fetched_at": "2026-06-06",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta\u2019s AI chatbot",
       "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
       "score": 49,
@@ -711,22 +698,6 @@
       "topic": ""
     },
     {
-      "title": "Introducing ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "score": 40,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning",
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
       "score": 40,
@@ -1004,20 +975,6 @@
       "topic": "ai"
     },
     {
-      "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
-      "url": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
-      "score": 36,
-      "fetched_at": "2026-06-06",
-      "source": "Wired",
-      "companies": [
-        "anthropic",
-        "meta"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Apple\u2019s best AI idea looks a lot like vibe coding",
       "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
       "score": 36,
@@ -1085,21 +1042,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "score": 35,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -1831,19 +1773,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "score": 30,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Update on the OpenAI Foundation",
@@ -3734,58 +3663,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "score": 24,
-      "fetched_at": "2026-06-06",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "score": 24,
-      "fetched_at": "2026-06-06",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Helping developers build safer AI experiences for teens",
@@ -7560,97 +7437,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Making ChatGPT better for clinicians",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "When Claude changed, everything changed: Managing AI blast radius in production",
-      "url": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
-      "score": 18,
-      "fetched_at": "2026-06-06",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Simplex rethinks software development with Codex",
@@ -12017,19 +11803,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "score": 11,
-      "fetched_at": "2026-06-06",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Coding and design with GPT-5",
@@ -17168,6 +16941,12 @@
       "date": "2026-06-20",
       "posts": 0,
       "items_processed": 21472,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-21",
+      "posts": 0,
+      "items_processed": 1952,
       "estimated_tokens": 0
     }
   ]
