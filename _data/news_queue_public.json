@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-21T09:09:10.076418+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-06-21T11:14:42.469074+00:00",
+  "pending_count": 1094,
   "pending": [
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -57,6 +57,17 @@
       "score": 24,
       "fetched_at": "2026-06-21",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "score": 18,
+      "fetched_at": "2026-06-21",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
