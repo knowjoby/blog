@@ -254,6 +254,19 @@
       "topic": ""
     },
     {
+      "title": "WhatsApp head Will Cathcart is stepping down after seven years",
+      "url": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred",
+      "score": 49,
+      "fetched_at": "2026-06-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Apple\u2019s New Siri AI Is Ready to Get Personal",
       "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
       "score": 48,
@@ -346,6 +359,20 @@
       "companies": [
         "openai",
         "google"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How Anthropic may have talked itself into an AI export ban",
+      "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+      "score": 48,
+      "fetched_at": "2026-06-22",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": [],
       "company": "openai",
@@ -17125,7 +17152,7 @@
     {
       "date": "2026-06-22",
       "posts": 0,
-      "items_processed": 5860,
+      "items_processed": 7814,
       "estimated_tokens": 0
     }
   ]
