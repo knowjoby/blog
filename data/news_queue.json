@@ -14485,6 +14485,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "score": 10,
+      "fetched_at": "2026-06-22",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -17112,7 +17125,7 @@
     {
       "date": "2026-06-22",
       "posts": 0,
-      "items_processed": 3906,
+      "items_processed": 5860,
       "estimated_tokens": 0
     }
   ]
