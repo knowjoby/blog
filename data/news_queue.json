@@ -1005,6 +1005,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+      "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
+      "score": 38,
+      "fetched_at": "2026-06-22",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
+    },
+    {
       "title": "Apple is embracing the fantasy of AI photo editing",
       "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
       "score": 37,
@@ -3019,6 +3034,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that\u2019s not the same as fixing AI\u2019s water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "score": 30,
+      "fetched_at": "2026-06-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -7343,6 +7371,32 @@
       "topic": ""
     },
     {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "score": 24,
+      "fetched_at": "2026-06-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+      "score": 24,
+      "fetched_at": "2026-06-22",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
       "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
       "score": 22,
@@ -7587,6 +7641,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "score": 20,
+      "fetched_at": "2026-06-22",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -17327,7 +17394,7 @@
     {
       "date": "2026-06-22",
       "posts": 2,
-      "items_processed": 9771,
+      "items_processed": 11728,
       "estimated_tokens": 0
     }
   ]
