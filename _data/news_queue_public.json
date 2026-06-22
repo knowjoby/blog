@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-22T14:46:35.847737+00:00",
-  "pending_count": 1096,
+  "updated_at_utc": "2026-06-22T18:50:20.790970+00:00",
+  "pending_count": 1107,
   "pending": [
     {
       "title": "WhatsApp head Will Cathcart is stepping down after seven years",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google invests in A24 to build AI movie tools",
+      "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership",
+      "score": 49,
+      "fetched_at": "2026-06-22",
+      "source": "The Verge",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -53,6 +64,30 @@
       ]
     },
     {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "score": 32,
+      "fetched_at": "2026-06-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "Anthropic says Claude may want to see your ID",
+      "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
+      "score": 30,
+      "fetched_at": "2026-06-22",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "score": 30,
@@ -62,6 +97,32 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "AI hit the memory wall — now it needs a new context tier",
+      "url": "https://venturebeat.com/orchestration/ai-hit-the-memory-wall-now-it-needs-a-new-context-tier",
+      "score": 26,
+      "fetched_at": "2026-06-22",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "score": 26,
+      "fetched_at": "2026-06-22",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "open_source"
+      ]
     },
     {
       "title": "How Balyasny Asset Management built an AI research engine",
@@ -77,8 +138,52 @@
       ]
     },
     {
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "score": 24,
+      "fetched_at": "2026-06-22",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "WhatsApp gets new chief as Meta taps India’s CRED founder Kunal Shah and invests $900M in startup",
+      "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
+      "score": 24,
+      "fetched_at": "2026-06-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "score": 24,
+      "fetched_at": "2026-06-22",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-06-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
       "score": 24,
       "fetched_at": "2026-06-22",
       "source": "OpenAI",
@@ -119,6 +224,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+      "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60",
+      "score": 12,
+      "fetched_at": "2026-06-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Why agentic enterprises need to become learning systems",
+      "url": "https://venturebeat.com/orchestration/why-agentic-enterprises-need-to-become-learning-systems",
+      "score": 11,
+      "fetched_at": "2026-06-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",

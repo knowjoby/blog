@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-17 13:05:28 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 0,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1941,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-17 17:44:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1098,5 +1076,47 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-23 00:20:20 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 13,
+    "posts_created": 2,
+    "queued": 11,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 13
+      },
+      "rss": {
+        "raw": 1957,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 13
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos",
+        "file": "_posts/2026-06-22-openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-take.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      },
+      {
+        "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+        "file": "_posts/2026-06-22-no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with.md",
+        "score": 50,
+        "tags": [
+          "openai",
+          "anthropic",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
