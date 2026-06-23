@@ -1,7 +1,31 @@
 {
-  "updated_at_utc": "2026-06-22T23:24:33.874288+00:00",
-  "pending_count": 1112,
+  "updated_at_utc": "2026-06-23T01:31:51.757357+00:00",
+  "pending_count": 1085,
   "pending": [
+    {
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "score": 49,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "score": 38,
+      "fetched_at": "2026-06-23",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
     {
       "title": "WhatsApp head Will Cathcart is stepping down after seven years",
       "url": "https://www.theverge.com/tech/953464/whatsapp-will-cathcart-stepping-down-cred",
@@ -12186,333 +12210,6 @@
       "topics": [
         "agentic"
       ]
-    },
-    {
-      "title": "44 things coming to your Apple devices that you might have missed",
-      "url": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
-      "score": 49,
-      "fetched_at": "2026-06-08",
-      "source": "The Verge",
-      "companies": [
-        "apple"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Hackers likely hijacked over 20,000 Instagram accounts with Meta’s AI chatbot",
-      "url": "https://www.theverge.com/tech/945658/meta-ai-support-chatbot-exploit-instagram-accounts",
-      "score": 49,
-      "fetched_at": "2026-06-08",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "NotebookLM’s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-      "score": 49,
-      "fetched_at": "2026-06-08",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "score": 49,
-      "fetched_at": "2026-06-08",
-      "source": "The Verge",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Apple’s New Siri AI Is Ready to Get Personal",
-      "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
-      "score": 48,
-      "fetched_at": "2026-06-08",
-      "source": "Wired",
-      "companies": [
-        "google",
-        "apple"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI files confidentially for IPO, following Anthropic",
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "score": 48,
-      "fetched_at": "2026-06-08",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
-      "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
-      "score": 43,
-      "fetched_at": "2026-06-08",
-      "source": "The Verge",
-      "companies": [
-        "apple"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "score": 38,
-      "fetched_at": "2026-06-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "score": 30,
-      "fetched_at": "2026-06-08",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "score": 30,
-      "fetched_at": "2026-06-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-      "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-      "score": 30,
-      "fetched_at": "2026-06-08",
-      "source": "Ars Technica",
-      "companies": [
-        "apple"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
-      "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
-      "score": 24,
-      "fetched_at": "2026-06-08",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-      "score": 24,
-      "fetched_at": "2026-06-08",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "score": 24,
-      "fetched_at": "2026-06-08",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta alleges NSO violated spyware injunction with new WhatsApp attacks",
-      "url": "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
-      "score": 24,
-      "fetched_at": "2026-06-08",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-      "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-      "score": 24,
-      "fetched_at": "2026-06-08",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-      "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
-      "score": 24,
-      "fetched_at": "2026-06-08",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "score": 21,
-      "fetched_at": "2026-06-08",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "score": 20,
-      "fetched_at": "2026-06-08",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "score": 19,
-      "fetched_at": "2026-06-08",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ]
-    },
-    {
-      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
-      "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
-      "score": 18,
-      "fetched_at": "2026-06-08",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "NotebookLM’s new update will help you build source repository from chat",
-      "url": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/",
-      "score": 18,
-      "fetched_at": "2026-06-08",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "score": 18,
-      "fetched_at": "2026-06-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "score": 18,
-      "fetched_at": "2026-06-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "url": "https://openai.com/index/cyberagent",
-      "score": 18,
-      "fetched_at": "2026-06-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Built for broad benefit",
-      "url": "https://openai.com/index/built-for-broad-benefit",
-      "score": 18,
-      "fetched_at": "2026-06-08",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 16,
-      "fetched_at": "2026-06-08",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding",
-        "open_source"
-      ]
-    },
-    {
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "score": 16,
-      "fetched_at": "2026-06-08",
-      "source": "Hugging Face",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "score": 10,
-      "fetched_at": "2026-06-08",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": []
     }
   ]
 }
