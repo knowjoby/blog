@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-23T20:34:15.550505+00:00",
-  "pending_count": 1111,
+  "updated_at_utc": "2026-06-23T22:18:36.617354+00:00",
+  "pending_count": 1113,
   "pending": [
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -32,6 +32,17 @@
       "source": "The Verge",
       "companies": [
         "midjourney"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Hollywood is bending the knee to OpenAI",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "score": 45,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -70,6 +81,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Prime Day takes $240 off Roborock’s Saros 20, one of our favorite robovacs",
+      "url": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
