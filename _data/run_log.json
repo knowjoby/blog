@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-18 07:31:46 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1946,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-18 12:46:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 9,
@@ -1118,5 +1096,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-23 18:53:06 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1961,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta launches cheaper smart glasses without Ray-Ban",
+        "file": "_posts/2026-06-23-meta-launches-cheaper-smart-glasses-without-ray-ban.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]

@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-06-23T11:15:21.830664+00:00",
-  "pending_count": 1095,
+  "updated_at_utc": "2026-06-23T13:23:06.837742+00:00",
+  "pending_count": 1100,
   "pending": [
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
       "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "score": 49,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Valve confirms it’s working with Intel and Nvidia on SteamOS for more GPUs",
+      "url": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
       "score": 49,
       "fetched_at": "2026-06-23",
       "source": "The Verge",
@@ -40,6 +51,17 @@
       ]
     },
     {
+      "title": "Meta’s Very Own Smart Glasses Go on Sale Today for $299",
+      "url": "https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/",
+      "score": 30,
+      "fetched_at": "2026-06-23",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing the OpenAI Economic Research Exchange",
       "url": "https://openai.com/index/economic-research-exchange",
       "score": 30,
@@ -47,6 +69,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+      "score": 24,
+      "fetched_at": "2026-06-23",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -129,6 +162,28 @@
         "deepseek"
       ],
       "topics": []
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "score": 12,
+      "fetched_at": "2026-06-23",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "score": 11,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
