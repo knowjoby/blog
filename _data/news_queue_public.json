@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-23T18:22:40.916927+00:00",
-  "pending_count": 1105,
+  "updated_at_utc": "2026-06-23T20:34:15.550505+00:00",
+  "pending_count": 1111,
   "pending": [
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -36,6 +36,17 @@
       "topics": []
     },
     {
+      "title": "Zuckerberg reportedly wants a Polymarket clone — but without real money",
+      "url": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
+      "score": 39,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI launches new initiative to help find and patch open-source bugs",
       "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "score": 38,
@@ -62,6 +73,17 @@
       ]
     },
     {
+      "title": "Eufy’s Omni C28 is one of the best Prime Day deals on robot vacuums",
+      "url": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "Meta’s Very Own Smart Glasses Go on Sale Today for $299",
       "url": "https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/",
       "score": 30,
@@ -78,6 +100,28 @@
       "score": 30,
       "fetched_at": "2026-06-23",
       "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
+      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
+      "score": 30,
+      "fetched_at": "2026-06-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+      "score": 30,
+      "fetched_at": "2026-06-23",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
@@ -186,6 +230,17 @@
       "topics": []
     },
     {
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
       "url": "https://openai.com/index/cyberagent",
       "score": 18,
@@ -206,6 +261,17 @@
         "deepseek"
       ],
       "topics": []
+    },
+    {
+      "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+      "score": 14,
+      "fetched_at": "2026-06-23",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
