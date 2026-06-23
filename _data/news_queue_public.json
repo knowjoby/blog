@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-23T06:13:26.750735+00:00",
-  "pending_count": 1094,
+  "updated_at_utc": "2026-06-23T10:11:19.494757+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -89,6 +89,17 @@
     {
       "title": "Confidential submission of draft S-1 to the SEC",
       "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
       "score": 18,
       "fetched_at": "2026-06-23",
       "source": "OpenAI",
