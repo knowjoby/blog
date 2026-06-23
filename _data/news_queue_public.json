@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-23T16:10:45.087809+00:00",
-  "pending_count": 1102,
+  "updated_at_utc": "2026-06-23T18:22:40.916927+00:00",
+  "pending_count": 1105,
   "pending": [
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -73,6 +73,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+      "score": 30,
+      "fetched_at": "2026-06-23",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing the OpenAI Economic Research Exchange",
       "url": "https://openai.com/index/economic-research-exchange",
       "score": 30,
@@ -102,6 +113,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "score": 24,
+      "fetched_at": "2026-06-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -210,6 +232,17 @@
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
       "score": 10,
       "fetched_at": "2026-06-23",
       "source": "Hugging Face",
