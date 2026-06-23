@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-23T01:31:51.757357+00:00",
-  "pending_count": 1085,
+  "updated_at_utc": "2026-06-23T06:13:26.750735+00:00",
+  "pending_count": 1094,
   "pending": [
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
@@ -25,6 +25,110 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "score": 30,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "score": 19,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "WhatsApp head Will Cathcart is stepping down after seven years",

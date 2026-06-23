@@ -940,6 +940,21 @@
       "topic": "open_source"
     },
     {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Apple is embracing the fantasy of AI photo editing",
       "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
       "score": 37,
@@ -2928,6 +2943,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "score": 30,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -7352,6 +7380,21 @@
       "topic": "coding"
     },
     {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "huggingface",
+      "topic": "multimodal"
+    },
+    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -7455,6 +7498,20 @@
       "topics": [
         "agentic",
         "reasoning"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "score": 19,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
       ],
       "company": "",
       "topic": "agentic"
@@ -10952,6 +11009,45 @@
       "topic": ""
     },
     {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "url": "https://openai.com/index/cyberagent",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-06-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11407,6 +11503,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "deepseek",
+      "topic": ""
     },
     {
       "title": "Introducing GPT-5.5",
@@ -14384,6 +14493,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-06-23",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -17043,7 +17165,7 @@
     {
       "date": "2026-06-23",
       "posts": 0,
-      "items_processed": 1957,
+      "items_processed": 3914,
       "estimated_tokens": 0
     }
   ]
