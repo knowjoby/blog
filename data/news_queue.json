@@ -338,6 +338,19 @@
       "topic": ""
     },
     {
+      "title": "Something\u2019s off with Midjourney\u2019s pivot to body scanners",
+      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "score": 47,
+      "fetched_at": "2026-06-23",
+      "source": "The Verge",
+      "companies": [
+        "midjourney"
+      ],
+      "topics": [],
+      "company": "midjourney",
+      "topic": ""
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -7264,6 +7277,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Meta debuts new, cheaper smart glasses under its own brand",
+      "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
+      "score": 24,
+      "fetched_at": "2026-06-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -16599,6 +16625,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta\u2019s smart glasses now have a dedicated charging stand",
+      "url": "https://www.theverge.com/tech/954900/meta-glasses-charging-stand-price-launch",
+      "score": 55,
+      "file": "_posts/2026-06-23-metas-smart-glasses-now-have-a-dedicated-charging-stand.md",
+      "posted_at": "2026-06-23",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17253,8 +17290,8 @@
     },
     {
       "date": "2026-06-23",
-      "posts": 1,
-      "items_processed": 9795,
+      "posts": 2,
+      "items_processed": 11756,
       "estimated_tokens": 0
     }
   ]
