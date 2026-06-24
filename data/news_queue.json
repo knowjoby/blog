@@ -3116,6 +3116,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Visa will offer an inside look at Project Glasswing and how the most powerful agentic models are changing enterprise security at VB Transform 2026",
+      "url": "https://venturebeat.com/security/visa-will-offer-an-inside-look-at-project-glasswing-and-how-the-most-powerful-agentic-models-are-changing-enterprise-security-at-vb-transform-2026",
+      "score": 29,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Best practices for deploying language models",
       "url": "https://openai.com/index/best-practices-for-deploying-language-models",
       "score": 28,
@@ -11127,6 +11142,19 @@
       "topic": "agentic"
     },
     {
+      "title": "How Shopify built an AI stack that doesn't care which models survive",
+      "url": "https://venturebeat.com/orchestration/how-shopify-built-an-ai-stack-that-doesnt-care-which-models-survive",
+      "score": 18,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -12557,6 +12585,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "score": 11,
+      "fetched_at": "2026-06-24",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Migrating Your GitHub CI to Hugging Face Jobs",
@@ -16685,6 +16726,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "score": 61,
+      "file": "_posts/2026-06-24-the-27-million-al-proxy-war-over-alex-bores-ends-in-a-draw.md",
+      "posted_at": "2026-06-24",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17345,8 +17398,8 @@
     },
     {
       "date": "2026-06-24",
-      "posts": 1,
-      "items_processed": 11788,
+      "posts": 2,
+      "items_processed": 13755,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-24T16:25:21.097042+00:00",
-  "pending_count": 1104,
+  "updated_at_utc": "2026-06-24T18:18:36.787312+00:00",
+  "pending_count": 1107,
   "pending": [
     {
       "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
@@ -72,6 +72,19 @@
       "topics": []
     },
     {
+      "title": "Visa will offer an inside look at Project Glasswing and how the most powerful agentic models are changing enterprise security at VB Transform 2026",
+      "url": "https://venturebeat.com/security/visa-will-offer-an-inside-look-at-project-glasswing-and-how-the-most-powerful-agentic-models-are-changing-enterprise-security-at-vb-transform-2026",
+      "score": 29,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
       "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
       "score": 24,
@@ -101,6 +114,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Shopify built an AI stack that doesn't care which models survive",
+      "url": "https://venturebeat.com/orchestration/how-shopify-built-an-ai-stack-that-doesnt-care-which-models-survive",
+      "score": 18,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -280,6 +304,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "score": 11,
+      "fetched_at": "2026-06-24",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
