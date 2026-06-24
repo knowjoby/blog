@@ -299,6 +299,34 @@
       "topic": ""
     },
     {
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "score": 48,
+      "fetched_at": "2026-06-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "score": 48,
+      "fetched_at": "2026-06-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Something\u2019s off with Midjourney\u2019s pivot to body scanners",
       "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
       "score": 47,
@@ -17241,7 +17269,7 @@
     {
       "date": "2026-06-24",
       "posts": 0,
-      "items_processed": 7856,
+      "items_processed": 9821,
       "estimated_tokens": 0
     }
   ]
