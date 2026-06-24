@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-24T13:37:06.739855+00:00",
-  "pending_count": 1099,
+  "updated_at_utc": "2026-06-24T16:25:21.097042+00:00",
+  "pending_count": 1104,
   "pending": [
     {
       "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
@@ -27,11 +27,67 @@
       "topics": []
     },
     {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "score": 34,
+      "fetched_at": "2026-06-24",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "score": 33,
+      "fetched_at": "2026-06-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models",
+      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+      "score": 30,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "score": 30,
       "fetched_at": "2026-06-24",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "score": 24,
+      "fetched_at": "2026-06-24",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 24,
+      "fetched_at": "2026-06-24",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],

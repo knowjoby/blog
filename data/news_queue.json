@@ -1331,6 +1331,20 @@
       "topic": ""
     },
     {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "score": 34,
+      "fetched_at": "2026-06-24",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "The next humanoid robot might not look human at all",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
       "score": 33,
@@ -1420,6 +1434,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "score": 33,
+      "fetched_at": "2026-06-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "OpenAI to acquire Astral",
@@ -2978,6 +3005,19 @@
       "score": 30,
       "fetched_at": "2026-06-24",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI unveils first custom AI inference chip, Jalape\u00f1o, with Broadcom \u2014 and its development was sped-up with OpenAI's own models",
+      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+      "score": 30,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
       "companies": [
         "openai"
       ],
@@ -7226,6 +7266,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 24,
+      "fetched_at": "2026-06-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
+      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "score": 24,
+      "fetched_at": "2026-06-24",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -16608,6 +16674,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "score": 55,
+      "file": "_posts/2026-06-24-openai-reveals-its-first-ai-processor-jalape\u00f1o.md",
+      "posted_at": "2026-06-24",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17268,8 +17345,8 @@
     },
     {
       "date": "2026-06-24",
-      "posts": 0,
-      "items_processed": 9821,
+      "posts": 1,
+      "items_processed": 11788,
       "estimated_tokens": 0
     }
   ]
