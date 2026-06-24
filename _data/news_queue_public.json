@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-24T18:18:36.787312+00:00",
-  "pending_count": 1107,
+  "updated_at_utc": "2026-06-24T20:18:37.079734+00:00",
+  "pending_count": 1109,
   "pending": [
     {
       "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
@@ -302,6 +302,28 @@
       "companies": [
         "huggingface"
       ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
+      "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
+      "score": 14,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
+      "url": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
+      "score": 11,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [],
       "topics": [
         "agentic"
       ]

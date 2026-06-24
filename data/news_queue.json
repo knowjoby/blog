@@ -11950,6 +11950,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Alibaba's model never trained as an agent \u2014 and improved agent performance across seven benchmarks",
+      "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
+      "score": 14,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -12598,6 +12611,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
+      "url": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
+      "score": 11,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Migrating Your GitHub CI to Hugging Face Jobs",
@@ -17399,7 +17425,7 @@
     {
       "date": "2026-06-24",
       "posts": 2,
-      "items_processed": 13755,
+      "items_processed": 15722,
       "estimated_tokens": 0
     }
   ]
