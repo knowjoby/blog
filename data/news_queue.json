@@ -7310,6 +7310,19 @@
       "topic": ""
     },
     {
+      "title": "A24 Knows You\u2019re Mad About the Google AI Collab",
+      "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+      "score": 24,
+      "fetched_at": "2026-06-24",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
       "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
       "score": 22,
@@ -7446,6 +7459,19 @@
       ],
       "company": "microsoft",
       "topic": "coding"
+    },
+    {
+      "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
+      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+      "score": 22,
+      "fetched_at": "2026-06-24",
+      "source": "VentureBeat",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -11147,6 +11173,19 @@
       "score": 18,
       "fetched_at": "2026-06-24",
       "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "score": 18,
+      "fetched_at": "2026-06-24",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
@@ -17425,7 +17464,7 @@
     {
       "date": "2026-06-24",
       "posts": 2,
-      "items_processed": 15722,
+      "items_processed": 17689,
       "estimated_tokens": 0
     }
   ]
