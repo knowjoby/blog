@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-25T22:05:19.620007+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-06-25T23:53:34.874160+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
@@ -75,6 +75,18 @@
         "reasoning",
         "regulation"
       ]
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "score": 44,
+      "fetched_at": "2026-06-25",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Pioneering an AI clinical copilot with Penda Health",
@@ -1624,6 +1636,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "score": 26,
+      "fetched_at": "2026-06-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",

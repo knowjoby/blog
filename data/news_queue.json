@@ -334,6 +334,20 @@
       "topic": "coding"
     },
     {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "score": 44,
+      "fetched_at": "2026-06-25",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "My yard is dying, so I made an app for that",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
       "score": 43,
@@ -3688,6 +3702,19 @@
       ],
       "company": "meta",
       "topic": "agentic"
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "score": 26,
+      "fetched_at": "2026-06-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
@@ -17229,7 +17256,7 @@
     {
       "date": "2026-06-25",
       "posts": 1,
-      "items_processed": 17711,
+      "items_processed": 19680,
       "estimated_tokens": 0
     }
   ]
