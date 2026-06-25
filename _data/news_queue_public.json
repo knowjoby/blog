@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-25T06:13:33.348007+00:00",
-  "pending_count": 1086,
+  "updated_at_utc": "2026-06-25T09:53:29.909184+00:00",
+  "pending_count": 1088,
   "pending": [
+    {
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "score": 49,
+      "fetched_at": "2026-06-25",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
@@ -4992,6 +5003,17 @@
     {
       "title": "How confessions can keep language models honest",
       "url": "https://openai.com/index/how-confessions-can-keep-language-models-honest",
+      "score": 18,
+      "fetched_at": "2026-06-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
       "score": 18,
       "fetched_at": "2026-06-25",
       "source": "OpenAI",
