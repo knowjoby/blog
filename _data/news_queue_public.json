@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-25T17:31:24.545117+00:00",
-  "pending_count": 1090,
+  "updated_at_utc": "2026-06-25T20:09:00.103178+00:00",
+  "pending_count": 1092,
   "pending": [
     {
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
@@ -89,6 +89,18 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "score": 42,
+      "fetched_at": "2026-06-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Procgen and MineRL Competitions",
@@ -3902,6 +3914,17 @@
       "source": "Hugging Face",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+      "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "score": 24,
+      "fetched_at": "2026-06-25",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
