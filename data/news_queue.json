@@ -3675,6 +3675,21 @@
       "topic": "open_source"
     },
     {
+      "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "score": 26,
+      "fetched_at": "2026-06-25",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
       "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
       "score": 25,
@@ -16536,6 +16551,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "score": 51,
+      "file": "_posts/2026-06-25-openai-will-delay-gpt-56-after-trump-administration-request.md",
+      "posted_at": "2026-06-25",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17202,8 +17228,8 @@
     },
     {
       "date": "2026-06-25",
-      "posts": 0,
-      "items_processed": 15742,
+      "posts": 1,
+      "items_processed": 17711,
       "estimated_tokens": 0
     }
   ]
