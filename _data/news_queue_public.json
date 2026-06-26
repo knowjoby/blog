@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-06-26T13:31:25.309938+00:00",
-  "pending_count": 1082,
+  "updated_at_utc": "2026-06-26T16:21:19.243137+00:00",
+  "pending_count": 1084,
   "pending": [
+    {
+      "title": "Of course Meta thinks gambling is the future",
+      "url": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
+      "score": 49,
+      "fetched_at": "2026-06-26",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s Mythos mess is only getting worse",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "score": 49,
+      "fetched_at": "2026-06-26",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
