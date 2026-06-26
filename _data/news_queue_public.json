@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-26T18:10:48.815196+00:00",
-  "pending_count": 1089,
+  "updated_at_utc": "2026-06-26T20:18:36.862742+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "Of course Meta thinks gambling is the future",
@@ -86,6 +86,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "score": 30,
+      "fetched_at": "2026-06-26",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "score": 30,
@@ -139,6 +150,17 @@
       "score": 24,
       "fetched_at": "2026-06-26",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "score": 24,
+      "fetched_at": "2026-06-26",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
