@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 49,
-      "fetched_at": "2026-06-11",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
       "score": 49,
@@ -593,22 +580,6 @@
       ],
       "company": "nvidia",
       "topic": "reasoning"
-    },
-    {
-      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "score": 40,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding",
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "Introducing ChatGPT Images 2.0",
@@ -1329,21 +1300,6 @@
       "topic": "coding"
     },
     {
-      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
-      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-      "score": 32,
-      "fetched_at": "2026-06-11",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -1715,58 +1671,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Anthropic Walks Back Policy That Could Have \u2018Sabotaged\u2019 AI Researchers Using Claude",
-      "url": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-      "score": 30,
-      "fetched_at": "2026-06-11",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-      "url": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-      "score": 30,
-      "fetched_at": "2026-06-11",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "score": 30,
-      "fetched_at": "2026-06-11",
-      "source": "MIT Tech Review",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "score": 30,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "New OpenAI Academy courses for the next era of work",
@@ -3164,21 +3068,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "score": 26,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Work with Codex from anywhere",
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
       "score": 26,
@@ -3729,84 +3618,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "Anthropic\u2019s Dario Amodei has just one direct report",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "score": 24,
-      "fetched_at": "2026-06-11",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "score": 24,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "score": 24,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "score": 24,
-      "fetched_at": "2026-06-11",
-      "source": "Hugging Face",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "People Living Near xAI\u2019s Dirty Data Centers Are Furious About the SpaceX IPO",
-      "url": "https://www.wired.com/story/spacex-ipo-how-people-living-near-xai-data-centers-feel/",
-      "score": 24,
-      "fetched_at": "2026-06-11",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s Edits app is getting an AI assistant and a desktop version",
-      "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
-      "score": 24,
-      "fetched_at": "2026-06-11",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "OpenAI models, Codex, and Managed Agents come to AWS",
@@ -7111,6 +6922,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "score": 24,
+      "fetched_at": "2026-06-26",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
       "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
       "score": 22,
@@ -7384,97 +7208,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How to use Codex for everyday work",
-      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "What AI benchmarks miss about real-world performance",
-      "url": "https://venturebeat.com/orchestration/what-ai-benchmarks-miss-about-real-world-performance",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Massive Effigy of Elon Musk Raised Over Times Square to Protest Grok",
-      "url": "https://www.wired.com/story/massive-effigy-of-elon-musk-raised-over-times-square-to-protest-grok/",
-      "score": 18,
-      "fetched_at": "2026-06-11",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
@@ -11034,20 +10767,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Context compression finally works in production: new research cuts LLM input 16x without the accuracy hit",
-      "url": "https://venturebeat.com/data/context-compression-finally-works-in-production-new-research-cuts-llm-input-16x-without-the-accuracy-hit",
-      "score": 16,
-      "fetched_at": "2026-06-11",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -11450,32 +11169,6 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
-    },
-    {
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "score": 14,
-      "fetched_at": "2026-06-11",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Microsoft\u2019s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
-      "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
-      "score": 14,
-      "fetched_at": "2026-06-11",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
@@ -12438,19 +12131,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
-      "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes",
-      "score": 10,
-      "fetched_at": "2026-06-11",
-      "source": "VentureBeat",
-      "companies": [
-        "stability"
-      ],
-      "topics": [],
-      "company": "stability",
-      "topic": ""
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
@@ -17257,6 +16937,12 @@
       "date": "2026-06-25",
       "posts": 1,
       "items_processed": 19680,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-26",
+      "posts": 0,
+      "items_processed": 1969,
       "estimated_tokens": 0
     }
   ]
