@@ -288,6 +288,34 @@
       "topic": ""
     },
     {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "score": 48,
+      "fetched_at": "2026-06-26",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "score": 48,
+      "fetched_at": "2026-06-26",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Something\u2019s off with Midjourney\u2019s pivot to body scanners",
       "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
       "score": 47,
@@ -526,6 +554,20 @@
       "score": 42,
       "fetched_at": "2026-06-25",
       "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
+      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "score": 42,
+      "fetched_at": "2026-06-26",
+      "source": "Wired",
       "companies": [
         "openai",
         "anthropic"
@@ -2863,6 +2905,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models \u2014 but only accessible to limited preview partners for now, per US Gov",
+      "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "score": 30,
+      "fetched_at": "2026-06-26",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3674,6 +3729,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "score": 26,
+      "fetched_at": "2026-06-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
     },
     {
       "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
@@ -16443,6 +16513,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "score": 63,
+      "file": "_posts/2026-06-26-openai-unveils-gpt-56-amid-us-ai-regulatory-drama.md",
+      "posted_at": "2026-06-26",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -17115,8 +17198,8 @@
     },
     {
       "date": "2026-06-26",
-      "posts": 0,
-      "items_processed": 11814,
+      "posts": 1,
+      "items_processed": 13784,
       "estimated_tokens": 0
     }
   ]

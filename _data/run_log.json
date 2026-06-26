@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-21 17:30:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1952,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-21 19:59:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1173,5 +1151,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-06-26 23:40:48 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 1970,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+        "file": "_posts/2026-06-26-openai-unveils-gpt-56-amid-us-ai-regulatory-drama.md",
+        "score": 63,
+        "tags": [
+          "openai",
+          "open_source"
+        ]
+      }
+    ]
   }
 ]
