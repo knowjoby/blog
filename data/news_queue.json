@@ -7153,6 +7153,32 @@
       "topic": ""
     },
     {
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "score": 24,
+      "fetched_at": "2026-06-26",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How People in China Keep Outsmarting Anthropic\u2019s Geolocation Restrictions",
+      "url": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+      "score": 24,
+      "fetched_at": "2026-06-26",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
       "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
       "score": 22,
@@ -17225,7 +17251,7 @@
     {
       "date": "2026-06-26",
       "posts": 1,
-      "items_processed": 15754,
+      "items_processed": 17724,
       "estimated_tokens": 0
     }
   ]
