@@ -7454,6 +7454,20 @@
       "topic": "agentic"
     },
     {
+      "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
+      "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
+      "score": 19,
+      "fetched_at": "2026-06-26",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "url": "https://openai.com/index/building-codex-windows-sandbox",
       "score": 18,
@@ -11452,6 +11466,20 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn\u2019t steal an open source product",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "score": 16,
+      "fetched_at": "2026-06-26",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding",
+        "open_source"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
@@ -17251,7 +17279,7 @@
     {
       "date": "2026-06-26",
       "posts": 1,
-      "items_processed": 17724,
+      "items_processed": 19694,
       "estimated_tokens": 0
     }
   ]

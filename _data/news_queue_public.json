@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-26T21:48:19.233597+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-06-26T23:13:05.907536+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "Of course Meta thinks gambling is the future",
@@ -222,6 +222,18 @@
       "topics": []
     },
     {
+      "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
+      "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m",
+      "score": 19,
+      "fetched_at": "2026-06-26",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning"
+      ]
+    },
+    {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "score": 18,
@@ -253,6 +265,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
+      "url": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
+      "score": 16,
+      "fetched_at": "2026-06-26",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding",
+        "open_source"
+      ]
     },
     {
       "title": "An open-source spec for orchestration: Symphony",
