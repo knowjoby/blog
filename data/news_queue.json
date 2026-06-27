@@ -7397,6 +7397,19 @@
       "topic": ""
     },
     {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "score": 20,
+      "fetched_at": "2026-06-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "score": 19,
@@ -17244,7 +17257,7 @@
     {
       "date": "2026-06-27",
       "posts": 0,
-      "items_processed": 15760,
+      "items_processed": 17730,
       "estimated_tokens": 0
     }
   ]
