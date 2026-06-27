@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-27T18:45:55.967208+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-06-27T20:12:18.275146+00:00",
+  "pending_count": 1094,
   "pending": [
     {
       "title": "Anthropic’s Mythos 5 is back",
@@ -126,6 +126,17 @@
       "source": "TechCrunch",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+      "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+      "score": 18,
+      "fetched_at": "2026-06-27",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
