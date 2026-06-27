@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-27T10:59:58.816851+00:00",
-  "pending_count": 1090,
+  "updated_at_utc": "2026-06-27T12:14:32.533796+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "Anthropic’s Mythos 5 is back",
@@ -58,6 +58,17 @@
       "score": 30,
       "fetched_at": "2026-06-27",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "score": 30,
+      "fetched_at": "2026-06-27",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
