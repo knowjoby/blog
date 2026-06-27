@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-06-26T23:13:05.907536+00:00",
-  "pending_count": 1095,
+  "updated_at_utc": "2026-06-27T01:29:03.331759+00:00",
+  "pending_count": 1083,
   "pending": [
+    {
+      "title": "Anthropic’s Mythos 5 is back",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "score": 49,
+      "fetched_at": "2026-06-27",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "score": 30,
+      "fetched_at": "2026-06-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "score": 26,
+      "fetched_at": "2026-06-27",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Of course Meta thinks gambling is the future",
       "url": "https://www.theverge.com/podcast/957673/meta-polymarket-apple-prices-vergecast",
@@ -12154,179 +12187,6 @@
       "companies": [],
       "topics": [
         "agentic"
-      ]
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "score": 41,
-      "fetched_at": "2026-06-12",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "score": 38,
-      "fetched_at": "2026-06-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-06-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "score": 30,
-      "fetched_at": "2026-06-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
-      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
-      "score": 24,
-      "fetched_at": "2026-06-12",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "score": 24,
-      "fetched_at": "2026-06-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "score": 24,
-      "fetched_at": "2026-06-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
-      "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-      "score": 24,
-      "fetched_at": "2026-06-12",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "score": 24,
-      "fetched_at": "2026-06-12",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
-      "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
-      "score": 22,
-      "fetched_at": "2026-06-12",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "reasoning",
-        "coding"
-      ]
-    },
-    {
-      "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
-      "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code",
-      "score": 22,
-      "fetched_at": "2026-06-12",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ]
-    },
-    {
-      "title": "China Didn't Make People Hate Data Centers",
-      "url": "https://www.wired.com/story/china-us-data-center-opposition/",
-      "score": 18,
-      "fetched_at": "2026-06-12",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "score": 18,
-      "fetched_at": "2026-06-12",
-      "source": "TechCrunch",
-      "companies": [
-        "mistral"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "score": 18,
-      "fetched_at": "2026-06-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
-      "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations",
-      "score": 12,
-      "fetched_at": "2026-06-12",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "ai"
       ]
     }
   ]
