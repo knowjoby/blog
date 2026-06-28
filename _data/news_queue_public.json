@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-28T17:19:16.553615+00:00",
-  "pending_count": 1084,
+  "updated_at_utc": "2026-06-28T18:45:25.405732+00:00",
+  "pending_count": 1085,
   "pending": [
     {
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
@@ -179,6 +179,18 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
+      "url": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+      "score": 16,
+      "fetched_at": "2026-06-28",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "How Endava builds an agentic organization with Codex",
