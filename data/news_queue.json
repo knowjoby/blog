@@ -16488,6 +16488,18 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "score": 67,
+      "file": "_posts/2026-06-28-chinas-zai-claims-it-can-match-mythos-on-cybersecurity.md",
+      "posted_at": "2026-06-28",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17172,8 +17184,8 @@
     },
     {
       "date": "2026-06-28",
-      "posts": 0,
-      "items_processed": 21670,
+      "posts": 1,
+      "items_processed": 23640,
       "estimated_tokens": 0
     }
   ]
