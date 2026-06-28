@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-06-24 03:48:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1964,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "The Meta Quest 3S is on sale for $297 — which is basically its old price",
-        "file": "_posts/2026-06-23-the-meta-quest-3s-is-on-sale-for-297-which-is-basically-its-old-price.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-24 05:06:19 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1126,6 +1095,28 @@
   },
   {
     "ran_at": "2026-06-28 17:19:45 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1970,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-28 19:30:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
