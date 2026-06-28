@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-06-23 21:40:45 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1961,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta’s smart glasses now have a dedicated charging stand",
-        "file": "_posts/2026-06-23-metas-smart-glasses-now-have-a-dedicated-charging-stand.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-23 23:52:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1151,6 +1120,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 15
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-06-28 15:13:00 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1970,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
