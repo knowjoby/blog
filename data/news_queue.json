@@ -1281,6 +1281,20 @@
       "topic": ""
     },
     {
+      "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+      "score": 34,
+      "fetched_at": "2026-06-29",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic",
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "The next humanoid robot might not look human at all",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
       "score": 33,
@@ -11006,6 +11020,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "score": 17,
+      "fetched_at": "2026-06-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -16612,6 +16639,19 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "score": 60,
+      "file": "_posts/2026-06-29-meta-contractors-posed-as-teens-to-prompt-rival-chatbots-about-suicide.md",
+      "posted_at": "2026-06-29",
+      "companies": [
+        "openai",
+        "google",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17302,8 +17342,8 @@
     },
     {
       "date": "2026-06-29",
-      "posts": 2,
-      "items_processed": 13802,
+      "posts": 3,
+      "items_processed": 15774,
       "estimated_tokens": 0
     }
   ]

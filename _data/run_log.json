@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-25 15:23:29 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1968,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-25 16:10:30 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1144,6 +1122,39 @@
         "tags": [
           "openai",
           "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-06-30 03:42:58 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1972,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+        "file": "_posts/2026-06-29-meta-contractors-posed-as-teens-to-prompt-rival-chatbots-about-suicide.md",
+        "score": 60,
+        "tags": [
+          "openai",
+          "google",
+          "meta"
         ]
       }
     ]
