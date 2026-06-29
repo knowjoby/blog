@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-29T06:55:25.078320+00:00",
-  "pending_count": 1084,
+  "updated_at_utc": "2026-06-29T12:02:55.220614+00:00",
+  "pending_count": 1086,
   "pending": [
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -12,6 +12,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "score": 26,
+      "fetched_at": "2026-06-29",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Accelerating the next phase of AI",
@@ -38,6 +51,17 @@
     {
       "title": "A new personal finance experience in ChatGPT",
       "url": "https://openai.com/index/personal-finance-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-06-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "score": 18,
       "fetched_at": "2026-06-29",
       "source": "OpenAI",

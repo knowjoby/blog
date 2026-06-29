@@ -3772,6 +3772,21 @@
       "topic": "coding"
     },
     {
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "score": 26,
+      "fetched_at": "2026-06-29",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "nvidia",
+      "topic": "robotics"
+    },
+    {
       "title": "Z.ai\u2019s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
       "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
       "score": 25,
@@ -10854,6 +10869,19 @@
       "topic": ""
     },
     {
+      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "score": 18,
+      "fetched_at": "2026-06-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The US Government Is Letting a Key Data Center Regulation Expire",
       "url": "https://www.wired.com/story/the-us-government-is-letting-a-key-data-center-regulation-expire/",
       "score": 17,
@@ -17165,7 +17193,7 @@
     {
       "date": "2026-06-29",
       "posts": 0,
-      "items_processed": 3942,
+      "items_processed": 5914,
       "estimated_tokens": 0
     }
   ]
