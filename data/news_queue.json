@@ -389,19 +389,6 @@
       "topic": ""
     },
     {
-      "title": "China may have accessed Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "score": 43,
-      "fetched_at": "2026-06-14",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Facebook\u2019s new AI Mode search gets its info from public posts",
       "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
       "score": 43,
@@ -2931,6 +2918,19 @@
       "topic": ""
     },
     {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "score": 30,
+      "fetched_at": "2026-06-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3784,32 +3784,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "score": 24,
-      "fetched_at": "2026-06-14",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-06-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -7200,19 +7174,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "score": 20,
-      "fetched_at": "2026-06-14",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
       "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
       "score": 20,
@@ -7334,32 +7295,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-06-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-06-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Accelerating the cyber defense ecosystem that protects us all",
@@ -11804,45 +11739,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-06-14",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-06-14",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-06-14",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Vibe coding can build your pipeline. It can't explain it six months later",
@@ -17186,6 +17082,12 @@
       "date": "2026-06-28",
       "posts": 1,
       "items_processed": 23640,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-06-29",
+      "posts": 0,
+      "items_processed": 1971,
       "estimated_tokens": 0
     }
   ]

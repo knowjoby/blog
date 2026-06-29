@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-06-24 21:55:21 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1967,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI reveals its first AI processor: Jalapeño",
-        "file": "_posts/2026-06-24-openai-reveals-its-first-ai-processor-jalapeño.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-24 23:48:36 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1146,5 +1115,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-06-29 07:07:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1971,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": []
   }
 ]
