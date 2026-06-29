@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-29T16:24:44.974290+00:00",
-  "pending_count": 1088,
+  "updated_at_utc": "2026-06-29T18:30:24.193901+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "These camera-free smart glasses made me feel like Tony Stark",
@@ -12,6 +12,31 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "score": 42,
+      "fetched_at": "2026-06-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "score": 33,
+      "fetched_at": "2026-06-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation",
+        "coding"
+      ]
     },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -35,6 +60,19 @@
       ],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
+      "score": 26,
+      "fetched_at": "2026-06-29",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
