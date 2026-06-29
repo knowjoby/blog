@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-29T12:32:33.536574+00:00",
-  "pending_count": 1086,
+  "updated_at_utc": "2026-06-29T16:24:44.974290+00:00",
+  "pending_count": 1088,
   "pending": [
+    {
+      "title": "These camera-free smart glasses made me feel like Tony Stark",
+      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
+      "score": 43,
+      "fetched_at": "2026-06-29",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
@@ -69,6 +80,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "score": 14,
+      "fetched_at": "2026-06-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",

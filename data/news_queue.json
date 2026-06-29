@@ -454,6 +454,19 @@
       "topic": ""
     },
     {
+      "title": "These camera-free smart glasses made me feel like Tony Stark",
+      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
+      "score": 43,
+      "fetched_at": "2026-06-29",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Big Tech\u2019s desperate last push at AI regulation",
       "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
       "score": 42,
@@ -11691,6 +11704,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "score": 14,
+      "fetched_at": "2026-06-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
       "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "score": 12,
@@ -16502,6 +16528,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "score": 67,
+      "file": "_posts/2026-06-29-lawmakers-want-to-ban-ai-companies-from-selling-your-health-data.md",
+      "posted_at": "2026-06-29",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17192,8 +17230,8 @@
     },
     {
       "date": "2026-06-29",
-      "posts": 0,
-      "items_processed": 7886,
+      "posts": 1,
+      "items_processed": 9858,
       "estimated_tokens": 0
     }
   ]
