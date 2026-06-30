@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-30T22:18:00.083607+00:00",
-  "pending_count": 1097,
+  "updated_at_utc": "2026-06-30T23:45:18.716007+00:00",
+  "pending_count": 1099,
   "pending": [
     {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
@@ -119,6 +119,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "score": 24,
+      "fetched_at": "2026-06-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -266,6 +277,17 @@
       "topics": [
         "agentic",
         "open_source"
+      ]
+    },
+    {
+      "title": "Morgan Stanley cut its riskiest reconciliation job in half — by making its agents less autonomous",
+      "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
+      "score": 14,
+      "fetched_at": "2026-06-30",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
