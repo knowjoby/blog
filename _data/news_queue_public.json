@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-30T18:19:21.194738+00:00",
-  "pending_count": 1092,
+  "updated_at_utc": "2026-06-30T20:30:19.647655+00:00",
+  "pending_count": 1094,
   "pending": [
+    {
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "score": 49,
+      "fetched_at": "2026-06-30",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Meet the lawyer who beat Elon Musk — twice",
       "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
@@ -77,6 +88,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+      "score": 30,
+      "fetched_at": "2026-06-30",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Introducing the OpenAI Partner Network",
