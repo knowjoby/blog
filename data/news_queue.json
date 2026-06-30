@@ -1388,6 +1388,19 @@
       "topic": "agentic"
     },
     {
+      "title": "The Supreme Court stops Trump\u2019s attempt to end birthright citizenship",
+      "url": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+      "score": 33,
+      "fetched_at": "2026-06-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
       "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
       "score": 32,
@@ -10867,6 +10880,32 @@
       "topic": "open_source"
     },
     {
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "score": 18,
+      "fetched_at": "2026-06-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "score": 18,
+      "fetched_at": "2026-06-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
       "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
       "score": 17,
@@ -11687,6 +11726,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "AI agents need context everywhere they run, even where the cloud can't follow",
+      "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
+      "score": 14,
+      "fetched_at": "2026-06-30",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
@@ -16539,6 +16591,18 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "score": 54,
+      "file": "_posts/2026-06-30-amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic.md",
+      "posted_at": "2026-06-30",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17235,8 +17299,8 @@
     },
     {
       "date": "2026-06-30",
-      "posts": 1,
-      "items_processed": 9861,
+      "posts": 2,
+      "items_processed": 11837,
       "estimated_tokens": 0
     }
   ]

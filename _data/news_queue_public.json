@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-06-30T13:25:28.512412+00:00",
-  "pending_count": 1084,
+  "updated_at_utc": "2026-06-30T16:07:41.294840+00:00",
+  "pending_count": 1088,
   "pending": [
     {
       "title": "Meet the lawyer who beat Elon Musk — twice",
@@ -25,6 +25,17 @@
         "reasoning",
         "coding",
         "multimodal"
+      ]
+    },
+    {
+      "title": "The Supreme Court stops Trump’s attempt to end birthright citizenship",
+      "url": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
+      "score": 33,
+      "fetched_at": "2026-06-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
       ]
     },
     {
@@ -88,8 +99,30 @@
       "topics": []
     },
     {
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "score": 18,
+      "fetched_at": "2026-06-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-06-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "score": 18,
       "fetched_at": "2026-06-30",
       "source": "OpenAI",
@@ -131,6 +164,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "AI agents need context everywhere they run, even where the cloud can't follow",
+      "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
+      "score": 14,
+      "fetched_at": "2026-06-30",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
