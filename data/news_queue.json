@@ -441,6 +441,19 @@
       "topic": ""
     },
     {
+      "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "score": 43,
+      "fetched_at": "2026-06-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "score": 42,
@@ -14365,6 +14378,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "score": 10,
+      "fetched_at": "2026-06-30",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -17210,7 +17236,7 @@
     {
       "date": "2026-06-30",
       "posts": 1,
-      "items_processed": 7888,
+      "items_processed": 9861,
       "estimated_tokens": 0
     }
   ]

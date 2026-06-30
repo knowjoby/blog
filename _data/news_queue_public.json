@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-06-30T11:28:42.200620+00:00",
-  "pending_count": 1082,
+  "updated_at_utc": "2026-06-30T13:25:28.512412+00:00",
+  "pending_count": 1084,
   "pending": [
+    {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "score": 43,
+      "fetched_at": "2026-06-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -121,6 +132,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "score": 10,
+      "fetched_at": "2026-06-30",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "These camera-free smart glasses made me feel like Tony Stark",
