@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-01T08:36:21.123654+00:00",
-  "pending_count": 1095,
+  "updated_at_utc": "2026-07-01T11:21:47.712547+00:00",
+  "pending_count": 1096,
   "pending": [
     {
       "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
@@ -54,6 +54,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "score": 18,
+      "fetched_at": "2026-07-01",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

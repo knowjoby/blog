@@ -10984,6 +10984,19 @@
       "topic": ""
     },
     {
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "score": 18,
+      "fetched_at": "2026-07-01",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
       "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
       "score": 17,
@@ -17423,7 +17436,7 @@
     {
       "date": "2026-07-01",
       "posts": 1,
-      "items_processed": 3956,
+      "items_processed": 5934,
       "estimated_tokens": 0
     }
   ]
