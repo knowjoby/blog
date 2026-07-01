@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-01T17:29:39.039104+00:00",
-  "pending_count": 1105,
+  "updated_at_utc": "2026-07-01T19:21:28.177313+00:00",
+  "pending_count": 1107,
   "pending": [
     {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
@@ -83,6 +83,17 @@
       "topics": []
     },
     {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
       "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
       "score": 24,
@@ -158,6 +169,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "score": 14,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ]
     },
     {
       "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",

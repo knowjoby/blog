@@ -3073,6 +3073,19 @@
       "topic": ""
     },
     {
+      "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -11940,6 +11953,19 @@
       "topic": "coding"
     },
     {
+      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+      "url": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "score": 14,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ],
+      "company": "",
+      "topic": "open_source"
+    },
+    {
       "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
       "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents",
       "score": 12,
@@ -17569,7 +17595,7 @@
     {
       "date": "2026-07-01",
       "posts": 2,
-      "items_processed": 11870,
+      "items_processed": 13849,
       "estimated_tokens": 0
     }
   ]
