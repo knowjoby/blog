@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-01T04:23:20.373737+00:00",
-  "pending_count": 1090,
+  "updated_at_utc": "2026-07-01T08:36:21.123654+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
@@ -14,6 +14,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
       "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "score": 24,
@@ -23,6 +34,50 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-07-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-07-01",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
     },
     {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",

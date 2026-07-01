@@ -2992,6 +2992,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -7129,6 +7142,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
       "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
       "score": 22,
@@ -10932,6 +10971,19 @@
       "topic": ""
     },
     {
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-07-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
       "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration",
       "score": 17,
@@ -12383,6 +12435,19 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
       "score": 11,
       "fetched_at": "2026-06-29",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-07-01",
       "source": "Hugging Face",
       "companies": [],
       "topics": [
@@ -17358,7 +17423,7 @@
     {
       "date": "2026-07-01",
       "posts": 1,
-      "items_processed": 1978,
+      "items_processed": 3956,
       "estimated_tokens": 0
     }
   ]
