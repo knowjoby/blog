@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Apple\u2019s smart home camera service is starting to impress me",
-      "url": "https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video",
-      "score": 49,
-      "fetched_at": "2026-06-16",
-      "source": "The Verge",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
       "title": "Anthropic got hit by export rules nobody understands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "score": 49,
@@ -173,6 +160,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic\u2019s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "score": 49,
+      "fetched_at": "2026-07-01",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -1803,19 +1803,6 @@
       ],
       "company": "openai",
       "topic": "reasoning"
-    },
-    {
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "score": 30,
-      "fetched_at": "2026-06-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
@@ -3903,71 +3890,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
-      "url": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
-      "score": 24,
-      "fetched_at": "2026-06-16",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "DOJ Lawyers Argue xAI Is \u2018Vital\u2019 for National Security in NAACP Lawsuit",
-      "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
-      "score": 24,
-      "fetched_at": "2026-06-16",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "score": 24,
-      "fetched_at": "2026-06-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How we used Gemini to build Google I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "score": 24,
-      "fetched_at": "2026-06-16",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Threads adds new personalization and community features as it reaches 500M monthly users",
-      "url": "https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/",
-      "score": 24,
-      "fetched_at": "2026-06-16",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -7194,19 +7116,17 @@
       "topic": ""
     },
     {
-      "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
-      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "score": 22,
-      "fetched_at": "2026-06-16",
-      "source": "Ars Technica",
+      "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
       "companies": [
-        "microsoft"
+        "anthropic"
       ],
-      "topics": [
-        "coding"
-      ],
-      "company": "microsoft",
-      "topic": "coding"
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
     },
     {
       "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
@@ -7440,19 +7360,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Codex now offers more flexible pricing for teams",
-      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
-      "score": 18,
-      "fetched_at": "2026-06-16",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "\u2018Dangerous\u2019 AI Models Are Coming No Matter What",
@@ -11536,19 +11443,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "score": 14,
-      "fetched_at": "2026-06-16",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Our views on AI policy and political advocacy",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "score": 14,
@@ -11989,19 +11883,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
-      "url": "https://huggingface.co/blog/gemma4",
-      "score": 11,
-      "fetched_at": "2026-06-16",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
@@ -16763,6 +16644,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta is adding ridiculous \u2018rate limits\u2019 and a soft paywall to its smart glasses",
+      "url": "https://www.theverge.com/gadgets/959899/meta-ai-glasses-paywall-rate-limit",
+      "score": 55,
+      "file": "_posts/2026-07-01-meta-is-adding-ridiculous-rate-limits-and-a-soft-paywall-to-its-smart.md",
+      "posted_at": "2026-07-01",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17461,6 +17353,12 @@
       "date": "2026-06-30",
       "posts": 3,
       "items_processed": 19749,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-01",
+      "posts": 1,
+      "items_processed": 1978,
       "estimated_tokens": 0
     }
   ]
