@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-01T12:11:24.838981+00:00",
-  "pending_count": 1097,
+  "updated_at_utc": "2026-07-01T15:20:08.698665+00:00",
+  "pending_count": 1101,
   "pending": [
     {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
@@ -25,6 +25,30 @@
       "topics": []
     },
     {
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "score": 35,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "score": 30,
@@ -32,6 +56,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -100,6 +135,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "score": 10,
+      "fetched_at": "2026-07-01",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
