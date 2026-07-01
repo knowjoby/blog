@@ -578,6 +578,20 @@
       "topic": ""
     },
     {
+      "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
+      "score": 42,
+      "fetched_at": "2026-07-01",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "score": 41,
@@ -3038,6 +3052,19 @@
       "score": 30,
       "fetched_at": "2026-07-01",
       "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order \u2014 where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "VentureBeat",
       "companies": [
         "anthropic"
       ],
@@ -7219,6 +7246,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration\u2019s Good Graces",
+      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -12524,6 +12564,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+      "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "score": 11,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
       "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
       "score": 10,
@@ -17516,7 +17569,7 @@
     {
       "date": "2026-07-01",
       "posts": 2,
-      "items_processed": 9891,
+      "items_processed": 11870,
       "estimated_tokens": 0
     }
   ]

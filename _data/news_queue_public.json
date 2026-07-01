@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-01T15:20:08.698665+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-07-01T17:29:39.039104+00:00",
+  "pending_count": 1105,
   "pending": [
     {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
@@ -20,6 +20,18 @@
       "fetched_at": "2026-07-01",
       "source": "The Verge",
       "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration",
+      "url": "https://venturebeat.com/technology/restaurants-can-now-accept-orders-placed-directly-from-chatgpt-and-claude-thanks-to-squares-new-low-fee-no-setup-integration",
+      "score": 42,
+      "fetched_at": "2026-07-01",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
         "anthropic"
       ],
       "topics": []
@@ -49,6 +61,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "score": 30,
+      "fetched_at": "2026-07-01",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "score": 30,
@@ -56,6 +79,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration’s Good Graces",
+      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "score": 24,
+      "fetched_at": "2026-07-01",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -124,6 +158,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+      "url": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+      "score": 11,
+      "fetched_at": "2026-07-01",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
