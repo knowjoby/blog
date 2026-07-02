@@ -7050,6 +7050,19 @@
       "topic": ""
     },
     {
+      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders\u2019 target",
+      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+      "score": 24,
+      "fetched_at": "2026-07-02",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
       "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin",
       "score": 22,
@@ -17365,7 +17378,7 @@
     {
       "date": "2026-07-02",
       "posts": 2,
-      "items_processed": 13853,
+      "items_processed": 15832,
       "estimated_tokens": 0
     }
   ]
