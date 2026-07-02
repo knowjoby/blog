@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-02T10:37:54.709027+00:00",
-  "pending_count": 1083,
+  "updated_at_utc": "2026-07-02T11:09:47.758171+00:00",
+  "pending_count": 1084,
   "pending": [
+    {
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "score": 49,
+      "fetched_at": "2026-07-02",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
