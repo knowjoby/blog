@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-02T08:14:16.287808+00:00",
-  "pending_count": 1082,
+  "updated_at_utc": "2026-07-02T10:37:54.709027+00:00",
+  "pending_count": 1083,
   "pending": [
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -27,6 +27,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+      "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+      "score": 24,
+      "fetched_at": "2026-07-02",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
