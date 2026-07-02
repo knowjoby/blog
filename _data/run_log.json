@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-06-28 03:09:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1970,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-06-28 04:38:23 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1215,5 +1193,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-03 01:12:02 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1979,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "file": "_posts/2026-07-02-anthropic-is-discussing-a-new-custom-chip-with-samsung.md",
+        "score": 66,
+        "tags": [
+          "openai",
+          "anthropic",
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-02T17:55:48.811137+00:00",
-  "pending_count": 1088,
+  "updated_at_utc": "2026-07-02T19:42:02.596555+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "score": 48,
+      "fetched_at": "2026-07-02",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -39,6 +51,17 @@
       ]
     },
     {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "score": 30,
+      "fetched_at": "2026-07-02",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -59,6 +82,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
+      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
+      "score": 24,
+      "fetched_at": "2026-07-02",
+      "source": "TechCrunch",
+      "companies": [
+        "amazon"
       ],
       "topics": []
     },
