@@ -553,6 +553,20 @@
       "topic": ""
     },
     {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "score": 42,
+      "fetched_at": "2026-07-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "score": 41,
@@ -7191,6 +7205,19 @@
       "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "score": 20,
       "fetched_at": "2026-06-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "score": 20,
+      "fetched_at": "2026-07-02",
       "source": "TechCrunch",
       "companies": [
         "openai"
@@ -17338,7 +17365,7 @@
     {
       "date": "2026-07-02",
       "posts": 2,
-      "items_processed": 11874,
+      "items_processed": 13853,
       "estimated_tokens": 0
     }
   ]

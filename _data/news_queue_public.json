@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-02T13:18:34.565460+00:00",
-  "pending_count": 1085,
+  "updated_at_utc": "2026-07-02T15:41:48.418023+00:00",
+  "pending_count": 1087,
   "pending": [
     {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "score": 42,
+      "fetched_at": "2026-07-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -67,6 +79,17 @@
       "score": 24,
       "fetched_at": "2026-07-02",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "score": 20,
+      "fetched_at": "2026-07-02",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
