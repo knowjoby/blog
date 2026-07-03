@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-03T15:20:26.830676+00:00",
-  "pending_count": 1078,
+  "updated_at_utc": "2026-07-03T16:55:36.851667+00:00",
+  "pending_count": 1079,
   "pending": [
     {
       "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
@@ -62,6 +62,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "score": 24,
+      "fetched_at": "2026-07-03",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
