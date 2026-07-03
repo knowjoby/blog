@@ -16557,6 +16557,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "score": 63,
+      "file": "_posts/2026-07-03-anthropic-wants-to-develop-its-own-drugs.md",
+      "posted_at": "2026-07-03",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -17271,8 +17284,8 @@
     },
     {
       "date": "2026-07-03",
-      "posts": 0,
-      "items_processed": 11874,
+      "posts": 1,
+      "items_processed": 13853,
       "estimated_tokens": 0
     }
   ]
