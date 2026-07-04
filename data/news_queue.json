@@ -1342,6 +1342,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Matic\u2019s robot vacuum is getting a $250 price hike in September",
+      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "score": 33,
+      "fetched_at": "2026-07-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -7034,6 +7047,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "score": 20,
+      "fetched_at": "2026-07-04",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -16476,6 +16502,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "score": 54,
+      "file": "_posts/2026-07-04-what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md",
+      "posted_at": "2026-07-04",
+      "companies": [
+        "openai",
+        "mistral"
+      ],
+      "topics": [
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -17196,8 +17236,8 @@
     },
     {
       "date": "2026-07-04",
-      "posts": 1,
-      "items_processed": 15812,
+      "posts": 2,
+      "items_processed": 17791,
       "estimated_tokens": 0
     }
   ]

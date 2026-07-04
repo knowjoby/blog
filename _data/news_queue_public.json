@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-04T15:11:13.080511+00:00",
-  "pending_count": 1070,
+  "updated_at_utc": "2026-07-04T16:33:09.141334+00:00",
+  "pending_count": 1072,
   "pending": [
+    {
+      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
+      "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
+      "score": 33,
+      "fetched_at": "2026-07-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -65,6 +76,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "score": 20,
+      "fetched_at": "2026-07-04",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
