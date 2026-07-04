@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-06-29 21:54:44 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1972,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Lawmakers want to ban AI companies from selling your health data",
-        "file": "_posts/2026-06-29-lawmakers-want-to-ban-ai-companies-from-selling-your-health-data.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-30 00:00:24 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1216,6 +1184,28 @@
   },
   {
     "ran_at": "2026-07-04 12:53:43 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1979,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-04 15:07:48 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
