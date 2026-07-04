@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-06-30 16:25:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1972,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Building tech in the world’s secret R&D hub",
-        "file": "_posts/2026-06-30-building-tech-in-the-worlds-secret-rd-hub.md",
-        "score": 72,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-30 16:58:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1222,6 +1188,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-05 01:15:44 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1979,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
