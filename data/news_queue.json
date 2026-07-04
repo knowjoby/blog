@@ -16464,6 +16464,18 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "The fanfiction community is at war with AI \u2014 and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "score": 61,
+      "file": "_posts/2026-07-04-the-fanfiction-community-is-at-war-with-ai-and-itself.md",
+      "posted_at": "2026-07-04",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17184,8 +17196,8 @@
     },
     {
       "date": "2026-07-04",
-      "posts": 0,
-      "items_processed": 11874,
+      "posts": 1,
+      "items_processed": 13833,
       "estimated_tokens": 0
     }
   ]

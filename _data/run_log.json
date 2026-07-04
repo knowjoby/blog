@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-06-30 03:42:58 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1972,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-        "file": "_posts/2026-06-29-meta-contractors-posed-as-teens-to-prompt-rival-chatbots-about-suicide.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "google",
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-06-30 05:04:55 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1215,5 +1182,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-04 19:16:13 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1959,
+        "feeds_total": 10,
+        "feeds_ok": 8,
+        "feeds_failed": 2,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "The fanfiction community is at war with AI — and itself",
+        "file": "_posts/2026-07-04-the-fanfiction-community-is-at-war-with-ai-and-itself.md",
+        "score": 61,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
