@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-01 20:50:08 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "file": "_posts/2026-07-01-llms-are-stuck-in-a-groupthink-groove-this-startup-is-trying-to-get-th.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-01 22:59:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1164,6 +1131,28 @@
   },
   {
     "ran_at": "2026-07-05 22:05:46 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1979,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-05 23:38:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
