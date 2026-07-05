@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-07-01 09:53:20 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1978,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta is adding ridiculous ‘rate limits’ and a soft paywall to its smart glasses",
-        "file": "_posts/2026-07-01-meta-is-adding-ridiculous-rate-limits-and-a-soft-paywall-to-its-smart.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-01 14:06:21 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1173,6 +1142,28 @@
   },
   {
     "ran_at": "2026-07-05 15:52:03 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1979,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-05 17:26:17 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
