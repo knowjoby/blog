@@ -428,20 +428,6 @@
       "topic": ""
     },
     {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "score": 42,
-      "fetched_at": "2026-06-20",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic",
-        "google"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -1714,19 +1700,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "score": 30,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing OpenAI Privacy Filter",
@@ -3120,21 +3093,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "score": 26,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "How Balyasny Asset Management built an AI research engine",
       "url": "https://openai.com/index/balyasny-asset-management",
       "score": 26,
@@ -3714,84 +3672,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "score": 24,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "score": 24,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "score": 24,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "score": 24,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "score": 24,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "score": 24,
-      "fetched_at": "2026-06-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing Trusted Contact in ChatGPT",
@@ -7117,32 +6997,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "score": 18,
-      "fetched_at": "2026-06-20",
-      "source": "Wired",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
-      "title": "Every new iOS 27 feature that\u2019s worth knowing about",
-      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "score": 18,
-      "fetched_at": "2026-06-20",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
     },
     {
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
@@ -17251,6 +17105,12 @@
       "date": "2026-07-04",
       "posts": 2,
       "items_processed": 27686,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-05",
+      "posts": 0,
+      "items_processed": 1979,
       "estimated_tokens": 0
     }
   ]
