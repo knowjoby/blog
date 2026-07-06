@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-02 18:48:34 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "The Download: a startup has a solution for AI’s groupthink problem",
-        "file": "_posts/2026-07-02-the-download-a-startup-has-a-solution-for-ais-groupthink-problem.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-02 21:11:48 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1157,6 +1124,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-07 00:29:17 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 0,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 1982,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
       }
     },
     "posts": []

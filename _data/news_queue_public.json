@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-06T16:38:51.427818+00:00",
-  "pending_count": 1068,
+  "updated_at_utc": "2026-07-06T18:59:17.805276+00:00",
+  "pending_count": 1072,
   "pending": [
+    {
+      "title": "Five questions for Dr. Rubin, who’s armed with a mic and a bowtie",
+      "url": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
+      "score": 43,
+      "fetched_at": "2026-07-06",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
@@ -41,6 +52,17 @@
       "topics": []
     },
     {
+      "title": "Your family’s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-06",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing workspace agents in ChatGPT",
       "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
       "score": 24,
@@ -59,6 +81,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "score": 24,
+      "fetched_at": "2026-07-06",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -138,6 +171,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
+      "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "score": 17,
+      "fetched_at": "2026-07-06",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",

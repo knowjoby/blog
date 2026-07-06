@@ -441,6 +441,19 @@
       "topic": ""
     },
     {
+      "title": "Five questions for Dr. Rubin, who\u2019s armed with a mic and a bowtie",
+      "url": "https://www.theverge.com/science/961483/doctor-zachary-rubin-md-interview",
+      "score": 43,
+      "fetched_at": "2026-07-06",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -6861,6 +6874,32 @@
       "topic": ""
     },
     {
+      "title": "Secret Claude tracker shocks users after Anthropic\u2019s anti-surveillance stance",
+      "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "score": 24,
+      "fetched_at": "2026-07-06",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Your family\u2019s $300 stake in OpenAI",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-06",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
       "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
       "score": 22,
@@ -10654,6 +10693,19 @@
       "score": 17,
       "fetched_at": "2026-06-30",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size \u2014 and wins everywhere except coding",
+      "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+      "score": 17,
+      "fetched_at": "2026-07-06",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "coding"
@@ -17196,7 +17248,7 @@
     {
       "date": "2026-07-06",
       "posts": 0,
-      "items_processed": 11883,
+      "items_processed": 13865,
       "estimated_tokens": 0
     }
   ]
