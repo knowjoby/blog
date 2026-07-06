@@ -1,7 +1,155 @@
 {
-  "updated_at_utc": "2026-07-06T00:12:07.918612+00:00",
-  "pending_count": 1054,
+  "updated_at_utc": "2026-07-06T04:53:08.299507+00:00",
+  "pending_count": 1067,
   "pending": [
+    {
+      "title": "Introducing ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "score": 40,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "multimodal"
+      ]
+    },
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "score": 35,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "score": 30,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "score": 18,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "score": 11,
+      "fetched_at": "2026-07-06",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
