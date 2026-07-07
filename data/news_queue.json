@@ -662,6 +662,22 @@
       "topic": "reasoning"
     },
     {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "score": 40,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Zuckerberg reportedly wants a Polymarket clone \u2014 but without real money",
       "url": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
       "score": 39,
@@ -1612,6 +1628,36 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "score": 32,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "openai",
+      "topic": "open_source"
+    },
+    {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Introducing the OpenAI Economic Research Exchange",
@@ -2749,6 +2795,19 @@
       "topic": ""
     },
     {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Visa will offer an inside look at Project Glasswing and how the most powerful agentic models are changing enterprise security at VB Transform 2026",
       "url": "https://venturebeat.com/security/visa-will-offer-an-inside-look-at-project-glasswing-and-how-the-most-powerful-agentic-models-are-changing-enterprise-security-at-vb-transform-2026",
       "score": 29,
@@ -3519,6 +3578,21 @@
       "url": "https://openai.com/index/introducing-b2b-signals",
       "score": 26,
       "fetched_at": "2026-07-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-07-07",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -6634,6 +6708,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10334,6 +10434,45 @@
       "topic": ""
     },
     {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "score": 18,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "score": 18,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -13872,6 +14011,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "score": 10,
+      "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -16900,7 +17052,7 @@
     {
       "date": "2026-07-07",
       "posts": 0,
-      "items_processed": 1982,
+      "items_processed": 3964,
       "estimated_tokens": 0
     }
   ]
