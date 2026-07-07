@@ -1717,6 +1717,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "score": 32,
+      "fetched_at": "2026-07-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "anthropic",
+      "topic": "open_source"
+    },
+    {
       "title": "Introducing the OpenAI Economic Research Exchange",
       "url": "https://openai.com/index/economic-research-exchange",
       "score": 30,
@@ -16513,6 +16528,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "score": 63,
+      "file": "_posts/2026-07-07-metas-new-muse-image-model-can-pull-other-instagram-users-into-ai-phot.md",
+      "posted_at": "2026-07-07",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "multimodal"
+      ]
     }
   ],
   "daily_usage": [
@@ -17251,8 +17279,8 @@
     },
     {
       "date": "2026-07-07",
-      "posts": 1,
-      "items_processed": 13878,
+      "posts": 2,
+      "items_processed": 15863,
       "estimated_tokens": 0
     }
   ]
