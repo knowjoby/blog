@@ -6737,6 +6737,19 @@
       "topic": ""
     },
     {
+      "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
       "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
       "score": 22,
@@ -11346,6 +11359,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "score": 14,
+      "fetched_at": "2026-07-07",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
@@ -17052,7 +17078,7 @@
     {
       "date": "2026-07-07",
       "posts": 0,
-      "items_processed": 7928,
+      "items_processed": 9910,
       "estimated_tokens": 0
     }
   ]

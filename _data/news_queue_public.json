@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-07T11:13:42.883576+00:00",
-  "pending_count": 1057,
+  "updated_at_utc": "2026-07-07T13:35:54.409749+00:00",
+  "pending_count": 1059,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -67,6 +67,17 @@
       ]
     },
     {
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "score": 24,
@@ -120,6 +131,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "score": 14,
+      "fetched_at": "2026-07-07",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
