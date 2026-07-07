@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-07T13:35:54.409749+00:00",
-  "pending_count": 1059,
+  "updated_at_utc": "2026-07-07T16:34:43.893192+00:00",
+  "pending_count": 1065,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -14,6 +14,30 @@
       "topics": [
         "agentic",
         "coding"
+      ]
+    },
+    {
+      "title": "iRobot’s newest floor cleaner isn’t a robot",
+      "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
+      "score": 39,
+      "fetched_at": "2026-07-07",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "score": 32,
+      "fetched_at": "2026-07-07",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -78,6 +102,17 @@
       "topics": []
     },
     {
+      "title": "Build for the new AI era with Microsoft and NVIDIA",
+      "url": "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "score": 24,
@@ -96,6 +131,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "score": 18,
+      "fetched_at": "2026-07-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -142,6 +188,28 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Digital-native startups are ditching rigid databases for their agentic stacks",
+      "url": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
+      "score": 11,
+      "fetched_at": "2026-07-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "score": 10,
+      "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
