@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-07-03 02:44:54 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta has a new app to let you make little AI experiences",
-        "file": "_posts/2026-07-02-meta-has-a-new-app-to-let-you-make-little-ai-experiences.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-03 04:08:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1119,6 +1088,28 @@
   },
   {
     "ran_at": "2026-07-07 05:09:38 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 1982,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-07 09:26:36 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
