@@ -586,6 +586,21 @@
       "topic": "multimodal"
     },
     {
+      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren\u2019t coding",
+      "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "score": 41,
+      "fetched_at": "2026-07-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
+    },
+    {
       "title": "Meta-learning for wrestling",
       "url": "https://openai.com/index/meta-learning-for-wrestling",
       "score": 40,
@@ -1229,6 +1244,20 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "score": 34,
+      "fetched_at": "2026-07-07",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia",
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -3629,6 +3658,20 @@
         "agentic"
       ],
       "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "Figma acquires team behind a vibe-coding app",
+      "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "score": 25,
+      "fetched_at": "2026-07-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
       "topic": "agentic"
     },
     {
@@ -6788,6 +6831,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -11064,6 +11120,20 @@
       "topic": ""
     },
     {
+      "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
+      "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
+      "score": 16,
+      "fetched_at": "2026-07-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
       "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
       "score": 14,
@@ -14130,6 +14200,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "score": 10,
+      "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -16419,6 +16502,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "score": 55,
+      "file": "_posts/2026-07-07-anthropic-is-launching-claude-cowork-on-mobile-and-web.md",
+      "posted_at": "2026-07-07",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17157,8 +17251,8 @@
     },
     {
       "date": "2026-07-07",
-      "posts": 0,
-      "items_processed": 11893,
+      "posts": 1,
+      "items_processed": 13878,
       "estimated_tokens": 0
     }
   ]

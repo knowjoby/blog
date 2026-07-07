@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-07-07T16:34:43.893192+00:00",
-  "pending_count": 1065,
+  "updated_at_utc": "2026-07-07T19:05:24.386287+00:00",
+  "pending_count": 1071,
   "pending": [
+    {
+      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
+      "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
+      "score": 41,
+      "fetched_at": "2026-07-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
@@ -26,6 +39,18 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "score": 34,
+      "fetched_at": "2026-07-07",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia",
+        "deepseek"
+      ],
+      "topics": []
     },
     {
       "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
@@ -91,6 +116,18 @@
       ]
     },
     {
+      "title": "Figma acquires team behind a vibe-coding app",
+      "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
+      "score": 25,
+      "fetched_at": "2026-07-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
+    {
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
       "score": 24,
@@ -131,6 +168,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -179,6 +227,18 @@
       "topics": []
     },
     {
+      "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
+      "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
+      "score": 16,
+      "fetched_at": "2026-07-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
+    },
+    {
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "score": 14,
@@ -199,6 +259,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "score": 10,
+      "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
