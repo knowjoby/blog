@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-07T21:07:37.734667+00:00",
-  "pending_count": 1072,
+  "updated_at_utc": "2026-07-07T22:38:33.956377+00:00",
+  "pending_count": 1077,
   "pending": [
     {
       "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
@@ -39,6 +39,18 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "score": 34,
+      "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "amazon",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
@@ -141,6 +153,28 @@
       ]
     },
     {
+      "title": "OpenAI’s Chief Futurist Is Leaving the Company",
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
       "score": 24,
@@ -163,6 +197,17 @@
       "topics": []
     },
     {
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "score": 24,
@@ -181,6 +226,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

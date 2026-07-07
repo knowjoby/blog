@@ -1261,6 +1261,20 @@
       "topic": ""
     },
     {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "score": 34,
+      "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "amazon",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "amazon",
+      "topic": ""
+    },
+    {
       "title": "Eufy\u2019s Omni C28 is one of the best Prime Day deals on robot vacuums",
       "url": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
       "score": 33,
@@ -6859,6 +6873,58 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images\u2014Unless You Opt Out",
+      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s Chief Futurist Is Leaving the Company",
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+      "score": 24,
+      "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -17280,7 +17346,7 @@
     {
       "date": "2026-07-07",
       "posts": 2,
-      "items_processed": 15863,
+      "items_processed": 17855,
       "estimated_tokens": 0
     }
   ]
