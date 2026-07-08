@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-08T13:08:27.818047+00:00",
-  "pending_count": 1063,
+  "updated_at_utc": "2026-07-08T15:50:45.187311+00:00",
+  "pending_count": 1065,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -13,6 +13,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "This jumping $800 robot camera dog filled me with joy",
+      "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+      "score": 33,
+      "fetched_at": "2026-07-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -164,6 +175,17 @@
     {
       "title": "How to Use Transformers.js in a Chrome Extension",
       "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-07-08",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
       "score": 10,
       "fetched_at": "2026-07-08",
       "source": "Hugging Face",

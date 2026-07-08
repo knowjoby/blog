@@ -1249,6 +1249,19 @@
       "topic": "robotics"
     },
     {
+      "title": "This jumping $800 robot camera dog filled me with joy",
+      "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
+      "score": 33,
+      "fetched_at": "2026-07-08",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "score": 32,
@@ -14110,6 +14123,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "score": 10,
+      "fetched_at": "2026-07-08",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -17179,7 +17205,7 @@
     {
       "date": "2026-07-08",
       "posts": 1,
-      "items_processed": 13908,
+      "items_processed": 15895,
       "estimated_tokens": 0
     }
   ]
