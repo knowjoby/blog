@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "score": 49,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Valve confirms it\u2019s working with Intel and Nvidia on SteamOS for more GPUs",
-      "url": "https://www.theverge.com/games/952634/valve-intel-nvidia-steamos-gpus-linux",
-      "score": 49,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Facebook\u2019s Creator Studio has been revived as an AI companion app",
       "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
       "score": 49,
@@ -276,19 +250,6 @@
       "topic": ""
     },
     {
-      "title": "Something\u2019s off with Midjourney\u2019s pivot to body scanners",
-      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "score": 47,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [
-        "midjourney"
-      ],
-      "topics": [],
-      "company": "midjourney",
-      "topic": ""
-    },
-    {
       "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "score": 47,
@@ -299,19 +260,6 @@
       ],
       "topics": [],
       "company": "midjourney",
-      "topic": ""
-    },
-    {
-      "title": "Hollywood is bending the knee to OpenAI",
-      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "score": 45,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -693,19 +641,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Zuckerberg reportedly wants a Polymarket clone \u2014 but without real money",
-      "url": "https://www.theverge.com/tech/955121/meta-prediction-market-app-arena-polymarket-kalshi-clone",
-      "score": 39,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "iRobot\u2019s newest floor cleaner isn\u2019t a robot",
       "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
       "score": 39,
@@ -717,36 +652,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "score": 38,
-      "fetched_at": "2026-06-23",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
-    },
-    {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "score": 38,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
@@ -1275,32 +1180,6 @@
       "topic": ""
     },
     {
-      "title": "Eufy\u2019s Omni C28 is one of the best Prime Day deals on robot vacuums",
-      "url": "https://www.theverge.com/gadgets/951230/eufy-omni-c28-robot-vacuum-amazon-prime-day-deal-sale",
-      "score": 33,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Prime Day takes $240 off Roborock\u2019s Saros 20, one of our favorite robovacs",
-      "url": "https://www.theverge.com/gadgets/953936/roborock-saros-20-amazon-deal-sale",
-      "score": 33,
-      "fetched_at": "2026-06-23",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Figma now has AI motion graphics and shader tools",
       "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
       "score": 33,
@@ -1744,71 +1623,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "score": 30,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s Very Own Smart Glasses Go on Sale Today for $299",
-      "url": "https://www.wired.com/story/meta-new-smart-glasses-are-cheaper-colorful-and-meta-branded/",
-      "score": 30,
-      "fetched_at": "2026-06-23",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
-      "score": 30,
-      "fetched_at": "2026-06-23",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
-      "url": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
-      "score": 30,
-      "fetched_at": "2026-06-23",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Mark Zuckerberg wants Meta to launch its own prediction market",
-      "url": "https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/",
-      "score": 30,
-      "fetched_at": "2026-06-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -3702,45 +3516,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The Download: the future of chipmaking and Anthropic\u2019s government clash",
-      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-      "score": 24,
-      "fetched_at": "2026-06-23",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta debuts new, cheaper smart glasses under its own brand",
-      "url": "https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/",
-      "score": 24,
-      "fetched_at": "2026-06-23",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "score": 24,
-      "fetched_at": "2026-06-23",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Applications of AI at OpenAI",
@@ -7008,21 +6783,6 @@
       "topic": ""
     },
     {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "score": 21,
-      "fetched_at": "2026-06-23",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "huggingface",
-      "topic": "multimodal"
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -7090,20 +6850,6 @@
       "topic": ""
     },
     {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "score": 19,
-      "fetched_at": "2026-06-23",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
       "url": "https://huggingface.co/blog/intel-deepmath",
       "score": 19,
@@ -7144,71 +6890,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "score": 18,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "url": "https://openai.com/index/cyberagent",
-      "score": 18,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "score": 18,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "score": 18,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "score": 18,
-      "fetched_at": "2026-06-23",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Working with files in ChatGPT",
@@ -10742,19 +10423,6 @@
       "topic": "coding"
     },
     {
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "score": 16,
-      "fetched_at": "2026-06-23",
-      "source": "Hugging Face",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
-    },
-    {
       "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "url": "https://huggingface.co/blog/storage-buckets",
       "score": 16,
@@ -11215,19 +10883,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
-      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
-      "score": 14,
-      "fetched_at": "2026-06-23",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
       "title": "Alibaba's model never trained as an agent \u2014 and improved agent performance across seven benchmarks",
       "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
       "score": 14,
@@ -11579,19 +11234,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "score": 12,
-      "fetched_at": "2026-06-23",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -11642,19 +11284,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "score": 11,
-      "fetched_at": "2026-06-23",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
@@ -12175,32 +11804,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "score": 10,
-      "fetched_at": "2026-06-23",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "score": 10,
-      "fetched_at": "2026-06-23",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Deep double descent",
@@ -16607,6 +16210,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Meta\u2019s glasses will turn off the camera if you tamper with the privacy light",
+      "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
+      "score": 55,
+      "file": "_posts/2026-07-08-metas-glasses-will-turn-off-the-camera-if-you-tamper-with-the-privacy.md",
+      "posted_at": "2026-07-08",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17347,6 +16961,12 @@
       "date": "2026-07-07",
       "posts": 2,
       "items_processed": 17855,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-08",
+      "posts": 1,
+      "items_processed": 1992,
       "estimated_tokens": 0
     }
   ]

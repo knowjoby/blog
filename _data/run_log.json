@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-03 22:25:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-03 23:46:52 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1138,5 +1116,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-08 05:32:43 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1992,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta’s glasses will turn off the camera if you tamper with the privacy light",
+        "file": "_posts/2026-07-08-metas-glasses-will-turn-off-the-camera-if-you-tamper-with-the-privacy.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]
