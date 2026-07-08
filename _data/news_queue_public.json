@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-08T21:14:04.344280+00:00",
-  "pending_count": 1078,
+  "updated_at_utc": "2026-07-08T22:33:38.058024+00:00",
+  "pending_count": 1079,
   "pending": [
     {
       "title": "ChatGPT’s upgraded voice mode is better at shutting up",
@@ -284,6 +284,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
