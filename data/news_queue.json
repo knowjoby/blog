@@ -775,6 +775,21 @@
       "topic": "multimodal"
     },
     {
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "score": 38,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "score": 36,
@@ -2699,6 +2714,19 @@
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "score": 30,
       "fetched_at": "2026-07-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "score": 30,
+      "fetched_at": "2026-07-08",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -6783,6 +6811,21 @@
       "topic": ""
     },
     {
+      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+      "score": 21,
+      "fetched_at": "2026-07-08",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "huggingface",
+      "topic": "multimodal"
+    },
+    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -6887,6 +6930,20 @@
       "topics": [
         "agentic",
         "reasoning"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "score": 19,
+      "fetched_at": "2026-07-08",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
       ],
       "company": "",
       "topic": "agentic"
@@ -10358,6 +10415,71 @@
       "topic": ""
     },
     {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -10881,6 +11003,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "DeepSeek-V4: a million-token context that agents can actually use",
+      "url": "https://huggingface.co/blog/deepseekv4",
+      "score": 16,
+      "fetched_at": "2026-07-08",
+      "source": "Hugging Face",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "deepseek",
+      "topic": ""
     },
     {
       "title": "Alibaba's model never trained as an agent \u2014 and improved agent performance across seven benchmarks",
@@ -13890,6 +14025,32 @@
       "url": "https://huggingface.co/blog/skypilot-hf-storage",
       "score": 10,
       "fetched_at": "2026-07-07",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "score": 10,
+      "fetched_at": "2026-07-08",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "How to Use Transformers.js in a Chrome Extension",
+      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "score": 10,
+      "fetched_at": "2026-07-08",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -16966,7 +17127,7 @@
     {
       "date": "2026-07-08",
       "posts": 1,
-      "items_processed": 1992,
+      "items_processed": 3978,
       "estimated_tokens": 0
     }
   ]
