@@ -362,6 +362,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "score": 43,
+      "fetched_at": "2026-07-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -2741,6 +2754,19 @@
       "score": 30,
       "fetched_at": "2026-07-08",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "score": 30,
+      "fetched_at": "2026-07-08",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -6770,6 +6796,19 @@
       "topic": ""
     },
     {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "score": 24,
+      "fetched_at": "2026-07-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
       "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
       "score": 22,
@@ -10545,6 +10584,19 @@
       "topic": ""
     },
     {
+      "title": "Helping K\u201312 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11426,6 +11478,32 @@
       "score": 14,
       "fetched_at": "2026-07-07",
       "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Crypto VC firm Paradigm raises $1.2B to invest in \u2018technical frontier\u2019 startups",
+      "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+      "score": 14,
+      "fetched_at": "2026-07-08",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "score": 14,
+      "fetched_at": "2026-07-08",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "agentic"
@@ -17205,7 +17283,7 @@
     {
       "date": "2026-07-08",
       "posts": 1,
-      "items_processed": 15895,
+      "items_processed": 17885,
       "estimated_tokens": 0
     }
   ]
