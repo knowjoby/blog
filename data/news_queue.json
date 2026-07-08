@@ -2802,6 +2802,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
+      "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
+      "score": 30,
+      "fetched_at": "2026-07-08",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Visa will offer an inside look at Project Glasswing and how the most powerful agentic models are changing enterprise security at VB Transform 2026",
       "url": "https://venturebeat.com/security/visa-will-offer-an-inside-look-at-project-glasswing-and-how-the-most-powerful-agentic-models-are-changing-enterprise-security-at-vb-transform-2026",
       "score": 29,
@@ -2890,6 +2903,21 @@
       ],
       "company": "openai",
       "topic": "robotics"
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "score": 29,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
     },
     {
       "title": "Best practices for deploying language models",
@@ -6861,6 +6889,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "score": 24,
+      "fetched_at": "2026-07-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -17338,7 +17379,7 @@
     {
       "date": "2026-07-08",
       "posts": 1,
-      "items_processed": 19875,
+      "items_processed": 21867,
       "estimated_tokens": 0
     }
   ]
