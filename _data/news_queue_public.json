@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-08T09:28:31.267111+00:00",
-  "pending_count": 1061,
+  "updated_at_utc": "2026-07-08T10:16:20.029013+00:00",
+  "pending_count": 1062,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -72,6 +72,17 @@
         "agentic",
         "open_source"
       ]
+    },
+    {
+      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+      "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+      "score": 18,
+      "fetched_at": "2026-07-08",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Inside our approach to the Model Spec",
