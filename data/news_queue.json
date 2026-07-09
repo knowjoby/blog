@@ -556,6 +556,20 @@
       "topic": ""
     },
     {
+      "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "score": 42,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -1777,6 +1791,21 @@
       "topic": "coding"
     },
     {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "score": 32,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
       "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
       "score": 30,
@@ -2935,6 +2964,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "score": 30,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -7116,6 +7158,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16992,6 +17060,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI\u2019s AGI work due to illness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "score": 55,
+      "file": "_posts/2026-07-09-fidji-simo-steps-down-from-leading-openais-agi-work-due-to-illness.md",
+      "posted_at": "2026-07-09",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17742,8 +17821,8 @@
     },
     {
       "date": "2026-07-09",
-      "posts": 3,
-      "items_processed": 17945,
+      "posts": 4,
+      "items_processed": 19943,
       "estimated_tokens": 0
     }
   ]

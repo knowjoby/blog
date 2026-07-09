@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-09T22:01:11.002046+00:00",
-  "pending_count": 1102,
+  "updated_at_utc": "2026-07-09T23:46:31.890179+00:00",
+  "pending_count": 1107,
   "pending": [
     {
       "title": "The ChatGPT browser is already dead",
@@ -86,6 +86,18 @@
       ]
     },
     {
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "score": 42,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
       "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
       "score": 37,
@@ -120,6 +132,19 @@
       "topics": []
     },
     {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "score": 32,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "score": 32,
@@ -151,6 +176,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "score": 30,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -208,6 +244,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "Wired",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -302,6 +349,17 @@
     {
       "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
       "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
       "score": 24,
       "fetched_at": "2026-07-09",
       "source": "Ars Technica",
