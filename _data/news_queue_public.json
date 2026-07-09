@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-09T20:21:36.561469+00:00",
-  "pending_count": 1098,
+  "updated_at_utc": "2026-07-09T22:01:11.002046+00:00",
+  "pending_count": 1102,
   "pending": [
+    {
+      "title": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "score": 49,
+      "fetched_at": "2026-07-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Say hello to Claude Wrapped",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
@@ -144,6 +155,17 @@
       "topics": []
     },
     {
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "score": 30,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "score": 30,
@@ -168,11 +190,33 @@
       ]
     },
     {
+      "title": "Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
       "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "score": 24,
       "fetched_at": "2026-07-09",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "MIT Tech Review",
       "companies": [
         "anthropic"
       ],
