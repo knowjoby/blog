@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-09T15:41:43.097803+00:00",
-  "pending_count": 1075,
+  "updated_at_utc": "2026-07-09T18:01:19.682608+00:00",
+  "pending_count": 1091,
   "pending": [
     {
       "title": "Say hello to Claude Wrapped",
@@ -105,6 +105,19 @@
       "topics": []
     },
     {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "score": 26,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
       "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
       "score": 24,
@@ -112,6 +125,39 @@
       "source": "MIT Tech Review",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta’s new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -138,8 +184,52 @@
       "topics": []
     },
     {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI is becoming a first hire for small businesses",
+      "url": "https://openai.com/index/ai-first-hire-small-business",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Working with files in ChatGPT",
       "url": "https://openai.com/academy/working-with-files",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Working with ChatGPT Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What is ChatGPT Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
       "score": 18,
       "fetched_at": "2026-07-09",
       "source": "OpenAI",
@@ -248,6 +338,17 @@
       "topics": []
     },
     {
+      "title": "How to use ChatGPT Work for everyday tasks",
+      "url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Healthcare",
       "url": "https://openai.com/academy/healthcare",
       "score": 18,
@@ -303,6 +404,72 @@
       "topics": []
     },
     {
+      "title": "ChatGPT Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to get started with ChatGPT Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How business operations teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT Sites",
+      "url": "https://openai.com/academy/chatgpt-sites",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
       "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
       "score": 18,
@@ -313,6 +480,18 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "The enterprise AI challenge nobody solves with code generation alone",
+      "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone",
+      "score": 16,
+      "fetched_at": "2026-07-09",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "regulation",
+        "coding"
       ]
     },
     {
