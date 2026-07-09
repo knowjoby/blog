@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-07-09T00:16:22.252919+00:00",
-  "pending_count": 1048,
+  "updated_at_utc": "2026-07-09T04:32:23.641254+00:00",
+  "pending_count": 1068,
   "pending": [
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "score": 48,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta is reportedly working on smart glasses that would be recording all the time",
       "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
@@ -10,6 +22,18 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "score": 34,
+      "fetched_at": "2026-07-09",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia",
+        "huggingface"
       ],
       "topics": []
     },
@@ -23,6 +47,206 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "score": 30,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "score": 24,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI fundamentals",
+      "url": "https://openai.com/academy/what-is-ai",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Using skills",
+      "url": "https://openai.com/academy/skills",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Personalizing ChatGPT",
+      "url": "https://openai.com/academy/personalization",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for managers",
+      "url": "https://openai.com/academy/managers",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating images with ChatGPT",
+      "url": "https://openai.com/academy/image-generation",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for finance teams",
+      "url": "https://openai.com/academy/finance",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "score": 18,
+      "fetched_at": "2026-07-09",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "ChatGPT’s upgraded voice mode is better at shutting up",

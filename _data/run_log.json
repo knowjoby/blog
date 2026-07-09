@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-04 22:03:09 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-        "file": "_posts/2026-07-04-what-is-mistral-ai-everything-to-know-about-the-openai-competitor.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "mistral",
-          "open_source"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-04 23:35:34 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1149,5 +1116,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-07-09 10:02:23 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 20,
+    "posts_created": 0,
+    "queued": 20,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 20
+      },
+      "rss": {
+        "raw": 1992,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 20
+      }
+    },
+    "posts": []
   }
 ]
