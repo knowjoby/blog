@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-05 03:59:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-05 05:07:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1138,5 +1116,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-09 21:11:43 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 1,
+    "queued": 7,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 1992,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta says its new AI model is ready to compete on coding",
+        "file": "_posts/2026-07-09-meta-says-its-new-ai-model-is-ready-to-compete-on-coding.md",
+        "score": 60,
+        "tags": [
+          "meta",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
