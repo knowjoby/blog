@@ -124,34 +124,6 @@
       "topic": ""
     },
     {
-      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "score": 48,
-      "fetched_at": "2026-06-24",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "score": 48,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -278,6 +250,19 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Meta is reportedly working on smart glasses that would be recording all the time",
+      "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
+      "score": 45,
+      "fetched_at": "2026-07-09",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
     },
     {
       "title": "Pioneering an AI clinical copilot with Penda Health",
@@ -1010,20 +995,6 @@
       "topic": "coding"
     },
     {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "score": 34,
-      "fetched_at": "2026-06-24",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "SchoolAI builds an AI platform that empowers teachers",
       "url": "https://openai.com/index/schoolai",
       "score": 34,
@@ -1220,19 +1191,6 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
-    },
-    {
-      "title": "Figma now has AI motion graphics and shader tools",
-      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "score": 33,
-      "fetched_at": "2026-06-24",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Cursor now has a mobile app for guiding your coding agent on the go",
@@ -1678,32 +1636,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "score": 30,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI unveils first custom AI inference chip, Jalape\u00f1o, with Broadcom \u2014 and its development was sped-up with OpenAI's own models",
-      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
-      "score": 30,
-      "fetched_at": "2026-06-24",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
@@ -2815,19 +2747,17 @@
       "topic": ""
     },
     {
-      "title": "Visa will offer an inside look at Project Glasswing and how the most powerful agentic models are changing enterprise security at VB Transform 2026",
-      "url": "https://venturebeat.com/security/visa-will-offer-an-inside-look-at-project-glasswing-and-how-the-most-powerful-agentic-models-are-changing-enterprise-security-at-vb-transform-2026",
-      "score": 29,
-      "fetched_at": "2026-06-24",
-      "source": "VentureBeat",
+      "title": "One of Meta\u2019s Offices Was Briefly Overtaken by a Rogue Squirrel",
+      "url": "https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/",
+      "score": 30,
+      "fetched_at": "2026-07-09",
+      "source": "Wired",
       "companies": [
-        "anthropic"
+        "meta"
       ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
+      "topics": [],
+      "company": "meta",
+      "topic": ""
     },
     {
       "title": "Inside Mirakl's agentic commerce vision",
@@ -3653,58 +3583,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "score": 24,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 24,
-      "fetched_at": "2026-06-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
-      "score": 24,
-      "fetched_at": "2026-06-24",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "A24 Knows You\u2019re Mad About the Google AI Collab",
-      "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
-      "score": 24,
-      "fetched_at": "2026-06-24",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "OpenAI to acquire Ona",
@@ -6905,19 +6783,6 @@
       "topic": ""
     },
     {
-      "title": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
-      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-      "score": 22,
-      "fetched_at": "2026-06-24",
-      "source": "VentureBeat",
-      "companies": [
-        "mistral"
-      ],
-      "topics": [],
-      "company": "mistral",
-      "topic": ""
-    },
-    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -7134,242 +6999,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Working with files in ChatGPT",
-      "url": "https://openai.com/academy/working-with-files",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Personalizing ChatGPT",
-      "url": "https://openai.com/academy/personalization",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for customer success teams",
-      "url": "https://openai.com/academy/customer-success",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Using skills",
-      "url": "https://openai.com/academy/skills",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for operations teams",
-      "url": "https://openai.com/academy/operations",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AI fundamentals",
-      "url": "https://openai.com/academy/what-is-ai",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for managers",
-      "url": "https://openai.com/academy/managers",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "huggingface",
-      "topic": "agentic"
-    },
-    {
-      "title": "How Shopify built an AI stack that doesn't care which models survive",
-      "url": "https://venturebeat.com/orchestration/how-shopify-built-an-ai-stack-that-doesnt-care-which-models-survive",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "score": 18,
-      "fetched_at": "2026-06-24",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "PRC-linked influence operations are targeting AI debates in the US",
@@ -11244,19 +10873,6 @@
       "topic": ""
     },
     {
-      "title": "Alibaba's model never trained as an agent \u2014 and improved agent performance across seven benchmarks",
-      "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks",
-      "score": 14,
-      "fetched_at": "2026-06-24",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Introducing GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5",
       "score": 14,
@@ -11671,32 +11287,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "score": 11,
-      "fetched_at": "2026-06-24",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
-      "url": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026",
-      "score": 11,
-      "fetched_at": "2026-06-24",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Coding and design with GPT-5",
@@ -16647,6 +16237,21 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "SpaceX's Grok 4.5 launches at half the price of rivals \u2014 here's why that could rattle Anthropic and OpenAI",
+      "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
+      "score": 80,
+      "file": "_posts/2026-07-09-spacexs-grok-45-launches-at-half-the-price-of-rivals-heres-why-that-co.md",
+      "posted_at": "2026-07-09",
+      "companies": [
+        "openai",
+        "anthropic",
+        "xai"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -17393,6 +16998,12 @@
       "date": "2026-07-08",
       "posts": 1,
       "items_processed": 23859,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-09",
+      "posts": 1,
+      "items_processed": 1992,
       "estimated_tokens": 0
     }
   ]

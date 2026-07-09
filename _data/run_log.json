@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-04 20:41:13 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-04 22:03:09 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1137,5 +1115,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-09 05:46:22 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 1992,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
+        "file": "_posts/2026-07-09-spacexs-grok-45-launches-at-half-the-price-of-rivals-heres-why-that-co.md",
+        "score": 80,
+        "tags": [
+          "openai",
+          "anthropic",
+          "xai",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
