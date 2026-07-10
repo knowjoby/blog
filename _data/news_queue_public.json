@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-10T10:51:40.613581+00:00",
-  "pending_count": 1100,
+  "updated_at_utc": "2026-07-10T11:10:10.339539+00:00",
+  "pending_count": 1101,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -78,6 +78,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Instagram and Facebook will likely require a redesign after EU rules they’re ‘addictive’",
+      "url": "https://www.theverge.com/policy/963872/meta-eu-addictive-design-200b-fine-risk-digital-services-act-dsa",
+      "score": 43,
+      "fetched_at": "2026-07-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Procgen and MineRL Competitions",
