@@ -12611,6 +12611,19 @@
       "topic": "coding"
     },
     {
+      "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+      "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one",
+      "score": 11,
+      "fetched_at": "2026-07-10",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
       "url": "https://huggingface.co/blog/eee-community-evals",
       "score": 10,
@@ -17897,7 +17910,7 @@
     {
       "date": "2026-07-10",
       "posts": 2,
-      "items_processed": 17996,
+      "items_processed": 19996,
       "estimated_tokens": 0
     }
   ]
