@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-10T07:41:28.076209+00:00",
-  "pending_count": 1099,
+  "updated_at_utc": "2026-07-10T10:51:40.613581+00:00",
+  "pending_count": 1100,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -5425,6 +5425,17 @@
     {
       "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
       "url": "https://openai.com/index/deutsche-telekom-collaboration",
+      "score": 18,
+      "fetched_at": "2026-07-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "url": "https://openai.com/index/deutsche-telekom",
       "score": 18,
       "fetched_at": "2026-07-10",
       "source": "OpenAI",
