@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-05 15:52:03 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 1979,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-05 17:26:17 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1163,6 +1141,39 @@
         "score": 55,
         "tags": [
           "openai"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-07-10 09:21:23 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 1998,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+        "file": "_posts/2026-07-10-openai-says-gpt-56-is-the-preferred-model-for-microsoft-copilot-365-am.md",
+        "score": 56,
+        "tags": [
+          "openai",
+          "microsoft",
+          "coding"
         ]
       }
     ]
