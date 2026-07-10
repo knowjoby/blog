@@ -7175,6 +7175,32 @@
       "topic": ""
     },
     {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "score": 24,
+      "fetched_at": "2026-07-10",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Disable auto-play and infinite scroll or risk massive fines, EU tells Meta",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "score": 24,
+      "fetched_at": "2026-07-10",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -17047,6 +17073,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Nvidia\u2019s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+      "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+      "score": 55,
+      "file": "_posts/2026-07-10-nvidias-biggest-ram-supplier-just-had-a-trillion-dollar-debut-on-wall.md",
+      "posted_at": "2026-07-10",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17803,8 +17840,8 @@
     },
     {
       "date": "2026-07-10",
-      "posts": 1,
-      "items_processed": 11996,
+      "posts": 2,
+      "items_processed": 13996,
       "estimated_tokens": 0
     }
   ]
