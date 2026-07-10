@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-10T19:40:25.778252+00:00",
-  "pending_count": 1107,
+  "updated_at_utc": "2026-07-10T21:10:37.574452+00:00",
+  "pending_count": 1110,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -214,6 +214,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+      "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+      "score": 38,
+      "fetched_at": "2026-07-10",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Review completed & Altman, Brockman to continue to lead OpenAI",
@@ -1953,6 +1966,17 @@
       "topics": []
     },
     {
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "score": 24,
+      "fetched_at": "2026-07-10",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
       "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
       "score": 24,
@@ -1971,6 +1995,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "score": 24,
+      "fetched_at": "2026-07-10",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
