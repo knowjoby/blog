@@ -12463,6 +12463,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+      "score": 11,
+      "fetched_at": "2026-07-11",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
       "url": "https://huggingface.co/blog/eee-community-evals",
       "score": 10,
@@ -17766,7 +17779,7 @@
     {
       "date": "2026-07-11",
       "posts": 1,
-      "items_processed": 22000,
+      "items_processed": 24000,
       "estimated_tokens": 0
     }
   ]
