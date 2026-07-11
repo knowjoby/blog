@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-07-08 00:35:24 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 1,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 1985,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic is launching Claude Cowork on mobile and web",
-        "file": "_posts/2026-07-07-anthropic-is-launching-claude-cowork-on-mobile-and-web.md",
-        "score": 55,
-        "tags": [
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-08 02:37:37 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1176,6 +1145,28 @@
   },
   {
     "ran_at": "2026-07-12 03:27:21 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2000,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-12 04:29:15 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
