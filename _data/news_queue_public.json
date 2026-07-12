@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-12T19:43:10.679722+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-07-12T20:56:47.785370+00:00",
+  "pending_count": 1094,
   "pending": [
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -82,6 +82,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepSeek cut prices 75%. The 100x problem remains",
+      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "score": 16,
+      "fetched_at": "2026-07-12",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
       ],
       "topics": []
     },

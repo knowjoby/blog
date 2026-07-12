@@ -11449,6 +11449,19 @@
       "topic": ""
     },
     {
+      "title": "DeepSeek cut prices 75%. The 100x problem remains",
+      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+      "score": 16,
+      "fetched_at": "2026-07-12",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "deepseek",
+      "topic": ""
+    },
+    {
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
       "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
       "score": 14,
@@ -16925,6 +16938,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "score": 55,
+      "file": "_posts/2026-07-12-lorde-says-ray-ban-meta-ai-glasses-are-not-sexy.md",
+      "posted_at": "2026-07-12",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17693,8 +17717,8 @@
     },
     {
       "date": "2026-07-12",
-      "posts": 0,
-      "items_processed": 24000,
+      "posts": 1,
+      "items_processed": 26000,
       "estimated_tokens": 0
     }
   ]
