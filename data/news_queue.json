@@ -535,6 +535,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "score": 41,
+      "fetched_at": "2026-07-12",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "nvidia",
+      "topic": "multimodal"
+    },
+    {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
       "score": 40,
@@ -776,6 +791,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-07-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
       "title": "Character.AI wants a piece of the microdrama pie",
       "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
       "score": 37,
@@ -992,6 +1022,21 @@
       ],
       "company": "nvidia",
       "topic": "reasoning"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-07-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
@@ -2770,6 +2815,19 @@
       "url": "https://openai.com/index/bbva",
       "score": 30,
       "fetched_at": "2026-07-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "score": 30,
+      "fetched_at": "2026-07-12",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -6973,6 +7031,32 @@
       "topic": ""
     },
     {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "score": 24,
+      "fetched_at": "2026-07-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "score": 24,
+      "fetched_at": "2026-07-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -10805,6 +10889,19 @@
       "url": "https://openai.com/index/choco",
       "score": 18,
       "fetched_at": "2026-07-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 18,
+      "fetched_at": "2026-07-12",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -17597,7 +17694,7 @@
     {
       "date": "2026-07-12",
       "posts": 0,
-      "items_processed": 2000,
+      "items_processed": 4000,
       "estimated_tokens": 0
     }
   ]
