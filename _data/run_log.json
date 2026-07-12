@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-07-08 02:37:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 1985,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-        "file": "_posts/2026-07-07-metas-new-muse-image-model-can-pull-other-instagram-users-into-ai-phot.md",
-        "score": 63,
-        "tags": [
-          "meta",
-          "multimodal"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-08 04:08:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1167,6 +1135,28 @@
   },
   {
     "ran_at": "2026-07-12 04:29:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2000,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-12 05:34:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
