@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-07-13T19:35:42.450536+00:00",
-  "pending_count": 1096,
+  "updated_at_utc": "2026-07-13T21:02:05.975422+00:00",
+  "pending_count": 1100,
   "pending": [
+    {
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+      "score": 49,
+      "fetched_at": "2026-07-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "score": 49,
+      "fetched_at": "2026-07-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "Even Nvidia’s head of automotive fights with Nvidia for compute",
       "url": "https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla",
@@ -60,6 +82,17 @@
       "topics": []
     },
     {
+      "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
       "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
       "score": 24,
@@ -109,6 +142,17 @@
       "score": 24,
       "fetched_at": "2026-07-13",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "score": 24,
+      "fetched_at": "2026-07-13",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],

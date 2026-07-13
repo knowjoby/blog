@@ -111,6 +111,32 @@
       "topic": ""
     },
     {
+      "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
+      "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
+      "score": 49,
+      "fetched_at": "2026-07-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "score": 49,
+      "fetched_at": "2026-07-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
       "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "score": 48,
@@ -7080,6 +7106,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Apple says former employee exploited \u2018rare\u2019 bug to download confidential files after leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+      "score": 24,
+      "fetched_at": "2026-07-13",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16985,6 +17037,30 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple\u2019s public betas for iOS 27 and more are out now",
+      "url": "https://www.theverge.com/tech/964307/apple-public-betas-ios-27-siri-ai",
+      "score": 55,
+      "file": "_posts/2026-07-13-apples-public-betas-for-ios-27-and-more-are-out-now.md",
+      "posted_at": "2026-07-13",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "score": 54,
+      "file": "_posts/2026-07-13-satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai.md",
+      "posted_at": "2026-07-13",
+      "companies": [
+        "openai",
+        "anthropic",
+        "microsoft"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -17759,8 +17835,8 @@
     },
     {
       "date": "2026-07-13",
-      "posts": 1,
-      "items_processed": 16000,
+      "posts": 3,
+      "items_processed": 18000,
       "estimated_tokens": 0
     }
   ]

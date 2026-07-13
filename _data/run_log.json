@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-07-10 05:16:31 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 1998,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-        "file": "_posts/2026-07-09-fidji-simo-steps-down-from-leading-openais-agi-work-due-to-illness.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-10 09:21:23 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1154,5 +1123,46 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-14 02:32:05 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 2,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 2000,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple’s public betas for iOS 27 and more are out now",
+        "file": "_posts/2026-07-13-apples-public-betas-for-ios-27-and-more-are-out-now.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      },
+      {
+        "title": "Satya Nadella has issued a shocking warning to companies using AI",
+        "file": "_posts/2026-07-13-satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "anthropic",
+          "microsoft"
+        ]
+      }
+    ]
   }
 ]
