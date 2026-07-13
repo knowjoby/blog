@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-13T08:33:12.730611+00:00",
-  "pending_count": 1090,
+  "updated_at_utc": "2026-07-13T11:09:01.398381+00:00",
+  "pending_count": 1091,
   "pending": [
+    {
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "score": 43,
+      "fetched_at": "2026-07-13",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
