@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-14T19:26:46.316181+00:00",
-  "pending_count": 1107,
+  "updated_at_utc": "2026-07-14T20:39:32.763138+00:00",
+  "pending_count": 1109,
   "pending": [
     {
       "title": "Meta accused of using biased AI targeting for mass layoffs",
@@ -58,6 +58,17 @@
       ]
     },
     {
+      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "score": 30,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "score": 30,
@@ -98,6 +109,17 @@
       "source": "TechCrunch",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s newest ad is creeping people out",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "score": 24,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
