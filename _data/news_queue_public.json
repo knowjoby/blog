@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-07-14T12:48:31.258955+00:00",
-  "pending_count": 1095,
+  "updated_at_utc": "2026-07-14T14:57:20.250529+00:00",
+  "pending_count": 1100,
   "pending": [
+    {
+      "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "score": 49,
+      "fetched_at": "2026-07-14",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman didn’t need another lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "score": 43,
+      "fetched_at": "2026-07-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
@@ -59,6 +81,17 @@
       "topics": []
     },
     {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "score": 18,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "score": 18,
@@ -92,6 +125,17 @@
       "topics": []
     },
     {
+      "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "score": 14,
+      "fetched_at": "2026-07-14",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
       "url": "https://openai.com/index/sea-david-chen",
       "score": 11,
@@ -123,6 +167,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "score": 10,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",

@@ -137,6 +137,19 @@
       "topic": ""
     },
     {
+      "title": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "score": 49,
+      "fetched_at": "2026-07-14",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
       "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "score": 48,
@@ -386,6 +399,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Sam Altman didn\u2019t need another lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "score": 43,
+      "fetched_at": "2026-07-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -10967,6 +10993,19 @@
       "topic": ""
     },
     {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "score": 18,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "score": 17,
@@ -11840,6 +11879,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Canva launches Code 2.0, offering AI website building to every user \u2014 including free accounts",
+      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+      "score": 14,
+      "fetched_at": "2026-07-14",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -14525,6 +14577,19 @@
       "score": 10,
       "fetched_at": "2026-07-10",
       "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "score": 10,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
       "companies": [
         "huggingface"
       ],
@@ -17768,7 +17833,7 @@
     {
       "date": "2026-07-14",
       "posts": 0,
-      "items_processed": 14000,
+      "items_processed": 16000,
       "estimated_tokens": 0
     }
   ]
