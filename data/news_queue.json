@@ -7138,6 +7138,19 @@
       "topic": ""
     },
     {
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "score": 24,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -17130,6 +17143,19 @@
         "microsoft"
       ],
       "topics": []
+    },
+    {
+      "title": "SpaceXAI\u2019s Grok programming tool was uploading its users\u2019 entire codebase to cloud storage",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "score": 57,
+      "file": "_posts/2026-07-14-spacexais-grok-programming-tool-was-uploading-its-users-entire-codebas.md",
+      "posted_at": "2026-07-14",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -17910,8 +17936,8 @@
     },
     {
       "date": "2026-07-14",
-      "posts": 0,
-      "items_processed": 20001,
+      "posts": 1,
+      "items_processed": 22002,
       "estimated_tokens": 0
     }
   ]
