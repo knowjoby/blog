@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-14T14:57:20.250529+00:00",
-  "pending_count": 1100,
+  "updated_at_utc": "2026-07-14T16:21:52.623549+00:00",
+  "pending_count": 1101,
   "pending": [
     {
       "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
@@ -23,6 +23,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "score": 31,
+      "fetched_at": "2026-07-14",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",

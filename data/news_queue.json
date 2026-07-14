@@ -1750,6 +1750,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Spotify is now an AI chatbot, too",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "score": 31,
+      "fetched_at": "2026-07-14",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "score": 30,
@@ -17833,7 +17846,7 @@
     {
       "date": "2026-07-14",
       "posts": 0,
-      "items_processed": 16000,
+      "items_processed": 18000,
       "estimated_tokens": 0
     }
   ]

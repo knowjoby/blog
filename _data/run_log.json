@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-07-11 05:33:09 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2000,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-        "file": "_posts/2026-07-11-meta-turns-off-the-instagram-feature-that-let-users-make-ai-deepfakes.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-11 09:22:51 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 11,
@@ -1141,6 +1110,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 5
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-14 21:51:52 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2000,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
