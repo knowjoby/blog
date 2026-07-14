@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-14T11:08:12.425943+00:00",
-  "pending_count": 1094,
+  "updated_at_utc": "2026-07-14T12:48:31.258955+00:00",
+  "pending_count": 1095,
   "pending": [
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -10,6 +10,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "score": 24,
+      "fetched_at": "2026-07-14",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
