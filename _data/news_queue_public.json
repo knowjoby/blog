@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-14T09:56:49.835887+00:00",
-  "pending_count": 1093,
+  "updated_at_utc": "2026-07-14T11:08:12.425943+00:00",
+  "pending_count": 1094,
   "pending": [
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -35,6 +35,17 @@
         "agentic",
         "robotics"
       ]
+    },
+    {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "score": 18,
+      "fetched_at": "2026-07-14",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "The next evolution of the Agents SDK",

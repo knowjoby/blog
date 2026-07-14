@@ -10941,6 +10941,19 @@
       "topic": ""
     },
     {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "score": 18,
+      "fetched_at": "2026-07-14",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "score": 17,
@@ -17742,7 +17755,7 @@
     {
       "date": "2026-07-14",
       "posts": 0,
-      "items_processed": 10000,
+      "items_processed": 12000,
       "estimated_tokens": 0
     }
   ]
