@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-07-13T23:29:35.553152+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-07-14T00:57:47.759499+00:00",
+  "pending_count": 1085,
   "pending": [
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "score": 22,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "robotics"
+      ]
+    },
     {
       "title": "Siri AI makes the Apple Watch finally feel like a wrist computer",
       "url": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch",
@@ -12215,203 +12227,6 @@
         "huggingface"
       ],
       "topics": []
-    },
-    {
-      "title": "These camera-free smart glasses made me feel like Tony Stark",
-      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
-      "score": 43,
-      "fetched_at": "2026-06-29",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "score": 42,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
-      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
-      "score": 34,
-      "fetched_at": "2026-06-29",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic",
-        "deepseek"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "score": 33,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation",
-        "coding"
-      ]
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-      "score": 26,
-      "fetched_at": "2026-06-29",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
-      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
-      "score": 26,
-      "fetched_at": "2026-06-29",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Gemini’s personalized AI image generation is now free for US users",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "score": 26,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "score": 17,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ]
-    },
-    {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "score": 14,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-06-29",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ]
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-06-29",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ]
     }
   ]
 }

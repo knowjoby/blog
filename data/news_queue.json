@@ -308,19 +308,6 @@
       "topic": "coding"
     },
     {
-      "title": "These camera-free smart glasses made me feel like Tony Stark",
-      "url": "https://www.theverge.com/tech/957933/xgimi-memomind-one-ai-smart-glasses-kickstarter-hands-on",
-      "score": 43,
-      "fetched_at": "2026-06-29",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
       "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
       "score": 43,
@@ -399,20 +386,6 @@
       ],
       "topics": [],
       "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "score": 42,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -1078,20 +1051,6 @@
       "topic": "agentic"
     },
     {
-      "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
-      "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
-      "score": 34,
-      "fetched_at": "2026-06-29",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic",
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
       "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
       "score": 34,
@@ -1288,21 +1247,6 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
-    },
-    {
-      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-      "score": 33,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "The Supreme Court stops Trump\u2019s attempt to end birthright citizenship",
@@ -1778,19 +1722,6 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Partner Network",
@@ -3121,51 +3052,6 @@
       "topic": "robotics"
     },
     {
-      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-      "score": 26,
-      "fetched_at": "2026-06-29",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "nvidia",
-      "topic": "robotics"
-    },
-    {
-      "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
-      "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure",
-      "score": 26,
-      "fetched_at": "2026-06-29",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
-      "title": "Gemini\u2019s personalized AI image generation is now free for US users",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "score": 26,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "google",
-      "topic": "multimodal"
-    },
-    {
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "score": 26,
@@ -3673,19 +3559,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -7215,6 +7088,20 @@
       "topic": ""
     },
     {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "score": 22,
+      "fetched_at": "2026-07-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "robotics"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -7337,45 +7224,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Accelerating the cyber defense ecosystem that protects us all",
@@ -11028,19 +10876,6 @@
       "topic": ""
     },
     {
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
-      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "score": 17,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "score": 17,
@@ -11565,19 +11400,6 @@
       "topic": ""
     },
     {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "score": 14,
-      "fetched_at": "2026-06-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "AI agents need context everywhere they run, even where the cloud can't follow",
       "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
       "score": 14,
@@ -11966,45 +11788,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-06-29",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-06-29",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-06-29",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
@@ -17850,6 +17633,12 @@
       "date": "2026-07-13",
       "posts": 3,
       "items_processed": 22000,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-14",
+      "posts": 0,
+      "items_processed": 2000,
       "estimated_tokens": 0
     }
   ]
