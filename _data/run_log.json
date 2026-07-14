@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-07-10 23:24:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2000,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-        "file": "_posts/2026-07-10-nvidias-biggest-ram-supplier-just-had-a-trillion-dollar-debut-on-wall.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-11 01:10:25 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1134,6 +1103,28 @@
   },
   {
     "ran_at": "2026-07-14 14:37:50 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2000,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-14 15:26:49 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
