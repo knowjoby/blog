@@ -150,6 +150,19 @@
       "topic": ""
     },
     {
+      "title": "xAI sues a man for using Grok to generate CSAM \u2018deepfakes\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "score": 49,
+      "fetched_at": "2026-07-15",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
       "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
       "score": 48,
@@ -18066,7 +18079,7 @@
     {
       "date": "2026-07-15",
       "posts": 1,
-      "items_processed": 23956,
+      "items_processed": 25956,
       "estimated_tokens": 0
     }
   ]

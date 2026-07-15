@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-15T21:05:10.283481+00:00",
-  "pending_count": 1114,
+  "updated_at_utc": "2026-07-15T22:31:13.677322+00:00",
+  "pending_count": 1115,
   "pending": [
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM ‘deepfakes’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "score": 49,
+      "fetched_at": "2026-07-15",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
     {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
