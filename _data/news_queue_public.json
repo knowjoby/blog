@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-15T06:36:49.484522+00:00",
-  "pending_count": 1098,
+  "updated_at_utc": "2026-07-15T09:12:13.333911+00:00",
+  "pending_count": 1099,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -28,6 +28,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "score": 30,
+      "fetched_at": "2026-07-15",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",

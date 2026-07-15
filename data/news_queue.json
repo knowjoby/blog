@@ -2815,6 +2815,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
+      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "score": 30,
+      "fetched_at": "2026-07-15",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -17831,7 +17844,7 @@
     {
       "date": "2026-07-15",
       "posts": 0,
-      "items_processed": 5985,
+      "items_processed": 7980,
       "estimated_tokens": 0
     }
   ]
