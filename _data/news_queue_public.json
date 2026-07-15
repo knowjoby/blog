@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-07-15T16:39:11.708009+00:00",
-  "pending_count": 1105,
+  "updated_at_utc": "2026-07-15T18:12:14.158803+00:00",
+  "pending_count": 1110,
   "pending": [
+    {
+      "title": "Thinking Machines Lab Drops Its First Model",
+      "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "score": 44,
+      "fetched_at": "2026-07-15",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
     {
       "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
       "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
@@ -48,6 +62,17 @@
       "score": 30,
       "fetched_at": "2026-07-15",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "score": 30,
+      "fetched_at": "2026-07-15",
+      "source": "MIT Tech Review",
       "companies": [
         "openai"
       ],
@@ -111,6 +136,28 @@
       ]
     },
     {
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
+      "url": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
+      "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "score": 24,
@@ -125,6 +172,17 @@
       "title": "Gradient Labs gives every bank customer an AI account manager",
       "url": "https://openai.com/index/gradient-labs",
       "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "score": 18,
       "fetched_at": "2026-07-15",
       "source": "OpenAI",
       "companies": [
