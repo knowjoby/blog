@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-15T12:52:58.891788+00:00",
-  "pending_count": 1101,
+  "updated_at_utc": "2026-07-15T14:56:29.187799+00:00",
+  "pending_count": 1102,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -37,6 +37,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "score": 30,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
