@@ -275,6 +275,22 @@
       "topic": ""
     },
     {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "score": 46,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Meta is reportedly working on smart glasses that would be recording all the time",
       "url": "https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai",
       "score": 45,
@@ -1735,6 +1751,21 @@
       ],
       "company": "openai",
       "topic": "reasoning"
+    },
+    {
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "score": 32,
+      "fetched_at": "2026-07-15",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Spotify is now an AI chatbot, too",
@@ -18007,7 +18038,7 @@
     {
       "date": "2026-07-15",
       "posts": 1,
-      "items_processed": 19956,
+      "items_processed": 21956,
       "estimated_tokens": 0
     }
   ]

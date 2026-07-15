@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-07-15T18:12:14.158803+00:00",
-  "pending_count": 1110,
+  "updated_at_utc": "2026-07-15T19:45:44.917112+00:00",
+  "pending_count": 1112,
   "pending": [
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "score": 46,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
     {
       "title": "Thinking Machines Lab Drops Its First Model",
       "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
@@ -54,6 +68,19 @@
       ],
       "topics": [
         "reasoning"
+      ]
+    },
+    {
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "score": 32,
+      "fetched_at": "2026-07-15",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
