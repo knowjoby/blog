@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-07-15T14:56:29.187799+00:00",
-  "pending_count": 1102,
+  "updated_at_utc": "2026-07-15T16:39:11.708009+00:00",
+  "pending_count": 1105,
   "pending": [
+    {
+      "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
+      "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
+      "score": 38,
+      "fetched_at": "2026-07-15",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -72,6 +85,30 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "score": 26,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "score": 26,
+      "fetched_at": "2026-07-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
