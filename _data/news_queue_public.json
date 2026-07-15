@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-15T19:45:44.917112+00:00",
-  "pending_count": 1112,
+  "updated_at_utc": "2026-07-15T21:05:10.283481+00:00",
+  "pending_count": 1114,
   "pending": [
     {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
@@ -160,6 +160,30 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Here’s the Truth About Whether Meta’s NameTag Face Recognition Tech ‘Exists’",
+      "url": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
+      "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
+      "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
+      "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "VentureBeat",
+      "companies": [
+        "cohere"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {

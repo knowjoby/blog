@@ -7236,6 +7236,34 @@
       "topic": ""
     },
     {
+      "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
+      "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
+      "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "VentureBeat",
+      "companies": [
+        "cohere"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "cohere",
+      "topic": "agentic"
+    },
+    {
+      "title": "Here\u2019s the Truth About Whether Meta\u2019s NameTag Face Recognition Tech \u2018Exists\u2019",
+      "url": "https://www.wired.com/story/heres-the-truth-about-whether-metas-nametag-face-recognition-exists/",
+      "score": 24,
+      "fetched_at": "2026-07-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -18038,7 +18066,7 @@
     {
       "date": "2026-07-15",
       "posts": 1,
-      "items_processed": 21956,
+      "items_processed": 23956,
       "estimated_tokens": 0
     }
   ]
