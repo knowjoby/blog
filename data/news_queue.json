@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "score": 49,
-      "fetched_at": "2026-06-30",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "Anthropic\u2019s long-sidelined Fable 5 is greenlit to return",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
       "score": 49,
@@ -332,19 +319,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
-      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "score": 43,
-      "fetched_at": "2026-06-30",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Five questions for Dr. Rubin, who\u2019s armed with a mic and a bowtie",
@@ -704,37 +678,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Google unveils Nano Banana 2 Lite aka Gemini 3.1 Flash-Lite for low cost, 4-second fast enterprise image generations",
-      "url": "https://venturebeat.com/technology/google-unveils-nano-banana-2-lite-aka-gemini-3-1-flash-lite-for-low-cost-4-second-fast-enterprise-image-generations",
-      "score": 38,
-      "fetched_at": "2026-06-30",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "google",
-      "topic": "multimodal"
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -1288,19 +1231,6 @@
       "topic": ""
     },
     {
-      "title": "The Supreme Court stops Trump\u2019s attempt to end birthright citizenship",
-      "url": "https://www.theverge.com/news/959487/supreme-court-birthright-citizenship-trump",
-      "score": 33,
-      "fetched_at": "2026-06-30",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Matic\u2019s robot vacuum is getting a $250 price hike in September",
       "url": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
       "score": 33,
@@ -1338,37 +1268,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter \u2014 trained entirely on Chinese chips",
-      "url": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
-      "score": 32,
-      "fetched_at": "2026-06-30",
-      "source": "VentureBeat",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "huggingface",
-      "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
     },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -1787,45 +1686,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "score": 30,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
-      "score": 30,
-      "fetched_at": "2026-06-30",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Claude Science is Anthropic\u2019s newest flagship product",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-      "score": 30,
-      "fetched_at": "2026-06-30",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -2898,6 +2758,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "score": 30,
+      "fetched_at": "2026-07-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3650,84 +3523,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "score": 24,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "score": 24,
-      "fetched_at": "2026-06-30",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "score": 24,
-      "fetched_at": "2026-06-30",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
-      "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation",
-      "score": 24,
-      "fetched_at": "2026-06-30",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic\u2019s Mythos and Fable AI Models",
-      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
-      "score": 24,
-      "fetched_at": "2026-06-30",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
@@ -7434,86 +7229,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-06-30",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "score": 18,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "score": 18,
-      "fetched_at": "2026-06-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "score": 18,
-      "fetched_at": "2026-06-30",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "Codex now offers more flexible pricing for teams",
       "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
       "score": 18,
@@ -11149,19 +10864,6 @@
       "topic": ""
     },
     {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "score": 17,
-      "fetched_at": "2026-06-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size \u2014 and wins everywhere except coding",
       "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
       "score": 17,
@@ -11199,20 +10901,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "OpenClaw is finally available on Android and iOS",
-      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "score": 16,
-      "fetched_at": "2026-06-30",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
@@ -11671,32 +11359,6 @@
       "topics": [],
       "company": "deepseek",
       "topic": ""
-    },
-    {
-      "title": "AI agents need context everywhere they run, even where the cloud can't follow",
-      "url": "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow",
-      "score": 14,
-      "fetched_at": "2026-06-30",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Morgan Stanley cut its riskiest reconciliation job in half \u2014 by making its agents less autonomous",
-      "url": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
-      "score": 14,
-      "fetched_at": "2026-06-30",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
@@ -12620,19 +12282,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "score": 10,
-      "fetched_at": "2026-06-30",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
@@ -18027,6 +17676,12 @@
       "date": "2026-07-14",
       "posts": 2,
       "items_processed": 27993,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-15",
+      "posts": 0,
+      "items_processed": 1995,
       "estimated_tokens": 0
     }
   ]
