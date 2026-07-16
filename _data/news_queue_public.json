@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-16T16:49:29.894021+00:00",
-  "pending_count": 1119,
+  "updated_at_utc": "2026-07-16T18:10:00.696478+00:00",
+  "pending_count": 1122,
   "pending": [
     {
       "title": "Claude can now use your 1Password credentials for you",
@@ -50,6 +50,17 @@
       "topics": []
     },
     {
+      "title": "New York governor says she’s using AI to analyze ‘every single rule’ in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "score": 39,
+      "fetched_at": "2026-07-16",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
       "score": 35,
@@ -63,6 +74,17 @@
       ]
     },
     {
+      "title": "Ecovacs’ self-cleaning Deebot X11 has hit a new low price",
+      "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-07-16",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026",
       "url": "https://venturebeat.com/technology/amazon-agi-director-says-ai-agent-reliability-not-capability-is-blocking-enterprise-deployment-at-vb-transform-2026",
       "score": 32,
@@ -73,6 +95,19 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "score": 32,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {

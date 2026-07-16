@@ -740,6 +740,19 @@
       "topic": "robotics"
     },
     {
+      "title": "New York governor says she\u2019s using AI to analyze \u2018every single rule\u2019 in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "score": 39,
+      "fetched_at": "2026-07-16",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -1361,6 +1374,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Ecovacs\u2019 self-cleaning Deebot X11 has hit a new low price",
+      "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-07-16",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
       "score": 32,
@@ -1824,6 +1850,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
+      "url": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
+      "score": 32,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
     },
     {
       "title": "Spotify is now an AI chatbot, too",
@@ -18157,7 +18198,7 @@
     {
       "date": "2026-07-16",
       "posts": 1,
-      "items_processed": 18008,
+      "items_processed": 20012,
       "estimated_tokens": 0
     }
   ]
