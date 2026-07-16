@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-16T21:07:39.770242+00:00",
-  "pending_count": 1126,
+  "updated_at_utc": "2026-07-16T22:30:04.201195+00:00",
+  "pending_count": 1130,
   "pending": [
     {
       "title": "Claude can now use your 1Password credentials for you",
@@ -19,6 +19,18 @@
       "score": 44,
       "fetched_at": "2026-07-16",
       "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "score": 42,
+      "fetched_at": "2026-07-16",
+      "source": "Wired",
       "companies": [
         "openai",
         "anthropic"
@@ -292,6 +304,17 @@
       "topics": []
     },
     {
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
       "title": "X cracks down on creators who steal content",
       "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
       "score": 18,
@@ -323,6 +346,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "score": 17,
+      "fetched_at": "2026-07-16",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "score": 12,
+      "fetched_at": "2026-07-16",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",

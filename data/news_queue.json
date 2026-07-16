@@ -560,6 +560,20 @@
       "topic": ""
     },
     {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "score": 42,
+      "fetched_at": "2026-07-16",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren\u2019t coding",
       "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
       "score": 41,
@@ -7444,6 +7458,19 @@
       "topic": ""
     },
     {
+      "title": "xAI can\u2019t deny Grok makes CSAM anymore. So it\u2019s suing users.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11416,6 +11443,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "score": 17,
+      "fetched_at": "2026-07-16",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "score": 16,
@@ -12269,6 +12309,19 @@
       "score": 12,
       "fetched_at": "2026-07-16",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "China\u2019s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "score": 12,
+      "fetched_at": "2026-07-16",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "ai"
@@ -18250,7 +18303,7 @@
     {
       "date": "2026-07-16",
       "posts": 1,
-      "items_processed": 24020,
+      "items_processed": 26024,
       "estimated_tokens": 0
     }
   ]
