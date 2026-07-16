@@ -1109,6 +1109,21 @@
       "topic": "agentic"
     },
     {
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "score": 35,
+      "fetched_at": "2026-07-16",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "nvidia",
+      "topic": "agentic"
+    },
+    {
       "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
       "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
       "score": 34,
@@ -1793,6 +1808,21 @@
         "agentic"
       ],
       "company": "amazon",
+      "topic": "agentic"
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "score": 32,
+      "fetched_at": "2026-07-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -2897,6 +2927,19 @@
       "score": 30,
       "fetched_at": "2026-07-16",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "score": 30,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -7269,6 +7312,45 @@
       "topic": ""
     },
     {
+      "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook",
+      "url": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11186,6 +11268,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "X cracks down on creators who steal content",
+      "url": "https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/",
+      "score": 18,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
       "topic": ""
     },
     {
@@ -17258,6 +17353,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "score": 55,
+      "file": "_posts/2026-07-16-google-is-renaming-notebooklm-to-gemini-notebook.md",
+      "posted_at": "2026-07-16",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -18050,8 +18156,8 @@
     },
     {
       "date": "2026-07-16",
-      "posts": 0,
-      "items_processed": 16004,
+      "posts": 1,
+      "items_processed": 18008,
       "estimated_tokens": 0
     }
   ]

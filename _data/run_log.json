@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-13 01:13:10 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2000,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-13 02:26:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1164,5 +1142,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-16 22:19:29 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 1,
+    "queued": 7,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 2004,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Google is renaming NotebookLM to Gemini Notebook",
+        "file": "_posts/2026-07-16-google-is-renaming-notebooklm-to-gemini-notebook.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]
