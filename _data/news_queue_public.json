@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-16T10:07:10.224317+00:00",
-  "pending_count": 1105,
+  "updated_at_utc": "2026-07-16T11:04:19.439681+00:00",
+  "pending_count": 1106,
   "pending": [
     {
       "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -62,6 +62,17 @@
         "agentic",
         "multimodal"
       ]
+    },
+    {
+      "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+      "url": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI frontier models and Codex are now available on AWS",
