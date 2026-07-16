@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-16T13:02:01.178545+00:00",
-  "pending_count": 1109,
+  "updated_at_utc": "2026-07-16T15:17:24.332359+00:00",
+  "pending_count": 1112,
   "pending": [
     {
       "title": "Claude can now use your 1Password credentials for you",
@@ -22,6 +22,30 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "score": 42,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "score": 42,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "google"
       ],
       "topics": []
     },
@@ -115,6 +139,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "score": 18,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

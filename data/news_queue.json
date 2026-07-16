@@ -532,6 +532,34 @@
       "topic": ""
     },
     {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "score": 42,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "score": 42,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren\u2019t coding",
       "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
       "score": 41,
@@ -11148,6 +11176,19 @@
       "topic": ""
     },
     {
+      "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "score": 18,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size \u2014 and wins everywhere except coding",
       "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
       "score": 17,
@@ -18010,7 +18051,7 @@
     {
       "date": "2026-07-16",
       "posts": 0,
-      "items_processed": 14002,
+      "items_processed": 16004,
       "estimated_tokens": 0
     }
   ]
