@@ -2989,6 +2989,19 @@
       "topic": ""
     },
     {
+      "title": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "score": 30,
+      "fetched_at": "2026-07-16",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -7384,6 +7397,19 @@
       "score": 24,
       "fetched_at": "2026-07-16",
       "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "score": 24,
+      "fetched_at": "2026-07-16",
+      "source": "TechCrunch",
       "companies": [
         "google"
       ],
@@ -18198,7 +18224,7 @@
     {
       "date": "2026-07-16",
       "posts": 1,
-      "items_processed": 20012,
+      "items_processed": 22016,
       "estimated_tokens": 0
     }
   ]
