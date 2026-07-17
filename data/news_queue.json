@@ -7430,6 +7430,19 @@
       "topic": ""
     },
     {
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -12183,6 +12196,19 @@
       ],
       "company": "",
       "topic": "regulation"
+    },
+    {
+      "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
+      "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
+      "score": 14,
+      "fetched_at": "2026-07-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -18255,7 +18281,7 @@
     {
       "date": "2026-07-17",
       "posts": 0,
-      "items_processed": 20044,
+      "items_processed": 22049,
       "estimated_tokens": 0
     }
   ]

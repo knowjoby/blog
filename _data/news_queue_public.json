@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-17T18:10:02.361872+00:00",
-  "pending_count": 1126,
+  "updated_at_utc": "2026-07-17T19:40:36.332347+00:00",
+  "pending_count": 1128,
   "pending": [
     {
       "title": "Apple’s plot to crush OpenAI",
@@ -84,6 +84,17 @@
       "topics": []
     },
     {
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
       "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
       "score": 24,
@@ -138,6 +149,17 @@
       ],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
+      "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
+      "score": 14,
+      "fetched_at": "2026-07-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
