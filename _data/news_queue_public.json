@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-17T19:40:36.332347+00:00",
-  "pending_count": 1128,
+  "updated_at_utc": "2026-07-17T21:01:00.357855+00:00",
+  "pending_count": 1130,
   "pending": [
     {
       "title": "Apple’s plot to crush OpenAI",
@@ -152,6 +152,17 @@
       ]
     },
     {
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+      "score": 14,
+      "fetched_at": "2026-07-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
       "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
       "score": 14,
@@ -171,6 +182,17 @@
       "companies": [],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "score": 11,
+      "fetched_at": "2026-07-17",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
