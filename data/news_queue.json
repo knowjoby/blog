@@ -7391,6 +7391,19 @@
       "topic": ""
     },
     {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -18216,7 +18229,7 @@
     {
       "date": "2026-07-17",
       "posts": 0,
-      "items_processed": 16034,
+      "items_processed": 18039,
       "estimated_tokens": 0
     }
   ]

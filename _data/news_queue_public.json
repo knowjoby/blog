@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-17T15:17:47.783039+00:00",
-  "pending_count": 1123,
+  "updated_at_utc": "2026-07-17T16:41:06.286312+00:00",
+  "pending_count": 1124,
   "pending": [
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -58,6 +58,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
