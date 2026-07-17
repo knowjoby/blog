@@ -7378,6 +7378,19 @@
       "topic": ""
     },
     {
+      "title": "5 Best Smart Speakers (2026): Alexa, Google, Apple",
+      "url": "https://www.wired.com/story/best-smart-speakers/",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11283,6 +11296,19 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
+    },
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "score": 18,
+      "fetched_at": "2026-07-17",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
     },
     {
       "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size \u2014 and wins everywhere except coding",
@@ -18190,7 +18216,7 @@
     {
       "date": "2026-07-17",
       "posts": 0,
-      "items_processed": 12024,
+      "items_processed": 14029,
       "estimated_tokens": 0
     }
   ]
