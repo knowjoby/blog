@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-17T16:41:06.286312+00:00",
-  "pending_count": 1124,
+  "updated_at_utc": "2026-07-17T18:10:02.361872+00:00",
+  "pending_count": 1126,
   "pending": [
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "score": 49,
+      "fetched_at": "2026-07-17",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -36,6 +47,17 @@
       "source": "Wired",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

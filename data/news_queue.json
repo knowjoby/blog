@@ -137,6 +137,19 @@
       "topic": ""
     },
     {
+      "title": "Apple\u2019s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "score": 49,
+      "fetched_at": "2026-07-17",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -7401,6 +7414,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -18229,7 +18255,7 @@
     {
       "date": "2026-07-17",
       "posts": 0,
-      "items_processed": 18039,
+      "items_processed": 20044,
       "estimated_tokens": 0
     }
   ]
