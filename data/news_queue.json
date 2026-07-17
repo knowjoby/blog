@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "score": 49,
-      "fetched_at": "2026-07-02",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "score": 49,
@@ -147,20 +134,6 @@
       ],
       "topics": [],
       "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic\u2019s Models Inside SpaceX?",
-      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "score": 48,
-      "fetched_at": "2026-07-02",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -442,20 +415,6 @@
       "source": "The Verge",
       "companies": [
         "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "score": 42,
-      "fetched_at": "2026-07-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
       ],
       "topics": [],
       "company": "openai",
@@ -1414,21 +1373,6 @@
       "topic": "robotics"
     },
     {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "score": 32,
@@ -1905,19 +1849,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "score": 30,
-      "fetched_at": "2026-07-02",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "OpenAI public policy agenda",
@@ -3029,21 +2960,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "This startup thinks robotics is about to have its ChatGPT moment",
       "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "score": 29,
@@ -3838,71 +3754,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "score": 24,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "score": 24,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
-      "url": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
-      "score": 24,
-      "fetched_at": "2026-07-02",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders\u2019 target",
-      "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-      "score": 24,
-      "fetched_at": "2026-07-02",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A warning sign about AI\u2019s real cost, courtesy of Google and Amazon",
-      "url": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-      "score": 24,
-      "fetched_at": "2026-07-02",
-      "source": "TechCrunch",
-      "companies": [
-        "amazon"
-      ],
-      "topics": [],
-      "company": "amazon",
-      "topic": ""
     },
     {
       "title": "New usage analytics and updated spend controls for enterprises",
@@ -7567,19 +7418,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "score": 20,
-      "fetched_at": "2026-07-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "score": 20,
@@ -7687,60 +7525,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "score": 18,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "score": 18,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "score": 18,
-      "fetched_at": "2026-07-02",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "Yep, we\u2019re using OpenClaw to date now",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "score": 18,
-      "fetched_at": "2026-07-02",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
@@ -11914,19 +11698,6 @@
       "topic": ""
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "score": 14,
-      "fetched_at": "2026-07-02",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "score": 14,
@@ -12328,19 +12099,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "score": 11,
-      "fetched_at": "2026-07-02",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
@@ -12861,19 +12619,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-07-02",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
@@ -18304,6 +18049,12 @@
       "date": "2026-07-16",
       "posts": 1,
       "items_processed": 28028,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-17",
+      "posts": 0,
+      "items_processed": 2004,
       "estimated_tokens": 0
     }
   ]
