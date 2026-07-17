@@ -1838,6 +1838,21 @@
       "topic": "coding"
     },
     {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "score": 32,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Spotify is now an AI chatbot, too",
       "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
       "score": 31,
@@ -3048,6 +3063,21 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
     },
     {
       "title": "Best practices for deploying language models",
@@ -7322,6 +7352,32 @@
       "topic": ""
     },
     {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "score": 24,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11188,6 +11244,47 @@
       "topic": ""
     },
     {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "score": 18,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "score": 18,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "score": 18,
+      "fetched_at": "2026-07-17",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
       "title": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size \u2014 and wins everywhere except coding",
       "url": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
       "score": 17,
@@ -12010,6 +12107,19 @@
       "topic": "coding"
     },
     {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "score": 14,
+      "fetched_at": "2026-07-17",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -12619,6 +12729,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "score": 11,
+      "fetched_at": "2026-07-17",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
@@ -14744,6 +14867,19 @@
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "score": 10,
       "fetched_at": "2026-07-16",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "score": 10,
+      "fetched_at": "2026-07-17",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -18054,7 +18190,7 @@
     {
       "date": "2026-07-17",
       "posts": 0,
-      "items_processed": 2004,
+      "items_processed": 4008,
       "estimated_tokens": 0
     }
   ]
