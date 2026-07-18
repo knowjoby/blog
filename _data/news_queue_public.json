@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-18T09:59:28.256775+00:00",
-  "pending_count": 1126,
+  "updated_at_utc": "2026-07-18T11:14:04.619835+00:00",
+  "pending_count": 1127,
   "pending": [
     {
       "title": "OpenAI public policy agenda",
@@ -51,6 +51,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "score": 24,
+      "fetched_at": "2026-07-18",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
