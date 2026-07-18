@@ -150,6 +150,19 @@
       "topic": ""
     },
     {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "score": 49,
+      "fetched_at": "2026-07-18",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -18274,7 +18287,7 @@
     {
       "date": "2026-07-18",
       "posts": 0,
-      "items_processed": 28070,
+      "items_processed": 30075,
       "estimated_tokens": 0
     }
   ]
