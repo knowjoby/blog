@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-07-15 00:56:46 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2001,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "SpaceXAI’s Grok programming tool was uploading its users’ entire codebase to cloud storage",
-        "file": "_posts/2026-07-14-spacexais-grok-programming-tool-was-uploading-its-users-entire-codebas.md",
-        "score": 57,
-        "tags": [
-          "xai",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-15 02:09:32 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1117,6 +1085,28 @@
   },
   {
     "ran_at": "2026-07-18 14:53:22 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2005,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-18 15:29:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
