@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-07-15 22:09:11 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 1996,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI finally launches hardware… for Codex",
-        "file": "_posts/2026-07-15-openai-finally-launches-hardware-for-codex.md",
-        "score": 63,
-        "tags": [
-          "openai",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-15 23:42:14 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1098,6 +1066,28 @@
   },
   {
     "ran_at": "2026-07-19 04:58:48 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2005,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-19 06:35:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
