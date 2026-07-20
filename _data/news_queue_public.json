@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-20T15:30:33.319512+00:00",
-  "pending_count": 1129,
+  "updated_at_utc": "2026-07-20T18:09:29.995579+00:00",
+  "pending_count": 1132,
   "pending": [
     {
       "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
@@ -13,6 +13,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "score": 37,
+      "fetched_at": "2026-07-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -97,6 +108,30 @@
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
       "score": 24,
+      "fetched_at": "2026-07-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+      "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
+      "score": 18,
+      "fetched_at": "2026-07-20",
+      "source": "VentureBeat",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "score": 18,
       "fetched_at": "2026-07-20",
       "source": "OpenAI",
       "companies": [
