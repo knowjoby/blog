@@ -12809,6 +12809,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "score": 11,
+      "fetched_at": "2026-07-20",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
       "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
       "score": 10,
@@ -14946,6 +14959,19 @@
       "score": 10,
       "fetched_at": "2026-07-17",
       "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "score": 10,
+      "fetched_at": "2026-07-20",
+      "source": "TechCrunch",
       "companies": [
         "huggingface"
       ],
@@ -18285,7 +18311,7 @@
     {
       "date": "2026-07-20",
       "posts": 1,
-      "items_processed": 10025,
+      "items_processed": 12030,
       "estimated_tokens": 0
     }
   ]

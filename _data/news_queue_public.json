@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-20T11:23:17.216744+00:00",
-  "pending_count": 1126,
+  "updated_at_utc": "2026-07-20T13:27:25.502440+00:00",
+  "pending_count": 1128,
   "pending": [
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -89,6 +89,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Beyond grep: The case for a context-rich AI coding harness",
+      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+      "score": 11,
+      "fetched_at": "2026-07-20",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
+      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
+      "score": 10,
+      "fetched_at": "2026-07-20",
+      "source": "TechCrunch",
+      "companies": [
+        "huggingface"
       ],
       "topics": []
     },
