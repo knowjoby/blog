@@ -2989,6 +2989,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "score": 30,
+      "fetched_at": "2026-07-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "This startup thinks robotics is about to have its ChatGPT moment",
       "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
       "score": 29,
@@ -12318,6 +12331,19 @@
       "topic": "ai"
     },
     {
+      "title": "Natural raises $30M to reinvent payments for AI agents \u2014 and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "score": 12,
+      "fetched_at": "2026-07-20",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
       "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
       "score": 11,
@@ -18366,7 +18392,7 @@
     {
       "date": "2026-07-20",
       "posts": 1,
-      "items_processed": 16041,
+      "items_processed": 18047,
       "estimated_tokens": 0
     }
   ]

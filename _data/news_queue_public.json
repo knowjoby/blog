@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-20T18:09:29.995579+00:00",
-  "pending_count": 1132,
+  "updated_at_utc": "2026-07-20T20:07:33.742808+00:00",
+  "pending_count": 1134,
   "pending": [
     {
       "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
@@ -24,6 +24,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "score": 30,
+      "fetched_at": "2026-07-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -138,6 +149,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "score": 12,
+      "fetched_at": "2026-07-20",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Beyond grep: The case for a context-rich AI coding harness",
