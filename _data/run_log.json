@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-17 05:01:10 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2004,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-17 08:46:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1098,5 +1076,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-20 16:20:40 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2005,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "China delivers a one-two punch to America’s AI dominance",
+        "file": "_posts/2026-07-20-china-delivers-a-one-two-punch-to-americas-ai-dominance.md",
+        "score": 67,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

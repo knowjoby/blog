@@ -17456,6 +17456,18 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "China delivers a one-two punch to America\u2019s AI dominance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "score": 67,
+      "file": "_posts/2026-07-20-china-delivers-a-one-two-punch-to-americas-ai-dominance.md",
+      "posted_at": "2026-07-20",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -18272,8 +18284,8 @@
     },
     {
       "date": "2026-07-20",
-      "posts": 0,
-      "items_processed": 6015,
+      "posts": 1,
+      "items_processed": 8020,
       "estimated_tokens": 0
     }
   ]
