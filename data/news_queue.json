@@ -7538,6 +7538,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u2019s $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "score": 24,
+      "fetched_at": "2026-07-21",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -18478,7 +18491,7 @@
     {
       "date": "2026-07-21",
       "posts": 2,
-      "items_processed": 18061,
+      "items_processed": 20069,
       "estimated_tokens": 0
     }
   ]

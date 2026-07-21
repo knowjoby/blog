@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-21T17:54:11.928035+00:00",
-  "pending_count": 1138,
+  "updated_at_utc": "2026-07-21T19:39:06.451813+00:00",
+  "pending_count": 1139,
   "pending": [
     {
       "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
@@ -149,6 +149,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "score": 24,
+      "fetched_at": "2026-07-21",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
