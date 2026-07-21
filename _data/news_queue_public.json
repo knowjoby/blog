@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-21T14:35:27.247567+00:00",
-  "pending_count": 1131,
+  "updated_at_utc": "2026-07-21T16:26:00.938088+00:00",
+  "pending_count": 1134,
   "pending": [
     {
       "title": "Who’s afraid of the big, bad GPU?",
@@ -52,6 +52,30 @@
       "topics": []
     },
     {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "score": 26,
+      "fetched_at": "2026-07-21",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "china"
+      ]
+    },
+    {
+      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+      "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+      "score": 24,
+      "fetched_at": "2026-07-21",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
       "score": 24,
@@ -81,6 +105,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "After TikTok, Snap settles social media addiction case",
+      "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
+      "score": 18,
+      "fetched_at": "2026-07-21",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-18 06:29:03 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2005,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-18 09:38:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 9,
@@ -1119,5 +1097,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-21 21:56:00 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2007,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+        "file": "_posts/2026-07-21-google-launches-a-cheaper-alternative-to-large-ai-security-models-like.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]
