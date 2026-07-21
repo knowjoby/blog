@@ -17537,6 +17537,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "score": 75,
+      "file": "_posts/2026-07-21-america-needs-to-stop-getting-shocked-by-chinese-ai.md",
+      "posted_at": "2026-07-21",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ]
     }
   ],
   "daily_usage": [
@@ -18359,8 +18373,8 @@
     },
     {
       "date": "2026-07-21",
-      "posts": 0,
-      "items_processed": 10032,
+      "posts": 1,
+      "items_processed": 12039,
       "estimated_tokens": 0
     }
   ]
