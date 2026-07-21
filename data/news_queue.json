@@ -727,6 +727,20 @@
       "topic": "reasoning"
     },
     {
+      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "score": 40,
+      "fetched_at": "2026-07-21",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "iRobot\u2019s newest floor cleaner isn\u2019t a robot",
       "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
       "score": 39,
@@ -916,6 +930,21 @@
       "topics": [],
       "company": "google",
       "topic": ""
+    },
+    {
+      "title": "Google's Gemini Flash 5.6 model cuts AI agent token costs by up to 65% on long horizon engineering tasks \u2014and 3.5 Pro is on the way",
+      "url": "https://venturebeat.com/technology/googles-gemini-flash-5-6-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way",
+      "score": 38,
+      "fetched_at": "2026-07-21",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
     },
     {
       "title": "Character.AI wants a piece of the microdrama pie",
@@ -1372,6 +1401,20 @@
       ],
       "topics": [],
       "company": "amazon",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "score": 34,
+      "fetched_at": "2026-07-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -1892,6 +1935,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "score": 32,
+      "fetched_at": "2026-07-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Spotify is now an AI chatbot, too",
@@ -18491,7 +18549,7 @@
     {
       "date": "2026-07-21",
       "posts": 2,
-      "items_processed": 20069,
+      "items_processed": 22079,
       "estimated_tokens": 0
     }
   ]
