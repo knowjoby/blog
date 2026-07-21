@@ -11557,6 +11557,19 @@
       "topic": ""
     },
     {
+      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
+      "url": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
+      "score": 18,
+      "fetched_at": "2026-07-21",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -17726,6 +17739,18 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "score": 65,
+      "file": "_posts/2026-07-21-openai-says-it-accidentally-hacked-hugging-face-with-a-new-ai-system.md",
+      "posted_at": "2026-07-21",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -18548,8 +18573,8 @@
     },
     {
       "date": "2026-07-21",
-      "posts": 2,
-      "items_processed": 22079,
+      "posts": 3,
+      "items_processed": 24089,
       "estimated_tokens": 0
     }
   ]
