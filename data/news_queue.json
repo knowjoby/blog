@@ -1418,6 +1418,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "score": 34,
+      "fetched_at": "2026-07-21",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "This jumping $800 robot camera dog filled me with joy",
       "url": "https://www.theverge.com/gadgets/962538/mondo-robotics-beni-robot-dog-preview",
       "score": 33,
@@ -11609,6 +11623,19 @@
       "topic": "coding"
     },
     {
+      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
+      "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
+      "score": 17,
+      "fetched_at": "2026-07-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
       "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
       "score": 16,
@@ -18574,7 +18601,7 @@
     {
       "date": "2026-07-21",
       "posts": 3,
-      "items_processed": 24089,
+      "items_processed": 26099,
       "estimated_tokens": 0
     }
   ]

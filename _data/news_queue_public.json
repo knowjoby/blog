@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-21T22:28:01.387819+00:00",
-  "pending_count": 1144,
+  "updated_at_utc": "2026-07-21T23:32:52.633087+00:00",
+  "pending_count": 1146,
   "pending": [
     {
       "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
@@ -75,6 +75,18 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "score": 34,
+      "fetched_at": "2026-07-21",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -311,6 +323,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
+      "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
+      "score": 17,
+      "fetched_at": "2026-07-21",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
