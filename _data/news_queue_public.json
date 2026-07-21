@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-21T07:11:26.944131+00:00",
-  "pending_count": 1130,
+  "updated_at_utc": "2026-07-21T10:03:47.087529+00:00",
+  "pending_count": 1131,
   "pending": [
+    {
+      "title": "Who’s afraid of the big, bad GPU?",
+      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "score": 43,
+      "fetched_at": "2026-07-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",

@@ -422,6 +422,19 @@
       "topic": ""
     },
     {
+      "title": "Who\u2019s afraid of the big, bad GPU?",
+      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "score": 43,
+      "fetched_at": "2026-07-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "score": 42,
@@ -18347,7 +18360,7 @@
     {
       "date": "2026-07-21",
       "posts": 0,
-      "items_processed": 6018,
+      "items_processed": 8025,
       "estimated_tokens": 0
     }
   ]
