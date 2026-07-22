@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-22T19:53:06.166256+00:00",
-  "pending_count": 1145,
+  "updated_at_utc": "2026-07-22T21:14:16.877533+00:00",
+  "pending_count": 1149,
   "pending": [
     {
       "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
@@ -91,6 +91,19 @@
       "topics": []
     },
     {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "score": 32,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ]
+    },
+    {
       "title": "Powering product discovery in ChatGPT",
       "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
       "score": 32,
@@ -170,6 +183,17 @@
       "source": "TechCrunch",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Social media addiction lawsuit against Meta is dropped",
+      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+      "score": 24,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -262,6 +286,17 @@
       "topics": []
     },
     {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "score": 18,
+      "fetched_at": "2026-07-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How ChatGPT learns about the world while protecting privacy",
       "url": "https://openai.com/index/how-chatgpt-protects-privacy",
       "score": 18,
@@ -315,6 +350,17 @@
       "topics": [
         "open_source",
         "china"
+      ]
+    },
+    {
+      "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
+      "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
+      "score": 12,
+      "fetched_at": "2026-07-22",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
