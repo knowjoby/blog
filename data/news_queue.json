@@ -17654,6 +17654,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "AMD and Anthropic reach $5 billion AI infrastructure deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "score": 55,
+      "file": "_posts/2026-07-22-amd-and-anthropic-reach-5-billion-ai-infrastructure-deal.md",
+      "posted_at": "2026-07-22",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -18482,8 +18493,8 @@
     },
     {
       "date": "2026-07-22",
-      "posts": 1,
-      "items_processed": 12062,
+      "posts": 2,
+      "items_processed": 14074,
       "estimated_tokens": 0
     }
   ]
