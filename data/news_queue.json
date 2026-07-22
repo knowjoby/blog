@@ -17602,6 +17602,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta made its own AI detection system. It should have just used Google\u2019s",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "score": 63,
+      "file": "_posts/2026-07-22-meta-made-its-own-ai-detection-system-it-should-have-just-used-googles.md",
+      "posted_at": "2026-07-22",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -18430,8 +18443,8 @@
     },
     {
       "date": "2026-07-22",
-      "posts": 0,
-      "items_processed": 8040,
+      "posts": 1,
+      "items_processed": 10050,
       "estimated_tokens": 0
     }
   ]
