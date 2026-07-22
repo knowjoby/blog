@@ -560,6 +560,36 @@
       "topic": ""
     },
     {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "score": 42,
+      "fetched_at": "2026-07-22",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
+      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "score": 42,
+      "fetched_at": "2026-07-22",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -1415,6 +1445,20 @@
       ],
       "topics": [],
       "company": "amazon",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "score": 34,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -11591,6 +11635,19 @@
       "topic": "coding"
     },
     {
+      "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "score": 17,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -18560,7 +18617,7 @@
     {
       "date": "2026-07-22",
       "posts": 2,
-      "items_processed": 18100,
+      "items_processed": 20113,
       "estimated_tokens": 0
     }
   ]

@@ -1,7 +1,33 @@
 {
-  "updated_at_utc": "2026-07-22T18:15:40.107332+00:00",
-  "pending_count": 1141,
+  "updated_at_utc": "2026-07-22T19:53:06.166256+00:00",
+  "pending_count": 1145,
   "pending": [
+    {
+      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+      "score": 42,
+      "fetched_at": "2026-07-22",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "score": 42,
+      "fetched_at": "2026-07-22",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
@@ -34,6 +60,18 @@
       "score": 34,
       "fetched_at": "2026-07-22",
       "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "score": 34,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
       "companies": [
         "openai",
         "huggingface"
@@ -255,6 +293,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "score": 17,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
