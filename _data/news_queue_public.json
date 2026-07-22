@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-22T15:20:12.955851+00:00",
-  "pending_count": 1136,
+  "updated_at_utc": "2026-07-22T16:56:57.937823+00:00",
+  "pending_count": 1140,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -90,6 +90,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
+      "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
+      "score": 30,
+      "fetched_at": "2026-07-22",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "score": 30,
@@ -112,6 +123,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "score": 24,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
@@ -211,6 +233,29 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "score": 18,
+      "fetched_at": "2026-07-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "score": 16,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source",
+        "china"
+      ]
     },
     {
       "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
