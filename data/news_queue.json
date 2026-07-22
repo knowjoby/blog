@@ -560,21 +560,6 @@
       "topic": ""
     },
     {
-      "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren\u2019t coding",
-      "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding",
-      "score": 41,
-      "fetched_at": "2026-07-07",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "coding"
-    },
-    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -633,22 +618,6 @@
       ],
       "company": "nvidia",
       "topic": "multimodal"
-    },
-    {
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "score": 40,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Meta-learning for wrestling",
@@ -739,19 +708,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "iRobot\u2019s newest floor cleaner isn\u2019t a robot",
-      "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
-      "score": 39,
-      "fetched_at": "2026-07-07",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "New York governor says she\u2019s using AI to analyze \u2018every single rule\u2019 in the state",
@@ -1206,34 +1162,6 @@
       "topic": "coding"
     },
     {
-      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
-      "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-      "score": 34,
-      "fetched_at": "2026-07-07",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia",
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "score": 34,
-      "fetched_at": "2026-07-07",
-      "source": "Hugging Face",
-      "companies": [
-        "amazon",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "amazon",
-      "topic": ""
-    },
-    {
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "score": 34,
@@ -1469,66 +1397,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "score": 32,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
-      "score": 32,
-      "fetched_at": "2026-07-07",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
-      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "score": 32,
-      "fetched_at": "2026-07-07",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "anthropic",
-      "topic": "open_source"
     },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -1977,19 +1845,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Economic Research Exchange",
@@ -3400,21 +3255,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How Balyasny Asset Management built an AI research engine",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "score": 26,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "score": 26,
@@ -3938,20 +3778,6 @@
       "topic": "china"
     },
     {
-      "title": "Figma acquires team behind a vibe-coding app",
-      "url": "https://techcrunch.com/2026/07/07/figma-acquires-team-behind-a-vibe-coding-app/",
-      "score": 25,
-      "fetched_at": "2026-07-07",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
       "url": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
       "score": 25,
@@ -3964,123 +3790,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Build for the new AI era with Microsoft and NVIDIA",
-      "url": "https://venturebeat.com/orchestration/build-for-the-new-ai-era-with-microsoft-and-nvidia",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meta rolls out Muse, a new AI image generator",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images\u2014Unless You Opt Out",
-      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s Chief Futurist Is Leaving the Company",
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
-      "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
-      "score": 24,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
@@ -7623,6 +7332,19 @@
       "topic": ""
     },
     {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "score": 24,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -7813,58 +7535,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Simplex rethinks software development with Codex",
-      "url": "https://openai.com/index/simplex",
-      "score": 18,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT learns about the world while protecting privacy",
-      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "score": 18,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-      "score": 18,
-      "fetched_at": "2026-07-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "score": 18,
-      "fetched_at": "2026-07-07",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
@@ -11636,20 +11306,6 @@
       "topic": "coding"
     },
     {
-      "title": "Box survey: Why enterprise AI leaders are outperforming their peers",
-      "url": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
-      "score": 16,
-      "fetched_at": "2026-07-07",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -12081,19 +11737,6 @@
       "topic": ""
     },
     {
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "score": 14,
-      "fetched_at": "2026-07-07",
-      "source": "MIT Tech Review",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Crypto VC firm Paradigm raises $1.2B to invest in \u2018technical frontier\u2019 startups",
       "url": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
       "score": 14,
@@ -12521,19 +12164,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Digital-native startups are ditching rigid databases for their agentic stacks",
-      "url": "https://venturebeat.com/data/digital-native-startups-are-ditching-rigid-databases-for-their-agentic-stacks",
-      "score": 11,
-      "fetched_at": "2026-07-07",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Coding and design with GPT-5",
@@ -13067,45 +12697,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "score": 10,
-      "fetched_at": "2026-07-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "score": 10,
-      "fetched_at": "2026-07-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "score": 10,
-      "fetched_at": "2026-07-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
@@ -18602,6 +18193,12 @@
       "date": "2026-07-21",
       "posts": 3,
       "items_processed": 26099,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-22",
+      "posts": 0,
+      "items_processed": 2010,
       "estimated_tokens": 0
     }
   ]
