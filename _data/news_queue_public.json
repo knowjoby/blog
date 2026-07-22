@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-22T16:56:57.937823+00:00",
-  "pending_count": 1140,
+  "updated_at_utc": "2026-07-22T18:15:40.107332+00:00",
+  "pending_count": 1141,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -123,6 +123,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+      "score": 24,
+      "fetched_at": "2026-07-22",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI’s AI spending spree has ballooned to $750B",
