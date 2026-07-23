@@ -189,6 +189,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "score": 49,
+      "fetched_at": "2026-07-23",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -3131,6 +3144,19 @@
       "topic": ""
     },
     {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "score": 30,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3925,6 +3951,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "An AI now judges every move Rubrik's agents make, its AI chief said at VB Transform 2026 \u2014 but no one's measured if the judge is right",
+      "url": "https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right",
+      "score": 26,
+      "fetched_at": "2026-07-23",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "anthropic",
+      "topic": "regulation"
     },
     {
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
@@ -7577,6 +7618,32 @@
       "score": 24,
       "fetched_at": "2026-07-23",
       "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -18586,7 +18653,7 @@
     {
       "date": "2026-07-23",
       "posts": 0,
-      "items_processed": 16125,
+      "items_processed": 18142,
       "estimated_tokens": 0
     }
   ]

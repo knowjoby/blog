@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-07-23T15:32:21.737837+00:00",
-  "pending_count": 1142,
+  "updated_at_utc": "2026-07-23T17:35:36.817073+00:00",
+  "pending_count": 1147,
   "pending": [
     {
       "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
       "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "score": 49,
+      "fetched_at": "2026-07-23",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
       "score": 49,
       "fetched_at": "2026-07-23",
       "source": "The Verge",
@@ -41,6 +52,17 @@
       ]
     },
     {
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+      "score": 30,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing the OpenAI Economic Research Exchange",
       "url": "https://openai.com/index/economic-research-exchange",
       "score": 30,
@@ -63,6 +85,30 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "An AI now judges every move Rubrik's agents make, its AI chief said at VB Transform 2026 — but no one's measured if the judge is right",
+      "url": "https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right",
+      "score": 26,
+      "fetched_at": "2026-07-23",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Nvidia is sending GPUs to the moon",
@@ -94,6 +140,17 @@
       "source": "TechCrunch",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
