@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-23T13:06:05.368321+00:00",
-  "pending_count": 1137,
+  "updated_at_utc": "2026-07-23T15:32:21.737837+00:00",
+  "pending_count": 1142,
   "pending": [
+    {
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "score": 49,
+      "fetched_at": "2026-07-23",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
       "url": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
@@ -54,6 +65,28 @@
       ]
     },
     {
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google’s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
       "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
       "score": 24,
@@ -70,6 +103,17 @@
       "score": 24,
       "fetched_at": "2026-07-23",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -99,6 +143,17 @@
         "agentic",
         "open_source"
       ]
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "score": 18,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Inside our approach to the Model Spec",

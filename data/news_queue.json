@@ -176,6 +176,19 @@
       "topic": ""
     },
     {
+      "title": "Apple\u2019s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "score": 49,
+      "fetched_at": "2026-07-23",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -7533,6 +7546,45 @@
       "topic": ""
     },
     {
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11491,6 +11543,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "score": 18,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -18521,7 +18586,7 @@
     {
       "date": "2026-07-23",
       "posts": 0,
-      "items_processed": 14109,
+      "items_processed": 16125,
       "estimated_tokens": 0
     }
   ]
