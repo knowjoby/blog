@@ -7717,6 +7717,19 @@
       "topic": ""
     },
     {
+      "title": "How Codex became a collaborator for OpenAI\u2019s creative team",
+      "url": "https://openai.com/index/codex-collaborator-creative-team",
+      "score": 24,
+      "fetched_at": "2026-07-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13163,6 +13176,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+      "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+      "score": 11,
+      "fetched_at": "2026-07-23",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Deep double descent",
       "url": "https://openai.com/index/deep-double-descent",
       "score": 10,
@@ -17896,6 +17922,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "score": 52,
+      "file": "_posts/2026-07-23-agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex.md",
+      "posted_at": "2026-07-23",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -18730,8 +18770,8 @@
     },
     {
       "date": "2026-07-23",
-      "posts": 0,
-      "items_processed": 24193,
+      "posts": 1,
+      "items_processed": 26211,
       "estimated_tokens": 0
     }
   ]
