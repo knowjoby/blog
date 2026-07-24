@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-24T15:55:59.447242+00:00",
-  "pending_count": 1125,
+  "updated_at_utc": "2026-07-24T17:44:08.341975+00:00",
+  "pending_count": 1128,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -23,6 +23,19 @@
       "companies": [
         "nvidia",
         "mistral"
+      ],
+      "topics": [
+        "china"
+      ]
+    },
+    {
+      "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
+      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "score": 38,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": [
         "china"
@@ -66,6 +79,17 @@
       ]
     },
     {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "score": 30,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "score": 30,
@@ -88,6 +112,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "score": 24,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",

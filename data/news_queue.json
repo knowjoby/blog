@@ -937,6 +937,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI\u2019s own model went rogue before Kimi had Wall Street sweating",
+      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
+      "score": 38,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "openai",
+      "topic": "china"
+    },
+    {
       "title": "Netflix says around 300 titles used generative AI",
       "url": "https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings",
       "score": 37,
@@ -3007,6 +3022,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "score": 30,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -7440,6 +7468,19 @@
       ],
       "company": "midjourney",
       "topic": "multimodal"
+    },
+    {
+      "title": "Sam Altman\u2019s biometric startup World raises $52.5M via crypto sale",
+      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+      "score": 24,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Introducing GPT-5.1 for developers",
@@ -17555,6 +17596,32 @@
         "microsoft"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "score": 100,
+      "file": "_posts/2026-07-24-meta-is-making-its-ai-chatbot-more-like-an-assistant.md",
+      "posted_at": "2026-07-24",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google",
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "score": 73,
+      "file": "_posts/2026-07-24-anthropic-releases-opus-5-with-close-to-fable-5s-capabilities.md",
+      "posted_at": "2026-07-24",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -18395,8 +18462,8 @@
     },
     {
       "date": "2026-07-24",
-      "posts": 1,
-      "items_processed": 16144,
+      "posts": 3,
+      "items_processed": 18142,
       "estimated_tokens": 0
     }
   ]
