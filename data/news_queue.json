@@ -189,6 +189,19 @@
       "topic": ""
     },
     {
+      "title": "Meta just created a moderation nightmare for its smart glasses",
+      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+      "score": 49,
+      "fetched_at": "2026-07-24",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -622,6 +635,21 @@
       ],
       "company": "nvidia",
       "topic": "multimodal"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+      "score": 41,
+      "fetched_at": "2026-07-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "coding"
     },
     {
       "title": "Meta-learning for wrestling",
@@ -11379,6 +11407,19 @@
       "topic": ""
     },
     {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "score": 18,
+      "fetched_at": "2026-07-24",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -11873,6 +11914,20 @@
       "topics": [],
       "company": "deepseek",
       "topic": ""
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "score": 16,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Introducing the Codex app",
@@ -17622,6 +17677,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "score": 56,
+      "file": "_posts/2026-07-24-did-chinese-ai-steal-from-anthropic-and-openai-loses-control-of-two-mo.md",
+      "posted_at": "2026-07-24",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ]
     }
   ],
   "daily_usage": [
@@ -18462,8 +18531,8 @@
     },
     {
       "date": "2026-07-24",
-      "posts": 3,
-      "items_processed": 18142,
+      "posts": 4,
+      "items_processed": 20160,
       "estimated_tokens": 0
     }
   ]

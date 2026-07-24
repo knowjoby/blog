@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-24T17:44:08.341975+00:00",
-  "pending_count": 1128,
+  "updated_at_utc": "2026-07-24T19:37:07.989147+00:00",
+  "pending_count": 1132,
   "pending": [
+    {
+      "title": "Meta just created a moderation nightmare for its smart glasses",
+      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+      "score": 49,
+      "fetched_at": "2026-07-24",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -26,6 +37,19 @@
       ],
       "topics": [
         "china"
+      ]
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+      "score": 41,
+      "fetched_at": "2026-07-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -390,6 +414,29 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+      "score": 18,
+      "fetched_at": "2026-07-24",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "score": 16,
+      "fetched_at": "2026-07-24",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
       ]
     },
     {
