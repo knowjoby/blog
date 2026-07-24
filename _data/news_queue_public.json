@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-24T07:35:23.273361+00:00",
-  "pending_count": 1121,
+  "updated_at_utc": "2026-07-24T10:14:43.357842+00:00",
+  "pending_count": 1122,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -83,6 +83,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "European researchers want to study social media’s harms but can’t get the data",
+      "url": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
+      "score": 18,
+      "fetched_at": "2026-07-24",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

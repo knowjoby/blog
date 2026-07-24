@@ -11281,6 +11281,19 @@
       "topic": "agentic"
     },
     {
+      "title": "European researchers want to study social media\u2019s harms but can\u2019t get the data",
+      "url": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
+      "score": 18,
+      "fetched_at": "2026-07-24",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -18339,7 +18352,7 @@
     {
       "date": "2026-07-24",
       "posts": 1,
-      "items_processed": 6054,
+      "items_processed": 8072,
       "estimated_tokens": 0
     }
   ]
