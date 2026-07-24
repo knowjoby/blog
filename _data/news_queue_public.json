@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-24T19:37:07.989147+00:00",
-  "pending_count": 1132,
+  "updated_at_utc": "2026-07-24T21:09:34.259832+00:00",
+  "pending_count": 1133,
   "pending": [
     {
       "title": "Meta just created a moderation nightmare for its smart glasses",
@@ -426,6 +426,18 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
+      "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
+      "score": 16,
+      "fetched_at": "2026-07-24",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
     },
     {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
