@@ -202,6 +202,19 @@
       "topic": ""
     },
     {
+      "title": "After backlash, Meta pauses plan to \u2018rate limit\u2019 its smart glasses",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "score": 49,
+      "fetched_at": "2026-07-24",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -7508,6 +7521,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "score": 24,
+      "fetched_at": "2026-07-24",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -18546,7 +18572,7 @@
     {
       "date": "2026-07-24",
       "posts": 4,
-      "items_processed": 22178,
+      "items_processed": 24196,
       "estimated_tokens": 0
     }
   ]

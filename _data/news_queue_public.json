@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-24T21:09:34.259832+00:00",
-  "pending_count": 1133,
+  "updated_at_utc": "2026-07-24T22:35:15.078570+00:00",
+  "pending_count": 1135,
   "pending": [
+    {
+      "title": "After backlash, Meta pauses plan to ‘rate limit’ its smart glasses",
+      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
+      "score": 49,
+      "fetched_at": "2026-07-24",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta just created a moderation nightmare for its smart glasses",
       "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
@@ -180,6 +191,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "score": 24,
+      "fetched_at": "2026-07-24",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
