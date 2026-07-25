@@ -744,6 +744,20 @@
       "topic": ""
     },
     {
+      "title": "The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "score": 40,
+      "fetched_at": "2026-07-25",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "New York governor says she\u2019s using AI to analyze \u2018every single rule\u2019 in the state",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "score": 39,
@@ -18428,7 +18442,7 @@
     {
       "date": "2026-07-25",
       "posts": 0,
-      "items_processed": 10090,
+      "items_processed": 12108,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-25T09:45:36.167715+00:00",
-  "pending_count": 1124,
+  "updated_at_utc": "2026-07-25T10:38:02.251338+00:00",
+  "pending_count": 1125,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -153,6 +153,18 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "score": 40,
+      "fetched_at": "2026-07-25",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Meta-learning for wrestling",

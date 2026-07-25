@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-21 17:39:07 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2007,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "America needs to stop getting shocked by Chinese AI",
-        "file": "_posts/2026-07-21-america-needs-to-stop-getting-shocked-by-chinese-ai.md",
-        "score": 75,
-        "tags": [
-          "openai",
-          "anthropic",
-          "china"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-21 20:05:27 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1197,6 +1164,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-25 16:08:02 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2018,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
