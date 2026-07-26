@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-07-22 16:55:57 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2010,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta made its own AI detection system. It should have just used Google’s",
-        "file": "_posts/2026-07-22-meta-made-its-own-ai-detection-system-it-should-have-just-used-googles.md",
-        "score": 63,
-        "tags": [
-          "meta",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-22 18:33:58 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1167,6 +1135,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 11
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-07-26 14:48:30 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2018,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
