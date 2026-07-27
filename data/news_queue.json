@@ -1536,6 +1536,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "score": 34,
+      "fetched_at": "2026-07-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Boston Dynamics tries using \u2018robot dogs\u2019 for deliveries",
       "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
       "score": 33,
@@ -11525,6 +11539,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "score": 17,
+      "fetched_at": "2026-07-27",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
       "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
       "score": 16,
@@ -12281,6 +12308,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "New ransomware targets AI model weights and can't even collect the ransom",
+      "url": "https://venturebeat.com/security/new-ransomware-targets-ai-model-weights-and-cant-even-collect-the-ransom",
+      "score": 14,
+      "fetched_at": "2026-07-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
@@ -18604,7 +18644,7 @@
     {
       "date": "2026-07-27",
       "posts": 1,
-      "items_processed": 14130,
+      "items_processed": 16149,
       "estimated_tokens": 0
     }
   ]

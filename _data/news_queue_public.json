@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-27T17:46:56.748474+00:00",
-  "pending_count": 1135,
+  "updated_at_utc": "2026-07-27T19:42:19.436689+00:00",
+  "pending_count": 1138,
   "pending": [
     {
       "title": "With smart glasses, Meta holds all the cards but fails to play them well",
@@ -87,6 +87,18 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "score": 34,
+      "fetched_at": "2026-07-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
@@ -187,6 +199,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "score": 17,
+      "fetched_at": "2026-07-27",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "New ransomware targets AI model weights and can't even collect the ransom",
+      "url": "https://venturebeat.com/security/new-ransomware-targets-ai-model-weights-and-cant-even-collect-the-ransom",
+      "score": 14,
+      "fetched_at": "2026-07-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
