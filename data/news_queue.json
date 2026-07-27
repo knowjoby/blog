@@ -592,6 +592,20 @@
       "topic": "agentic"
     },
     {
+      "title": "Europe got its own TBPN-style live show, and everyone\u2019s angling for a guest spot",
+      "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+      "score": 42,
+      "fetched_at": "2026-07-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
       "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
       "score": 41,
@@ -1225,6 +1239,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "score": 35,
+      "fetched_at": "2026-07-27",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "nvidia",
+      "topic": "robotics"
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -11339,6 +11368,19 @@
       "topic": ""
     },
     {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -18444,7 +18486,7 @@
     {
       "date": "2026-07-27",
       "posts": 0,
-      "items_processed": 6054,
+      "items_processed": 8073,
       "estimated_tokens": 0
     }
   ]
