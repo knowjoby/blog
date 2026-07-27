@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-27T19:42:19.436689+00:00",
-  "pending_count": 1138,
+  "updated_at_utc": "2026-07-27T21:16:09.301095+00:00",
+  "pending_count": 1142,
   "pending": [
     {
       "title": "With smart glasses, Meta holds all the cards but fails to play them well",
@@ -168,11 +168,33 @@
       "topics": []
     },
     {
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
       "url": "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search",
       "score": 18,
       "fetched_at": "2026-07-27",
       "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
@@ -199,6 +221,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
+      "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
+      "score": 17,
+      "fetched_at": "2026-07-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",

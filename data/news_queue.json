@@ -11474,6 +11474,45 @@
       "topic": ""
     },
     {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -11544,6 +11583,19 @@
       "score": 17,
       "fetched_at": "2026-07-27",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
+      "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
+      "score": 17,
+      "fetched_at": "2026-07-27",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "agentic"
@@ -18644,7 +18696,7 @@
     {
       "date": "2026-07-27",
       "posts": 1,
-      "items_processed": 16149,
+      "items_processed": 18168,
       "estimated_tokens": 0
     }
   ]
