@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-27T21:16:09.301095+00:00",
-  "pending_count": 1142,
+  "updated_at_utc": "2026-07-27T22:34:28.092099+00:00",
+  "pending_count": 1143,
   "pending": [
     {
       "title": "With smart glasses, Meta holds all the cards but fails to play them well",
@@ -186,6 +186,17 @@
       "source": "VentureBeat",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "score": 18,
+      "fetched_at": "2026-07-27",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
       ],
       "topics": []
     },
