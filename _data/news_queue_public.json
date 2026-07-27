@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-26T23:01:54.218310+00:00",
-  "pending_count": 1125,
+  "updated_at_utc": "2026-07-27T01:09:45.251645+00:00",
+  "pending_count": 1117,
   "pending": [
     {
       "title": "Apple is banking on privacy to set its smart glasses apart",
@@ -12607,100 +12607,6 @@
       "topics": [
         "agentic"
       ]
-    },
-    {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "score": 41,
-      "fetched_at": "2026-07-12",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "score": 38,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "score": 30,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "score": 24,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "score": 24,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "score": 18,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "DeepSeek cut prices 75%. The 100x problem remains",
-      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
-      "score": 16,
-      "fetched_at": "2026-07-12",
-      "source": "VentureBeat",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": []
     }
   ]
 }

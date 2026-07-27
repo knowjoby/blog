@@ -592,21 +592,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "score": 41,
-      "fetched_at": "2026-07-12",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "nvidia",
-      "topic": "multimodal"
-    },
-    {
       "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
       "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
       "score": 41,
@@ -797,21 +782,6 @@
         "regulation"
       ],
       "company": "",
-      "topic": "regulation"
-    },
-    {
-      "title": "OpenAI\u2019s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "score": 38,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
       "topic": "regulation"
     },
     {
@@ -1060,21 +1030,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "score": 35,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
@@ -1969,19 +1924,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "score": 30,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -3903,32 +3845,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "score": 24,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "score": 24,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "MUFG aims to become AI-native with OpenAI",
@@ -7609,19 +7525,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "score": 18,
-      "fetched_at": "2026-07-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
@@ -11402,19 +11305,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "DeepSeek cut prices 75%. The 100x problem remains",
-      "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
-      "score": 16,
-      "fetched_at": "2026-07-12",
-      "source": "VentureBeat",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
     },
     {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
@@ -18452,6 +18342,12 @@
       "date": "2026-07-26",
       "posts": 0,
       "items_processed": 26234,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-27",
+      "posts": 0,
+      "items_processed": 2018,
       "estimated_tokens": 0
     }
   ]
