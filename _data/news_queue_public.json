@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-28T03:47:36.125313+00:00",
-  "pending_count": 1135,
+  "updated_at_utc": "2026-07-28T06:31:29.569425+00:00",
+  "pending_count": 1136,
   "pending": [
     {
       "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
@@ -205,6 +205,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Hugging Face Has a Deepfake Nudes Problem",
+      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "score": 10,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "With smart glasses, Meta holds all the cards but fails to play them well",

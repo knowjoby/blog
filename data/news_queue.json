@@ -15094,6 +15094,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Hugging Face Has a Deepfake Nudes Problem",
+      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "score": 10,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -18615,7 +18628,7 @@
     {
       "date": "2026-07-28",
       "posts": 0,
-      "items_processed": 4038,
+      "items_processed": 6057,
       "estimated_tokens": 0
     }
   ]
