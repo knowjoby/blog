@@ -1525,6 +1525,20 @@
       "topic": ""
     },
     {
+      "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "score": 34,
+      "fetched_at": "2026-07-28",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Boston Dynamics tries using \u2018robot dogs\u2019 for deliveries",
       "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
       "score": 33,
@@ -7494,6 +7508,32 @@
       "topic": ""
     },
     {
+      "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
+      "url": "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs",
+      "score": 24,
+      "fetched_at": "2026-07-28",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Is the Electric Trike the Next Big Thing in Shared Micromobility?",
+      "url": "https://www.wired.com/story/is-the-electric-trike-the-next-big-thing-in-shared-micromobility-veo-rover/",
+      "score": 24,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
       "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
       "score": 22,
@@ -11476,6 +11516,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "MCP just got its biggest update ever \u2014 here\u2019s what changes for AI agents",
+      "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -17816,6 +17869,19 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "score": 55,
+      "file": "_posts/2026-07-28-perplexitys-personal-computer-turns-windows-pcs-into-ai-agents.md",
+      "posted_at": "2026-07-28",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -18680,8 +18746,8 @@
     },
     {
       "date": "2026-07-28",
-      "posts": 0,
-      "items_processed": 12114,
+      "posts": 1,
+      "items_processed": 14133,
       "estimated_tokens": 0
     }
   ]
