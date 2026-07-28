@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-28T21:41:08.110446+00:00",
-  "pending_count": 1149,
+  "updated_at_utc": "2026-07-28T23:04:33.066824+00:00",
+  "pending_count": 1151,
   "pending": [
     {
       "title": "4GB graphics cards are back",
@@ -23,6 +23,29 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "score": 40,
+      "fetched_at": "2026-07-28",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The US is banning foreign robots",
+      "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+      "score": 39,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",

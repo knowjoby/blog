@@ -788,6 +788,20 @@
       "topic": "coding"
     },
     {
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+      "score": 40,
+      "fetched_at": "2026-07-28",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "New York governor says she\u2019s using AI to analyze \u2018every single rule\u2019 in the state",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "score": 39,
@@ -799,6 +813,19 @@
       ],
       "company": "",
       "topic": "regulation"
+    },
+    {
+      "title": "The US is banning foreign robots",
+      "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+      "score": 39,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -18829,7 +18856,7 @@
     {
       "date": "2026-07-28",
       "posts": 2,
-      "items_processed": 22217,
+      "items_processed": 24239,
       "estimated_tokens": 0
     }
   ]
