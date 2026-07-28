@@ -1063,6 +1063,20 @@
       "topic": "china"
     },
     {
+      "title": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "score": 36,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
       "score": 35,
@@ -18641,7 +18655,7 @@
     {
       "date": "2026-07-28",
       "posts": 0,
-      "items_processed": 8076,
+      "items_processed": 10095,
       "estimated_tokens": 0
     }
   ]

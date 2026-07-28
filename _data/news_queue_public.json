@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-28T09:38:29.409320+00:00",
-  "pending_count": 1137,
+  "updated_at_utc": "2026-07-28T10:33:05.127474+00:00",
+  "pending_count": 1138,
   "pending": [
     {
       "title": "Hugging Face is being used to easily undress women and children",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+      "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+      "score": 36,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
