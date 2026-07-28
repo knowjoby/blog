@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-28T06:31:29.569425+00:00",
-  "pending_count": 1136,
+  "updated_at_utc": "2026-07-28T09:38:29.409320+00:00",
+  "pending_count": 1137,
   "pending": [
+    {
+      "title": "Hugging Face is being used to easily undress women and children",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "score": 41,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
+    },
     {
       "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
       "url": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",

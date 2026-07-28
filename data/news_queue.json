@@ -642,6 +642,19 @@
       "topic": "multimodal"
     },
     {
+      "title": "Hugging Face is being used to easily undress women and children",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "score": 41,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
       "score": 40,
@@ -18628,7 +18641,7 @@
     {
       "date": "2026-07-28",
       "posts": 0,
-      "items_processed": 6057,
+      "items_processed": 8076,
       "estimated_tokens": 0
     }
   ]
