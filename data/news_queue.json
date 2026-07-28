@@ -1989,6 +1989,36 @@
       "topic": "robotics"
     },
     {
+      "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "score": 32,
+      "fetched_at": "2026-07-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "anthropic",
+      "topic": "china"
+    },
+    {
+      "title": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
+      "url": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
+      "score": 32,
+      "fetched_at": "2026-07-28",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "openai",
+      "topic": "china"
+    },
+    {
       "title": "Spotify is now an AI chatbot, too",
       "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
       "score": 31,
@@ -3111,6 +3141,19 @@
       "topic": ""
     },
     {
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "score": 30,
+      "fetched_at": "2026-07-28",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "score": 29,
@@ -3905,6 +3948,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "score": 26,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
     },
     {
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
@@ -7341,6 +7399,58 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "score": 24,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "score": 24,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "score": 24,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "score": 24,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -11199,6 +11309,123 @@
       "topic": ""
     },
     {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Learn ChatGPT for Sales Teams",
+      "url": "https://openai.com/academy/sales",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -12690,6 +12917,19 @@
       "score": 11,
       "fetched_at": "2026-07-27",
       "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "score": 11,
+      "fetched_at": "2026-07-28",
+      "source": "OpenAI",
       "companies": [],
       "topics": [
         "agentic"
@@ -18375,7 +18615,7 @@
     {
       "date": "2026-07-28",
       "posts": 0,
-      "items_processed": 2019,
+      "items_processed": 4038,
       "estimated_tokens": 0
     }
   ]
