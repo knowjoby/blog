@@ -202,6 +202,19 @@
       "topic": ""
     },
     {
+      "title": "4GB graphics cards are back",
+      "url": "https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu",
+      "score": 49,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
       "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
       "score": 48,
@@ -11532,6 +11545,19 @@
       "topic": ""
     },
     {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -18747,7 +18773,7 @@
     {
       "date": "2026-07-28",
       "posts": 1,
-      "items_processed": 14133,
+      "items_processed": 16153,
       "estimated_tokens": 0
     }
   ]
