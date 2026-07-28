@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-25 01:07:07 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2018,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
-        "file": "_posts/2026-07-24-did-chinese-ai-steal-from-anthropic-and-openai-loses-control-of-two-mo.md",
-        "score": 56,
-        "tags": [
-          "openai",
-          "anthropic",
-          "china"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-25 02:39:34 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1130,5 +1097,40 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-29 01:32:25 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2021,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "AI leaders sign statement asking the government to do something about automated AI",
+        "file": "_posts/2026-07-28-ai-leaders-sign-statement-asking-the-government-to-do-something-about.md",
+        "score": 97,
+        "tags": [
+          "openai",
+          "anthropic",
+          "meta",
+          "mistral",
+          "regulation"
+        ]
+      }
+    ]
   }
 ]
