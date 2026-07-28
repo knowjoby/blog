@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-28T20:02:25.907116+00:00",
-  "pending_count": 1148,
+  "updated_at_utc": "2026-07-28T21:41:08.110446+00:00",
+  "pending_count": 1149,
   "pending": [
     {
       "title": "4GB graphics cards are back",
@@ -206,6 +206,17 @@
       "source": "VentureBeat",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

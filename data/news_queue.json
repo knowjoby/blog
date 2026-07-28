@@ -11572,6 +11572,19 @@
       "topic": ""
     },
     {
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -18816,7 +18829,7 @@
     {
       "date": "2026-07-28",
       "posts": 2,
-      "items_processed": 20195,
+      "items_processed": 22217,
       "estimated_tokens": 0
     }
   ]
