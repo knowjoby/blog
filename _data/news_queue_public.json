@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-28T10:33:05.127474+00:00",
-  "pending_count": 1138,
+  "updated_at_utc": "2026-07-28T12:00:31.120363+00:00",
+  "pending_count": 1140,
   "pending": [
     {
       "title": "Hugging Face is being used to easily undress women and children",
@@ -49,6 +49,17 @@
       ],
       "topics": [
         "china"
+      ]
+    },
+    {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "score": 31,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -114,6 +125,17 @@
       "score": 24,
       "fetched_at": "2026-07-28",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
       "companies": [
         "openai"
       ],

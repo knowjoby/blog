@@ -2059,6 +2059,19 @@
       "topic": "ai"
     },
     {
+      "title": "Smart rings are looking like my kind of AI gadget",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "score": 31,
+      "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "score": 30,
@@ -11453,6 +11466,19 @@
       "topic": ""
     },
     {
+      "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+      "score": 18,
+      "fetched_at": "2026-07-28",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -18655,7 +18681,7 @@
     {
       "date": "2026-07-28",
       "posts": 0,
-      "items_processed": 10095,
+      "items_processed": 12114,
       "estimated_tokens": 0
     }
   ]
