@@ -306,6 +306,19 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI president says it\u2019s \u2018building a family of devices\u2019 for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "score": 45,
+      "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Thinking Machines Lab Drops Its First Model",
       "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
       "score": 44,
@@ -809,6 +822,19 @@
       "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
       "score": 39,
       "fetched_at": "2026-07-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "The US government just banned Roombas",
+      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "score": 39,
+      "fetched_at": "2026-07-29",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -3196,6 +3222,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Elon Musk\u2019s xAI is trying to sue its way out of a Grok reckoning",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "score": 30,
+      "fetched_at": "2026-07-29",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
       "topic": ""
     },
     {
@@ -7447,6 +7486,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "score": 24,
+      "fetched_at": "2026-07-29",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11458,6 +11510,19 @@
       "topic": ""
     },
     {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "score": 18,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -12344,6 +12409,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
+      "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
+      "score": 14,
+      "fetched_at": "2026-07-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
@@ -15146,6 +15224,19 @@
       "score": 10,
       "fetched_at": "2026-07-28",
       "source": "Wired",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "score": 10,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
       "companies": [
         "huggingface"
       ],
@@ -18722,7 +18813,7 @@
     {
       "date": "2026-07-29",
       "posts": 1,
-      "items_processed": 18199,
+      "items_processed": 20223,
       "estimated_tokens": 0
     }
   ]

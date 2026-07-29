@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-29T18:10:09.246508+00:00",
-  "pending_count": 1139,
+  "updated_at_utc": "2026-07-29T19:53:13.055330+00:00",
+  "pending_count": 1146,
   "pending": [
+    {
+      "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "score": 45,
+      "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "We’re running out of reasons to ignore AI safety",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
@@ -28,6 +39,17 @@
       ]
     },
     {
+      "title": "The US government just banned Roombas",
+      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
+      "score": 39,
+      "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "score": 30,
@@ -35,6 +57,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Elon Musk’s xAI is trying to sue its way out of a Grok reckoning",
+      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+      "score": 30,
+      "fetched_at": "2026-07-29",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
@@ -61,6 +94,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+      "score": 24,
+      "fetched_at": "2026-07-29",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
       "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
       "score": 22,
@@ -68,6 +112,17 @@
       "source": "TechCrunch",
       "companies": [
         "perplexity"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "score": 18,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -114,6 +169,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
+      "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
+      "score": 14,
+      "fetched_at": "2026-07-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
@@ -191,6 +257,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "score": 10,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "4GB graphics cards are back",
