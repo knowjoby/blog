@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-29T12:30:30.474288+00:00",
-  "pending_count": 1134,
+  "updated_at_utc": "2026-07-29T15:10:30.672759+00:00",
+  "pending_count": 1136,
   "pending": [
     {
       "title": "We’re running out of reasons to ignore AI safety",
@@ -61,6 +61,17 @@
       "topics": []
     },
     {
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "score": 22,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "score": 18,
@@ -92,6 +103,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "score": 12,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",

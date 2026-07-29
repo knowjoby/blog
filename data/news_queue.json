@@ -7514,6 +7514,19 @@
       "topic": ""
     },
     {
+      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+      "score": 22,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
+      "topic": ""
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -12390,6 +12403,19 @@
       "score": 12,
       "fetched_at": "2026-07-25",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "score": 12,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "ai"
@@ -18657,7 +18683,7 @@
     {
       "date": "2026-07-29",
       "posts": 1,
-      "items_processed": 12132,
+      "items_processed": 14154,
       "estimated_tokens": 0
     }
   ]
