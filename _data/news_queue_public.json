@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-29T15:10:30.672759+00:00",
-  "pending_count": 1136,
+  "updated_at_utc": "2026-07-29T16:50:37.271772+00:00",
+  "pending_count": 1137,
   "pending": [
     {
       "title": "We’re running out of reasons to ignore AI safety",
@@ -103,6 +103,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
+      "url": "https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck",
+      "score": 14,
+      "fetched_at": "2026-07-29",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
