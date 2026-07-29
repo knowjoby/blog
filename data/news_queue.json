@@ -189,6 +189,19 @@
       "topic": ""
     },
     {
+      "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
+      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
       "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
       "score": 48,
@@ -388,6 +401,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "score": 43,
+      "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -7496,6 +7522,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
+      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "score": 24,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "score": 24,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -17955,6 +18007,20 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "score": 71,
+      "file": "_posts/2026-07-29-microsoft-confirms-copilot-super-app-coming-this-year.md",
+      "posted_at": "2026-07-29",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -18825,8 +18891,8 @@
     },
     {
       "date": "2026-07-29",
-      "posts": 1,
-      "items_processed": 22247,
+      "posts": 2,
+      "items_processed": 24271,
       "estimated_tokens": 0
     }
   ]
