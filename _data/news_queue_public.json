@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-07-29T10:37:19.451855+00:00",
-  "pending_count": 1133,
+  "updated_at_utc": "2026-07-29T12:30:30.474288+00:00",
+  "pending_count": 1134,
   "pending": [
+    {
+      "title": "We’re running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "score": 43,
+      "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
       "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
