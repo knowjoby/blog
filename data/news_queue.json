@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
-      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "score": 49,
-      "fetched_at": "2026-07-14",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "score": 49,
-      "fetched_at": "2026-07-14",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "xAI sues a man for using Grok to generate CSAM \u2018deepfakes\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
       "score": 49,
@@ -378,19 +352,6 @@
       "topic": "coding"
     },
     {
-      "title": "Sam Altman didn\u2019t need another lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "score": 43,
-      "fetched_at": "2026-07-14",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Who\u2019s afraid of the big, bad GPU?",
       "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
       "score": 43,
@@ -578,6 +539,22 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "score": 42,
+      "fetched_at": "2026-07-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
@@ -1579,19 +1556,6 @@
       "topic": ""
     },
     {
-      "title": "Boston Dynamics tries using \u2018robot dogs\u2019 for deliveries",
-      "url": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
-      "score": 33,
-      "fetched_at": "2026-07-14",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Ecovacs\u2019 self-cleaning Deebot X11 has hit a new low price",
       "url": "https://www.theverge.com/gadgets/966651/ecovacs-deebot-x11-robot-vacuum-deal-sale",
       "score": 33,
@@ -2100,19 +2064,6 @@
       "topic": "china"
     },
     {
-      "title": "Spotify is now an AI chatbot, too",
-      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "score": 31,
-      "fetched_at": "2026-07-14",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Smart rings are looking like my kind of AI gadget",
       "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
       "score": 31,
@@ -2124,32 +2075,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "score": 30,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
     },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -4071,110 +3996,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Download: Claude\u2019s inner workings, and the future of world models",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s newest ad is creeping people out",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "score": 24,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -7574,18 +7395,17 @@
       "topic": ""
     },
     {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "score": 22,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "robotics"
+      "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
+      "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
+      "score": 24,
+      "fetched_at": "2026-07-29",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
-      "company": "",
-      "topic": "agentic"
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
     },
     {
       "title": "Introducing GPT-5.1 for developers",
@@ -7670,19 +7490,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "score": 20,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -7765,71 +7572,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "score": 18,
-      "fetched_at": "2026-07-14",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "score": 18,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "How ChatGPT adoption has expanded",
@@ -12149,19 +11891,6 @@
       "topic": ""
     },
     {
-      "title": "Canva launches Code 2.0, offering AI website building to every user \u2014 including free accounts",
-      "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
-      "score": 14,
-      "fetched_at": "2026-07-14",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Our views on AI policy and political advocacy",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "score": 14,
@@ -12487,19 +12216,6 @@
       "topic": "open_source"
     },
     {
-      "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
-      "url": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
-      "score": 12,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
-    },
-    {
       "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
       "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
       "score": 12,
@@ -12602,58 +12318,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-07-14",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-07-14",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "score": 11,
-      "fetched_at": "2026-07-14",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
@@ -13135,19 +12799,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "score": 10,
-      "fetched_at": "2026-07-14",
-      "source": "TechCrunch",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -18857,6 +18508,12 @@
       "date": "2026-07-28",
       "posts": 2,
       "items_processed": 24239,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-07-29",
+      "posts": 0,
+      "items_processed": 2022,
       "estimated_tokens": 0
     }
   ]
