@@ -11445,6 +11445,19 @@
       "topic": ""
     },
     {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "score": 18,
+      "fetched_at": "2026-07-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -12312,6 +12325,19 @@
       "score": 14,
       "fetched_at": "2026-07-29",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+      "score": 14,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "robotics"
@@ -18696,7 +18722,7 @@
     {
       "date": "2026-07-29",
       "posts": 1,
-      "items_processed": 16176,
+      "items_processed": 18199,
       "estimated_tokens": 0
     }
   ]

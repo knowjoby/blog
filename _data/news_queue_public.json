@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-29T16:50:37.271772+00:00",
-  "pending_count": 1137,
+  "updated_at_utc": "2026-07-29T18:10:09.246508+00:00",
+  "pending_count": 1139,
   "pending": [
     {
       "title": "We’re running out of reasons to ignore AI safety",
@@ -105,11 +105,33 @@
       "topics": []
     },
     {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "score": 18,
+      "fetched_at": "2026-07-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
       "url": "https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck",
       "score": 14,
       "fetched_at": "2026-07-29",
       "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+      "score": 14,
+      "fetched_at": "2026-07-29",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "robotics"
