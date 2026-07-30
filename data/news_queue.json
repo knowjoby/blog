@@ -2082,6 +2082,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "OpenAI\u2019s Hacking Debacle Was a Human Mistake",
+      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "score": 32,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Smart rings are looking like my kind of AI gadget",
       "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
       "score": 31,
@@ -18747,7 +18762,7 @@
     {
       "date": "2026-07-30",
       "posts": 0,
-      "items_processed": 10125,
+      "items_processed": 12150,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-30T10:23:12.076984+00:00",
-  "pending_count": 1140,
+  "updated_at_utc": "2026-07-30T11:55:05.795774+00:00",
+  "pending_count": 1141,
   "pending": [
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
@@ -38,6 +38,19 @@
         "reasoning",
         "coding",
         "multimodal"
+      ]
+    },
+    {
+      "title": "OpenAI’s Hacking Debacle Was a Human Mistake",
+      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "score": 32,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
