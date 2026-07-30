@@ -3222,6 +3222,19 @@
       "topic": ""
     },
     {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply chain risk\u2019 label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "score": 30,
+      "fetched_at": "2026-07-30",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
       "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
       "score": 29,
@@ -18033,6 +18046,20 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
+      "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "score": 56,
+      "file": "_posts/2026-07-30-everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominanc.md",
+      "posted_at": "2026-07-30",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "robotics"
+      ]
     }
   ],
   "daily_usage": [
@@ -18909,8 +18936,8 @@
     },
     {
       "date": "2026-07-30",
-      "posts": 2,
-      "items_processed": 20255,
+      "posts": 3,
+      "items_processed": 22282,
       "estimated_tokens": 0
     }
   ]

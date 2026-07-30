@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-30T19:44:07.956175+00:00",
-  "pending_count": 1150,
+  "updated_at_utc": "2026-07-30T21:15:56.880544+00:00",
+  "pending_count": 1151,
   "pending": [
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
@@ -99,6 +99,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "score": 30,
+      "fetched_at": "2026-07-30",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
