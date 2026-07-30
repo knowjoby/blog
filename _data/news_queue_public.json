@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-30T11:55:05.795774+00:00",
-  "pending_count": 1141,
+  "updated_at_utc": "2026-07-30T14:15:50.153316+00:00",
+  "pending_count": 1143,
   "pending": [
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
@@ -102,6 +102,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "FTC sues Hims & Hers for allegedly sharing patients’ medical data with advertisers Meta and Snap",
+      "url": "https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/",
+      "score": 24,
+      "fetched_at": "2026-07-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -213,6 +224,17 @@
       ],
       "topics": [
         "open_source"
+      ]
+    },
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "score": 14,
+      "fetched_at": "2026-07-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
       ]
     },
     {
