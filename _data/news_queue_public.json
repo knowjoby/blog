@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-30T16:06:54.532862+00:00",
-  "pending_count": 1148,
+  "updated_at_utc": "2026-07-30T17:56:51.686034+00:00",
+  "pending_count": 1150,
   "pending": [
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
@@ -239,6 +239,17 @@
       "topics": []
     },
     {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "score": 18,
+      "fetched_at": "2026-07-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Accelerating the cyber defense ecosystem that protects us all",
       "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
       "score": 18,
@@ -283,6 +294,17 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+      "url": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+      "score": 14,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",

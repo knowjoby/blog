@@ -11533,6 +11533,19 @@
       "topic": ""
     },
     {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "score": 18,
+      "fetched_at": "2026-07-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -12465,6 +12478,19 @@
       "score": 14,
       "fetched_at": "2026-07-30",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
+      "title": "For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis",
+      "url": "https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us/",
+      "score": 14,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
       "companies": [],
       "topics": [
         "regulation"
@@ -17979,6 +18005,34 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "Nvidia\u2019s Open Source Alliance Snubs OpenAI and Anthropic",
+      "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "score": 86,
+      "file": "_posts/2026-07-30-nvidias-open-source-alliance-snubs-openai-and-anthropic.md",
+      "posted_at": "2026-07-30",
+      "companies": [
+        "openai",
+        "anthropic",
+        "nvidia"
+      ],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "score": 57,
+      "file": "_posts/2026-07-30-google-deepminds-new-ai-model-can-control-a-robots-entire-body.md",
+      "posted_at": "2026-07-30",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics"
+      ]
     }
   ],
   "daily_usage": [
@@ -18855,8 +18909,8 @@
     },
     {
       "date": "2026-07-30",
-      "posts": 0,
-      "items_processed": 16201,
+      "posts": 2,
+      "items_processed": 18228,
       "estimated_tokens": 0
     }
   ]
