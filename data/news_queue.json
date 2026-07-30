@@ -3963,6 +3963,21 @@
       "topic": "regulation"
     },
     {
+      "title": "AI Scammers Are Better at Building Trust Than Humans",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "score": 26,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
       "url": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship",
       "score": 25,
@@ -18719,7 +18734,7 @@
     {
       "date": "2026-07-30",
       "posts": 0,
-      "items_processed": 6075,
+      "items_processed": 8100,
       "estimated_tokens": 0
     }
   ]

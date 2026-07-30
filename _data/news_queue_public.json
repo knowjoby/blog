@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-30T06:32:12.769805+00:00",
-  "pending_count": 1138,
+  "updated_at_utc": "2026-07-30T09:33:12.752718+00:00",
+  "pending_count": 1139,
   "pending": [
     {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
@@ -63,6 +63,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "AI Scammers Are Better at Building Trust Than Humans",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "score": 26,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
