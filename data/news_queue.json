@@ -1307,6 +1307,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+      "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
+      "score": 35,
+      "fetched_at": "2026-07-30",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "google",
+      "topic": "robotics"
+    },
+    {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "score": 34,
@@ -1580,6 +1595,20 @@
       "score": 34,
       "fetched_at": "2026-07-28",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "score": 34,
+      "fetched_at": "2026-07-30",
+      "source": "TechCrunch",
       "companies": [
         "openai",
         "huggingface"
@@ -3177,6 +3206,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "score": 30,
+      "fetched_at": "2026-07-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -11478,6 +11520,19 @@
       "topic": ""
     },
     {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "score": 18,
+      "fetched_at": "2026-07-30",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "score": 17,
@@ -12007,6 +12062,19 @@
       "score": 16,
       "fetched_at": "2026-07-25",
       "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "The lineage behind 69% of open models was never verified. Cisco just fingerprinted almost 900 for free",
+      "url": "https://venturebeat.com/security/cisco-ai-supply-chain-provenance-explorer-fingerprints-900-open-models-replaces-self-reported-tags",
+      "score": 16,
+      "fetched_at": "2026-07-30",
+      "source": "VentureBeat",
       "companies": [
         "huggingface"
       ],
@@ -18788,7 +18856,7 @@
     {
       "date": "2026-07-30",
       "posts": 0,
-      "items_processed": 14175,
+      "items_processed": 16201,
       "estimated_tokens": 0
     }
   ]
