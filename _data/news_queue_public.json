@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-31T20:22:22.106548+00:00",
-  "pending_count": 1181,
+  "updated_at_utc": "2026-07-31T21:39:50.959732+00:00",
+  "pending_count": 1183,
   "pending": [
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -657,6 +657,17 @@
       "topics": []
     },
     {
+      "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "score": 24,
+      "fetched_at": "2026-07-31",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
       "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
       "score": 22,
@@ -700,6 +711,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
+      "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
+      "score": 14,
+      "fetched_at": "2026-07-31",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
