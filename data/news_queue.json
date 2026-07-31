@@ -1020,6 +1020,22 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "score": 38,
+      "fetched_at": "2026-07-31",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
       "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "score": 37,
@@ -12540,6 +12556,20 @@
       "topic": ""
     },
     {
+      "title": "Structured AI data pipelines score 10.9 points below free-form code \u2014 DataFlow-Harness closes the gap",
+      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "score": 16,
+      "fetched_at": "2026-07-31",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Our views on AI policy and political advocacy",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "score": 14,
@@ -15722,6 +15752,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "score": 10,
+      "fetched_at": "2026-07-31",
+      "source": "Ars Technica",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
       "topic": ""
     }
   ],
@@ -19414,7 +19457,7 @@
     {
       "date": "2026-07-31",
       "posts": 4,
-      "items_processed": 22504,
+      "items_processed": 24579,
       "estimated_tokens": 0
     }
   ]

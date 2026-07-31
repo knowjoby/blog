@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-31T21:39:50.959732+00:00",
-  "pending_count": 1183,
+  "updated_at_utc": "2026-07-31T23:07:08.637376+00:00",
+  "pending_count": 1186,
   "pending": [
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -49,6 +49,20 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "score": 38,
+      "fetched_at": "2026-07-31",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -713,6 +727,18 @@
       "topics": []
     },
     {
+      "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
+      "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+      "score": 16,
+      "fetched_at": "2026-07-31",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
+    {
       "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
       "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud",
       "score": 14,
@@ -742,6 +768,17 @@
       "source": "Hugging Face",
       "companies": [
         "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Reddit keeps its strange DMCA fight over Google search results alive",
+      "url": "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
+      "score": 10,
+      "fetched_at": "2026-07-31",
+      "source": "Ars Technica",
+      "companies": [
+        "perplexity"
       ],
       "topics": []
     },
