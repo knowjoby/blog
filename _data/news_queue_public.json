@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-31T17:05:41.393628+00:00",
-  "pending_count": 1178,
+  "updated_at_utc": "2026-07-31T18:54:00.462956+00:00",
+  "pending_count": 1181,
   "pending": [
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -15,6 +15,20 @@
       "topics": []
     },
     {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "score": 44,
+      "fetched_at": "2026-07-31",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ]
+    },
+    {
       "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
       "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
       "score": 42,
@@ -25,6 +39,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "The ban on robot vacuums won’t make them safer, only worse",
+      "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+      "score": 39,
+      "fetched_at": "2026-07-31",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
@@ -60,6 +85,18 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "score": 28,
+      "fetched_at": "2026-07-31",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
       ],
       "topics": []
     },

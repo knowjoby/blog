@@ -348,6 +348,22 @@
       "topic": "coding"
     },
     {
+      "title": "Chinese AI Researchers Are Finding Their Voice on X",
+      "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+      "score": 44,
+      "fetched_at": "2026-07-31",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "openai",
+      "topic": "china"
+    },
+    {
       "title": "Who\u2019s afraid of the big, bad GPU?",
       "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
       "score": 43,
@@ -803,6 +819,19 @@
       "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
       "score": 39,
       "fetched_at": "2026-07-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "The ban on robot vacuums won\u2019t make them safer, only worse",
+      "url": "https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices",
+      "score": 39,
+      "fetched_at": "2026-07-31",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -3331,6 +3360,20 @@
       "score": 28,
       "fetched_at": "2026-07-25",
       "source": "Hugging Face",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "score": 28,
+      "fetched_at": "2026-07-31",
+      "source": "TechCrunch",
       "companies": [
         "openai",
         "huggingface"
@@ -19345,7 +19388,7 @@
     {
       "date": "2026-07-31",
       "posts": 4,
-      "items_processed": 16279,
+      "items_processed": 18354,
       "estimated_tokens": 0
     }
   ]
