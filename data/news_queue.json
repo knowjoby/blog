@@ -3910,6 +3910,36 @@
       "topic": "agentic"
     },
     {
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "score": 26,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
+      "title": "Univ\u00e9 builds an AI-ready workforce",
+      "url": "https://openai.com/index/unive",
+      "score": 26,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation",
       "score": 24,
@@ -18701,7 +18731,7 @@
     {
       "date": "2026-07-31",
       "posts": 2,
-      "items_processed": 6083,
+      "items_processed": 8113,
       "estimated_tokens": 0
     }
   ]
