@@ -288,6 +288,20 @@
       "topic": ""
     },
     {
+      "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
+      "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
+      "score": 48,
+      "fetched_at": "2026-07-31",
+      "source": "VentureBeat",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -1985,6 +1999,21 @@
       "topic": "agentic"
     },
     {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "score": 32,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Smart rings are looking like my kind of AI gadget",
       "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
       "score": 31,
@@ -3055,6 +3084,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "score": 30,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3850,6 +3892,21 @@
         "agentic"
       ],
       "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "url": "https://openai.com/index/avatarin",
+      "score": 26,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -7157,6 +7214,58 @@
       "topic": ""
     },
     {
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "score": 24,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "score": 24,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "score": 24,
+      "fetched_at": "2026-07-31",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "score": 24,
+      "fetched_at": "2026-07-31",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -7235,6 +7344,20 @@
       "topics": [],
       "company": "perplexity",
       "topic": ""
+    },
+    {
+      "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
+      "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
+      "score": 22,
+      "fetched_at": "2026-07-31",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "multimodal",
+        "open_source"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -11194,6 +11317,19 @@
       "topic": ""
     },
     {
+      "title": "Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-07-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
       "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
       "score": 17,
@@ -12710,6 +12846,19 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
       "score": 11,
       "fetched_at": "2026-07-29",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+      "url": "https://huggingface.co/blog/gemma4",
+      "score": 11,
+      "fetched_at": "2026-07-31",
       "source": "Hugging Face",
       "companies": [],
       "topics": [
@@ -14868,6 +15017,19 @@
       "url": "https://huggingface.co/blog/eee-community-evals",
       "score": 10,
       "fetched_at": "2026-07-30",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "score": 10,
+      "fetched_at": "2026-07-31",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -17630,6 +17792,32 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "score": 52,
+      "file": "_posts/2026-07-31-anthropic-says-its-own-ai-models-breached-three-companies-during-secur.md",
+      "posted_at": "2026-07-31",
+      "companies": [
+        "openai",
+        "anthropic",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "score": 52,
+      "file": "_posts/2026-07-31-anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.md",
+      "posted_at": "2026-07-31",
+      "companies": [
+        "openai",
+        "anthropic",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -18512,8 +18700,8 @@
     },
     {
       "date": "2026-07-31",
-      "posts": 0,
-      "items_processed": 2027,
+      "posts": 2,
+      "items_processed": 4055,
       "estimated_tokens": 0
     }
   ]
