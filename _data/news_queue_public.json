@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-07-31T12:28:09.785502+00:00",
-  "pending_count": 1133,
+  "updated_at_utc": "2026-07-31T15:02:46.271903+00:00",
+  "pending_count": 1134,
   "pending": [
     {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
@@ -25,6 +25,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "score": 35,
+      "fetched_at": "2026-07-31",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",

@@ -1253,6 +1253,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+      "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+      "score": 35,
+      "fetched_at": "2026-07-31",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "google",
+      "topic": "robotics"
+    },
+    {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "score": 34,
@@ -17848,6 +17863,33 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "score": 77,
+      "file": "_posts/2026-07-31-anthropic-says-claude-accidentally-hacked-real-companies-too.md",
+      "posted_at": "2026-07-31",
+      "companies": [
+        "openai",
+        "anthropic",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "It\u2019s time to panic about AI safety",
+      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "score": 61,
+      "file": "_posts/2026-07-31-its-time-to-panic-about-ai-safety.md",
+      "posted_at": "2026-07-31",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -18730,8 +18772,8 @@
     },
     {
       "date": "2026-07-31",
-      "posts": 2,
-      "items_processed": 12173,
+      "posts": 4,
+      "items_processed": 14204,
       "estimated_tokens": 0
     }
   ]

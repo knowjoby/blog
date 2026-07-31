@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-27 14:26:01 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2018,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-27 16:48:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1207,5 +1185,48 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-07-31 20:32:46 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 2,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2031,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic says Claude accidentally hacked real companies too",
+        "file": "_posts/2026-07-31-anthropic-says-claude-accidentally-hacked-real-companies-too.md",
+        "score": 77,
+        "tags": [
+          "openai",
+          "anthropic",
+          "huggingface"
+        ]
+      },
+      {
+        "title": "It’s time to panic about AI safety",
+        "file": "_posts/2026-07-31-its-time-to-panic-about-ai-safety.md",
+        "score": 61,
+        "tags": [
+          "openai",
+          "huggingface",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
