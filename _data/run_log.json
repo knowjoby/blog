@@ -1,40 +1,5 @@
 [
   {
-    "ran_at": "2026-07-29 01:32:25 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2021,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "AI leaders sign statement asking the government to do something about automated AI",
-        "file": "_posts/2026-07-28-ai-leaders-sign-statement-asking-the-government-to-do-something-about.md",
-        "score": 97,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta",
-          "mistral",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-29 03:11:08 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1204,6 +1169,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-02 01:57:14 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2076,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
