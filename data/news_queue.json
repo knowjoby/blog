@@ -417,6 +417,19 @@
       "topic": ""
     },
     {
+      "title": "The OG reading app just got a big update",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "score": 43,
+      "fetched_at": "2026-08-01",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
       "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "score": 42,
@@ -19399,7 +19412,7 @@
     {
       "date": "2026-08-01",
       "posts": 0,
-      "items_processed": 12453,
+      "items_processed": 14529,
       "estimated_tokens": 0
     }
   ]

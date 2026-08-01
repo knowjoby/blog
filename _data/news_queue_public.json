@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-01T11:21:19.842319+00:00",
-  "pending_count": 1181,
+  "updated_at_utc": "2026-08-01T12:33:51.149370+00:00",
+  "pending_count": 1182,
   "pending": [
     {
       "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
@@ -11,6 +11,17 @@
       "companies": [
         "openai",
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The OG reading app just got a big update",
+      "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+      "score": 43,
+      "fetched_at": "2026-08-01",
+      "source": "The Verge",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
