@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-08-01T07:30:10.131410+00:00",
-  "pending_count": 1178,
+  "updated_at_utc": "2026-08-01T09:34:10.453971+00:00",
+  "pending_count": 1180,
   "pending": [
+    {
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "score": 48,
+      "fetched_at": "2026-08-01",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -54,6 +66,17 @@
       "title": "A scorecard for the AI age",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "score": 24,
+      "fetched_at": "2026-08-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "score": 18,
       "fetched_at": "2026-08-01",
       "source": "OpenAI",
       "companies": [

@@ -289,6 +289,20 @@
       "topic": ""
     },
     {
+      "title": "Nobody Knows if OpenAI\u2019s and Anthropic\u2019s AI Hacking Sprees Are Illegal",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "score": 48,
+      "fetched_at": "2026-08-01",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -11954,6 +11968,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "score": 18,
+      "fetched_at": "2026-08-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
       "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
       "score": 17,
@@ -19359,7 +19386,7 @@
     {
       "date": "2026-08-01",
       "posts": 0,
-      "items_processed": 6225,
+      "items_processed": 8301,
       "estimated_tokens": 0
     }
   ]
