@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-07-28 20:30:52 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2019,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-        "file": "_posts/2026-07-28-perplexitys-personal-computer-turns-windows-pcs-into-ai-agents.md",
-        "score": 55,
-        "tags": [
-          "perplexity",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-28 22:30:13 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1198,6 +1166,28 @@
   },
   {
     "ran_at": "2026-08-01 20:06:28 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2076,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-01 21:34:13 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
