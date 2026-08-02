@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-30 04:00:18 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2024,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-        "file": "_posts/2026-07-29-microsoft-confirms-copilot-super-app-coming-this-year.md",
-        "score": 71,
-        "tags": [
-          "microsoft",
-          "agentic",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-30 05:33:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1164,6 +1131,28 @@
   },
   {
     "ran_at": "2026-08-03 00:01:34 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2076,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-03 01:42:34 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
