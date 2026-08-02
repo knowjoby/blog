@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-29 18:00:30 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2022,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-        "file": "_posts/2026-07-29-openais-rogue-ai-agent-didnt-stop-at-hacking-hugging-face.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "huggingface",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-29 20:40:30 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1175,6 +1142,28 @@
   },
   {
     "ran_at": "2026-08-02 15:24:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2076,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-02 16:14:32 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
