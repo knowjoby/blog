@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "score": 49,
-      "fetched_at": "2026-07-18",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
       "score": 49,
@@ -2101,19 +2088,6 @@
       "topic": "ai"
     },
     {
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "score": 30,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "score": 30,
@@ -3441,51 +3415,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "score": 26,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "score": 26,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "score": 26,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
       "title": "How frontier firms are pulling ahead",
       "url": "https://openai.com/index/introducing-b2b-signals",
       "score": 26,
@@ -4039,45 +3968,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "score": 24,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "score": 24,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Google\u2019s New Gemini Rates Work and How to Track Your Usage",
-      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-      "score": 24,
-      "fetched_at": "2026-07-18",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -8121,19 +8011,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "score": 18,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "How Endava is redesigning software delivery around AI agents",
@@ -12584,19 +12461,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "score": 14,
-      "fetched_at": "2026-07-18",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
       "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio \u2014 but in limited release to start",
       "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
       "score": 14,
@@ -13050,19 +12914,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "score": 11,
-      "fetched_at": "2026-07-18",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
@@ -19439,6 +19290,12 @@
       "date": "2026-08-01",
       "posts": 0,
       "items_processed": 31137,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-02",
+      "posts": 0,
+      "items_processed": 2076,
       "estimated_tokens": 0
     }
   ]
