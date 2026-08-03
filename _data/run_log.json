@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-07-31 02:45:56 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2027,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
-        "file": "_posts/2026-07-30-everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominanc.md",
-        "score": 56,
-        "tags": [
-          "openai",
-          "anthropic",
-          "robotics"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-31 04:07:18 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1161,5 +1128,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-04 02:14:10 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2077,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+        "file": "_posts/2026-08-03-whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-it.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

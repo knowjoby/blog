@@ -7945,6 +7945,19 @@
       "topic": ""
     },
     {
+      "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "score": 24,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13652,6 +13665,19 @@
       "topic": "robotics"
     },
     {
+      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "score": 11,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
       "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
       "score": 10,
@@ -18654,6 +18680,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated",
+      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+      "score": 54,
+      "file": "_posts/2026-08-03-whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-it.md",
+      "posted_at": "2026-08-03",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19554,8 +19592,8 @@
     },
     {
       "date": "2026-08-03",
-      "posts": 1,
-      "items_processed": 16608,
+      "posts": 2,
+      "items_processed": 18685,
       "estimated_tokens": 0
     }
   ]
