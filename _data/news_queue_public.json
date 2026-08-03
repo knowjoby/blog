@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-08-03T17:12:01.106790+00:00",
-  "pending_count": 1186,
+  "updated_at_utc": "2026-08-03T19:06:45.418994+00:00",
+  "pending_count": 1191,
   "pending": [
+    {
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "score": 33,
+      "fetched_at": "2026-08-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "score": 30,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
@@ -82,6 +104,28 @@
       "topics": []
     },
     {
+      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "score": 18,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "score": 18,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Congress’s favorite AI tool? ChatGPT",
       "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
       "score": 18,
@@ -134,6 +178,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Trump’s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "score": 11,
+      "fetched_at": "2026-08-03",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {

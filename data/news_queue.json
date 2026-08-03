@@ -1610,6 +1610,19 @@
       "topic": ""
     },
     {
+      "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "score": 33,
+      "fetched_at": "2026-08-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "score": 32,
@@ -3181,6 +3194,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "score": 30,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
       "topic": ""
     },
     {
@@ -12035,6 +12061,32 @@
       "topic": ""
     },
     {
+      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
+      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
+      "score": 18,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Sequoia\u2019s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+      "score": 18,
+      "fetched_at": "2026-08-03",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
       "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
       "score": 17,
@@ -13585,6 +13637,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Trump\u2019s AI protectionism has come for robotics",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "score": 11,
+      "fetched_at": "2026-08-03",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
@@ -19490,7 +19555,7 @@
     {
       "date": "2026-08-03",
       "posts": 1,
-      "items_processed": 14532,
+      "items_processed": 16608,
       "estimated_tokens": 0
     }
   ]
