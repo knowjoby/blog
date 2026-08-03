@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-07-30 17:25:05 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2025,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-07-30 19:45:50 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1172,5 +1150,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-03 16:50:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2076,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+        "file": "_posts/2026-08-03-chinas-alibaba-takes-another-swipe-at-americas-ai-supremacy.md",
+        "score": 67,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
