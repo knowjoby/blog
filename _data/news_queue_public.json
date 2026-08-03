@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-03T11:36:20.371917+00:00",
-  "pending_count": 1183,
+  "updated_at_utc": "2026-08-03T14:51:15.805647+00:00",
+  "pending_count": 1185,
   "pending": [
     {
       "title": "The next phase of OpenAI’s Education for Countries",
@@ -10,6 +10,18 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "score": 28,
+      "fetched_at": "2026-08-03",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
       ],
       "topics": []
     },
@@ -111,6 +123,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
+      "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
+      "score": 11,
+      "fetched_at": "2026-08-03",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
