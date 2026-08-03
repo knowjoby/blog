@@ -1,48 +1,5 @@
 [
   {
-    "ran_at": "2026-07-30 23:26:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 2,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2027,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic",
-        "file": "_posts/2026-07-30-nvidias-open-source-alliance-snubs-openai-and-anthropic.md",
-        "score": 86,
-        "tags": [
-          "openai",
-          "anthropic",
-          "nvidia",
-          "open_source"
-        ]
-      },
-      {
-        "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-        "file": "_posts/2026-07-30-google-deepminds-new-ai-model-can-control-a-robots-entire-body.md",
-        "score": 57,
-        "tags": [
-          "google",
-          "robotics"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-31 01:14:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1179,6 +1136,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-03 22:42:01 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2076,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
