@@ -7930,6 +7930,19 @@
       "topic": ""
     },
     {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "score": 24,
+      "fetched_at": "2026-08-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19557,7 +19570,7 @@
     {
       "date": "2026-08-04",
       "posts": 0,
-      "items_processed": 9560,
+      "items_processed": 11639,
       "estimated_tokens": 0
     }
   ]
