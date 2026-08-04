@@ -163,6 +163,19 @@
       "topic": ""
     },
     {
+      "title": "How an OpenAI influencer trip backfired",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "score": 49,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -3437,6 +3450,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "score": 28,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
@@ -12123,6 +12149,19 @@
       "topic": ""
     },
     {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "score": 18,
+      "fetched_at": "2026-08-04",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
       "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
       "score": 17,
@@ -13693,6 +13732,19 @@
       "score": 11,
       "fetched_at": "2026-08-04",
       "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "AI coding agents are blowing through budgets \u2014 Replit, Kilo Code, and Symbotic explain how they're managing it",
+      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+      "score": 11,
+      "fetched_at": "2026-08-04",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "coding"
@@ -19609,7 +19661,7 @@
     {
       "date": "2026-08-04",
       "posts": 0,
-      "items_processed": 13718,
+      "items_processed": 15798,
       "estimated_tokens": 0
     }
   ]

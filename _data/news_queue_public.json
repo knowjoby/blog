@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-04T16:28:00.568182+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-04T18:12:49.267066+00:00",
+  "pending_count": 1198,
   "pending": [
+    {
+      "title": "How an OpenAI influencer trip backfired",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "score": 49,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
@@ -34,6 +45,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "‘Not healthy’ LLM use is more common than you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "score": 28,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "How frontier firms are pulling ahead",
@@ -171,6 +193,17 @@
       "topics": []
     },
     {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "score": 18,
+      "fetched_at": "2026-08-04",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Apple is getting this wrong",
       "url": "https://openai.com/index/apple-is-getting-this-wrong",
       "score": 18,
@@ -191,6 +224,17 @@
         "mistral"
       ],
       "topics": []
+    },
+    {
+      "title": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
+      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
+      "score": 11,
+      "fetched_at": "2026-08-04",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Inside our 353,000-person vibe coding course",
