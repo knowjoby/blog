@@ -593,6 +593,20 @@
       "topic": ""
     },
     {
+      "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "score": 42,
+      "fetched_at": "2026-08-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
       "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
       "score": 41,
@@ -4078,6 +4092,19 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "score": 26,
+      "fetched_at": "2026-08-04",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
     },
     {
       "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
@@ -19661,7 +19688,7 @@
     {
       "date": "2026-08-04",
       "posts": 0,
-      "items_processed": 15798,
+      "items_processed": 17878,
       "estimated_tokens": 0
     }
   ]
