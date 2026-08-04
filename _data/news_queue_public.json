@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-04T10:37:06.090630+00:00",
-  "pending_count": 1189,
+  "updated_at_utc": "2026-08-04T11:40:05.622550+00:00",
+  "pending_count": 1190,
   "pending": [
+    {
+      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "score": 49,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
