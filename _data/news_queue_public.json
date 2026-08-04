@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-04T21:49:52.845882+00:00",
-  "pending_count": 1202,
+  "updated_at_utc": "2026-08-04T23:06:55.603244+00:00",
+  "pending_count": 1203,
   "pending": [
     {
       "title": "How an OpenAI influencer trip backfired",
@@ -33,6 +33,18 @@
       "companies": [
         "openai",
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "score": 36,
+      "fetched_at": "2026-08-04",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },

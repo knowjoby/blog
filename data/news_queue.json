@@ -1118,6 +1118,20 @@
       "topic": ""
     },
     {
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "score": 36,
+      "fetched_at": "2026-08-04",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -19714,7 +19728,7 @@
     {
       "date": "2026-08-04",
       "posts": 0,
-      "items_processed": 19959,
+      "items_processed": 22040,
       "estimated_tokens": 0
     }
   ]
