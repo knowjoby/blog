@@ -1,48 +1,5 @@
 [
   {
-    "ran_at": "2026-07-31 09:31:45 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 14,
-    "posts_created": 2,
-    "queued": 12,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 14
-      },
-      "rss": {
-        "raw": 2028,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 14
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic says its own AI models breached three companies during security tests",
-        "file": "_posts/2026-07-31-anthropic-says-its-own-ai-models-breached-three-companies-during-secur.md",
-        "score": 52,
-        "tags": [
-          "openai",
-          "anthropic",
-          "huggingface"
-        ]
-      },
-      {
-        "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
-        "file": "_posts/2026-07-31-anthropic-says-claude-hacked-3-organizations-during-cybersecurity-test.md",
-        "score": 52,
-        "tags": [
-          "openai",
-          "anthropic",
-          "huggingface"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-07-31 12:53:03 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1157,6 +1114,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-04 08:44:13 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2078,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
       }
     },
     "posts": []

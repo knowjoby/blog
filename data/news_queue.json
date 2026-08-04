@@ -150,20 +150,6 @@
       "topic": ""
     },
     {
-      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
-      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
-      "score": 48,
-      "fetched_at": "2026-07-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -842,20 +828,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "score": 38,
-      "fetched_at": "2026-07-20",
-      "source": "TechCrunch",
-      "companies": [
-        "google",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "Google's Gemini Flash 5.6 model cuts AI agent token costs by up to 65% on long horizon engineering tasks \u2014and 3.5 Pro is on the way",
       "url": "https://venturebeat.com/technology/googles-gemini-flash-5-6-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way",
       "score": 38,
@@ -1035,19 +1007,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
-      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "score": 37,
-      "fetched_at": "2026-07-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -2112,32 +2071,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "score": 30,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "score": 30,
-      "fetched_at": "2026-07-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing OpenAI Privacy Filter",
@@ -3482,21 +3415,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "score": 26,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "US threatens sanctions against Chinese AI models over IP theft",
       "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
       "score": 26,
@@ -4080,84 +3998,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "score": 24,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "score": 24,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "score": 24,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "score": 24,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "score": 24,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "score": 24,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
@@ -7958,6 +7798,19 @@
       "topic": ""
     },
     {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "score": 24,
+      "fetched_at": "2026-08-04",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -8151,32 +8004,18 @@
       "topic": "agentic"
     },
     {
-      "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-      "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems",
-      "score": 18,
-      "fetched_at": "2026-07-20",
+      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+      "score": 19,
+      "fetched_at": "2026-08-04",
       "source": "VentureBeat",
-      "companies": [
-        "huggingface"
-      ],
+      "companies": [],
       "topics": [
-        "agentic"
+        "agentic",
+        "multimodal"
       ],
-      "company": "huggingface",
+      "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "score": 18,
-      "fetched_at": "2026-07-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -13041,19 +12880,6 @@
       "topic": "reasoning"
     },
     {
-      "title": "Natural raises $30M to reinvent payments for AI agents \u2014 and take on Stripe",
-      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "score": 12,
-      "fetched_at": "2026-07-20",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "AI agents aren't confidently wrong because of bad context \u2014 they're wrong because of bad data engineering",
       "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
       "score": 12,
@@ -13117,19 +12943,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Beyond grep: The case for a context-rich AI coding harness",
-      "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-      "score": 11,
-      "fetched_at": "2026-07-20",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
@@ -13676,19 +13489,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-      "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-      "score": 10,
-      "fetched_at": "2026-07-20",
-      "source": "TechCrunch",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -19594,6 +19394,12 @@
       "date": "2026-08-03",
       "posts": 2,
       "items_processed": 22839,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-04",
+      "posts": 0,
+      "items_processed": 2078,
       "estimated_tokens": 0
     }
   ]
