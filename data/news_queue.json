@@ -1582,6 +1582,19 @@
       "topic": ""
     },
     {
+      "title": "T-Mobile\u2019s $0-down financing plan bundles taxes and fees",
+      "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
+      "score": 34,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
       "score": 33,
@@ -7943,6 +7956,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+      "score": 24,
+      "fetched_at": "2026-08-04",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13654,6 +13680,19 @@
       "score": 11,
       "fetched_at": "2026-08-03",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "score": 11,
+      "fetched_at": "2026-08-04",
+      "source": "Google AI",
       "companies": [],
       "topics": [
         "coding"
@@ -19570,7 +19609,7 @@
     {
       "date": "2026-08-04",
       "posts": 0,
-      "items_processed": 11639,
+      "items_processed": 13718,
       "estimated_tokens": 0
     }
   ]

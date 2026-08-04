@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-04T14:28:03.966045+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-04T16:28:00.568182+00:00",
+  "pending_count": 1194,
   "pending": [
     {
       "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
@@ -12,6 +12,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "T-Mobile’s $0-down financing plan bundles taxes and fees",
+      "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
+      "score": 34,
+      "fetched_at": "2026-08-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -126,6 +137,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+      "score": 24,
+      "fetched_at": "2026-08-04",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
       "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
       "score": 19,
@@ -169,6 +191,17 @@
         "mistral"
       ],
       "topics": []
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "score": 11,
+      "fetched_at": "2026-08-04",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
