@@ -12622,6 +12622,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Mistral Is in the Right Place at the Right Time",
+      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "score": 16,
+      "fetched_at": "2026-08-04",
+      "source": "Wired",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
+    },
+    {
       "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio \u2014 but in limited release to start",
       "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
       "score": 14,
@@ -19531,7 +19544,7 @@
     {
       "date": "2026-08-04",
       "posts": 0,
-      "items_processed": 5402,
+      "items_processed": 7481,
       "estimated_tokens": 0
     }
   ]
