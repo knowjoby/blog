@@ -18660,6 +18660,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "score": 55,
+      "file": "_posts/2026-08-05-google-assistant-will-disappear-from-your-phone-next-month.md",
+      "posted_at": "2026-08-05",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19572,8 +19583,8 @@
     },
     {
       "date": "2026-08-05",
-      "posts": 0,
-      "items_processed": 10405,
+      "posts": 1,
+      "items_processed": 12486,
       "estimated_tokens": 0
     }
   ]
