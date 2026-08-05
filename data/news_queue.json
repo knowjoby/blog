@@ -163,6 +163,22 @@
       "topic": ""
     },
     {
+      "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+      "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+      "score": 49,
+      "fetched_at": "2026-08-05",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -287,6 +303,22 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "score": 46,
+      "fetched_at": "2026-08-05",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "meta",
+      "topic": "agentic"
     },
     {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
@@ -621,6 +653,20 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "score": 42,
+      "fetched_at": "2026-08-05",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -2105,6 +2151,21 @@
       "score": 32,
       "fetched_at": "2026-08-05",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
+      "title": "Trump\u2019s DOJ gains oversight of OpenAI\u2019s green-card employee sponsorships",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "score": 32,
+      "fetched_at": "2026-08-05",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -12176,6 +12237,19 @@
       "topic": ""
     },
     {
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "score": 18,
+      "fetched_at": "2026-08-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
       "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "score": 17,
@@ -12239,6 +12313,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "score": 17,
+      "fetched_at": "2026-08-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
@@ -19717,7 +19804,7 @@
     {
       "date": "2026-08-05",
       "posts": 3,
-      "items_processed": 20810,
+      "items_processed": 22891,
       "estimated_tokens": 0
     }
   ]
