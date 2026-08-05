@@ -403,6 +403,19 @@
       "topic": ""
     },
     {
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "score": 43,
+      "fetched_at": "2026-08-05",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
       "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
       "score": 42,
@@ -1006,6 +1019,19 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "score": 37,
+      "fetched_at": "2026-08-05",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -7954,6 +7980,32 @@
       "topic": ""
     },
     {
+      "title": "Google plans to kill Assistant on your phone on September 4",
+      "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
+      "score": 24,
+      "fetched_at": "2026-08-05",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "score": 24,
+      "fetched_at": "2026-08-05",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13034,6 +13086,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
+      "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
+      "score": 14,
+      "fetched_at": "2026-08-05",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "AI agents aren't confidently wrong because of bad context \u2014 they're wrong because of bad data engineering",
@@ -18685,6 +18750,20 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "score": 69,
+      "file": "_posts/2026-08-05-rogue-ai-agents-created-fake-online-identities-in-another-hacking-atte.md",
+      "posted_at": "2026-08-05",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -19597,8 +19676,8 @@
     },
     {
       "date": "2026-08-05",
-      "posts": 1,
-      "items_processed": 14567,
+      "posts": 2,
+      "items_processed": 16648,
       "estimated_tokens": 0
     }
   ]
