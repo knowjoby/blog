@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "score": 49,
-      "fetched_at": "2026-07-21",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "Meta won\u2019t have to face the next planned social media addiction trial",
       "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
       "score": 49,
@@ -364,19 +351,6 @@
       "topic": "china"
     },
     {
-      "title": "Who\u2019s afraid of the big, bad GPU?",
-      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
-      "score": 43,
-      "fetched_at": "2026-07-21",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "We\u2019re running out of reasons to ignore AI safety",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
       "score": 43,
@@ -695,36 +669,6 @@
       "topic": ""
     },
     {
-      "title": "Introducing ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "score": 40,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning",
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-      "score": 40,
-      "fetched_at": "2026-07-21",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
       "score": 40,
@@ -866,21 +810,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Google's Gemini Flash 5.6 model cuts AI agent token costs by up to 65% on long horizon engineering tasks \u2014and 3.5 Pro is on the way",
-      "url": "https://venturebeat.com/technology/googles-gemini-flash-5-6-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way",
-      "score": 38,
-      "fetched_at": "2026-07-21",
-      "source": "VentureBeat",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "google",
-      "topic": "agentic"
     },
     {
       "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
@@ -1132,19 +1061,18 @@
       "topic": ""
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "score": 35,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "score": 36,
+      "fetched_at": "2026-08-05",
+      "source": "Wired",
       "companies": [
-        "openai"
+        "openai",
+        "anthropic"
       ],
-      "topics": [
-        "coding"
-      ],
+      "topics": [],
       "company": "openai",
-      "topic": "coding"
+      "topic": ""
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -1325,34 +1253,6 @@
       ],
       "company": "google",
       "topic": "robotics"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "score": 34,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-      "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "score": 34,
-      "fetched_at": "2026-07-21",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI's models broke containment and cyberattacked Hugging Face \u2014 what enterprises need to know",
@@ -1646,21 +1546,6 @@
         "regulation"
       ],
       "company": "",
-      "topic": "regulation"
-    },
-    {
-      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "score": 32,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
       "topic": "regulation"
     },
     {
@@ -2138,45 +2023,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "score": 30,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "score": 30,
-      "fetched_at": "2026-07-21",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "score": 30,
-      "fetched_at": "2026-07-21",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Update on the OpenAI Foundation",
@@ -3508,21 +3354,6 @@
       "topic": "robotics"
     },
     {
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "score": 26,
-      "fetched_at": "2026-07-21",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "openai",
-      "topic": "china"
-    },
-    {
       "title": "How Balyasny Asset Management built an AI research engine",
       "url": "https://openai.com/index/balyasny-asset-management",
       "score": 26,
@@ -4113,84 +3944,6 @@
       "score": 26,
       "fetched_at": "2026-08-04",
       "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "score": 24,
-      "fetched_at": "2026-07-21",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-      "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
-      "score": 24,
-      "fetched_at": "2026-07-21",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "score": 24,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s $1.5B copyright settlement approved; only 350 authors opted out",
-      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-      "score": 24,
-      "fetched_at": "2026-07-21",
-      "source": "Ars Technica",
       "companies": [
         "anthropic"
       ],
@@ -8269,123 +8022,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Making ChatGPT better for clinicians",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "After TikTok, Snap settles social media addiction case",
-      "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
-      "url": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
-      "score": 18,
-      "fetched_at": "2026-07-21",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Simplex rethinks software development with Codex",
       "url": "https://openai.com/index/simplex",
       "score": 18,
@@ -12229,19 +11865,6 @@
       "topic": ""
     },
     {
-      "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
-      "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size",
-      "score": 17,
-      "fetched_at": "2026-07-21",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
       "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
       "score": 17,
@@ -13246,19 +12869,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "score": 11,
-      "fetched_at": "2026-07-21",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
@@ -19729,6 +19339,12 @@
       "date": "2026-08-04",
       "posts": 0,
       "items_processed": 22040,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-05",
+      "posts": 0,
+      "items_processed": 2081,
       "estimated_tokens": 0
     }
   ]
