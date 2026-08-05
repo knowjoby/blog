@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-08-05T12:23:54.745409+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-05T14:56:01.254669+00:00",
+  "pending_count": 1192,
   "pending": [
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "score": 42,
+      "fetched_at": "2026-08-05",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
