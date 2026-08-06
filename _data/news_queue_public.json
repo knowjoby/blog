@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-06T12:26:40.667433+00:00",
-  "pending_count": 1192,
+  "updated_at_utc": "2026-08-06T14:56:17.491527+00:00",
+  "pending_count": 1193,
   "pending": [
     {
       "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
@@ -220,6 +220,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "score": 17,
+      "fetched_at": "2026-08-06",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",

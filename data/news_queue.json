@@ -12176,6 +12176,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "score": 17,
+      "fetched_at": "2026-08-06",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -19631,7 +19644,7 @@
     {
       "date": "2026-08-06",
       "posts": 0,
-      "items_processed": 12486,
+      "items_processed": 14568,
       "estimated_tokens": 0
     }
   ]
