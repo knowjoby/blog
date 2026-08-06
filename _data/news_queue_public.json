@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-06T10:36:46.367659+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-06T12:26:40.667433+00:00",
+  "pending_count": 1192,
   "pending": [
     {
       "title": "Elon Musk’s attempt at an AI Wikipedia hasn’t been updated in months",
@@ -108,6 +108,17 @@
       "source": "Wired",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "score": 24,
+      "fetched_at": "2026-08-06",
+      "source": "MIT Tech Review",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
