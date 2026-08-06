@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta won\u2019t have to face the next planned social media addiction trial",
-      "url": "https://www.theverge.com/policy/969644/meta-social-media-addiction-trial-dropped",
-      "score": 49,
-      "fetched_at": "2026-07-22",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Apple\u2019s OpenAI lawsuit is about who gets to define the post-smartphone era",
       "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
       "score": 49,
@@ -464,33 +451,16 @@
       "topic": ""
     },
     {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "score": 42,
-      "fetched_at": "2026-07-22",
-      "source": "Ars Technica",
+      "title": "Elon Musk\u2019s attempt at an AI Wikipedia hasn\u2019t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "score": 43,
+      "fetched_at": "2026-08-06",
+      "source": "The Verge",
       "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "China\u2019s Open AI Models Are Challenging Silicon Valley\u2019s Playbook",
-      "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "score": 42,
-      "fetched_at": "2026-07-22",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "anthropic"
+        "xai"
       ],
       "topics": [],
-      "company": "openai",
+      "company": "xai",
       "topic": ""
     },
     {
@@ -758,22 +728,6 @@
       "topic": ""
     },
     {
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "score": 40,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Meta-learning for wrestling",
       "url": "https://openai.com/index/meta-learning-for-wrestling",
       "score": 40,
@@ -915,20 +869,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "score": 38,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -1388,48 +1328,6 @@
       "topic": "coding"
     },
     {
-      "title": "OpenAI's models broke containment and cyberattacked Hugging Face \u2014 what enterprises need to know",
-      "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
-      "score": 34,
-      "fetched_at": "2026-07-22",
-      "source": "VentureBeat",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "score": 34,
-      "fetched_at": "2026-07-22",
-      "source": "Hugging Face",
-      "companies": [
-        "amazon",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "amazon",
-      "topic": ""
-    },
-    {
-      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "score": 34,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "score": 34,
@@ -1694,51 +1592,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "score": 32,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
-      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "score": 32,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "anthropic",
-      "topic": "china"
     },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -2200,45 +2053,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "score": 30,
-      "fetched_at": "2026-07-22",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-      "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots",
-      "score": 30,
-      "fetched_at": "2026-07-22",
-      "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Economic Research Exchange",
@@ -3557,21 +3371,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How Balyasny Asset Management built an AI research engine",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "score": 26,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "An AI now judges every move Rubrik's agents make, its AI chief said at VB Transform 2026 \u2014 but no one's measured if the judge is right",
       "url": "https://venturebeat.com/security/an-ai-now-judges-every-move-rubriks-agents-make-its-ai-chief-said-at-vb-transform-2026-but-no-ones-measured-if-the-judge-is-right",
       "score": 26,
@@ -4152,110 +3951,6 @@
       ],
       "topics": [],
       "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta is testing an AI bedtime story app for people with no imagination",
-      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
-      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Menlo Ventures\u2019 Matt Murphy explains why Anthropic is winning (and it\u2019s not the model)",
-      "url": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Social media addiction lawsuit against Meta is dropped",
-      "url": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
-      "score": 24,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
       "topic": ""
     },
     {
@@ -8096,6 +7791,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Didn\u2019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+      "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+      "score": 24,
+      "fetched_at": "2026-08-06",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+      "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+      "score": 24,
+      "fetched_at": "2026-08-06",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -8301,84 +8022,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Simplex rethinks software development with Codex",
-      "url": "https://openai.com/index/simplex",
-      "score": 18,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT learns about the world while protecting privacy",
-      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "score": 18,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-      "score": 18,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The 13 Best Fans for Getting Through Sweaty Days (2026)",
-      "url": "https://www.wired.com/story/the-best-fans-2026/",
-      "score": 18,
-      "fetched_at": "2026-07-22",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "score": 18,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "score": 18,
-      "fetched_at": "2026-07-22",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
@@ -12250,19 +11893,6 @@
       "topic": ""
     },
     {
-      "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "score": 17,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -12326,20 +11956,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "score": 16,
-      "fetched_at": "2026-07-22",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "open_source",
-        "china"
-      ],
-      "company": "",
-      "topic": "open_source"
     },
     {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
@@ -13217,19 +12833,6 @@
       "topic": "agentic"
     },
     {
-      "title": "AI agents aren't confidently wrong because of bad context \u2014 they're wrong because of bad data engineering",
-      "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
-      "score": 12,
-      "fetched_at": "2026-07-22",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -13852,45 +13455,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "score": 10,
-      "fetched_at": "2026-07-22",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "score": 10,
-      "fetched_at": "2026-07-22",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "score": 10,
-      "fetched_at": "2026-07-22",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Native-speed vLLM transformers modeling backend",
@@ -19805,6 +19369,12 @@
       "date": "2026-08-05",
       "posts": 3,
       "items_processed": 24972,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-06",
+      "posts": 0,
+      "items_processed": 2081,
       "estimated_tokens": 0
     }
   ]
