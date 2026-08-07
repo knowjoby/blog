@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-07T13:50:38.885428+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-07T14:57:33.659567+00:00",
+  "pending_count": 1192,
   "pending": [
     {
       "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
@@ -342,6 +342,17 @@
         "deepseek"
       ],
       "topics": []
+    },
+    {
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "score": 14,
+      "fetched_at": "2026-08-07",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",

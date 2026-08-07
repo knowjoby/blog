@@ -13050,6 +13050,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "score": 14,
+      "fetched_at": "2026-08-07",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -19647,7 +19660,7 @@
     {
       "date": "2026-08-07",
       "posts": 2,
-      "items_processed": 20854,
+      "items_processed": 22940,
       "estimated_tokens": 0
     }
   ]
