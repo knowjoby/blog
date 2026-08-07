@@ -7919,6 +7919,19 @@
       "topic": ""
     },
     {
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "score": 24,
+      "fetched_at": "2026-08-07",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19755,7 +19768,7 @@
     {
       "date": "2026-08-07",
       "posts": 4,
-      "items_processed": 33374,
+      "items_processed": 35461,
       "estimated_tokens": 0
     }
   ]

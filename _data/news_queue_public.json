@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-07T20:47:34.739410+00:00",
-  "pending_count": 1197,
+  "updated_at_utc": "2026-08-07T21:44:15.259281+00:00",
+  "pending_count": 1198,
   "pending": [
     {
       "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
@@ -174,6 +174,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+      "score": 24,
+      "fetched_at": "2026-08-07",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
