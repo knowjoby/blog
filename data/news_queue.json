@@ -4002,6 +4002,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech \u2014 and one of its drug designs got independently confirmed by Merck",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "score": 26,
+      "fetched_at": "2026-08-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Applications of AI at OpenAI",
       "url": "https://openai.com/academy/applications-of-ai",
       "score": 24,
@@ -12647,6 +12662,20 @@
       "topic": ""
     },
     {
+      "title": "Tencent's Team Memory shares AI agent memory across a team \u2014 with no governance yet for when it's wrong",
+      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "score": 16,
+      "fetched_at": "2026-08-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing the Codex app",
       "url": "https://openai.com/index/introducing-the-codex-app",
       "score": 14,
@@ -19699,7 +19728,7 @@
     {
       "date": "2026-08-07",
       "posts": 3,
-      "items_processed": 27113,
+      "items_processed": 29200,
       "estimated_tokens": 0
     }
   ]

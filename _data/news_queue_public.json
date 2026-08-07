@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-07T17:24:18.373553+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-07T18:23:07.033548+00:00",
+  "pending_count": 1196,
   "pending": [
     {
       "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
@@ -74,6 +74,19 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "score": 26,
+      "fetched_at": "2026-08-07",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -342,6 +355,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
+      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
+      "score": 16,
+      "fetched_at": "2026-08-07",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
     },
     {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
