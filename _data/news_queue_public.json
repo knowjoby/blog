@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-07T11:23:25.181212+00:00",
-  "pending_count": 1189,
+  "updated_at_utc": "2026-08-07T12:10:23.704230+00:00",
+  "pending_count": 1190,
   "pending": [
     {
       "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
@@ -93,6 +93,17 @@
       "score": 24,
       "fetched_at": "2026-08-07",
       "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "score": 24,
+      "fetched_at": "2026-08-07",
+      "source": "TechCrunch",
       "companies": [
         "meta"
       ],
