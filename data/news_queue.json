@@ -7878,6 +7878,19 @@
       "topic": ""
     },
     {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "score": 24,
+      "fetched_at": "2026-08-07",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19634,7 +19647,7 @@
     {
       "date": "2026-08-07",
       "posts": 2,
-      "items_processed": 18768,
+      "items_processed": 20854,
       "estimated_tokens": 0
     }
   ]

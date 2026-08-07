@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-07T12:10:23.704230+00:00",
-  "pending_count": 1190,
+  "updated_at_utc": "2026-08-07T13:50:38.885428+00:00",
+  "pending_count": 1191,
   "pending": [
     {
       "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
@@ -161,6 +161,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+      "score": 24,
+      "fetched_at": "2026-08-07",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
