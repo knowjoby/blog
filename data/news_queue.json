@@ -7906,6 +7906,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
+      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
+      "score": 24,
+      "fetched_at": "2026-08-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -18803,6 +18816,20 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "score": 100,
+      "file": "_posts/2026-08-07-openai-puts-the-brakes-on-a-new-model-because-its-supposedly-too-power.md",
+      "posted_at": "2026-08-07",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19727,8 +19754,8 @@
     },
     {
       "date": "2026-08-07",
-      "posts": 3,
-      "items_processed": 29200,
+      "posts": 4,
+      "items_processed": 31287,
       "estimated_tokens": 0
     }
   ]
