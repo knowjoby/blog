@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-08-03 16:50:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2076,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-        "file": "_posts/2026-08-03-chinas-alibaba-takes-another-swipe-at-americas-ai-supremacy.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-03 17:06:20 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1166,5 +1134,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-07 22:54:18 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2087,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "What’s behind the Google AI shake-up",
+        "file": "_posts/2026-08-07-whats-behind-the-google-ai-shake-up.md",
+        "score": 85,
+        "tags": [
+          "openai",
+          "anthropic",
+          "google"
+        ]
+      }
+    ]
   }
 ]
