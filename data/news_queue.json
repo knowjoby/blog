@@ -127,6 +127,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+      "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
+      "score": 49,
+      "fetched_at": "2026-08-07",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -12019,6 +12032,19 @@
       "topic": ""
     },
     {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "score": 18,
+      "fetched_at": "2026-08-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -19582,7 +19608,7 @@
     {
       "date": "2026-08-07",
       "posts": 2,
-      "items_processed": 12510,
+      "items_processed": 14596,
       "estimated_tokens": 0
     }
   ]

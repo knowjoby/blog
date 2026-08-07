@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-07T08:57:17.915899+00:00",
-  "pending_count": 1186,
+  "updated_at_utc": "2026-08-07T10:04:20.399842+00:00",
+  "pending_count": 1188,
   "pending": [
+    {
+      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
+      "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
+      "score": 49,
+      "fetched_at": "2026-08-07",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
@@ -236,6 +247,17 @@
     {
       "title": "Helping K–12 educators build practical AI skills",
       "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "score": 18,
+      "fetched_at": "2026-08-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
       "score": 18,
       "fetched_at": "2026-08-07",
       "source": "OpenAI",
