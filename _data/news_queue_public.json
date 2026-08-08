@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-08T10:03:36.198945+00:00",
-  "pending_count": 1186,
+  "updated_at_utc": "2026-08-08T11:01:43.059299+00:00",
+  "pending_count": 1187,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -62,6 +62,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "How to Disable Gemini in Gmail and Google Docs",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "score": 24,
+      "fetched_at": "2026-08-08",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Applications of AI at OpenAI",
