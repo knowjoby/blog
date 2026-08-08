@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-08T19:34:14.435536+00:00",
-  "pending_count": 1188,
+  "updated_at_utc": "2026-08-08T20:36:03.023327+00:00",
+  "pending_count": 1189,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -38,6 +38,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "score": 30,
+      "fetched_at": "2026-08-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
