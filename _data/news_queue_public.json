@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-08T11:01:43.059299+00:00",
-  "pending_count": 1187,
+  "updated_at_utc": "2026-08-08T11:55:08.873862+00:00",
+  "pending_count": 1188,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -61,6 +61,19 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "score": 26,
+      "fetched_at": "2026-08-08",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "open_source"
       ]
     },
     {
