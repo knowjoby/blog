@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta just created a moderation nightmare for its smart glasses",
-      "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
-      "score": 49,
-      "fetched_at": "2026-07-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "After backlash, Meta pauses plan to \u2018rate limit\u2019 its smart glasses",
-      "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
-      "score": 49,
-      "fetched_at": "2026-07-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Apple is banking on privacy to set its smart glasses apart",
       "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
       "score": 49,
@@ -137,20 +111,6 @@
       ],
       "topics": [],
       "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "score": 48,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -454,22 +414,6 @@
       "topic": "agentic"
     },
     {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "score": 42,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia",
-        "mistral"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "nvidia",
-      "topic": "china"
-    },
-    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -612,21 +556,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-      "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
-      "score": 41,
-      "fetched_at": "2026-07-24",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "anthropic",
-      "topic": "coding"
     },
     {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
@@ -861,21 +790,6 @@
       "topic": "robotics"
     },
     {
-      "title": "OpenAI\u2019s own model went rogue before Kimi had Wall Street sweating",
-      "url": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-      "score": 38,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "openai",
-      "topic": "china"
-    },
-    {
       "title": "Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
       "score": 38,
@@ -1024,20 +938,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "score": 36,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
@@ -1316,20 +1216,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "score": 34,
-      "fetched_at": "2026-07-24",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "SchoolAI builds an AI platform that empowers teachers",
@@ -1611,21 +1497,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "score": 32,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "microsoft"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "microsoft",
-      "topic": "coding"
     },
     {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -2117,32 +1988,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "score": 30,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "score": 30,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Introducing OpenAI for Singapore",
@@ -3435,21 +3280,6 @@
       "topic": "robotics"
     },
     {
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "score": 26,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Designing AI agents to resist prompt injection",
       "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
       "score": 26,
@@ -4031,73 +3861,6 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
-    },
-    {
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "score": 24,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "score": 24,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "score": 24,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "midjourney"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "midjourney",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Sam Altman\u2019s biometric startup World raises $52.5M via crypto sale",
-      "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-      "score": 24,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "score": 24,
-      "fetched_at": "2026-07-24",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
@@ -8181,294 +7944,6 @@
       "topic": "agentic"
     },
     {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT Sites",
-      "url": "https://openai.com/academy/chatgpt-sites",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AI is becoming a first hire for small businesses",
-      "url": "https://openai.com/index/ai-first-hire-small-business",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How to use ChatGPT Work for everyday tasks",
-      "url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Personalizing ChatGPT",
-      "url": "https://openai.com/academy/personalization",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Using skills",
-      "url": "https://openai.com/academy/skills",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Working with files in ChatGPT",
-      "url": "https://openai.com/academy/working-with-files",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for finance teams",
-      "url": "https://openai.com/academy/finance",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AI fundamentals",
-      "url": "https://openai.com/academy/what-is-ai",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT for customer success teams",
-      "url": "https://openai.com/academy/customer-success",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "huggingface",
-      "topic": "agentic"
-    },
-    {
-      "title": "European researchers want to study social media\u2019s harms but can\u2019t get the data",
-      "url": "https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "score": 18,
-      "fetched_at": "2026-07-24",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "url": "https://openai.com/index/deutsche-telekom",
       "score": 18,
@@ -12253,34 +11728,6 @@
       "companies": [],
       "topics": [
         "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "score": 16,
-      "fetched_at": "2026-07-24",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
-      "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
-      "score": 16,
-      "fetched_at": "2026-07-24",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
       ],
       "company": "",
       "topic": "agentic"
@@ -19811,6 +19258,12 @@
       "date": "2026-08-07",
       "posts": 4,
       "items_processed": 39635,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-08",
+      "posts": 0,
+      "items_processed": 2087,
       "estimated_tokens": 0
     }
   ]
