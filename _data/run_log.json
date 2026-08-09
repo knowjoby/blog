@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-08-07 06:12:32 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 13,
-    "posts_created": 2,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 13
-      },
-      "rss": {
-        "raw": 2085,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 13
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic will design its own hardware to power Claude",
-        "file": "_posts/2026-08-07-anthropic-will-design-its-own-hardware-to-power-claude.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "anthropic",
-          "nvidia"
-        ]
-      },
-      {
-        "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-        "file": "_posts/2026-08-07-jony-ives-first-openai-gadget-is-reportedly-a-hockey-puck-sized-smart.md",
-        "score": 51,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-07 09:22:50 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 19,
@@ -1121,6 +1080,28 @@
   },
   {
     "ran_at": "2026-08-09 15:15:07 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2087,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-09 16:09:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
