@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-08-07 22:54:18 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2087,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "What’s behind the Google AI shake-up",
-        "file": "_posts/2026-08-07-whats-behind-the-google-ai-shake-up.md",
-        "score": 85,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-07 23:53:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1102,6 +1069,28 @@
   },
   {
     "ran_at": "2026-08-10 03:07:32 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2087,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-10 04:06:30 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
