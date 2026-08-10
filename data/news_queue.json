@@ -18705,6 +18705,21 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "score": 54,
+      "file": "_posts/2026-08-10-meta-is-back-with-muse-glimmer-local-agentic-multimodal-and-open-sourc.md",
+      "posted_at": "2026-08-10",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "multimodal",
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -19647,8 +19662,8 @@
     },
     {
       "date": "2026-08-10",
-      "posts": 0,
-      "items_processed": 12522,
+      "posts": 1,
+      "items_processed": 14611,
       "estimated_tokens": 0
     }
   ]
