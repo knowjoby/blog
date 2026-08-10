@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-10T13:56:34.315998+00:00",
-  "pending_count": 1188,
+  "updated_at_utc": "2026-08-10T15:07:23.736386+00:00",
+  "pending_count": 1189,
   "pending": [
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
@@ -52,6 +52,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI available at FedRAMP Moderate",
