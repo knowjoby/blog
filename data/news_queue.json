@@ -735,6 +735,22 @@
       "topic": "regulation"
     },
     {
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "score": 40,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding",
+        "open_source"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "The US is banning foreign robots",
       "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
       "score": 39,
@@ -3021,6 +3037,19 @@
       "topic": ""
     },
     {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "score": 30,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3887,6 +3916,36 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
+    },
+    {
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "score": 26,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "score": 26,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "How Preply combines AI and human tutors to personalize learning",
@@ -7721,6 +7780,45 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "Hugging Face",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -11865,6 +11963,45 @@
       "topic": ""
     },
     {
+      "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "score": 17,
@@ -12828,6 +12965,19 @@
       ],
       "company": "",
       "topic": "regulation"
+    },
+    {
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "score": 14,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
@@ -19485,7 +19635,7 @@
     {
       "date": "2026-08-10",
       "posts": 0,
-      "items_processed": 2087,
+      "items_processed": 4174,
       "estimated_tokens": 0
     }
   ]
