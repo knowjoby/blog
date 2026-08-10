@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-10T17:27:19.593410+00:00",
-  "pending_count": 1197,
+  "updated_at_utc": "2026-08-10T18:26:10.709648+00:00",
+  "pending_count": 1198,
   "pending": [
     {
       "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
@@ -169,6 +169,17 @@
     {
       "title": "Premium seats are coming to ChatGPT Business",
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
       "score": 18,
       "fetched_at": "2026-08-10",
       "source": "OpenAI",
