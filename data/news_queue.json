@@ -428,6 +428,19 @@
       "topic": ""
     },
     {
+      "title": "Four takeaways from Mark Zuckerberg\u2019s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "score": 43,
+      "fetched_at": "2026-08-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Europe got its own TBPN-style live show, and everyone\u2019s angling for a guest spot",
       "url": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
       "score": 42,
@@ -7832,6 +7845,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -19676,7 +19702,7 @@
     {
       "date": "2026-08-10",
       "posts": 1,
-      "items_processed": 20881,
+      "items_processed": 22972,
       "estimated_tokens": 0
     }
   ]

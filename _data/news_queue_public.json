@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-10T15:07:23.736386+00:00",
-  "pending_count": 1189,
+  "updated_at_utc": "2026-08-10T16:23:53.861577+00:00",
+  "pending_count": 1191,
   "pending": [
+    {
+      "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "score": 43,
+      "fetched_at": "2026-08-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
@@ -52,6 +63,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
