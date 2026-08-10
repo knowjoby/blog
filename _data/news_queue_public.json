@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-10T22:43:08.610648+00:00",
-  "pending_count": 1203,
+  "updated_at_utc": "2026-08-10T23:39:28.541934+00:00",
+  "pending_count": 1205,
   "pending": [
     {
       "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
@@ -158,6 +158,17 @@
       "topics": []
     },
     {
+      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "score": 24,
+      "fetched_at": "2026-08-10",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
       "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
       "score": 18,
@@ -182,6 +193,17 @@
     {
       "title": "How Zapier transformed core marketing processes with ChatGPT Work",
       "url": "https://openai.com/index/zapier",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
       "score": 18,
       "fetched_at": "2026-08-10",
       "source": "OpenAI",
