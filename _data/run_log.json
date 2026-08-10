@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-08 16:31:43 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2087,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-08 17:25:08 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1110,5 +1088,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-11 02:19:42 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2096,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
+        "file": "_posts/2026-08-10-aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-i.md",
+        "score": 56,
+        "tags": [
+          "openai",
+          "anthropic",
+          "coding"
+        ]
+      }
+    ]
   }
 ]

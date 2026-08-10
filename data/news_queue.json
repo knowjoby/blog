@@ -3990,6 +3990,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "score": 26,
+      "fetched_at": "2026-08-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "How Preply combines AI and human tutors to personalize learning",
       "url": "https://openai.com/index/preply",
       "score": 24,
@@ -18879,6 +18894,20 @@
         "multimodal",
         "open_source"
       ]
+    },
+    {
+      "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
+      "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
+      "score": 56,
+      "file": "_posts/2026-08-10-aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-i.md",
+      "posted_at": "2026-08-10",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -19821,8 +19850,8 @@
     },
     {
       "date": "2026-08-10",
-      "posts": 1,
-      "items_processed": 29259,
+      "posts": 2,
+      "items_processed": 31355,
       "estimated_tokens": 0
     }
   ]
