@@ -12122,6 +12122,19 @@
       "topic": ""
     },
     {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
       "score": 17,
@@ -13170,6 +13183,19 @@
       "score": 12,
       "fetched_at": "2026-08-09",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Brex assumes its AI agents could do anything \u2014 so it watches the network, not the code",
+      "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
+      "score": 12,
+      "fetched_at": "2026-08-10",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "ai"
@@ -19796,7 +19822,7 @@
     {
       "date": "2026-08-10",
       "posts": 1,
-      "items_processed": 27163,
+      "items_processed": 29259,
       "estimated_tokens": 0
     }
   ]

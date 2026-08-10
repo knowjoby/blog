@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-10T18:26:10.709648+00:00",
-  "pending_count": 1198,
+  "updated_at_utc": "2026-08-10T19:33:20.117704+00:00",
+  "pending_count": 1200,
   "pending": [
     {
       "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
@@ -145,6 +145,17 @@
       "topics": []
     },
     {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "score": 18,
@@ -241,6 +252,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code",
+      "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code",
+      "score": 12,
+      "fetched_at": "2026-08-10",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
