@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-10T09:18:26.257303+00:00",
-  "pending_count": 1187,
+  "updated_at_utc": "2026-08-10T09:40:58.848944+00:00",
+  "pending_count": 1188,
   "pending": [
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
@@ -118,6 +118,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "score": 17,
+      "fetched_at": "2026-08-10",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ]
     },
     {
       "title": "An open-source spec for orchestration: Symphony",
