@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-08-10T16:23:53.861577+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-10T17:27:19.593410+00:00",
+  "pending_count": 1197,
   "pending": [
+    {
+      "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
+      "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
+      "score": 46,
+      "fetched_at": "2026-08-10",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
+    },
     {
       "title": "Four takeaways from Mark Zuckerberg’s massive AI manifesto",
       "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
@@ -35,6 +49,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "score": 30,
+      "fetched_at": "2026-08-10",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -131,8 +156,41 @@
       "topics": []
     },
     {
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Choco automates food distribution with AI agents",
       "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-08-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
       "score": 18,
       "fetched_at": "2026-08-10",
       "source": "OpenAI",
@@ -169,6 +227,17 @@
       "score": 14,
       "fetched_at": "2026-08-10",
       "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Token-maxxing is dead. Agentic memory is what comes next.",
+      "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next",
+      "score": 11,
+      "fetched_at": "2026-08-10",
+      "source": "VentureBeat",
       "companies": [],
       "topics": [
         "agentic"
