@@ -88,6 +88,19 @@
       "topic": ""
     },
     {
+      "title": "Threads has a VR app now",
+      "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
+      "score": 49,
+      "fetched_at": "2026-08-11",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
       "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
       "score": 48,
@@ -568,6 +581,20 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s Gemini app surges to one billion users",
+      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "score": 42,
+      "fetched_at": "2026-08-11",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -3073,6 +3100,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "score": 30,
+      "fetched_at": "2026-08-11",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -19893,7 +19933,7 @@
     {
       "date": "2026-08-11",
       "posts": 2,
-      "items_processed": 29377,
+      "items_processed": 31476,
       "estimated_tokens": 0
     }
   ]
