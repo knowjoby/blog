@@ -7915,6 +7915,19 @@
       "topic": ""
     },
     {
+      "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
+      "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "score": 24,
+      "fetched_at": "2026-08-11",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
       "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
       "score": 22,
@@ -12170,6 +12183,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "score": 18,
+      "fetched_at": "2026-08-11",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
       "topic": ""
     },
     {
@@ -18907,6 +18933,17 @@
         "reasoning",
         "china"
       ]
+    },
+    {
+      "title": "Another OpenAI executive takes off",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "score": 55,
+      "file": "_posts/2026-08-11-another-openai-executive-takes-off.md",
+      "posted_at": "2026-08-11",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19855,8 +19892,8 @@
     },
     {
       "date": "2026-08-11",
-      "posts": 1,
-      "items_processed": 27278,
+      "posts": 2,
+      "items_processed": 29377,
       "estimated_tokens": 0
     }
   ]
