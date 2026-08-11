@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-11T20:52:15.702673+00:00",
-  "pending_count": 1208,
+  "updated_at_utc": "2026-08-11T21:53:55.910612+00:00",
+  "pending_count": 1210,
   "pending": [
     {
       "title": "Threads has a VR app now",
@@ -50,6 +50,19 @@
       ]
     },
     {
+      "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+      "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+      "score": 38,
+      "fetched_at": "2026-08-11",
+      "source": "VentureBeat",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "OpenAI’s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "score": 38,
@@ -61,6 +74,18 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "score": 36,
+      "fetched_at": "2026-08-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "amazon"
+      ],
+      "topics": []
     },
     {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
