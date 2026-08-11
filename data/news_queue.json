@@ -3063,6 +3063,19 @@
       "topic": ""
     },
     {
+      "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "score": 30,
+      "fetched_at": "2026-08-11",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -19843,7 +19856,7 @@
     {
       "date": "2026-08-11",
       "posts": 1,
-      "items_processed": 25179,
+      "items_processed": 27278,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-11T16:25:06.141717+00:00",
-  "pending_count": 1199,
+  "updated_at_utc": "2026-08-11T17:29:31.334760+00:00",
+  "pending_count": 1200,
   "pending": [
     {
       "title": "Claude will apply invisible watermarks to AI text and images",
@@ -84,6 +84,17 @@
       "source": "VentureBeat",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "score": 30,
+      "fetched_at": "2026-08-11",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
