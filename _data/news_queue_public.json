@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-12T17:30:41.298543+00:00",
-  "pending_count": 1204,
+  "updated_at_utc": "2026-08-12T19:07:51.696717+00:00",
+  "pending_count": 1207,
   "pending": [
     {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
@@ -36,6 +36,19 @@
       ]
     },
     {
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "score": 38,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "ICE wants to give agents electrified gloves that shock people into compliance",
       "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
       "score": 33,
@@ -45,6 +58,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "score": 30,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
@@ -283,6 +307,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "score": 14,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",

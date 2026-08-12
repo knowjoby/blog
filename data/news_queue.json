@@ -970,6 +970,21 @@
       "topic": "agentic"
     },
     {
+      "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
+      "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis",
+      "score": 38,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "xai",
+      "topic": "coding"
+    },
+    {
       "title": "Reddit is introducing a new moderator: AI",
       "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
       "score": 37,
@@ -3083,6 +3098,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "score": 30,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -13152,6 +13180,19 @@
       "topic": "agentic"
     },
     {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "score": 14,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
       "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "score": 12,
@@ -19963,7 +20004,7 @@
     {
       "date": "2026-08-12",
       "posts": 2,
-      "items_processed": 25204,
+      "items_processed": 27305,
       "estimated_tokens": 0
     }
   ]
