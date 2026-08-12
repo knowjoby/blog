@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-12T07:44:18.506574+00:00",
-  "pending_count": 1193,
+  "updated_at_utc": "2026-08-12T09:09:18.343149+00:00",
+  "pending_count": 1196,
   "pending": [
     {
       "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
@@ -12,6 +12,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "score": 29,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Work with Codex from anywhere",
@@ -180,6 +193,28 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time — and isolate high-risk agents less than one in five",
+      "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "score": 11,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "score": 11,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "How Endava builds an agentic organization with Codex",

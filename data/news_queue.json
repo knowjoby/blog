@@ -3109,6 +3109,21 @@
       "topic": "coding"
     },
     {
+      "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
+      "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost",
+      "score": 29,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
       "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "score": 28,
@@ -13694,6 +13709,32 @@
       "topic": "agentic"
     },
     {
+      "title": "Agentic security: Enterprises enforce agent permissions two-thirds of the time \u2014 and isolate high-risk agents less than one in five",
+      "url": "https://venturebeat.com/resources/agentic-security-enterprises-enforce-agent-permissions-two-thirds-of-the-time-and-isolate-high-risk-agents-less-than-one-in-five",
+      "score": 11,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
+      "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least",
+      "score": 11,
+      "fetched_at": "2026-08-12",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "score": 10,
@@ -19791,7 +19832,7 @@
     {
       "date": "2026-08-12",
       "posts": 0,
-      "items_processed": 8400,
+      "items_processed": 10500,
       "estimated_tokens": 0
     }
   ]
