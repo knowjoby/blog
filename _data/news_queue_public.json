@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-12T22:11:45.184021+00:00",
-  "pending_count": 1210,
+  "updated_at_utc": "2026-08-12T23:11:15.013626+00:00",
+  "pending_count": 1211,
   "pending": [
     {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
@@ -119,6 +119,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "score": 24,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
