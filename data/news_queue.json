@@ -8009,6 +8009,19 @@
       "topic": ""
     },
     {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "score": 24,
+      "fetched_at": "2026-08-12",
+      "source": "Ars Technica",
+      "companies": [
+        "amazon"
+      ],
+      "topics": [],
+      "company": "amazon",
+      "topic": ""
+    },
+    {
       "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
       "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
       "score": 22,
@@ -12233,6 +12246,19 @@
       "score": 18,
       "fetched_at": "2026-08-12",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "score": 18,
+      "fetched_at": "2026-08-12",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -20017,7 +20043,7 @@
     {
       "date": "2026-08-12",
       "posts": 2,
-      "items_processed": 31507,
+      "items_processed": 33609,
       "estimated_tokens": 0
     }
   ]

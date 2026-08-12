@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-12T21:21:35.849436+00:00",
-  "pending_count": 1208,
+  "updated_at_utc": "2026-08-12T22:11:45.184021+00:00",
+  "pending_count": 1210,
   "pending": [
     {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
@@ -187,6 +187,17 @@
       "topics": []
     },
     {
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "score": 24,
+      "fetched_at": "2026-08-12",
+      "source": "Ars Technica",
+      "companies": [
+        "amazon"
+      ],
+      "topics": []
+    },
+    {
       "title": "Scientific computing in the age of agentic AI",
       "url": "https://openai.com/index/scientific-computing-agentic-ai",
       "score": 19,
@@ -223,6 +234,17 @@
     {
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
       "url": "https://openai.com/index/stargate-michigan-data-center",
+      "score": 18,
+      "fetched_at": "2026-08-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
       "score": 18,
       "fetched_at": "2026-08-12",
       "source": "OpenAI",
