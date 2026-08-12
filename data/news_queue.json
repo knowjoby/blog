@@ -792,6 +792,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be",
+      "url": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
+      "score": 39,
+      "fetched_at": "2026-08-12",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -3960,6 +3973,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "score": 26,
+      "fetched_at": "2026-08-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
@@ -18890,6 +18918,31 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "score": 67,
+      "file": "_posts/2026-08-12-of-course-the-chatgpt-dog-cancer-vaccine-spawned-a-startup.md",
+      "posted_at": "2026-08-12",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Grok is now an AI \u2018teammate\u2019 you can assign work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "score": 57,
+      "file": "_posts/2026-08-12-grok-is-now-an-ai-teammate-you-can-assign-work.md",
+      "posted_at": "2026-08-12",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -19844,8 +19897,8 @@
     },
     {
       "date": "2026-08-12",
-      "posts": 0,
-      "items_processed": 16800,
+      "posts": 2,
+      "items_processed": 18901,
       "estimated_tokens": 0
     }
   ]

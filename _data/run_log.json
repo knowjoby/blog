@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-10 01:07:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2087,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-10 02:08:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1152,5 +1130,46 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-12 18:51:09 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 2,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2101,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+        "file": "_posts/2026-08-12-of-course-the-chatgpt-dog-cancer-vaccine-spawned-a-startup.md",
+        "score": 67,
+        "tags": [
+          "openai",
+          "xai"
+        ]
+      },
+      {
+        "title": "Grok is now an AI ‘teammate’ you can assign work",
+        "file": "_posts/2026-08-12-grok-is-now-an-ai-teammate-you-can-assign-work.md",
+        "score": 57,
+        "tags": [
+          "xai",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
