@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-12T13:21:09.472881+00:00",
-  "pending_count": 1199,
+  "updated_at_utc": "2026-08-12T14:37:20.004773+00:00",
+  "pending_count": 1202,
   "pending": [
     {
       "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
@@ -23,6 +23,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "score": 30,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
@@ -62,6 +73,28 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini",
+      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+      "score": 24,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+      "score": 24,
+      "fetched_at": "2026-08-12",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Strengthening societal resilience with Rosalind Biodefense",
