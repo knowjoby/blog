@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-13T11:21:51.132619+00:00",
-  "pending_count": 1192,
+  "updated_at_utc": "2026-08-13T12:11:08.715175+00:00",
+  "pending_count": 1193,
   "pending": [
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -65,6 +65,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "score": 18,
+      "fetched_at": "2026-08-13",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
