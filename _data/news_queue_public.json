@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-13T13:58:29.894382+00:00",
-  "pending_count": 1193,
+  "updated_at_utc": "2026-08-13T15:06:49.637273+00:00",
+  "pending_count": 1195,
   "pending": [
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -78,6 +78,28 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+      "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges",
+      "score": 14,
+      "fetched_at": "2026-08-13",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Why Capital One built its multi-agent AI platform around open-weight models",
+      "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
+      "score": 14,
+      "fetched_at": "2026-08-13",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Sea's View on the Future of Agentic Software Development with Codex",
