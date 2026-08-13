@@ -1898,6 +1898,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "score": 32,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
+    },
+    {
       "title": "Is paying artists enough to convince them to embrace AI?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
       "score": 31,
@@ -3303,6 +3318,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Suno is trying to look more like a real music production tool",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "score": 28,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
@@ -7886,6 +7914,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -13058,6 +13112,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "X open sources its ranking algorithm, letting users see if they\u2019ve been \u2018shadowbanned\u2019",
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "score": 14,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ],
+      "company": "",
+      "topic": "open_source"
     },
     {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -18914,6 +18981,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta adds AI screening to detect WhatsApp scams",
+      "url": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
+      "score": 55,
+      "file": "_posts/2026-08-13-meta-adds-ai-screening-to-detect-whatsapp-scams.md",
+      "posted_at": "2026-08-13",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19874,8 +19952,8 @@
     },
     {
       "date": "2026-08-13",
-      "posts": 2,
-      "items_processed": 23122,
+      "posts": 3,
+      "items_processed": 25225,
       "estimated_tokens": 0
     }
   ]

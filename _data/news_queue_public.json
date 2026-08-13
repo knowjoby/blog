@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-08-13T15:06:49.637273+00:00",
-  "pending_count": 1195,
+  "updated_at_utc": "2026-08-13T16:26:01.393250+00:00",
+  "pending_count": 1200,
   "pending": [
+    {
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "score": 32,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
@@ -14,6 +27,28 @@
       "topics": []
     },
     {
+      "title": "Suno is trying to look more like a real music production tool",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "score": 28,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Accelerating the next phase of AI",
       "url": "https://openai.com/index/accelerating-the-next-phase-ai",
       "score": 24,
@@ -21,6 +56,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic could be worth $2 trillion when it goes public",
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -99,6 +145,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
+      "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "score": 14,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
       ]
     },
     {
