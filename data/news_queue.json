@@ -7943,6 +7943,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
       "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
       "score": 22,
@@ -12175,6 +12188,19 @@
       "topic": ""
     },
     {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "score": 18,
+      "fetched_at": "2026-08-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
       "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
       "score": 17,
@@ -15946,6 +15972,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "score": 10,
+      "fetched_at": "2026-08-13",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -18992,6 +19031,21 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+      "score": 56,
+      "file": "_posts/2026-08-13-deepseek-harness-launches-as-open-source-rival-to-claude-code-alongsid.md",
+      "posted_at": "2026-08-13",
+      "companies": [
+        "anthropic",
+        "deepseek"
+      ],
+      "topics": [
+        "open_source",
+        "china"
+      ]
     }
   ],
   "daily_usage": [
@@ -19952,8 +20006,8 @@
     },
     {
       "date": "2026-08-13",
-      "posts": 3,
-      "items_processed": 25225,
+      "posts": 4,
+      "items_processed": 27331,
       "estimated_tokens": 0
     }
   ]

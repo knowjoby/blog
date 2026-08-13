@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-13T16:26:01.393250+00:00",
-  "pending_count": 1200,
+  "updated_at_utc": "2026-08-13T17:30:46.767712+00:00",
+  "pending_count": 1203,
   "pending": [
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -38,6 +38,17 @@
       ]
     },
     {
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
       "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
       "score": 24,
@@ -73,6 +84,17 @@
     {
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-08-13",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
       "score": 18,
       "fetched_at": "2026-08-13",
       "source": "OpenAI",
@@ -201,6 +223,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "score": 10,
+      "fetched_at": "2026-08-13",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
