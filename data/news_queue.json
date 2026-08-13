@@ -101,6 +101,35 @@
       "topic": ""
     },
     {
+      "title": "OpenAI is losing its second executive this week",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "score": 49,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "score": 49,
+      "fetched_at": "2026-08-13",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
       "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
       "score": 48,
@@ -3086,6 +3115,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "score": 30,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "score": 30,
+      "fetched_at": "2026-08-13",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -7999,6 +8054,19 @@
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
       "score": 24,
       "fetched_at": "2026-08-13",
       "source": "TechCrunch",
@@ -20061,7 +20129,7 @@
     {
       "date": "2026-08-13",
       "posts": 4,
-      "items_processed": 29438,
+      "items_processed": 31545,
       "estimated_tokens": 0
     }
   ]

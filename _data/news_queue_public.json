@@ -1,7 +1,32 @@
 {
-  "updated_at_utc": "2026-08-13T19:08:22.756646+00:00",
-  "pending_count": 1207,
+  "updated_at_utc": "2026-08-13T20:04:42.207973+00:00",
+  "pending_count": 1212,
   "pending": [
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "score": 49,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "score": 49,
+      "fetched_at": "2026-08-13",
+      "source": "VentureBeat",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
+    },
     {
       "title": "You can now just point at a mess and this robot vacuum will suck it up",
       "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
@@ -62,6 +87,17 @@
       ]
     },
     {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "score": 30,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "score": 30,
@@ -69,6 +105,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "score": 30,
+      "fetched_at": "2026-08-13",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -102,6 +149,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "score": 24,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
