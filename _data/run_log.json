@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-08-10 16:42:28 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2089,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-        "file": "_posts/2026-08-10-meta-is-back-with-muse-glimmer-local-agentic-multimodal-and-open-sourc.md",
-        "score": 54,
-        "tags": [
-          "meta",
-          "agentic",
-          "multimodal",
-          "open_source"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-10 17:39:25 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1168,6 +1134,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 10
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-13 10:48:12 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2102,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
