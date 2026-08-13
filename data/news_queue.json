@@ -737,6 +737,32 @@
       "topic": "robotics"
     },
     {
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "score": 39,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "score": 39,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -1448,6 +1474,19 @@
       "topic": "regulation"
     },
     {
+      "title": "I finally found a robot lawnmower I\u2019d trust with my yard",
+      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "score": 33,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -1911,6 +1950,21 @@
       ],
       "company": "microsoft",
       "topic": "coding"
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "score": 32,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
     },
     {
       "title": "Is paying artists enough to convince them to embrace AI?",
@@ -20007,7 +20061,7 @@
     {
       "date": "2026-08-13",
       "posts": 4,
-      "items_processed": 27331,
+      "items_processed": 29438,
       "estimated_tokens": 0
     }
   ]

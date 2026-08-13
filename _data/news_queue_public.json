@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-08-13T17:30:46.767712+00:00",
-  "pending_count": 1203,
+  "updated_at_utc": "2026-08-13T19:08:22.756646+00:00",
+  "pending_count": 1207,
   "pending": [
+    {
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "score": 39,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "score": 39,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "I finally found a robot lawnmower I’d trust with my yard",
+      "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "score": 33,
+      "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
@@ -13,6 +46,19 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "score": 32,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
