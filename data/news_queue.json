@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
-      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "score": 49,
-      "fetched_at": "2026-07-29",
-      "source": "The Verge",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
       "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
       "score": 49,
@@ -272,19 +259,6 @@
       "topic": "agentic"
     },
     {
-      "title": "OpenAI president says it\u2019s \u2018building a family of devices\u2019 for its AI chatbots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "score": 45,
-      "fetched_at": "2026-07-29",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -348,32 +322,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "We\u2019re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "score": 43,
-      "fetched_at": "2026-07-29",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "score": 43,
-      "fetched_at": "2026-07-29",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Tim Cook hints at iCloud Plus tier for AI power users",
@@ -481,22 +429,6 @@
       "topics": [],
       "company": "anthropic",
       "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
-      "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-      "score": 42,
-      "fetched_at": "2026-07-29",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
@@ -777,19 +709,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "The US government just banned Roombas",
-      "url": "https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums",
-      "score": 39,
-      "fetched_at": "2026-07-29",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "The ban on robot vacuums won\u2019t make them safer, only worse",
@@ -1990,32 +1909,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Elon Musk\u2019s xAI is trying to sue its way out of a Grok reckoning",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-      "score": 30,
-      "fetched_at": "2026-07-29",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Partner Network",
@@ -4055,71 +3948,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
-      "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
-      "score": 24,
-      "fetched_at": "2026-07-29",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "score": 24,
-      "fetched_at": "2026-07-29",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "score": 24,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "score": 24,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -8035,19 +7863,6 @@
       "topic": ""
     },
     {
-      "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-      "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-      "score": 22,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": [],
-      "company": "perplexity",
-      "topic": ""
-    },
-    {
       "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
       "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
       "score": 22,
@@ -8279,71 +8094,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "score": 18,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "score": 18,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -12803,58 +12553,6 @@
       "topic": ""
     },
     {
-      "title": "Bright Machines says its new hybrid robot cell could help solve a major AI infrastructure bottleneck",
-      "url": "https://venturebeat.com/infrastructure/bright-machines-says-its-new-hybrid-robot-cell-could-help-solve-a-major-ai-infrastructure-bottleneck",
-      "score": 14,
-      "fetched_at": "2026-07-29",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "score": 14,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
-      "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy",
-      "score": 14,
-      "fetched_at": "2026-07-29",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Who wins and who loses after US bans foreign robots?",
-      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-      "score": 14,
-      "fetched_at": "2026-07-29",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
       "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
       "score": 14,
@@ -13245,19 +12943,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "score": 12,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "score": 12,
@@ -13334,58 +13019,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "score": 11,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-07-29",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-07-29",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-07-29",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
@@ -13932,19 +13565,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "score": 10,
-      "fetched_at": "2026-07-29",
-      "source": "TechCrunch",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -20057,6 +19677,12 @@
       "date": "2026-08-12",
       "posts": 2,
       "items_processed": 35711,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-13",
+      "posts": 0,
+      "items_processed": 2102,
       "estimated_tokens": 0
     }
   ]
