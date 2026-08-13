@@ -18864,6 +18864,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Microsoft is combining its Copilot apps ahead of a \u2018super app\u2019",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "score": 57,
+      "file": "_posts/2026-08-13-microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app.md",
+      "posted_at": "2026-08-13",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -19824,8 +19837,8 @@
     },
     {
       "date": "2026-08-13",
-      "posts": 0,
-      "items_processed": 18918,
+      "posts": 1,
+      "items_processed": 21020,
       "estimated_tokens": 0
     }
   ]

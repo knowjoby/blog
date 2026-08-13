@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-11 01:03:20 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2096,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-11 02:19:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1159,5 +1137,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-13 19:28:29 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2102,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+        "file": "_posts/2026-08-13-microsoft-is-combining-its-copilot-apps-ahead-of-a-super-app.md",
+        "score": 57,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
