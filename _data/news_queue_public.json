@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-13T20:04:42.207973+00:00",
-  "pending_count": 1212,
+  "updated_at_utc": "2026-08-13T21:23:11.078655+00:00",
+  "pending_count": 1213,
   "pending": [
     {
       "title": "OpenAI is losing its second executive this week",
@@ -276,6 +276,17 @@
     {
       "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
       "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
+      "score": 14,
+      "fetched_at": "2026-08-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ]
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "score": 14,
       "fetched_at": "2026-08-13",
       "source": "TechCrunch",
