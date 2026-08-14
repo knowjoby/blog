@@ -7967,6 +7967,19 @@
       "topic": ""
     },
     {
+      "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "score": 24,
+      "fetched_at": "2026-08-14",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
       "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size",
       "score": 22,
@@ -19031,6 +19044,20 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "score": 62,
+      "file": "_posts/2026-08-14-openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground.md",
+      "posted_at": "2026-08-14",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "china"
+      ]
     }
   ],
   "daily_usage": [
@@ -19997,8 +20024,8 @@
     },
     {
       "date": "2026-08-14",
-      "posts": 0,
-      "items_processed": 23177,
+      "posts": 1,
+      "items_processed": 25285,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-14T14:56:05.330139+00:00",
-  "pending_count": 1201,
+  "updated_at_utc": "2026-08-14T15:57:29.622721+00:00",
+  "pending_count": 1202,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -76,6 +76,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "score": 24,
+      "fetched_at": "2026-08-14",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
