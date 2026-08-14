@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-08-11 16:51:53 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2098,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "A New Trick Reveals AI Models’ Inner Thoughts",
-        "file": "_posts/2026-08-11-a-new-trick-reveals-ai-models-inner-thoughts.md",
-        "score": 52,
-        "tags": [
-          "anthropic",
-          "google",
-          "reasoning",
-          "china"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-11 17:40:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1170,6 +1136,28 @@
   },
   {
     "ran_at": "2026-08-14 10:45:35 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2107,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-14 12:24:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
