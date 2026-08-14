@@ -1446,6 +1446,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "score": 33,
+      "fetched_at": "2026-08-14",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24",
       "score": 32,
@@ -19985,7 +19998,7 @@
     {
       "date": "2026-08-14",
       "posts": 0,
-      "items_processed": 12642,
+      "items_processed": 14749,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-14T09:05:17.220821+00:00",
-  "pending_count": 1200,
+  "updated_at_utc": "2026-08-14T09:36:23.464531+00:00",
+  "pending_count": 1201,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -14,6 +14,17 @@
         "reasoning",
         "coding",
         "multimodal"
+      ]
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "score": 33,
+      "fetched_at": "2026-08-14",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
