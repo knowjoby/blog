@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-14T23:26:04.414390+00:00",
-  "pending_count": 1203,
+  "updated_at_utc": "2026-08-14T23:50:13.330259+00:00",
+  "pending_count": 1204,
   "pending": [
     {
       "title": "You can now turn off Google Gemini’s visible watermarks",
@@ -74,6 +74,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
+      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "score": 26,
+      "fetched_at": "2026-08-14",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding",
+        "open_source",
+        "china"
+      ]
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
