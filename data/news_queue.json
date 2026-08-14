@@ -130,6 +130,19 @@
       "topic": "agentic"
     },
     {
+      "title": "You can now turn off Google Gemini\u2019s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "score": 49,
+      "fetched_at": "2026-08-14",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
       "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations",
       "score": 48,
@@ -20025,7 +20038,7 @@
     {
       "date": "2026-08-14",
       "posts": 1,
-      "items_processed": 25285,
+      "items_processed": 27393,
       "estimated_tokens": 0
     }
   ]

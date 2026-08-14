@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-14T15:57:29.622721+00:00",
-  "pending_count": 1202,
+  "updated_at_utc": "2026-08-14T17:01:18.655612+00:00",
+  "pending_count": 1203,
   "pending": [
+    {
+      "title": "You can now turn off Google Gemini’s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "score": 49,
+      "fetched_at": "2026-08-14",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
