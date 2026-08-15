@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-08-13 21:56:01 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2103,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta adds AI screening to detect WhatsApp scams",
-        "file": "_posts/2026-08-13-meta-adds-ai-screening-to-detect-whatsapp-scams.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-13 23:00:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1112,6 +1081,28 @@
   },
   {
     "ran_at": "2026-08-15 20:56:07 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2108,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-15 21:18:10 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
