@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-08-13 23:00:46 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2106,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-        "file": "_posts/2026-08-13-deepseek-harness-launches-as-open-source-rival-to-claude-code-alongsid.md",
-        "score": 56,
-        "tags": [
-          "anthropic",
-          "deepseek",
-          "open_source",
-          "china"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-14 00:38:22 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1103,6 +1069,28 @@
   },
   {
     "ran_at": "2026-08-15 21:18:10 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2108,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-15 22:00:32 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
