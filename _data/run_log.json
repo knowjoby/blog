@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-08-13 20:36:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2102,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Does Google even want to win at AI?",
-        "file": "_posts/2026-08-13-does-google-even-want-to-win-at-ai.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-13 21:56:01 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1121,6 +1090,28 @@
   },
   {
     "ran_at": "2026-08-15 20:21:29 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2108,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-15 20:56:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
