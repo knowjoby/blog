@@ -7840,6 +7840,21 @@
       "topic": ""
     },
     {
+      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "deepseek",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19830,7 +19845,7 @@
     {
       "date": "2026-08-16",
       "posts": 0,
-      "items_processed": 31620,
+      "items_processed": 33728,
       "estimated_tokens": 0
     }
   ]

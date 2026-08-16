@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-16T12:49:05.600385+00:00",
-  "pending_count": 1187,
+  "updated_at_utc": "2026-08-16T13:35:00.370809+00:00",
+  "pending_count": 1188,
   "pending": [
     {
       "title": "Rogue AI aren’t science fiction anymore",
@@ -37,6 +37,19 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+      "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "VentureBeat",
+      "companies": [
+        "deepseek"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
