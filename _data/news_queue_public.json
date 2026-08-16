@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-08-16T14:52:40.829100+00:00",
-  "pending_count": 1188,
+  "updated_at_utc": "2026-08-16T15:26:07.259377+00:00",
+  "pending_count": 1189,
   "pending": [
     {
       "title": "Rogue AI aren’t science fiction anymore",
       "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "score": 43,
+      "fetched_at": "2026-08-16",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "score": 43,
       "fetched_at": "2026-08-16",
       "source": "The Verge",
