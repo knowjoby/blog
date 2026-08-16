@@ -1822,6 +1822,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "score": 32,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Is paying artists enough to convince them to embrace AI?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
       "score": 31,
@@ -3017,6 +3032,21 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
     },
     {
       "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
@@ -7758,6 +7788,45 @@
       "topic": ""
     },
     {
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11909,6 +11978,60 @@
       "topic": ""
     },
     {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "score": 18,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "score": 18,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "score": 18,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "score": 18,
+      "fetched_at": "2026-08-16",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
       "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
       "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
       "score": 17,
@@ -12795,6 +12918,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "score": 14,
+      "fetched_at": "2026-08-16",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "score": 12,
@@ -13456,6 +13592,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "score": 11,
+      "fetched_at": "2026-08-16",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -15581,6 +15730,19 @@
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "score": 10,
       "fetched_at": "2026-08-15",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "score": 10,
+      "fetched_at": "2026-08-16",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -19655,7 +19817,7 @@
     {
       "date": "2026-08-16",
       "posts": 0,
-      "items_processed": 2108,
+      "items_processed": 4216,
       "estimated_tokens": 0
     }
   ]
