@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-16T11:47:21.024104+00:00",
-  "pending_count": 1186,
+  "updated_at_utc": "2026-08-16T12:49:05.600385+00:00",
+  "pending_count": 1187,
   "pending": [
+    {
+      "title": "Rogue AI aren’t science fiction anymore",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "score": 43,
+      "fetched_at": "2026-08-16",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
