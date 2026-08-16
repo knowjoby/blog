@@ -18892,6 +18892,17 @@
       "topics": [
         "china"
       ]
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "score": 51,
+      "file": "_posts/2026-08-16-openai-reportedly-disbanded-its-preparedness-team.md",
+      "posted_at": "2026-08-16",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19870,8 +19881,8 @@
     },
     {
       "date": "2026-08-16",
-      "posts": 0,
-      "items_processed": 61132,
+      "posts": 1,
+      "items_processed": 63240,
       "estimated_tokens": 0
     }
   ]
