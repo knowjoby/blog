@@ -7868,6 +7868,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19858,7 +19871,7 @@
     {
       "date": "2026-08-16",
       "posts": 0,
-      "items_processed": 44268,
+      "items_processed": 46376,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-16T16:31:13.620063+00:00",
-  "pending_count": 1189,
+  "updated_at_utc": "2026-08-16T17:23:45.302721+00:00",
+  "pending_count": 1190,
   "pending": [
     {
       "title": "Rogue AI aren’t science fiction anymore",
@@ -62,6 +62,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "score": 24,
+      "fetched_at": "2026-08-16",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
