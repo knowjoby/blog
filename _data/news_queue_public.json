@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-17T12:53:40.440411+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-17T13:42:25.892373+00:00",
+  "pending_count": 1193,
   "pending": [
     {
       "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "score": 24,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "New policy ideas for the Intelligence Age",
       "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "score": 24,
@@ -89,6 +100,17 @@
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "score": 24,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "score": 18,
       "fetched_at": "2026-08-17",
       "source": "OpenAI",
       "companies": [
