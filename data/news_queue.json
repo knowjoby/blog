@@ -2959,6 +2959,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "score": 30,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -3854,6 +3867,51 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "score": 26,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "score": 26,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -7781,6 +7839,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "score": 24,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -11963,6 +12047,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
       "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
       "score": 17,
@@ -12849,6 +12946,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "score": 14,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "score": 12,
@@ -13503,6 +13613,19 @@
       "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
       "score": 11,
       "fetched_at": "2026-08-16",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "score": 11,
+      "fetched_at": "2026-08-17",
       "source": "Hugging Face",
       "companies": [],
       "topics": [
@@ -19739,7 +19862,7 @@
     {
       "date": "2026-08-17",
       "posts": 0,
-      "items_processed": 2108,
+      "items_processed": 4216,
       "estimated_tokens": 0
     }
   ]
