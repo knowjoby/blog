@@ -13024,6 +13024,19 @@
       "topic": "reasoning"
     },
     {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "score": 14,
+      "fetched_at": "2026-08-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "score": 12,
@@ -18953,6 +18966,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "score": 54,
+      "file": "_posts/2026-08-17-nvidia-investing-15b-in-softbank-data-center-developer-behind-openai-p.md",
+      "posted_at": "2026-08-17",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19937,8 +19962,8 @@
     },
     {
       "date": "2026-08-17",
-      "posts": 1,
-      "items_processed": 29520,
+      "posts": 2,
+      "items_processed": 31631,
       "estimated_tokens": 0
     }
   ]

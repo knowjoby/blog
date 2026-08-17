@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-17T14:33:06.400255+00:00",
-  "pending_count": 1193,
+  "updated_at_utc": "2026-08-17T15:29:49.074575+00:00",
+  "pending_count": 1194,
   "pending": [
     {
       "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
@@ -139,6 +139,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer",
+      "url": "https://venturebeat.com/orchestration/as-enterprises-confront-ai-agent-sprawl-xpander-wants-them-to-own-their-own-control-and-context-layer",
+      "score": 14,
+      "fetched_at": "2026-08-17",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Introducing new capabilities to GPT-Rosalind",
