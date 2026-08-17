@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-16 02:55:47 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2108,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-16 03:17:17 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1107,5 +1085,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-17 17:00:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2109,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+        "file": "_posts/2026-08-17-anthropic-explains-how-claudes-invisible-text-watermarks-will-work.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

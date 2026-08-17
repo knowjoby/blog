@@ -1383,6 +1383,19 @@
       "topic": "ai"
     },
     {
+      "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "score": 33,
+      "fetched_at": "2026-08-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "score": 32,
@@ -7857,6 +7870,19 @@
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-08-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
       "score": 24,
       "fetched_at": "2026-08-17",
       "source": "OpenAI",
@@ -18890,6 +18916,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic explains how Claude\u2019s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "score": 55,
+      "file": "_posts/2026-08-17-anthropic-explains-how-claudes-invisible-text-watermarks-will-work.md",
+      "posted_at": "2026-08-17",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19874,8 +19911,8 @@
     },
     {
       "date": "2026-08-17",
-      "posts": 0,
-      "items_processed": 21080,
+      "posts": 1,
+      "items_processed": 23189,
       "estimated_tokens": 0
     }
   ]
