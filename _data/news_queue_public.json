@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-17T15:29:49.074575+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-17T15:53:47.840143+00:00",
+  "pending_count": 1195,
   "pending": [
     {
       "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
@@ -21,6 +21,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "score": 30,
+      "fetched_at": "2026-08-17",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },

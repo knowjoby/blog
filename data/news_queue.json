@@ -2985,6 +2985,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+      "score": 30,
+      "fetched_at": "2026-08-17",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -19963,7 +19976,7 @@
     {
       "date": "2026-08-17",
       "posts": 2,
-      "items_processed": 31631,
+      "items_processed": 33742,
       "estimated_tokens": 0
     }
   ]
