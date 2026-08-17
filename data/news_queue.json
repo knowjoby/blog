@@ -7920,6 +7920,19 @@
       "topic": ""
     },
     {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "score": 24,
+      "fetched_at": "2026-08-17",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19976,7 +19989,7 @@
     {
       "date": "2026-08-17",
       "posts": 2,
-      "items_processed": 33742,
+      "items_processed": 35853,
       "estimated_tokens": 0
     }
   ]
