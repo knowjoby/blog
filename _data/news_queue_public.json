@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-17T07:33:18.087690+00:00",
-  "pending_count": 1188,
+  "updated_at_utc": "2026-08-17T08:40:44.128308+00:00",
+  "pending_count": 1189,
   "pending": [
     {
       "title": "OpenAI public policy agenda",
@@ -82,6 +82,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "score": 18,
+      "fetched_at": "2026-08-17",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
