@@ -2959,6 +2959,19 @@
       "topic": ""
     },
     {
+      "title": "The next phase of OpenAI\u2019s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "score": 30,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -7814,6 +7827,58 @@
       "topic": ""
     },
     {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -11967,6 +12032,45 @@
       "topic": ""
     },
     {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "score": 18,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "score": 18,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
       "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
       "score": 17,
@@ -13514,6 +13618,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "score": 11,
+      "fetched_at": "2026-08-18",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -19789,7 +19906,7 @@
     {
       "date": "2026-08-18",
       "posts": 1,
-      "items_processed": 2112,
+      "items_processed": 4224,
       "estimated_tokens": 0
     }
   ]
