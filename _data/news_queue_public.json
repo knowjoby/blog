@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-18T11:55:02.115975+00:00",
-  "pending_count": 1193,
+  "updated_at_utc": "2026-08-18T12:55:21.773231+00:00",
+  "pending_count": 1195,
   "pending": [
     {
       "title": "ChatGPT is getting a dedicated mode for teens",
@@ -26,6 +26,18 @@
       "topics": []
     },
     {
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "score": 36,
+      "fetched_at": "2026-08-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "score": 30,
@@ -35,6 +47,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "My parrot ate my keyboard",
+      "url": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+      "score": 28,
+      "fetched_at": "2026-08-18",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Anthropic’s annualized revenue surges to $65B",

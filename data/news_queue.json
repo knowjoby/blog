@@ -967,6 +967,20 @@
       "topic": ""
     },
     {
+      "title": "The Download: how people really use AI, and Flock\u2019s design choices",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "score": 36,
+      "fetched_at": "2026-08-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -3246,6 +3260,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
       "score": 28,
       "fetched_at": "2026-08-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "My parrot ate my keyboard",
+      "url": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+      "score": 28,
+      "fetched_at": "2026-08-18",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -18981,6 +19008,17 @@
         "coding",
         "open_source"
       ]
+    },
+    {
+      "title": "Google\u2019s Pet Memory forgot who my cats are",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "score": 55,
+      "file": "_posts/2026-08-18-googles-pet-memory-forgot-who-my-cats-are.md",
+      "posted_at": "2026-08-18",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -19971,8 +20009,8 @@
     },
     {
       "date": "2026-08-18",
-      "posts": 1,
-      "items_processed": 27460,
+      "posts": 2,
+      "items_processed": 29574,
       "estimated_tokens": 0
     }
   ]
