@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-18T10:33:33.686363+00:00",
-  "pending_count": 1190,
+  "updated_at_utc": "2026-08-18T11:29:29.644747+00:00",
+  "pending_count": 1193,
   "pending": [
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "score": 49,
+      "fetched_at": "2026-08-18",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "We still don’t know how people are really using AI",
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -73,6 +84,28 @@
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "score": 18,
       "fetched_at": "2026-08-18",
       "source": "OpenAI",
       "companies": [

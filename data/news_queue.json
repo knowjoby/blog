@@ -143,6 +143,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "score": 49,
+      "fetched_at": "2026-08-18",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -7893,6 +7906,19 @@
       "topic": ""
     },
     {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -12074,6 +12100,19 @@
     {
       "title": "New ways to buy ChatGPT ads",
       "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
       "score": 18,
       "fetched_at": "2026-08-18",
       "source": "OpenAI",
@@ -19933,7 +19972,7 @@
     {
       "date": "2026-08-18",
       "posts": 1,
-      "items_processed": 23232,
+      "items_processed": 25346,
       "estimated_tokens": 0
     }
   ]
