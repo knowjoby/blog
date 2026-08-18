@@ -526,6 +526,20 @@
       "topic": ""
     },
     {
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "score": 42,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -20157,7 +20171,7 @@
     {
       "date": "2026-08-18",
       "posts": 3,
-      "items_processed": 57092,
+      "items_processed": 59211,
       "estimated_tokens": 0
     }
   ]
