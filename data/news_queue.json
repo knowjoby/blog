@@ -19139,6 +19139,18 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "score": 65,
+      "file": "_posts/2026-08-18-openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face.md",
+      "posted_at": "2026-08-18",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20129,8 +20141,8 @@
     },
     {
       "date": "2026-08-18",
-      "posts": 2,
-      "items_processed": 42267,
+      "posts": 3,
+      "items_processed": 44384,
       "estimated_tokens": 0
     }
   ]
