@@ -1316,19 +1316,6 @@
       "topic": ""
     },
     {
-      "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "score": 33,
-      "fetched_at": "2026-08-03",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
       "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
       "score": 33,
@@ -1887,32 +1874,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "score": 30,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "score": 30,
-      "fetched_at": "2026-08-03",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -3088,34 +3049,6 @@
       "topic": "coding"
     },
     {
-      "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "score": 28,
-      "fetched_at": "2026-08-03",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "score": 28,
-      "fetched_at": "2026-08-03",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
       "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
       "score": 28,
@@ -3938,71 +3871,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "score": 24,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "score": 24,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "score": 24,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "score": 24,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "score": 24,
-      "fetched_at": "2026-08-03",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Circles powers telco personalization with OpenAI technology",
@@ -7933,6 +7801,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u2019s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "score": 24,
+      "fetched_at": "2026-08-18",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -8150,84 +8031,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "score": 18,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "score": 18,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-08-03",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Congress\u2019s favorite AI tool? ChatGPT",
-      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "score": 18,
-      "fetched_at": "2026-08-03",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "WhatsApp says it is is fixing an issue that disabled several accounts",
-      "url": "https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/",
-      "score": 18,
-      "fetched_at": "2026-08-03",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Sequoia\u2019s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
-      "url": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
-      "score": 18,
-      "fetched_at": "2026-08-03",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Apple is getting this wrong",
@@ -12151,6 +11954,19 @@
       "topic": ""
     },
     {
+      "title": "Data science workflows with ChatGPT Work",
+      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "score": 18,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Travis Kalanick\u2019s robotics startup Atoms taps former Uber finance chief as CFO",
       "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
       "score": 17,
@@ -12214,6 +12030,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
+      "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
+      "score": 17,
+      "fetched_at": "2026-08-18",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Mistral Is in the Right Place at the Right Time",
@@ -13152,71 +12981,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "score": 11,
-      "fetched_at": "2026-08-03",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
-      "title": "AI Conquered Coding. Fast Food Is Next",
-      "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-      "score": 11,
-      "fetched_at": "2026-08-03",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
-      "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
-      "score": 11,
-      "fetched_at": "2026-08-03",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Trump\u2019s AI protectionism has come for robotics",
-      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "score": 11,
-      "fetched_at": "2026-08-03",
-      "source": "MIT Tech Review",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "score": 11,
-      "fetched_at": "2026-08-03",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Inside our 353,000-person vibe coding course",
@@ -19017,6 +18781,23 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning locally, no cloud API required",
+      "url": "https://venturebeat.com/technology/qwen3-8-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no-cloud-api-required",
+      "score": 82,
+      "file": "_posts/2026-08-18-qwen38-27b-runs-frontier-class-coding-agents-and-reasoning-locally-no.md",
+      "posted_at": "2026-08-18",
+      "companies": [
+        "openai",
+        "anthropic",
+        "huggingface"
+      ],
+      "topics": [
+        "reasoning",
+        "coding",
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -20003,6 +19784,12 @@
       "date": "2026-08-17",
       "posts": 2,
       "items_processed": 56970,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-18",
+      "posts": 1,
+      "items_processed": 2112,
       "estimated_tokens": 0
     }
   ]
