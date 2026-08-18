@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-18T15:36:14.073586+00:00",
-  "pending_count": 1200,
+  "updated_at_utc": "2026-08-18T16:36:41.372011+00:00",
+  "pending_count": 1201,
   "pending": [
     {
       "title": "ChatGPT is getting a dedicated mode for teens",
@@ -196,6 +196,17 @@
     {
       "title": "How Endava is redesigning software delivery around AI agents",
       "url": "https://openai.com/index/endava-frontiers",
+      "score": 18,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "url": "https://openai.com/index/asana",
       "score": 18,
       "fetched_at": "2026-08-18",
       "source": "OpenAI",
