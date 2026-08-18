@@ -499,6 +499,20 @@
       "topic": ""
     },
     {
+      "title": "We still don\u2019t know how people are really using AI",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "score": 42,
+      "fetched_at": "2026-08-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -19919,7 +19933,7 @@
     {
       "date": "2026-08-18",
       "posts": 1,
-      "items_processed": 21120,
+      "items_processed": 23232,
       "estimated_tokens": 0
     }
   ]
