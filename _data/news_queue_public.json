@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-18T19:30:56.500827+00:00",
-  "pending_count": 1204,
+  "updated_at_utc": "2026-08-18T20:29:43.320982+00:00",
+  "pending_count": 1205,
   "pending": [
     {
       "title": "ChatGPT is getting a dedicated mode for teens",
@@ -48,6 +48,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Strengthening Democratic Oversight in National Security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "score": 32,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",

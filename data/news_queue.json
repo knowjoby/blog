@@ -1933,6 +1933,21 @@
       "topic": "coding"
     },
     {
+      "title": "Strengthening Democratic Oversight in National Security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "score": 32,
+      "fetched_at": "2026-08-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
       "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "score": 31,
@@ -20142,7 +20157,7 @@
     {
       "date": "2026-08-18",
       "posts": 3,
-      "items_processed": 44384,
+      "items_processed": 46502,
       "estimated_tokens": 0
     }
   ]
