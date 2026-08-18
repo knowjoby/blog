@@ -1904,6 +1904,21 @@
       "topic": "coding"
     },
     {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "score": 32,
+      "fetched_at": "2026-08-18",
+      "source": "Ars Technica",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
+    },
+    {
       "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "score": 31,
@@ -12660,6 +12675,19 @@
       "topic": ""
     },
     {
+      "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "score": 16,
+      "fetched_at": "2026-08-18",
+      "source": "TechCrunch",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
+      "topic": ""
+    },
+    {
       "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
       "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff",
       "score": 14,
@@ -20010,7 +20038,7 @@
     {
       "date": "2026-08-18",
       "posts": 2,
-      "items_processed": 29574,
+      "items_processed": 31688,
       "estimated_tokens": 0
     }
   ]
