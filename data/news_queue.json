@@ -240,6 +240,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "score": 48,
+      "fetched_at": "2026-08-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
       "score": 46,
@@ -20201,7 +20215,7 @@
     {
       "date": "2026-08-19",
       "posts": 2,
-      "items_processed": 53012,
+      "items_processed": 55134,
       "estimated_tokens": 0
     }
   ]
