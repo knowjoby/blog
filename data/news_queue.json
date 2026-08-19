@@ -7937,6 +7937,32 @@
       "topic": ""
     },
     {
+      "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "score": 24,
+      "fetched_at": "2026-08-19",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google Pixel Watch 5 Review: More Health, More AI",
+      "url": "https://www.wired.com/review/google-pixel-watch-5/",
+      "score": 24,
+      "fetched_at": "2026-08-19",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -12156,6 +12182,19 @@
     {
       "title": "ChatGPT Ads expands across Europe",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "score": 18,
+      "fetched_at": "2026-08-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "score": 18,
       "fetched_at": "2026-08-19",
       "source": "OpenAI",
@@ -19060,6 +19099,29 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI hit the brakes. Now what?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "score": 67,
+      "file": "_posts/2026-08-19-openai-hit-the-brakes-now-what.md",
+      "posted_at": "2026-08-19",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta AI is getting a Mac app",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "score": 55,
+      "file": "_posts/2026-08-19-meta-ai-is-getting-a-mac-app.md",
+      "posted_at": "2026-08-19",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20056,8 +20118,8 @@
     },
     {
       "date": "2026-08-19",
-      "posts": 0,
-      "items_processed": 38158,
+      "posts": 2,
+      "items_processed": 40280,
       "estimated_tokens": 0
     }
   ]

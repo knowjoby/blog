@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-19T16:36:25.640021+00:00",
-  "pending_count": 1197,
+  "updated_at_utc": "2026-08-19T17:30:28.339098+00:00",
+  "pending_count": 1200,
   "pending": [
     {
       "title": "Nvidia’s new financial strategy does not compute",
@@ -47,6 +47,28 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "score": 24,
+      "fetched_at": "2026-08-19",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Pixel Watch 5 Review: More Health, More AI",
+      "url": "https://www.wired.com/review/google-pixel-watch-5/",
+      "score": 24,
+      "fetched_at": "2026-08-19",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
@@ -139,6 +161,17 @@
     {
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "score": 18,
+      "fetched_at": "2026-08-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
       "score": 18,
       "fetched_at": "2026-08-19",
       "source": "OpenAI",
