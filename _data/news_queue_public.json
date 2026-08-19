@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-19T13:49:47.878642+00:00",
-  "pending_count": 1196,
+  "updated_at_utc": "2026-08-19T14:38:41.545481+00:00",
+  "pending_count": 1197,
   "pending": [
     {
       "title": "Nvidia’s new financial strategy does not compute",
@@ -12,6 +12,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "This robot vacuum solves my kitchen stool problem",
+      "url": "https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review",
+      "score": 33,
+      "fetched_at": "2026-08-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Announcing the OpenAI Safety Fellowship",

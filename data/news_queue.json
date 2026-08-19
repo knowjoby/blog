@@ -1398,6 +1398,19 @@
       "topic": "robotics"
     },
     {
+      "title": "This robot vacuum solves my kitchen stool problem",
+      "url": "https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review",
+      "score": 33,
+      "fetched_at": "2026-08-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "score": 32,
@@ -20044,7 +20057,7 @@
     {
       "date": "2026-08-19",
       "posts": 0,
-      "items_processed": 31795,
+      "items_processed": 33916,
       "estimated_tokens": 0
     }
   ]
