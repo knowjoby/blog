@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-19T19:53:51.086056+00:00",
-  "pending_count": 1204,
+  "updated_at_utc": "2026-08-19T20:34:05.680950+00:00",
+  "pending_count": 1205,
   "pending": [
     {
       "title": "Google Gemini is getting a dedicated student hub",
@@ -187,6 +187,17 @@
       "score": 24,
       "fetched_at": "2026-08-19",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+      "score": 18,
+      "fetched_at": "2026-08-19",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
