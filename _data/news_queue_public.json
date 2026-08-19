@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-19T19:29:46.989332+00:00",
-  "pending_count": 1203,
+  "updated_at_utc": "2026-08-19T19:53:51.086056+00:00",
+  "pending_count": 1204,
   "pending": [
     {
       "title": "Google Gemini is getting a dedicated student hub",
@@ -246,6 +246,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "score": 14,
+      "fetched_at": "2026-08-19",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
