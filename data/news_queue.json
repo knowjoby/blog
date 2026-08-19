@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "score": 49,
-      "fetched_at": "2026-08-04",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How an OpenAI influencer trip backfired",
-      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "score": 49,
-      "fetched_at": "2026-08-04",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
       "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
       "score": 49,
@@ -408,20 +382,6 @@
       "source": "The Verge",
       "companies": [
         "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "score": 42,
-      "fetched_at": "2026-08-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "nvidia"
       ],
       "topics": [],
       "company": "openai",
@@ -911,20 +871,6 @@
       "topic": "ai"
     },
     {
-      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
-      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
-      "score": 36,
-      "fetched_at": "2026-08-04",
-      "source": "Wired",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "OK, Well, Rogue AI Agents Are Hacking Again",
       "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
       "score": 36,
@@ -1158,19 +1104,6 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
-    },
-    {
-      "title": "T-Mobile\u2019s $0-down financing plan bundles taxes and fees",
-      "url": "https://www.theverge.com/tech/975115/t-mobile-financing-eip-flex-36-plan",
-      "score": 34,
-      "fetched_at": "2026-08-04",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -1973,19 +1906,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
-      "score": 30,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing OpenAI Privacy Filter",
@@ -3174,19 +3094,6 @@
       "topic": "coding"
     },
     {
-      "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "score": 28,
-      "fetched_at": "2026-08-04",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Best practices for deploying language models",
       "url": "https://openai.com/index/best-practices-for-deploying-language-models",
       "score": 28,
@@ -3366,34 +3273,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "score": 26,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "score": 26,
-      "fetched_at": "2026-08-04",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "How Balyasny Asset Management built an AI research engine",
@@ -4009,149 +3888,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-      "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-      "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "score": 24,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing the ChatGPT for small business program",
@@ -8192,20 +7928,6 @@
       "topic": ""
     },
     {
-      "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-      "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
-      "score": 19,
-      "fetched_at": "2026-08-04",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "score": 19,
@@ -8260,45 +7982,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
-      "score": 18,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "score": 18,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "score": 18,
-      "fetched_at": "2026-08-04",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -12352,19 +12035,6 @@
       "topic": "coding"
     },
     {
-      "title": "Mistral Is in the Right Place at the Right Time",
-      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
-      "score": 16,
-      "fetched_at": "2026-08-04",
-      "source": "Wired",
-      "companies": [
-        "mistral"
-      ],
-      "topics": [],
-      "company": "mistral",
-      "topic": ""
-    },
-    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -13238,6 +12908,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Block\u2019s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+      "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally",
+      "score": 14,
+      "fetched_at": "2026-08-19",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "score": 12,
@@ -13314,32 +12997,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "score": 11,
-      "fetched_at": "2026-08-04",
-      "source": "Google AI",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "AI coding agents are blowing through budgets \u2014 Replit, Kilo Code, and Symbotic explain how they're managing it",
-      "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
-      "score": 11,
-      "fetched_at": "2026-08-04",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
@@ -20172,6 +19829,12 @@
       "date": "2026-08-18",
       "posts": 3,
       "items_processed": 61330,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-19",
+      "posts": 0,
+      "items_processed": 2119,
       "estimated_tokens": 0
     }
   ]
