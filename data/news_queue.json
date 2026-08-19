@@ -130,6 +130,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia\u2019s new financial strategy does not compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "score": 49,
+      "fetched_at": "2026-08-19",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -20031,7 +20044,7 @@
     {
       "date": "2026-08-19",
       "posts": 0,
-      "items_processed": 27555,
+      "items_processed": 29675,
       "estimated_tokens": 0
     }
   ]
