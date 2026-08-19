@@ -143,6 +143,19 @@
       "topic": ""
     },
     {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "score": 49,
+      "fetched_at": "2026-08-19",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -210,6 +223,20 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "score": 48,
+      "fetched_at": "2026-08-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -7960,6 +7987,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "score": 24,
+      "fetched_at": "2026-08-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -20119,7 +20159,7 @@
     {
       "date": "2026-08-19",
       "posts": 2,
-      "items_processed": 42402,
+      "items_processed": 44524,
       "estimated_tokens": 0
     }
   ]
