@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-19T05:56:46.942151+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-19T06:57:31.206144+00:00",
+  "pending_count": 1195,
   "pending": [
     {
       "title": "Announcing the OpenAI Safety Fellowship",
@@ -128,6 +128,17 @@
     {
       "title": "New ways to learn and teach with ChatGPT Work and Codex",
       "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "score": 18,
+      "fetched_at": "2026-08-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "score": 18,
       "fetched_at": "2026-08-19",
       "source": "OpenAI",
