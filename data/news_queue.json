@@ -1449,6 +1449,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Australia says Roblox hasn\u2019t fixed its child predator problem",
+      "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "score": 33,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "url": "https://openai.com/index/patch-the-planet",
       "score": 32,
@@ -12764,6 +12777,20 @@
       "topic": ""
     },
     {
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "score": 16,
+      "fetched_at": "2026-08-20",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
       "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
       "score": 14,
@@ -20213,7 +20240,7 @@
     {
       "date": "2026-08-20",
       "posts": 2,
-      "items_processed": 38207,
+      "items_processed": 40331,
       "estimated_tokens": 0
     }
   ]

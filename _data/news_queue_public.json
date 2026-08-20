@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-20T17:34:14.281313+00:00",
-  "pending_count": 1205,
+  "updated_at_utc": "2026-08-20T18:47:14.486475+00:00",
+  "pending_count": 1207,
   "pending": [
     {
       "title": "Meta glasses are a workplace menace",
@@ -112,6 +112,17 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Australia says Roblox hasn’t fixed its child predator problem",
+      "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "score": 33,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
@@ -323,6 +334,18 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
+      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
+      "score": 16,
+      "fetched_at": "2026-08-20",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "open_source"
+      ]
     },
     {
       "title": "Ramp launches its own AI model router, called Router",
