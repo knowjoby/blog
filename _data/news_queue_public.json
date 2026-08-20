@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-20T11:31:07.816227+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-20T12:58:31.619037+00:00",
+  "pending_count": 1197,
   "pending": [
+    {
+      "title": "Meta glasses are a workplace menace",
+      "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "score": 49,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -14,6 +25,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "score": 42,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -101,6 +123,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta AI’s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "score": 24,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

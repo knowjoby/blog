@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-08-19 01:00:56 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2117,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-        "file": "_posts/2026-08-18-openai-lays-out-new-security-changes-after-its-ai-hacked-hugging-face.md",
-        "score": 65,
-        "tags": [
-          "openai",
-          "huggingface"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-19 01:59:43 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1123,6 +1091,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-20 18:28:31 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 0,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2123,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
       }
     },
     "posts": []
