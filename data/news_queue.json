@@ -410,6 +410,19 @@
       "topic": ""
     },
     {
+      "title": "Welcome to the AI crisis in math",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "score": 43,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -20096,7 +20109,7 @@
     {
       "date": "2026-08-20",
       "posts": 0,
-      "items_processed": 29713,
+      "items_processed": 31836,
       "estimated_tokens": 0
     }
   ]

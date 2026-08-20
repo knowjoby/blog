@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-20T13:52:36.996694+00:00",
-  "pending_count": 1198,
+  "updated_at_utc": "2026-08-20T14:40:54.228733+00:00",
+  "pending_count": 1199,
   "pending": [
     {
       "title": "Meta glasses are a workplace menace",
@@ -26,6 +26,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Welcome to the AI crisis in math",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "score": 43,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Slack is launching collaborative vibe-coding channels",
