@@ -423,6 +423,19 @@
       "topic": ""
     },
     {
+      "title": "This app makes the Pixel 11\u2019s HiLight feature actually useful",
+      "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "score": 43,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -7944,6 +7957,32 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "score": 24,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "score": 24,
+      "fetched_at": "2026-08-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -19106,6 +19145,32 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Debates over AI consciousness are a trap",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "score": 68,
+      "file": "_posts/2026-08-20-debates-over-ai-consciousness-are-a-trap.md",
+      "posted_at": "2026-08-20",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "score": 55,
+      "file": "_posts/2026-08-20-its-greg-brockmans-openai-now.md",
+      "posted_at": "2026-08-20",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20108,8 +20173,8 @@
     },
     {
       "date": "2026-08-20",
-      "posts": 0,
-      "items_processed": 33959,
+      "posts": 2,
+      "items_processed": 36083,
       "estimated_tokens": 0
     }
   ]
