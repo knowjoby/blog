@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-20T18:47:14.486475+00:00",
-  "pending_count": 1207,
+  "updated_at_utc": "2026-08-20T19:35:18.016947+00:00",
+  "pending_count": 1208,
   "pending": [
     {
       "title": "Meta glasses are a workplace menace",
@@ -26,6 +26,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Mark Zuckerberg bought an Irish castle",
+      "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
+      "score": 43,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "This app makes the Pixel 11’s HiLight feature actually useful",
