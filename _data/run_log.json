@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-08-18 18:25:21 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2114,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Google’s Pet Memory forgot who my cats are",
-        "file": "_posts/2026-08-18-googles-pet-memory-forgot-who-my-cats-are.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-18 19:16:52 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1116,6 +1085,28 @@
   },
   {
     "ran_at": "2026-08-20 11:27:24 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2122,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-20 12:28:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
