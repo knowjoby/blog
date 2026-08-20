@@ -1998,6 +1998,19 @@
       "topic": "ai"
     },
     {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "score": 31,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "score": 30,
@@ -12322,6 +12335,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "score": 18,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
       "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
       "score": 17,
@@ -20281,7 +20307,7 @@
     {
       "date": "2026-08-20",
       "posts": 2,
-      "items_processed": 46705,
+      "items_processed": 48830,
       "estimated_tokens": 0
     }
   ]

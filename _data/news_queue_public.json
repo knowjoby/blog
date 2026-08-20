@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-20T21:32:36.633850+00:00",
-  "pending_count": 1210,
+  "updated_at_utc": "2026-08-20T22:32:18.700873+00:00",
+  "pending_count": 1212,
   "pending": [
     {
       "title": "Meta glasses are a workplace menace",
@@ -173,6 +173,17 @@
       ]
     },
     {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "score": 31,
+      "fetched_at": "2026-08-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "Introducing OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
       "score": 30,
@@ -279,6 +290,17 @@
       "source": "TechCrunch",
       "companies": [
         "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "score": 18,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
