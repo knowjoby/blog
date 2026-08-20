@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-19 09:38:30 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2119,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-19 10:33:13 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1136,5 +1114,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-21 05:00:32 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2125,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "file": "_posts/2026-08-20-openai-is-gaining-on-anthropic-with-business-users-new-data-indicates.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
