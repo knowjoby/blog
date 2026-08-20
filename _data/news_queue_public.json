@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-20T16:39:39.369921+00:00",
-  "pending_count": 1202,
+  "updated_at_utc": "2026-08-20T17:34:14.281313+00:00",
+  "pending_count": 1205,
   "pending": [
     {
       "title": "Meta glasses are a workplace menace",
@@ -171,6 +171,17 @@
       "topics": []
     },
     {
+      "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "score": 24,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How ChatGPT Work helps Stampli move ideas to market",
       "url": "https://openai.com/index/stampli",
       "score": 24,
@@ -211,6 +222,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "score": 18,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
@@ -301,6 +323,17 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "score": 12,
+      "fetched_at": "2026-08-20",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
