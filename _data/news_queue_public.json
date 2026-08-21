@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-21T19:29:06.219432+00:00",
-  "pending_count": 1214,
+  "updated_at_utc": "2026-08-21T19:51:04.278828+00:00",
+  "pending_count": 1215,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -110,6 +110,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "score": 24,
+      "fetched_at": "2026-08-21",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
