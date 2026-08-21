@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-21T14:40:14.270024+00:00",
-  "pending_count": 1212,
+  "updated_at_utc": "2026-08-21T15:38:03.964289+00:00",
+  "pending_count": 1213,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -88,6 +88,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta’s Big Reckoning Is Here",
+      "url": "https://www.wired.com/story/metas-big-reckoning-is-here/",
+      "score": 24,
+      "fetched_at": "2026-08-21",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Helping developers build safer AI experiences for teens",
