@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-21T11:34:01.079768+00:00",
-  "pending_count": 1211,
+  "updated_at_utc": "2026-08-21T12:57:12.665312+00:00",
+  "pending_count": 1212,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -130,6 +130,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "score": 24,
+      "fetched_at": "2026-08-21",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
