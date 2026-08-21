@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-21T15:38:03.964289+00:00",
-  "pending_count": 1213,
+  "updated_at_utc": "2026-08-21T16:39:42.949320+00:00",
+  "pending_count": 1214,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -27,6 +27,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "score": 32,
+      "fetched_at": "2026-08-21",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Powering product discovery in ChatGPT",

@@ -1972,6 +1972,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
+      "score": 32,
+      "fetched_at": "2026-08-21",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "nvidia",
+      "topic": "agentic"
+    },
+    {
       "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "score": 31,
@@ -20338,7 +20353,7 @@
     {
       "date": "2026-08-21",
       "posts": 0,
-      "items_processed": 34003,
+      "items_processed": 36129,
       "estimated_tokens": 0
     }
   ]
