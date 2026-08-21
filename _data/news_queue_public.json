@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-21T22:29:48.074814+00:00",
-  "pending_count": 1215,
+  "updated_at_utc": "2026-08-21T22:54:35.005757+00:00",
+  "pending_count": 1216,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -110,6 +110,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "score": 24,
+      "fetched_at": "2026-08-21",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
