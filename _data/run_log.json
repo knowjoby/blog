@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-21 10:35:30 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2125,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-21 11:29:15 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1098,5 +1076,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-23 00:56:08 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2126,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "file": "_posts/2026-08-22-inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperfo.md",
+        "score": 80,
+        "tags": [
+          "openai",
+          "anthropic",
+          "google",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
