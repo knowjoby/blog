@@ -1,47 +1,5 @@
 [
   {
-    "ran_at": "2026-08-20 22:09:39 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 2,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2124,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Debates over AI consciousness are a trap",
-        "file": "_posts/2026-08-20-debates-over-ai-consciousness-are-a-trap.md",
-        "score": 68,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google",
-          "regulation"
-        ]
-      },
-      {
-        "title": "It’s Greg Brockman’s OpenAI now",
-        "file": "_posts/2026-08-20-its-greg-brockmans-openai-now.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-20 23:04:14 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1109,6 +1067,28 @@
   },
   {
     "ran_at": "2026-08-22 17:17:53 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2126,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-08-22 18:19:09 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
