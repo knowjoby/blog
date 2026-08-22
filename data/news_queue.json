@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta ordered to pay an additional $567 million in public nuisance ruling",
-      "url": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
-      "score": 49,
-      "fetched_at": "2026-08-07",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Threads has a VR app now",
       "url": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
       "score": 49,
@@ -313,22 +300,6 @@
         "agentic"
       ],
       "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
-      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
-      "score": 43,
-      "fetched_at": "2026-08-07",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "anthropic",
       "topic": "agentic"
     },
     {
@@ -770,21 +741,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Introducing the OpenAI Safety Bug Bounty program",
-      "url": "https://openai.com/index/safety-bug-bounty",
-      "score": 38,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
     },
     {
       "title": "Introducing OpenAI Presence",
@@ -1356,21 +1312,6 @@
       "topic": ""
     },
     {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "score": 33,
-      "fetched_at": "2026-08-07",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "ICE wants to give agents electrified gloves that shock people into compliance",
       "url": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
       "score": 33,
@@ -1460,21 +1401,6 @@
       ],
       "company": "",
       "topic": "regulation"
-    },
-    {
-      "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill",
-      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
-      "score": 32,
-      "fetched_at": "2026-08-07",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
     },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -2011,19 +1937,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange",
-      "score": 30,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -3122,21 +3035,6 @@
       "topic": ""
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "score": 29,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3391,21 +3289,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Stanford is running 37,000 AI agents as a virtual biotech \u2014 and one of its drug designs got independently confirmed by Merck",
-      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
-      "score": 26,
-      "fetched_at": "2026-08-07",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
     },
     {
       "title": "ChatGPT is now a partner for your most ambitious work",
@@ -4021,162 +3904,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Launching Health in ChatGPT",
-      "url": "https://openai.com/index/health-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Codex became a collaborator for OpenAI\u2019s creative team",
-      "url": "https://openai.com/index/codex-collaborator-creative-team",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
-      "url": "https://www.wired.com/gallery/best-smart-glasses/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s expensive smart speaker will use moving parts to seem \u201cmore alive\u201d",
-      "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "score": 24,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Applications of AI at OpenAI",
@@ -8174,34 +7901,6 @@
       "topic": ""
     },
     {
-      "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
-      "score": 21,
-      "fetched_at": "2026-08-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "huggingface",
-      "topic": "multimodal"
-    },
-    {
-      "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "score": 20,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face",
       "url": "https://huggingface.co/blog/mixtral",
       "score": 20,
@@ -8241,20 +7940,6 @@
       "topics": [],
       "company": "openai",
       "topic": ""
-    },
-    {
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "score": 19,
-      "fetched_at": "2026-08-07",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
@@ -8297,175 +7982,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "url": "https://openai.com/index/ntt-data",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping K\u201312 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Inside our approach to the Model Spec",
-      "url": "https://openai.com/index/our-approach-to-the-model-spec",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "SpaceX\u2019s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "score": 18,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
     },
     {
       "title": "How data science teams use ChatGPT Work",
@@ -12454,33 +11970,6 @@
       "topic": "coding"
     },
     {
-      "title": "DeepSeek-V4: a million-token context that agents can actually use",
-      "url": "https://huggingface.co/blog/deepseekv4",
-      "score": 16,
-      "fetched_at": "2026-08-07",
-      "source": "Hugging Face",
-      "companies": [
-        "deepseek"
-      ],
-      "topics": [],
-      "company": "deepseek",
-      "topic": ""
-    },
-    {
-      "title": "Tencent's Team Memory shares AI agent memory across a team \u2014 with no governance yet for when it's wrong",
-      "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong",
-      "score": 16,
-      "fetched_at": "2026-08-07",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "regulation"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Introducing Storage Buckets on the Hugging Face Hub",
       "url": "https://huggingface.co/blog/storage-buckets",
       "score": 16,
@@ -12897,45 +12386,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "score": 14,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
-      "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
-      "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi",
-      "score": 14,
-      "fetched_at": "2026-08-07",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Scientists Used AI to Create 16 New Viruses",
-      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "score": 14,
-      "fetched_at": "2026-08-07",
-      "source": "Wired",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
     },
     {
       "title": "Introducing the Codex app",
@@ -13365,19 +12815,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "score": 12,
-      "fetched_at": "2026-08-07",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -14002,45 +13439,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "score": 10,
-      "fetched_at": "2026-08-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "score": 10,
-      "fetched_at": "2026-08-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "How to Use Transformers.js in a Chrome Extension",
-      "url": "https://huggingface.co/blog/transformersjs-chrome-extension",
-      "score": 10,
-      "fetched_at": "2026-08-07",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Deep double descent",
@@ -20393,6 +19791,12 @@
       "date": "2026-08-21",
       "posts": 0,
       "items_processed": 59515,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-22",
+      "posts": 0,
+      "items_processed": 2126,
       "estimated_tokens": 0
     }
   ]
