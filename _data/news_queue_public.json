@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-24T09:53:30.110412+00:00",
-  "pending_count": 1192,
+  "updated_at_utc": "2026-08-24T10:41:07.917840+00:00",
+  "pending_count": 1193,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -802,6 +802,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Forget Meta Ray-Bans. These Dorky-Looking Virtual Display Glasses Are Way More Useful",
+      "url": "https://www.wired.com/story/all-work-and-some-play-in-a-virtual-display/",
+      "score": 30,
+      "fetched_at": "2026-08-24",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and SoftBank Group partner with SB Energy",
