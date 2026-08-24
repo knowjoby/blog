@@ -1389,6 +1389,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Humanoid robots smash Usain Bolt\u2019s 100-meter record",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "score": 33,
+      "fetched_at": "2026-08-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "score": 32,
@@ -7856,6 +7869,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Kids outlearn AI\u2014and we still don\u2019t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "score": 24,
+      "fetched_at": "2026-08-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -20059,7 +20085,7 @@
     {
       "date": "2026-08-24",
       "posts": 0,
-      "items_processed": 17008,
+      "items_processed": 19134,
       "estimated_tokens": 0
     }
   ]

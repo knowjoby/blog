@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-24T08:53:55.139816+00:00",
-  "pending_count": 1190,
+  "updated_at_utc": "2026-08-24T09:53:30.110412+00:00",
+  "pending_count": 1192,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -518,6 +518,17 @@
         "mistral"
       ],
       "topics": []
+    },
+    {
+      "title": "Humanoid robots smash Usain Bolt’s 100-meter record",
+      "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "score": 33,
+      "fetched_at": "2026-08-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Introducing Triton: Open-source GPU programming for neural networks",
@@ -1904,6 +1915,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "score": 24,
+      "fetched_at": "2026-08-24",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI o1 Contributions",
