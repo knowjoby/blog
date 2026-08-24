@@ -675,6 +675,20 @@
       "topic": ""
     },
     {
+      "title": "Alabama launches investigation into OpenAI\u2019s hack of Hugging Face",
+      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "score": 40,
+      "fetched_at": "2026-08-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Honor\u2019s Robot Phone is better than a gimbal in a phone has any right to be",
       "url": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
       "score": 39,
@@ -20178,7 +20192,7 @@
     {
       "date": "2026-08-24",
       "posts": 0,
-      "items_processed": 40395,
+      "items_processed": 42522,
       "estimated_tokens": 0
     }
   ]
