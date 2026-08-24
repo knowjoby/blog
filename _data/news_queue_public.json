@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-24T12:59:37.970232+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-24T13:56:59.403914+00:00",
+  "pending_count": 1195,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -539,6 +539,19 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "score": 32,
+      "fetched_at": "2026-08-24",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
