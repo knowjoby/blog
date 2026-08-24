@@ -7926,6 +7926,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "score": 24,
+      "fetched_at": "2026-08-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 \u2014 and lock in customers now.",
       "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
       "score": 22,
@@ -13716,6 +13729,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "score": 11,
+      "fetched_at": "2026-08-24",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
@@ -20139,7 +20165,7 @@
     {
       "date": "2026-08-24",
       "posts": 0,
-      "items_processed": 29764,
+      "items_processed": 31890,
       "estimated_tokens": 0
     }
   ]
