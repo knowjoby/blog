@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-24T18:48:20.272858+00:00",
-  "pending_count": 1198,
+  "updated_at_utc": "2026-08-24T19:33:30.974726+00:00",
+  "pending_count": 1199,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -3961,6 +3961,17 @@
       "source": "Hugging Face",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "score": 24,
+      "fetched_at": "2026-08-24",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },

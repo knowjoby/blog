@@ -7939,6 +7939,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "score": 24,
+      "fetched_at": "2026-08-24",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 \u2014 and lock in customers now.",
       "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
       "score": 22,
@@ -20165,7 +20178,7 @@
     {
       "date": "2026-08-24",
       "posts": 0,
-      "items_processed": 38268,
+      "items_processed": 40395,
       "estimated_tokens": 0
     }
   ]
