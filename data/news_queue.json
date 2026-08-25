@@ -13142,6 +13142,19 @@
       "topic": "agentic"
     },
     {
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "score": 14,
+      "fetched_at": "2026-08-25",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ],
+      "company": "",
+      "topic": "open_source"
+    },
+    {
       "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
       "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
       "score": 12,
@@ -20257,7 +20270,7 @@
     {
       "date": "2026-08-25",
       "posts": 3,
-      "items_processed": 44741,
+      "items_processed": 46876,
       "estimated_tokens": 0
     }
   ]
