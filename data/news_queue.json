@@ -7922,6 +7922,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "score": 24,
+      "fetched_at": "2026-08-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 \u2014 and lock in customers now.",
       "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
       "score": 22,
@@ -12128,6 +12141,19 @@
     {
       "title": "Choco automates food distribution with AI agents",
       "url": "https://openai.com/index/choco",
+      "score": 18,
+      "fetched_at": "2026-08-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Jalape\u00f1o\u2019s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
       "score": 18,
       "fetched_at": "2026-08-25",
       "source": "OpenAI",
@@ -19094,6 +19120,32 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "score": 67,
+      "file": "_posts/2026-08-25-openai-says-its-jalape\u00f1o-chip-can-power-faster-ai-responses-than-the-c.md",
+      "posted_at": "2026-08-25",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "score": 54,
+      "file": "_posts/2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-lo.md",
+      "posted_at": "2026-08-25",
+      "companies": [
+        "nvidia",
+        "perplexity"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -20126,8 +20178,8 @@
     },
     {
       "date": "2026-08-25",
-      "posts": 1,
-      "items_processed": 29802,
+      "posts": 3,
+      "items_processed": 31934,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-25T13:55:32.948917+00:00",
-  "pending_count": 1194,
+  "updated_at_utc": "2026-08-25T14:52:03.938193+00:00",
+  "pending_count": 1196,
   "pending": [
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
@@ -67,6 +67,17 @@
     {
       "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
       "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "score": 24,
+      "fetched_at": "2026-08-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
       "score": 24,
       "fetched_at": "2026-08-25",
       "source": "TechCrunch",
@@ -177,6 +188,17 @@
     {
       "title": "Premium seats are coming to ChatGPT Business",
       "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "score": 18,
+      "fetched_at": "2026-08-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
       "score": 18,
       "fetched_at": "2026-08-25",
       "source": "OpenAI",

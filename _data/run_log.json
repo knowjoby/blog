@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-23 23:18:09 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2126,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-24 00:06:12 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1108,5 +1086,47 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-25 20:22:03 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 2,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2132,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "file": "_posts/2026-08-25-openai-says-its-jalapeño-chip-can-power-faster-ai-responses-than-the-c.md",
+        "score": 67,
+        "tags": [
+          "openai",
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
+        "file": "_posts/2026-08-25-perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-lo.md",
+        "score": 54,
+        "tags": [
+          "nvidia",
+          "perplexity",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
