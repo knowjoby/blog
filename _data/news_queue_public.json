@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-25T15:48:48.011190+00:00",
-  "pending_count": 1197,
+  "updated_at_utc": "2026-08-25T16:42:21.680141+00:00",
+  "pending_count": 1198,
   "pending": [
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
@@ -138,6 +138,17 @@
       "source": "Hugging Face",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
+      "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+      "score": 24,
+      "fetched_at": "2026-08-25",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
