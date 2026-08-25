@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-25T11:00:16.248173+00:00",
-  "pending_count": 1192,
+  "updated_at_utc": "2026-08-25T11:55:29.775792+00:00",
+  "pending_count": 1193,
   "pending": [
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
@@ -228,6 +228,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "score": 10,
+      "fetched_at": "2026-08-25",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",

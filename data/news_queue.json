@@ -15818,6 +15818,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "score": 10,
+      "fetched_at": "2026-08-25",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -20101,7 +20114,7 @@
     {
       "date": "2026-08-25",
       "posts": 1,
-      "items_processed": 23409,
+      "items_processed": 25540,
       "estimated_tokens": 0
     }
   ]
