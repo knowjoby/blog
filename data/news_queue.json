@@ -7961,6 +7961,19 @@
       "topic": ""
     },
     {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "score": 24,
+      "fetched_at": "2026-08-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 \u2014 and lock in customers now.",
       "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now",
       "score": 22,
@@ -12201,6 +12214,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "score": 18,
+      "fetched_at": "2026-08-25",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -20218,7 +20244,7 @@
     {
       "date": "2026-08-25",
       "posts": 3,
-      "items_processed": 38336,
+      "items_processed": 40471,
       "estimated_tokens": 0
     }
   ]
