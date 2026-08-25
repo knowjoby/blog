@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-25T08:39:31.123588+00:00",
-  "pending_count": 1191,
+  "updated_at_utc": "2026-08-25T09:08:46.170769+00:00",
+  "pending_count": 1192,
   "pending": [
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
@@ -94,6 +94,17 @@
       "source": "OpenAI",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "score": 24,
+      "fetched_at": "2026-08-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
