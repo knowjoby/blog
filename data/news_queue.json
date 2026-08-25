@@ -19056,6 +19056,18 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "score": 59,
+      "file": "_posts/2026-08-25-openai-subpoenaed-by-alabama-ag-over-hugging-face-hack.md",
+      "posted_at": "2026-08-25",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20088,8 +20100,8 @@
     },
     {
       "date": "2026-08-25",
-      "posts": 0,
-      "items_processed": 19151,
+      "posts": 1,
+      "items_processed": 21280,
       "estimated_tokens": 0
     }
   ]
