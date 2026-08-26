@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-24 21:14:08 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2126,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-24 22:13:24 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1128,5 +1106,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-08-26 23:47:35 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2139,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+        "file": "_posts/2026-08-26-googles-new-ai-transcription-edits-out-your-ums-and-ahs.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]

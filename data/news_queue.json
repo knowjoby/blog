@@ -7867,6 +7867,19 @@
       "topic": ""
     },
     {
+      "title": "Meta agrees to sweeping changes to restrict kids\u2019 access to its apps as part of settlement with states",
+      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "score": 24,
+      "fetched_at": "2026-08-26",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -12086,6 +12099,32 @@
     {
       "title": "How loveholidays is making everyone a builder with Codex",
       "url": "https://openai.com/index/loveholidays",
+      "score": 18,
+      "fetched_at": "2026-08-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "score": 18,
+      "fetched_at": "2026-08-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "score": 18,
       "fetched_at": "2026-08-26",
       "source": "OpenAI",
@@ -19091,6 +19130,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Google\u2019s new AI transcription edits out your \u2018ums\u2019 and \u2018ahs\u2019",
+      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "score": 55,
+      "file": "_posts/2026-08-26-googles-new-ai-transcription-edits-out-your-ums-and-ahs.md",
+      "posted_at": "2026-08-26",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20129,8 +20179,8 @@
     },
     {
       "date": "2026-08-26",
-      "posts": 0,
-      "items_processed": 32033,
+      "posts": 1,
+      "items_processed": 34172,
       "estimated_tokens": 0
     }
   ]
