@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-27T18:51:11.951511+00:00",
-  "pending_count": 1212,
+  "updated_at_utc": "2026-08-27T21:06:25.246817+00:00",
+  "pending_count": 1216,
   "pending": [
+    {
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "score": 49,
+      "fetched_at": "2026-08-27",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
       "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
@@ -94,6 +105,18 @@
       "source": "Ars Technica",
       "companies": [
         "openai",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "score": 34,
+      "fetched_at": "2026-08-27",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia",
         "huggingface"
       ],
       "topics": []
@@ -224,6 +247,28 @@
     {
       "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
       "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "score": 24,
+      "fetched_at": "2026-08-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
+      "url": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
+      "score": 24,
+      "fetched_at": "2026-08-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
       "score": 24,
       "fetched_at": "2026-08-27",
       "source": "TechCrunch",
