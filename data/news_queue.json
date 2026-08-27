@@ -127,6 +127,47 @@
       "topic": ""
     },
     {
+      "title": "If Meta\u2019s going down, it\u2019s taking TikTok and YouTube with it",
+      "url": "https://www.theverge.com/policy/985556/meta-settlement-youtube-tiktok-snap",
+      "score": 49,
+      "fetched_at": "2026-08-27",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s executive exodus has one big winner",
+      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "score": 49,
+      "fetched_at": "2026-08-27",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Hugging Face\u2019s new robot is an adorable rollerskating duck",
+      "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "score": 49,
+      "fetched_at": "2026-08-27",
+      "source": "The Verge",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
       "title": "Google packs Search and Gemini with new AI study tools",
       "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
       "score": 48,
@@ -239,6 +280,20 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "score": 48,
+      "fetched_at": "2026-08-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
@@ -462,6 +517,22 @@
       "topics": [],
       "company": "meta",
       "topic": ""
+    },
+    {
+      "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "score": 42,
+      "fetched_at": "2026-08-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
@@ -1284,6 +1355,20 @@
       "topic": ""
     },
     {
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "score": 34,
+      "fetched_at": "2026-08-27",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "I finally found a robot lawnmower I\u2019d trust with my yard",
       "url": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
       "score": 33,
@@ -1941,6 +2026,52 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "score": 32,
+      "fetched_at": "2026-08-27",
+      "source": "TechCrunch",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics",
+        "open_source"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
+      "title": "Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others",
+      "url": "https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/",
+      "score": 32,
+      "fetched_at": "2026-08-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "openai",
+      "topic": "open_source"
+    },
+    {
+      "title": "OpenAI Is Developing a \u2018Persistent\u2019 AI Agent",
+      "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+      "score": 32,
+      "fetched_at": "2026-08-27",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
@@ -7976,6 +8107,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "score": 24,
+      "fetched_at": "2026-08-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+      "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "score": 24,
+      "fetched_at": "2026-08-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -12219,6 +12376,32 @@
       "topic": ""
     },
     {
+      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+      "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+      "score": 18,
+      "fetched_at": "2026-08-27",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "score": 18,
+      "fetched_at": "2026-08-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
       "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
       "score": 17,
@@ -12702,6 +12885,20 @@
       "topic": ""
     },
     {
+      "title": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "score": 16,
+      "fetched_at": "2026-08-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "regulation"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Why Capital One built its multi-agent AI platform around open-weight models",
       "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models",
       "score": 14,
@@ -13090,6 +13287,19 @@
       ],
       "company": "",
       "topic": "open_source"
+    },
+    {
+      "title": "Visa ships a security AI that patches production code before any human reviews it",
+      "url": "https://venturebeat.com/security/visa-agentic-security-harness-autonomous-fix",
+      "score": 14,
+      "fetched_at": "2026-08-27",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Ramp launches its own AI model router, called Router",
@@ -19184,6 +19394,30 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "score": 55,
+      "file": "_posts/2026-08-27-jensen-huang-says-nvidia-achieved-agi-again-not-that-it-matters.md",
+      "posted_at": "2026-08-27",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+      "score": 54,
+      "file": "_posts/2026-08-27-heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies.md",
+      "posted_at": "2026-08-27",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20228,8 +20462,8 @@
     },
     {
       "date": "2026-08-27",
-      "posts": 1,
-      "items_processed": 4283,
+      "posts": 3,
+      "items_processed": 6426,
       "estimated_tokens": 0
     }
   ]
