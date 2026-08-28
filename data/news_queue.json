@@ -8168,6 +8168,19 @@
       "topic": ""
     },
     {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "score": 24,
+      "fetched_at": "2026-08-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -20479,7 +20492,7 @@
     {
       "date": "2026-08-28",
       "posts": 1,
-      "items_processed": 4287,
+      "items_processed": 6431,
       "estimated_tokens": 0
     }
   ]
