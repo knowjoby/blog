@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "You can now turn off Google Gemini\u2019s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "score": 49,
-      "fetched_at": "2026-08-14",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
       "title": "ChatGPT is getting a dedicated mode for teens",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
       "score": 49,
@@ -812,22 +799,6 @@
       "topic": ""
     },
     {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -1408,19 +1379,6 @@
       "topic": ""
     },
     {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "score": 33,
-      "fetched_at": "2026-08-14",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "score": 33,
@@ -1497,36 +1455,6 @@
       ],
       "company": "",
       "topic": "open_source"
-    },
-    {
-      "title": "The Safety Reckoning Inside OpenAI",
-      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-      "score": 32,
-      "fetched_at": "2026-08-14",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
     },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
@@ -2094,19 +2022,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "score": 30,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -3358,36 +3273,6 @@
       "topic": "robotics"
     },
     {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "score": 26,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
-      "title": "GLM-5.3 is here with advanced cyber capabilities \u2014 and reportedly already found a 'serious vulnerability' in Cursor",
-      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
-      "score": 26,
-      "fetched_at": "2026-08-14",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding",
-        "open_source",
-        "china"
-      ],
-      "company": "",
-      "topic": "coding"
-    },
-    {
       "title": "Advancing responsible AI across Europe",
       "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
       "score": 26,
@@ -3926,45 +3811,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "score": 24,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "score": 24,
-      "fetched_at": "2026-08-14",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Why teens deserve access to safe AI",
@@ -8181,6 +8027,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia CEO Jensen Huang Took a Call From Donald Trump in the Middle of an All-Hands",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-took-a-call-from-donald-trump-in-the-middle-of-an-all-hands/",
+      "score": 24,
+      "fetched_at": "2026-08-29",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -8371,125 +8230,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server \u2014 then didn't tell users what they'd done",
-      "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-08-14",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
     },
     {
       "title": "Disrupting a Criminal Scam Operation",
@@ -12450,6 +12190,32 @@
       "topic": ""
     },
     {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "score": 18,
+      "fetched_at": "2026-08-29",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "score": 18,
+      "fetched_at": "2026-08-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
       "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
       "score": 17,
@@ -13920,19 +13686,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "score": 10,
-      "fetched_at": "2026-08-14",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
@@ -20493,6 +20246,12 @@
       "date": "2026-08-28",
       "posts": 1,
       "items_processed": 6431,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-08-29",
+      "posts": 0,
+      "items_processed": 2146,
       "estimated_tokens": 0
     }
   ]
