@@ -3886,6 +3886,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Software engineers' new job isn't writing code \u2014 it's designing the boundaries AI agents can't break",
+      "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+      "score": 26,
+      "fetched_at": "2026-08-31",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "New usage analytics and updated spend controls for enterprises",
       "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "score": 24,
@@ -8147,6 +8162,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "\u201cZlibrary my beloved\u201d: Anthropic staff chats extolling piracy cited in Sony suit",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "score": 24,
+      "fetched_at": "2026-08-31",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -19449,6 +19477,19 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "score": 54,
+      "file": "_posts/2026-08-31-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok.md",
+      "posted_at": "2026-08-31",
+      "companies": [
+        "openai",
+        "google",
+        "xai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20517,8 +20558,8 @@
     },
     {
       "date": "2026-08-31",
-      "posts": 1,
-      "items_processed": 8586,
+      "posts": 2,
+      "items_processed": 10732,
       "estimated_tokens": 0
     }
   ]

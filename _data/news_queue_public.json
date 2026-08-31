@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-31T18:06:34.263552+00:00",
-  "pending_count": 1213,
+  "updated_at_utc": "2026-08-31T22:59:06.170633+00:00",
+  "pending_count": 1215,
   "pending": [
     {
       "title": "Debian won’t ban AI code from its Linux distribution",
@@ -52,6 +52,19 @@
       ]
     },
     {
+      "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+      "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+      "score": 26,
+      "fetched_at": "2026-08-31",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
       "score": 24,
@@ -92,6 +105,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "score": 24,
+      "fetched_at": "2026-08-31",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
