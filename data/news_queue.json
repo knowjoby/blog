@@ -907,6 +907,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Debian won\u2019t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "score": 37,
+      "fetched_at": "2026-08-31",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "The Download: how people really use AI, and Flock\u2019s design choices",
       "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
       "score": 36,
@@ -8110,6 +8123,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "score": 24,
+      "fetched_at": "2026-08-31",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -12377,6 +12403,32 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
+    },
+    {
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "score": 18,
+      "fetched_at": "2026-08-31",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-08-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
@@ -19370,6 +19422,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "score": 60,
+      "file": "_posts/2026-08-31-chatgpt-to-face-tougher-regulation-in-the-eu.md",
+      "posted_at": "2026-08-31",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -20438,8 +20503,8 @@
     },
     {
       "date": "2026-08-31",
-      "posts": 0,
-      "items_processed": 4292,
+      "posts": 1,
+      "items_processed": 6439,
       "estimated_tokens": 0
     }
   ]

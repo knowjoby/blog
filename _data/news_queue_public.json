@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-08-31T11:29:11.237364+00:00",
-  "pending_count": 1208,
+  "updated_at_utc": "2026-08-31T15:51:24.424642+00:00",
+  "pending_count": 1212,
   "pending": [
+    {
+      "title": "Debian won’t ban AI code from its Linux distribution",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "score": 37,
+      "fetched_at": "2026-08-31",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -27,6 +38,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "score": 24,
+      "fetched_at": "2026-08-31",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -84,6 +106,17 @@
       "topics": []
     },
     {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-08-31",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
       "score": 18,
@@ -117,6 +150,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "score": 18,
+      "fetched_at": "2026-08-31",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Our views on AI policy and political advocacy",
