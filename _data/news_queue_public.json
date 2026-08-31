@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-08-31T15:51:24.424642+00:00",
-  "pending_count": 1212,
+  "updated_at_utc": "2026-08-31T18:06:34.263552+00:00",
+  "pending_count": 1213,
   "pending": [
     {
       "title": "Debian won’t ban AI code from its Linux distribution",
@@ -12,6 +12,18 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "score": 34,
+      "fetched_at": "2026-08-31",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",

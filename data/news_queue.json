@@ -1408,6 +1408,20 @@
       "topic": ""
     },
     {
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "score": 34,
+      "fetched_at": "2026-08-31",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "score": 33,
@@ -20504,7 +20518,7 @@
     {
       "date": "2026-08-31",
       "posts": 1,
-      "items_processed": 6439,
+      "items_processed": 8586,
       "estimated_tokens": 0
     }
   ]
