@@ -8165,6 +8165,19 @@
       "topic": ""
     },
     {
+      "title": "The Download: engineered microbes for crops, and OpenAI\u2019s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -19478,6 +19491,28 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "score": 55,
+      "file": "_posts/2026-09-01-nvidias-controversial-dlss-5-arrives-september-3rd-and-requires-seriou.md",
+      "posted_at": "2026-09-01",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia\u2019s DLSS 5, explained",
+      "url": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
+      "score": 55,
+      "file": "_posts/2026-09-01-nvidias-dlss-5-explained.md",
+      "posted_at": "2026-09-01",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20552,8 +20587,8 @@
     },
     {
       "date": "2026-09-01",
-      "posts": 0,
-      "items_processed": 4295,
+      "posts": 2,
+      "items_processed": 6443,
       "estimated_tokens": 0
     }
   ]

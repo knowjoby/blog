@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-01T07:35:10.297236+00:00",
-  "pending_count": 1214,
+  "updated_at_utc": "2026-09-01T13:06:35.004196+00:00",
+  "pending_count": 1215,
   "pending": [
     {
       "title": "OpenAI public policy agenda",
@@ -51,6 +51,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",

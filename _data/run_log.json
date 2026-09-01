@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 02:04:22 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2135,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 03:03:18 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1168,5 +1146,44 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-01 18:36:35 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 2,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2148,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+        "file": "_posts/2026-09-01-nvidias-controversial-dlss-5-arrives-september-3rd-and-requires-seriou.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Nvidia’s DLSS 5, explained",
+        "file": "_posts/2026-09-01-nvidias-dlss-5-explained.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]
