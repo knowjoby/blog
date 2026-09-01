@@ -1,13 +1,141 @@
 {
-  "updated_at_utc": "2026-09-01T01:46:56.861252+00:00",
-  "pending_count": 1199,
+  "updated_at_utc": "2026-09-01T07:35:10.297236+00:00",
+  "pending_count": 1214,
   "pending": [
+    {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "score": 30,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "score": 26,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "score": 26,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
     {
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "score": 24,
       "fetched_at": "2026-09-01",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
+      "url": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+      "score": 19,
+      "fetched_at": "2026-09-01",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding",
+        "open_source"
+      ]
+    },
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -23,6 +151,50 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "score": 14,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "score": 11,
+      "fetched_at": "2026-09-01",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Debian won’t ban AI code from its Linux distribution",

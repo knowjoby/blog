@@ -3035,6 +3035,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "score": 30,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -3815,6 +3828,51 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "score": 26,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "score": 26,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Anthropic\u2019s annualized revenue surges to $65B",
@@ -8042,6 +8100,71 @@
       "topic": ""
     },
     {
+      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -8232,6 +8355,20 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
+      "url": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+      "score": 19,
+      "fetched_at": "2026-09-01",
+      "source": "VentureBeat",
+      "companies": [],
+      "topics": [
+        "coding",
+        "open_source"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Data science workflows with ChatGPT Work",
@@ -12311,6 +12448,45 @@
       "topic": ""
     },
     {
+      "title": "The Defender\u2019s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
       "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
       "score": 17,
@@ -13133,6 +13309,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "score": 14,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "",
+      "topic": "reasoning"
+    },
+    {
       "title": "Ramp launches its own AI model router, called Router",
       "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "score": 12,
@@ -13722,6 +13911,19 @@
       "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
       "score": 11,
       "fetched_at": "2026-08-31",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "score": 11,
+      "fetched_at": "2026-09-01",
       "source": "Hugging Face",
       "companies": [],
       "topics": [
@@ -20351,7 +20553,7 @@
     {
       "date": "2026-09-01",
       "posts": 0,
-      "items_processed": 2147,
+      "items_processed": 4295,
       "estimated_tokens": 0
     }
   ]
