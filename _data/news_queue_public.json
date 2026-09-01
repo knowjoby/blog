@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-01T17:23:38.195144+00:00",
-  "pending_count": 1222,
+  "updated_at_utc": "2026-09-01T20:05:13.344705+00:00",
+  "pending_count": 1228,
   "pending": [
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-09-01",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "John Deere launched an AI chatbot for farmers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
@@ -25,6 +36,41 @@
       ]
     },
     {
+      "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
+      "url": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
+      "score": 32,
+      "fetched_at": "2026-09-01",
+      "source": "VentureBeat",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "score": 30,
+      "fetched_at": "2026-09-01",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "score": 30,
+      "fetched_at": "2026-09-01",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
       "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
       "score": 30,
@@ -36,6 +82,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "score": 30,
+      "fetched_at": "2026-09-01",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI public policy agenda",
@@ -212,6 +269,17 @@
     {
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "url": "https://openai.com/index/polimill",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "score": 18,
       "fetched_at": "2026-09-01",
       "source": "OpenAI",
