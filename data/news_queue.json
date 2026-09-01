@@ -920,6 +920,19 @@
       "topic": "ai"
     },
     {
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "score": 37,
+      "fetched_at": "2026-09-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "The Download: how people really use AI, and Flock\u2019s design choices",
       "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
       "score": 36,
@@ -1001,6 +1014,19 @@
       ],
       "company": "",
       "topic": "china"
+    },
+    {
+      "title": "GoPro has been acquired and is getting into \u2018defense, government, robotics and aerospace\u2019",
+      "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+      "score": 36,
+      "fetched_at": "2026-09-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
@@ -3046,6 +3072,21 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Your files stay put: Perplexity\u2019s hybrid AI keeps confidential data off the cloud",
+      "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
+      "score": 30,
+      "fetched_at": "2026-09-01",
+      "source": "VentureBeat",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "perplexity",
+      "topic": "agentic"
     },
     {
       "title": "Separating signal from noise in coding evaluations",
@@ -8271,6 +8312,19 @@
       "topic": ""
     },
     {
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "score": 22,
+      "fetched_at": "2026-09-01",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
       "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
       "score": 21,
@@ -12500,6 +12554,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "score": 18,
+      "fetched_at": "2026-09-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cursor launches Origin code hosting platform as GitHub outage exposes opening in AI coding race",
       "url": "https://venturebeat.com/infrastructure/cursor-launches-origin-code-hosting-platform-as-github-outage-exposes-opening-in-ai-coding-race",
       "score": 17,
@@ -13335,6 +13402,19 @@
       "topic": "reasoning"
     },
     {
+      "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+      "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+      "score": 14,
+      "fetched_at": "2026-09-01",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Ramp launches its own AI model router, called Router",
       "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "score": 12,
@@ -13430,6 +13510,19 @@
       "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
       "score": 12,
       "fetched_at": "2026-08-26",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "score": 12,
+      "fetched_at": "2026-09-01",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
@@ -19513,6 +19606,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "score": 55,
+      "file": "_posts/2026-09-01-google-pics-is-like-canva-but-with-even-more-ai.md",
+      "posted_at": "2026-09-01",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20587,8 +20691,8 @@
     },
     {
       "date": "2026-09-01",
-      "posts": 2,
-      "items_processed": 8591,
+      "posts": 3,
+      "items_processed": 10740,
       "estimated_tokens": 0
     }
   ]

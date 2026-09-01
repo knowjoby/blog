@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 04:02:21 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2135,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 04:58:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1185,5 +1163,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-01 22:53:38 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 1,
+    "queued": 7,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 2149,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Google Pics is like Canva, but with even more AI",
+        "file": "_posts/2026-09-01-google-pics-is-like-canva-but-with-even-more-ai.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]
