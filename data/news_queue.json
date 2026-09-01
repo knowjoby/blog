@@ -7,6 +7,20 @@
   },
   "pending": [
     {
+      "title": "The rise of AI \u2018civilizations\u2019 and the fall of corporate responsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "score": 53,
+      "fetched_at": "2026-09-01",
+      "source": "The Verge",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "ChatGPT is getting a dedicated mode for teens",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
       "score": 49,
@@ -1524,6 +1538,19 @@
       ],
       "company": "",
       "topic": "open_source"
+    },
+    {
+      "title": "Apple Maps follows Google in renaming Lake Ontario",
+      "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "score": 33,
+      "fetched_at": "2026-09-01",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -8283,6 +8310,58 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Open AI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s Android update tackles motion sickness, accessibility, and more",
+      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "score": 24,
+      "fetched_at": "2026-09-01",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -19697,6 +19776,31 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it\u2019s up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "score": 66,
+      "file": "_posts/2026-09-01-anthropic-launches-claude-fable-51-and-says-its-up-to-45-percent-cheap.md",
+      "posted_at": "2026-09-01",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI delayed its new model\u2019s development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "score": 65,
+      "file": "_posts/2026-09-01-openai-delayed-its-new-models-development-after-the-hugging-face-hack.md",
+      "posted_at": "2026-09-01",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20771,8 +20875,8 @@
     },
     {
       "date": "2026-09-01",
-      "posts": 3,
-      "items_processed": 12891,
+      "posts": 5,
+      "items_processed": 15044,
       "estimated_tokens": 0
     }
   ]

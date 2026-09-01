@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 05:22:48 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2135,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 07:11:18 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1194,5 +1172,46 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-02 04:15:08 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 2,
+    "queued": 6,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 2153,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+        "file": "_posts/2026-09-01-anthropic-launches-claude-fable-51-and-says-its-up-to-45-percent-cheap.md",
+        "score": 66,
+        "tags": [
+          "anthropic",
+          "agentic"
+        ]
+      },
+      {
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "file": "_posts/2026-09-01-openai-delayed-its-new-models-development-after-the-hugging-face-hack.md",
+        "score": 65,
+        "tags": [
+          "openai",
+          "huggingface"
+        ]
+      }
+    ]
   }
 ]
