@@ -205,6 +205,19 @@
       "topic": ""
     },
     {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Google packs Search and Gemini with new AI study tools",
       "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
       "score": 48,
@@ -3966,6 +3979,21 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "score": 26,
+      "fetched_at": "2026-09-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "openai",
+      "topic": "robotics"
     },
     {
       "title": "Third-party cyber evaluations involving OpenAI models",
@@ -8276,6 +8304,32 @@
       "score": 24,
       "fetched_at": "2026-09-02",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "score": 24,
+      "fetched_at": "2026-09-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "score": 24,
+      "fetched_at": "2026-09-02",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
@@ -12655,6 +12709,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+      "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
+      "score": 18,
+      "fetched_at": "2026-09-02",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -19694,6 +19761,28 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI\u2019s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "score": 55,
+      "file": "_posts/2026-09-02-researchers-fear-safety-disaster-ahead-of-openais-astra-release.md",
+      "posted_at": "2026-09-02",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "score": 55,
+      "file": "_posts/2026-09-02-google-is-sending-mrbeast-into-the-wilderness-armed-with-ai.md",
+      "posted_at": "2026-09-02",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20774,8 +20863,8 @@
     },
     {
       "date": "2026-09-02",
-      "posts": 0,
-      "items_processed": 10770,
+      "posts": 2,
+      "items_processed": 12925,
       "estimated_tokens": 0
     }
   ]

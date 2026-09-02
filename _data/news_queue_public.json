@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-02T15:03:12.052222+00:00",
-  "pending_count": 1226,
+  "updated_at_utc": "2026-09-02T18:53:00.579809+00:00",
+  "pending_count": 1231,
   "pending": [
+    {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
       "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
@@ -85,6 +96,41 @@
       "topics": []
     },
     {
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "score": 26,
+      "fetched_at": "2026-09-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "score": 24,
+      "fetched_at": "2026-09-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "score": 24,
+      "fetched_at": "2026-09-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
       "url": "https://openai.com/index/openai-pwc-finance-collaboration",
       "score": 24,
@@ -147,6 +193,17 @@
       "source": "TechCrunch",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+      "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
+      "score": 18,
+      "fetched_at": "2026-09-02",
+      "source": "VentureBeat",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
