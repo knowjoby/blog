@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-02T05:35:16.392136+00:00",
-  "pending_count": 1222,
+  "updated_at_utc": "2026-09-02T10:59:42.068619+00:00",
+  "pending_count": 1223,
   "pending": [
     {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
@@ -13,6 +13,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "This new Roomba seals itself to your carpet",
+      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+      "score": 39,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Strengthening democratic oversight in national security",

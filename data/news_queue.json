@@ -786,6 +786,19 @@
       "topic": ""
     },
     {
+      "title": "This new Roomba seals itself to your carpet",
+      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+      "score": 39,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -20723,7 +20736,7 @@
     {
       "date": "2026-09-02",
       "posts": 0,
-      "items_processed": 4307,
+      "items_processed": 6461,
       "estimated_tokens": 0
     }
   ]
