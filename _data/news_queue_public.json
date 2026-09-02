@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-02T18:53:00.579809+00:00",
-  "pending_count": 1231,
+  "updated_at_utc": "2026-09-02T21:39:29.977820+00:00",
+  "pending_count": 1233,
   "pending": [
     {
       "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
@@ -48,6 +48,19 @@
       ]
     },
     {
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "score": 35,
+      "fetched_at": "2026-09-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
       "title": "The robot butler dream doesn’t have legs",
       "url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
       "score": 33,
@@ -92,6 +105,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "score": 30,
+      "fetched_at": "2026-09-02",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },

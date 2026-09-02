@@ -1219,6 +1219,21 @@
       "topic": "robotics"
     },
     {
+      "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "score": 35,
+      "fetched_at": "2026-09-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "score": 34,
@@ -3164,6 +3179,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "score": 30,
+      "fetched_at": "2026-09-02",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -19783,6 +19811,19 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "score": 63,
+      "file": "_posts/2026-09-02-google-says-its-new-gemini-38-flash-model-works-harder-but-might-cost.md",
+      "posted_at": "2026-09-02",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "reasoning"
+      ]
     }
   ],
   "daily_usage": [
@@ -20863,8 +20904,8 @@
     },
     {
       "date": "2026-09-02",
-      "posts": 2,
-      "items_processed": 12925,
+      "posts": 3,
+      "items_processed": 15080,
       "estimated_tokens": 0
     }
   ]

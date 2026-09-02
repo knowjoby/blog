@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 13:40:04 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2135,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 14:10:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1227,6 +1205,38 @@
         "score": 55,
         "tags": [
           "google"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-03 03:09:29 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2155,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "file": "_posts/2026-09-02-google-says-its-new-gemini-38-flash-model-works-harder-but-might-cost.md",
+        "score": 63,
+        "tags": [
+          "google",
+          "reasoning"
         ]
       }
     ]
