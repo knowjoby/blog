@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-02T10:59:42.068619+00:00",
-  "pending_count": 1223,
+  "updated_at_utc": "2026-09-02T12:33:53.225151+00:00",
+  "pending_count": 1225,
   "pending": [
     {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
@@ -18,6 +18,17 @@
       "title": "This new Roomba seals itself to your carpet",
       "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
       "score": 39,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "The robot butler dream doesn’t have legs",
+      "url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+      "score": 33,
       "fetched_at": "2026-09-02",
       "source": "The Verge",
       "companies": [],
@@ -112,6 +123,17 @@
       "score": 24,
       "fetched_at": "2026-09-02",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "score": 20,
+      "fetched_at": "2026-09-02",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],

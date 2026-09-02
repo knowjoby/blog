@@ -1511,6 +1511,19 @@
       "topic": "regulation"
     },
     {
+      "title": "The robot butler dream doesn\u2019t have legs",
+      "url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+      "score": 33,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "score": 32,
@@ -8404,6 +8417,19 @@
       ],
       "topics": [],
       "company": "stability",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "score": 20,
+      "fetched_at": "2026-09-02",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -20736,7 +20762,7 @@
     {
       "date": "2026-09-02",
       "posts": 0,
-      "items_processed": 6461,
+      "items_processed": 8615,
       "estimated_tokens": 0
     }
   ]
