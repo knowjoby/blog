@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-02T12:33:53.225151+00:00",
-  "pending_count": 1225,
+  "updated_at_utc": "2026-09-02T15:03:12.052222+00:00",
+  "pending_count": 1226,
   "pending": [
+    {
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "score": 49,
+      "fetched_at": "2026-09-02",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
