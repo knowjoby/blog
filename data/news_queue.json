@@ -755,6 +755,19 @@
       "topic": "robotics"
     },
     {
+      "title": "These new robot lawnmowers trim your edges",
+      "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+      "score": 39,
+      "fetched_at": "2026-09-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -14131,6 +14144,32 @@
       "topic": "coding"
     },
     {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "score": 11,
+      "fetched_at": "2026-09-03",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
+      "score": 11,
+      "fetched_at": "2026-09-03",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Hugging Face Models on Foundry Managed Compute",
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "score": 10,
@@ -19769,6 +19808,18 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "score": 65,
+      "file": "_posts/2026-09-03-nvidia-is-buying-hugging-face-for-almost-13-billion.md",
+      "posted_at": "2026-09-03",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20855,8 +20906,8 @@
     },
     {
       "date": "2026-09-03",
-      "posts": 0,
-      "items_processed": 4313,
+      "posts": 1,
+      "items_processed": 6472,
       "estimated_tokens": 0
     }
   ]

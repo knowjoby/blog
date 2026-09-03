@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 16:32:42 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2136,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 17:27:10 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1240,5 +1218,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-03 18:06:53 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2159,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia is buying Hugging Face for almost $13 billion",
+        "file": "_posts/2026-09-03-nvidia-is-buying-hugging-face-for-almost-13-billion.md",
+        "score": 65,
+        "tags": [
+          "nvidia",
+          "huggingface"
+        ]
+      }
+    ]
   }
 ]
