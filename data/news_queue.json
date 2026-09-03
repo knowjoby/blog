@@ -889,6 +889,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "score": 38,
+      "fetched_at": "2026-09-03",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Debian won\u2019t ban AI code from its Linux distribution",
       "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "score": 37,
@@ -1449,6 +1464,20 @@
       "score": 34,
       "fetched_at": "2026-09-03",
       "source": "TechCrunch",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "score": 34,
+      "fetched_at": "2026-09-03",
+      "source": "Ars Technica",
       "companies": [
         "nvidia",
         "huggingface"
@@ -3191,6 +3220,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta says Muse Spark 1.3 has frontier performance \u2014 but its best results come from a model developers can\u2019t broadly use yet",
+      "url": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet",
+      "score": 30,
+      "fetched_at": "2026-09-03",
+      "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -8375,6 +8417,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -19874,6 +19929,40 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "score": 55,
+      "file": "_posts/2026-09-03-nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai.md",
+      "posted_at": "2026-09-03",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft AI\u2019s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+      "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
+      "score": 54,
+      "file": "_posts/2026-09-03-microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs.md",
+      "posted_at": "2026-09-03",
+      "companies": [
+        "openai",
+        "microsoft"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia\u2019s new RTX Spark laptops launch in October with two different configs",
+      "url": "https://www.theverge.com/news/989133/nvidia-rtx-spark-laptops-n1x-specifications",
+      "score": 51,
+      "file": "_posts/2026-09-03-nvidias-new-rtx-spark-laptops-launch-in-october-with-two-different-con.md",
+      "posted_at": "2026-09-03",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -20960,8 +21049,8 @@
     },
     {
       "date": "2026-09-03",
-      "posts": 1,
-      "items_processed": 8632,
+      "posts": 4,
+      "items_processed": 10792,
       "estimated_tokens": 0
     }
   ]

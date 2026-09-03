@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 18:37:57 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2136,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 19:42:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1250,5 +1228,53 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-03 23:13:32 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 3,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2160,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+        "file": "_posts/2026-09-03-nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+        "file": "_posts/2026-09-03-microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs.md",
+        "score": 54,
+        "tags": [
+          "openai",
+          "microsoft"
+        ]
+      },
+      {
+        "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs",
+        "file": "_posts/2026-09-03-nvidias-new-rtx-spark-laptops-launch-in-october-with-two-different-con.md",
+        "score": 51,
+        "tags": [
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]
