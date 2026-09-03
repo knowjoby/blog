@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-03T17:43:32.928347+00:00",
-  "pending_count": 1240,
+  "updated_at_utc": "2026-09-03T20:48:51.717413+00:00",
+  "pending_count": 1246,
   "pending": [
+    {
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "score": 55,
+      "fetched_at": "2026-09-03",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "These new robot lawnmowers trim your edges",
       "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
@@ -74,6 +85,19 @@
       "topics": []
     },
     {
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "score": 32,
+      "fetched_at": "2026-09-03",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
       "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
       "score": 32,
@@ -84,6 +108,19 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "score": 32,
+      "fetched_at": "2026-09-03",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -109,11 +146,33 @@
       "topics": []
     },
     {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "score": 30,
+      "fetched_at": "2026-09-03",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Announcing the OpenAI Safety Fellowship",
       "url": "https://openai.com/index/introducing-openai-safety-fellowship",
       "score": 30,
       "fetched_at": "2026-09-03",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+      "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
+      "score": 26,
+      "fetched_at": "2026-09-03",
+      "source": "VentureBeat",
       "companies": [
         "openai"
       ],
@@ -212,6 +271,17 @@
     {
       "title": "Introducing ChatGPT Futures: Class of 2026",
       "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
       "score": 24,
       "fetched_at": "2026-09-03",
       "source": "OpenAI",

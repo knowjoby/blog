@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 19:42:42 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2137,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-26 21:31:03 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1273,6 +1251,40 @@
         "score": 51,
         "tags": [
           "nvidia"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-04 02:18:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 1,
+    "queued": 6,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2164,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Four major AI models suffer rare overlapping downtime",
+        "file": "_posts/2026-09-03-four-major-ai-models-suffer-rare-overlapping-downtime.md",
+        "score": 72,
+        "tags": [
+          "openai",
+          "anthropic",
+          "google",
+          "xai"
         ]
       }
     ]
