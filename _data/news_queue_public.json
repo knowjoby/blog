@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-03T04:09:27.371356+00:00",
-  "pending_count": 1211,
+  "updated_at_utc": "2026-09-03T09:05:53.259452+00:00",
+  "pending_count": 1229,
   "pending": [
+    {
+      "title": "Anker’s new MindBase is an AI-powered brain for your smart home",
+      "url": "https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter",
+      "score": 37,
+      "fetched_at": "2026-09-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
     {
       "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
       "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
@@ -25,6 +36,195 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "score": 30,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "score": 26,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "score": 18,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "score": 18,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "score": 18,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "score": 18,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "score": 18,
+      "fetched_at": "2026-09-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "score": 11,
+      "fetched_at": "2026-09-03",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "score": 11,
+      "fetched_at": "2026-09-03",
+      "source": "Google AI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
     },
     {
       "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
