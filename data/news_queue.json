@@ -1010,6 +1010,20 @@
       "topic": "robotics"
     },
     {
+      "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "score": 36,
+      "fetched_at": "2026-09-03",
+      "source": "Wired",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -1427,6 +1441,20 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "score": 34,
+      "fetched_at": "2026-09-03",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -8337,6 +8365,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14168,6 +14209,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "score": 11,
+      "fetched_at": "2026-09-03",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -20907,7 +20961,7 @@
     {
       "date": "2026-09-03",
       "posts": 1,
-      "items_processed": 6472,
+      "items_processed": 8632,
       "estimated_tokens": 0
     }
   ]

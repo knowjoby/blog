@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-03T12:36:53.637387+00:00",
-  "pending_count": 1232,
+  "updated_at_utc": "2026-09-03T13:47:14.161765+00:00",
+  "pending_count": 1236,
   "pending": [
     {
       "title": "These new robot lawnmowers trim your edges",
@@ -23,6 +23,30 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+      "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+      "score": 36,
+      "fetched_at": "2026-09-03",
+      "source": "Wired",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "score": 34,
+      "fetched_at": "2026-09-03",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
@@ -71,6 +95,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "score": 24,
+      "fetched_at": "2026-09-03",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Uber uses OpenAI to help people earn smarter and book faster",
@@ -246,6 +281,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "score": 11,
+      "fetched_at": "2026-09-03",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
       ]
     },
     {
