@@ -192,6 +192,19 @@
       "topic": ""
     },
     {
+      "title": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "score": 49,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -20933,7 +20946,7 @@
     {
       "date": "2026-09-04",
       "posts": 2,
-      "items_processed": 4330,
+      "items_processed": 6495,
       "estimated_tokens": 0
     }
   ]

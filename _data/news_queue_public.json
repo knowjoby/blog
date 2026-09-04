@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-04T06:24:41.815801+00:00",
-  "pending_count": 1228,
+  "updated_at_utc": "2026-09-04T11:37:21.488303+00:00",
+  "pending_count": 1229,
   "pending": [
+    {
+      "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "score": 49,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
