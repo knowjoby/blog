@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-04T16:05:50.271547+00:00",
-  "pending_count": 1235,
+  "updated_at_utc": "2026-09-04T19:03:53.041606+00:00",
+  "pending_count": 1238,
   "pending": [
     {
       "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
@@ -121,6 +121,17 @@
       ]
     },
     {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "score": 31,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "Introducing OpenAI Privacy Filter",
       "url": "https://openai.com/index/introducing-openai-privacy-filter",
       "score": 30,
@@ -150,6 +161,17 @@
       "source": "TechCrunch",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "score": 24,
+      "fetched_at": "2026-09-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -194,6 +216,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "score": 24,
+      "fetched_at": "2026-09-04",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

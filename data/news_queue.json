@@ -2134,6 +2134,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "score": 31,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
       "score": 30,
@@ -8426,6 +8439,32 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "score": 24,
+      "fetched_at": "2026-09-04",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic\u2019s $2 trillion IPO puts powerful external trustees in spotlight",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+      "score": 24,
+      "fetched_at": "2026-09-04",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -19942,6 +19981,31 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "AGI is whatever you want it to be",
+      "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+      "score": 67,
+      "file": "_posts/2026-09-04-agi-is-whatever-you-want-it-to-be.md",
+      "posted_at": "2026-09-04",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "score": 57,
+      "file": "_posts/2026-09-04-microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its.md",
+      "posted_at": "2026-09-04",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -21034,8 +21098,8 @@
     },
     {
       "date": "2026-09-04",
-      "posts": 3,
-      "items_processed": 10825,
+      "posts": 5,
+      "items_processed": 12990,
       "estimated_tokens": 0
     }
   ]

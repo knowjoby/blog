@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-28 02:36:25 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 0,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2143,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-28 11:03:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1267,6 +1245,47 @@
         "score": 51,
         "tags": [
           "openai"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-05 00:33:53 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 2,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 2165,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "AGI is whatever you want it to be",
+        "file": "_posts/2026-09-04-agi-is-whatever-you-want-it-to-be.md",
+        "score": 67,
+        "tags": [
+          "openai",
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+        "file": "_posts/2026-09-04-microsoft-says-virtually-nobody-was-grabbing-nyt-articles-through-its.md",
+        "score": 57,
+        "tags": [
+          "microsoft",
+          "coding"
         ]
       }
     ]
