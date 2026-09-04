@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-08-28 23:56:31 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 22,
-    "posts_created": 1,
-    "queued": 21,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 22
-      },
-      "rss": {
-        "raw": 2144,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 22
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-        "file": "_posts/2026-08-28-meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-45-without.md",
-        "score": 50,
-        "tags": [
-          "anthropic",
-          "meta",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-29 01:23:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1270,6 +1237,19 @@
   },
   {
     "ran_at": "2026-09-05 03:12:20 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 1238,
+    "feeds": {
+      "ddg": {
+        "skipped": true
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-05 05:20:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
