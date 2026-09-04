@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-08-27 02:10:42 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 8,
-    "posts_created": 0,
-    "queued": 8,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 8
-      },
-      "rss": {
-        "raw": 2140,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 8
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-08-27 06:05:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 10,
@@ -1278,6 +1256,37 @@
           "openai",
           "anthropic",
           "xai"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-04 11:54:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 18,
+    "posts_created": 1,
+    "queued": 17,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 18
+      },
+      "rss": {
+        "raw": 2165,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 18
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+        "file": "_posts/2026-09-04-nvidia-will-officially-bring-dlss-5-to-older-gpus-but-wont-give-gamers.md",
+        "score": 51,
+        "tags": [
+          "nvidia"
         ]
       }
     ]
