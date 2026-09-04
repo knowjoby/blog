@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-08-26 23:47:35 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2139,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-        "file": "_posts/2026-08-26-googles-new-ai-transcription-edits-out-your-ums-and-ahs.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-27 02:10:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 8,
@@ -1279,5 +1248,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-04 06:42:54 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2165,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+        "file": "_posts/2026-09-04-nobody-is-saying-why-openai-and-anthropic-had-outages-today.md",
+        "score": 66,
+        "tags": [
+          "openai",
+          "anthropic",
+          "xai"
+        ]
+      }
+    ]
   }
 ]

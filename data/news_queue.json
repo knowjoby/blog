@@ -34,19 +34,6 @@
       "topic": ""
     },
     {
-      "title": "Meta glasses are a workplace menace",
-      "url": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-      "score": 49,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Meta agrees to heavy restrictions on teen users in major lawsuit settlement",
       "url": "https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement",
       "score": 49,
@@ -363,22 +350,6 @@
       "topic": ""
     },
     {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "score": 44,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Pioneering an AI clinical copilot with Penda Health",
       "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
       "score": 44,
@@ -393,45 +364,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "score": 43,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "This app makes the Pixel 11\u2019s HiLight feature actually useful",
-      "url": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
-      "score": 43,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Mark Zuckerberg bought an Irish castle",
-      "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
-      "score": 43,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "GeForce Now is getting support for the Steam Controller",
@@ -458,19 +390,6 @@
       "topics": [],
       "company": "meta",
       "topic": ""
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "score": 42,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "coding"
-      ],
-      "company": "",
-      "topic": "coding"
     },
     {
       "title": "Procgen and MineRL Competitions",
@@ -603,38 +522,6 @@
       ],
       "company": "nvidia",
       "topic": "multimodal"
-    },
-    {
-      "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-      "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-      "score": 40,
-      "fetched_at": "2026-08-20",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "score": 40,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning",
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
     },
     {
       "title": "Running Codex safely at OpenAI",
@@ -772,6 +659,19 @@
       "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
       "score": 39,
       "fetched_at": "2026-09-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "The unusually muted Tesla Cybercab launch",
+      "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "score": 39,
+      "fetched_at": "2026-09-04",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -1052,21 +952,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "score": 35,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -1230,20 +1115,6 @@
       ],
       "company": "openai",
       "topic": "reasoning"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "score": 34,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -1500,32 +1371,6 @@
       "topic": ""
     },
     {
-      "title": "I ruined my cats\u2019 toilet time with a motion-activated neon litter box sign",
-      "url": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
-      "score": 33,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "Australia says Roblox hasn\u2019t fixed its child predator problem",
-      "url": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
-      "score": 33,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Humanoid robots smash Usain Bolt\u2019s 100-meter record",
       "url": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
       "score": 33,
@@ -1576,36 +1421,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "score": 32,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "score": 32,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
     },
     {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -2192,32 +2007,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "score": 31,
-      "fetched_at": "2026-08-20",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "score": 30,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Update on the OpenAI Foundation",
@@ -3521,6 +3310,19 @@
       "topic": ""
     },
     {
+      "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "url": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "score": 28,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition \ud83e\udd16",
       "url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
       "score": 27,
@@ -4126,97 +3928,6 @@
       "score": 26,
       "fetched_at": "2026-09-03",
       "source": "VentureBeat",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A third of webpages published since ChatGPT\u2019s launch show signs of AI authorship, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "score": 24,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -8747,149 +8458,6 @@
       "topic": "coding"
     },
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Making ChatGPT better for clinicians",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "Ars Technica",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Mark buys a castle",
-      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "score": 18,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "How news organizations are using AI to advance their vital missions",
       "url": "https://openai.com/index/how-news-organizations-are-using-ai",
       "score": 18,
@@ -12954,20 +12522,6 @@
       "topic": "agentic"
     },
     {
-      "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-      "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message",
-      "score": 16,
-      "fetched_at": "2026-08-20",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "open_source"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -13685,19 +13239,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Ramp launches its own AI model router, called Router",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "score": 12,
-      "fetched_at": "2026-08-20",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "When AI designs a drug, who gets the credit?",
       "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
       "score": 12,
@@ -13800,19 +13341,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "score": 11,
-      "fetched_at": "2026-08-20",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Coding and design with GPT-5",
@@ -20059,6 +19587,19 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "score": 66,
+      "file": "_posts/2026-09-04-nobody-is-saying-why-openai-and-anthropic-had-outages-today.md",
+      "posted_at": "2026-09-04",
+      "companies": [
+        "openai",
+        "anthropic",
+        "xai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21147,6 +20688,12 @@
       "date": "2026-09-03",
       "posts": 5,
       "items_processed": 12956,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-09-04",
+      "posts": 1,
+      "items_processed": 2165,
       "estimated_tokens": 0
     }
   ]
