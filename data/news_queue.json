@@ -405,6 +405,19 @@
       "topic": ""
     },
     {
+      "title": "Instagram\u2019s AI detection is a mess (again)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "score": 43,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -20946,7 +20959,7 @@
     {
       "date": "2026-09-04",
       "posts": 2,
-      "items_processed": 6495,
+      "items_processed": 8660,
       "estimated_tokens": 0
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-04T11:37:21.488303+00:00",
-  "pending_count": 1229,
+  "updated_at_utc": "2026-09-04T12:30:51.861343+00:00",
+  "pending_count": 1230,
   "pending": [
     {
       "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Instagram’s AI detection is a mess (again)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "score": 43,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
