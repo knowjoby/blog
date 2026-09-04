@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-08-28 00:21:11 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 17,
-    "posts_created": 2,
-    "queued": 15,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 17
-      },
-      "rss": {
-        "raw": 2143,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 17
-      }
-    },
-    "posts": [
-      {
-        "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-        "file": "_posts/2026-08-27-jensen-huang-says-nvidia-achieved-agi-again-not-that-it-matters.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      },
-      {
-        "title": "Here’s all the times AI has gone rogue and hacked other companies",
-        "file": "_posts/2026-08-27-heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-28 02:36:25 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1280,5 +1239,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-04 21:35:50 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 2165,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "file": "_posts/2026-09-04-rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.md",
+        "score": 51,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]

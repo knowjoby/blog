@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-04T12:30:51.861343+00:00",
-  "pending_count": 1230,
+  "updated_at_utc": "2026-09-04T16:05:50.271547+00:00",
+  "pending_count": 1235,
   "pending": [
     {
       "title": "Sam Altman apologizes for ‘messy’ GPT-6 Astra rollout that’s locked out paying users",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
+      "url": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+      "score": 43,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -36,6 +47,17 @@
       "topics": [
         "reasoning",
         "multimodal"
+      ]
+    },
+    {
+      "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
+      "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
+      "score": 39,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -75,6 +97,17 @@
       "topics": []
     },
     {
+      "title": "iRobot unveils the Roomba Duo",
+      "url": "https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum",
+      "score": 33,
+      "fetched_at": "2026-09-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
       "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
       "score": 32,
@@ -108,6 +141,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "score": 24,
+      "fetched_at": "2026-09-04",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
@@ -229,6 +273,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
+      "url": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
+      "score": 14,
+      "fetched_at": "2026-09-04",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
