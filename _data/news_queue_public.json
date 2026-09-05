@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-05T08:14:19.307776+00:00",
-  "pending_count": 1232,
+  "updated_at_utc": "2026-09-05T11:39:00.859219+00:00",
+  "pending_count": 1234,
   "pending": [
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "score": 49,
+      "fetched_at": "2026-09-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
@@ -90,6 +101,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "score": 24,
+      "fetched_at": "2026-09-05",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Helping developers build safer AI experiences for teens",

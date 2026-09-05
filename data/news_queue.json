@@ -205,6 +205,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI admits to German wiki \u2018incident\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "score": 49,
+      "fetched_at": "2026-09-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -8400,6 +8413,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Agents Hacked Another Website",
+      "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+      "score": 24,
+      "fetched_at": "2026-09-05",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -21027,7 +21053,7 @@
     {
       "date": "2026-09-05",
       "posts": 0,
-      "items_processed": 4332,
+      "items_processed": 6498,
       "estimated_tokens": 0
     }
   ]
