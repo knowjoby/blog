@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-05T19:24:55.440850+00:00",
-  "pending_count": 1235,
+  "updated_at_utc": "2026-09-05T21:35:16.078221+00:00",
+  "pending_count": 1236,
   "pending": [
     {
       "title": "OpenAI admits to German wiki ‘incident’",
@@ -121,6 +121,17 @@
       "source": "TechCrunch",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "score": 24,
+      "fetched_at": "2026-09-05",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
