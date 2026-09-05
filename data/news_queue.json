@@ -563,22 +563,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "score": 40,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Meta-learning for wrestling",
       "url": "https://openai.com/index/meta-learning-for-wrestling",
       "score": 40,
@@ -1200,20 +1184,6 @@
       "topic": "coding"
     },
     {
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "score": 34,
-      "fetched_at": "2026-08-21",
-      "source": "Hugging Face",
-      "companies": [
-        "amazon",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "amazon",
-      "topic": ""
-    },
-    {
       "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
       "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
       "score": 34,
@@ -1531,51 +1501,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "score": 32,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "openai",
-      "topic": "open_source"
-    },
-    {
-      "title": "Powering product discovery in ChatGPT",
-      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-      "score": 32,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
-      "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs",
-      "score": 32,
-      "fetched_at": "2026-08-21",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "nvidia",
-      "topic": "agentic"
     },
     {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -2134,6 +2059,21 @@
       "topic": "regulation"
     },
     {
+      "title": "OpenAI\u2019s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "score": 32,
+      "fetched_at": "2026-09-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Roland is getting into generative AI music with Melody Flip",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "score": 31,
@@ -2145,32 +2085,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "score": 30,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "score": 30,
-      "fetched_at": "2026-08-21",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Economic Research Exchange",
@@ -3489,21 +3403,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How Balyasny Asset Management built an AI research engine",
-      "url": "https://openai.com/index/balyasny-asset-management",
-      "score": 26,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "ChatGPT is now a partner for your most ambitious work",
       "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
       "score": 26,
@@ -4084,123 +3983,6 @@
       ],
       "topics": [],
       "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Building AI infrastructure with the Effingham County community",
-      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping developers build safer AI experiences for teens",
-      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s Big Reckoning Is Here",
-      "url": "https://www.wired.com/story/metas-big-reckoning-is-here/",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "score": 24,
-      "fetched_at": "2026-08-21",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
       "topic": ""
     },
     {
@@ -8468,6 +8250,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "score": 24,
+      "fetched_at": "2026-09-05",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -8698,71 +8493,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "How news organizations are using AI to advance their vital missions",
-      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-      "score": 18,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "score": 18,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Simplex rethinks software development with Codex",
-      "url": "https://openai.com/index/simplex",
-      "score": 18,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT learns about the world while protecting privacy",
-      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "score": 18,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-      "score": 18,
-      "fetched_at": "2026-08-21",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
@@ -12803,17 +12533,17 @@
       "topic": ""
     },
     {
-      "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
-      "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat",
-      "score": 17,
-      "fetched_at": "2026-08-21",
-      "source": "VentureBeat",
-      "companies": [],
-      "topics": [
-        "coding"
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "score": 18,
+      "fetched_at": "2026-09-05",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
-      "company": "",
-      "topic": "coding"
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
     },
     {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
@@ -13273,19 +13003,6 @@
       "topic": "agentic"
     },
     {
-      "title": "US distributor of China\u2019s most popular humanoid robots pivots after US ban",
-      "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-      "score": 14,
-      "fetched_at": "2026-08-21",
-      "source": "Ars Technica",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Introducing the Codex app",
       "url": "https://openai.com/index/introducing-the-codex-app",
       "score": 14,
@@ -13585,17 +13302,17 @@
       "topic": "regulation"
     },
     {
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "score": 12,
-      "fetched_at": "2026-08-21",
-      "source": "MIT Tech Review",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "score": 14,
+      "fetched_at": "2026-09-05",
+      "source": "OpenAI",
       "companies": [],
       "topics": [
-        "ai"
+        "coding"
       ],
       "company": "",
-      "topic": "ai"
+      "topic": "coding"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -14246,45 +13963,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "score": 10,
-      "fetched_at": "2026-08-21",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "score": 10,
-      "fetched_at": "2026-08-21",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "score": 10,
-      "fetched_at": "2026-08-21",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Native-speed vLLM transformers modeling backend",
@@ -21100,6 +20778,12 @@
       "date": "2026-09-04",
       "posts": 5,
       "items_processed": 12990,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-09-05",
+      "posts": 0,
+      "items_processed": 2166,
       "estimated_tokens": 0
     }
   ]
