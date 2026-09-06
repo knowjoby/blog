@@ -710,6 +710,22 @@
       "topic": "agentic"
     },
     {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "score": 40,
+      "fetched_at": "2026-09-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "This new Roomba seals itself to your carpet",
       "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
       "score": 39,
@@ -21098,7 +21114,7 @@
     {
       "date": "2026-09-06",
       "posts": 0,
-      "items_processed": 8664,
+      "items_processed": 10831,
       "estimated_tokens": 0
     }
   ]
