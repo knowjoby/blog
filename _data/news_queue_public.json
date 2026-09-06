@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-06T08:36:23.329011+00:00",
-  "pending_count": 1236,
+  "updated_at_utc": "2026-09-06T11:58:09.964159+00:00",
+  "pending_count": 1237,
   "pending": [
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -38,6 +38,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "My Brief Summer Fling With Siri AI",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "score": 24,
+      "fetched_at": "2026-09-06",
+      "source": "Wired",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
