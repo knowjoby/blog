@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-01 04:29:06 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2146,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "file": "_posts/2026-08-31-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "google",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-01 07:16:56 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1247,6 +1214,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 25
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-07 18:54:08 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 0,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2169,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
       }
     },
     "posts": []
