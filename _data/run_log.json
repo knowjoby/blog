@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-08-31 21:21:24 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2147,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "ChatGPT to face tougher regulation in the EU",
-        "file": "_posts/2026-08-31-chatgpt-to-face-tougher-regulation-in-the-eu.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-08-31 23:36:34 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1257,6 +1225,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-07 06:44:44 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2168,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
