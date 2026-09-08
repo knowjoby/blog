@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-08T12:37:55.887072+00:00",
-  "pending_count": 1235,
+  "updated_at_utc": "2026-09-08T14:25:30.395012+00:00",
+  "pending_count": 1238,
   "pending": [
     {
       "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "score": 49,
+      "fetched_at": "2026-09-08",
+      "source": "The Verge",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -802,6 +813,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "score": 30,
+      "fetched_at": "2026-09-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and SoftBank Group partner with SB Energy",
@@ -3926,6 +3948,17 @@
       "source": "Hugging Face",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "score": 22,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
       ],
       "topics": []
     },

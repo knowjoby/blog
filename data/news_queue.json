@@ -244,6 +244,19 @@
       "topic": ""
     },
     {
+      "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "score": 49,
+      "fetched_at": "2026-09-08",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "score": 48,
@@ -3203,6 +3216,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "score": 30,
+      "fetched_at": "2026-09-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -8571,6 +8597,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "score": 22,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
       "topic": ""
     },
     {
@@ -21084,7 +21123,7 @@
     {
       "date": "2026-09-08",
       "posts": 0,
-      "items_processed": 8676,
+      "items_processed": 10848,
       "estimated_tokens": 0
     }
   ]
