@@ -257,6 +257,19 @@
       "topic": ""
     },
     {
+      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "score": 49,
+      "fetched_at": "2026-09-08",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "score": 48,
@@ -3224,6 +3237,19 @@
       "score": 30,
       "fetched_at": "2026-09-08",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "score": 30,
+      "fetched_at": "2026-09-08",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
@@ -8491,6 +8517,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "score": 24,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -21123,7 +21162,7 @@
     {
       "date": "2026-09-08",
       "posts": 0,
-      "items_processed": 10848,
+      "items_processed": 13021,
       "estimated_tokens": 0
     }
   ]
