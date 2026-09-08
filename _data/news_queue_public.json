@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-09-08T18:01:08.632410+00:00",
-  "pending_count": 1241,
+  "updated_at_utc": "2026-09-08T21:20:14.984016+00:00",
+  "pending_count": 1247,
   "pending": [
     {
       "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
       "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "score": 49,
+      "fetched_at": "2026-09-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "score": 49,
       "fetched_at": "2026-09-08",
       "source": "The Verge",
@@ -551,6 +562,32 @@
         "mistral"
       ],
       "topics": []
+    },
+    {
+      "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "score": 32,
+      "fetched_at": "2026-09-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "score": 32,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Introducing Triton: Open-source GPU programming for neural networks",
@@ -3985,6 +4022,17 @@
       "topics": []
     },
     {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "score": 24,
+      "fetched_at": "2026-09-08",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "Mistral raises €3B as sovereign AI becomes big business",
       "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "score": 22,
@@ -4099,6 +4147,17 @@
         "agentic",
         "reasoning"
       ]
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "score": 18,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
@@ -6884,6 +6943,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "score": 11,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {

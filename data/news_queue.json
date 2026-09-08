@@ -270,6 +270,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "score": 49,
+      "fetched_at": "2026-09-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "score": 48,
@@ -2158,6 +2171,36 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "score": 32,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
+      "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+      "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "score": 32,
+      "fetched_at": "2026-09-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
     },
     {
       "title": "Roland is getting into generative AI music with Melody Flip",
@@ -8533,6 +8576,19 @@
       "topic": ""
     },
     {
+      "title": "\u201cThis is the AI men actually use\u201d: Meta ads pushed apps nudifying real teens",
+      "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "score": 24,
+      "fetched_at": "2026-09-08",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
       "score": 22,
@@ -12907,6 +12963,19 @@
       "topic": ""
     },
     {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "score": 18,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
       "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
       "score": 17,
@@ -14292,6 +14361,19 @@
       "score": 11,
       "fetched_at": "2026-09-08",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "score": 11,
+      "fetched_at": "2026-09-08",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "coding"
@@ -20045,6 +20127,30 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "score": 57,
+      "file": "_posts/2026-09-08-meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race.md",
+      "posted_at": "2026-09-08",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "score": 55,
+      "file": "_posts/2026-09-08-drama-swirls-around-openais-legendary-mathematical-milestone.md",
+      "posted_at": "2026-09-08",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21161,8 +21267,8 @@
     },
     {
       "date": "2026-09-08",
-      "posts": 0,
-      "items_processed": 13021,
+      "posts": 2,
+      "items_processed": 15198,
       "estimated_tokens": 0
     }
   ]
