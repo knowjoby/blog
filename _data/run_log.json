@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-09-03 03:09:29 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2155,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-        "file": "_posts/2026-09-02-google-says-its-new-gemini-38-flash-model-works-harder-but-might-cost.md",
-        "score": 63,
-        "tags": [
-          "google",
-          "reasoning"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-03 05:26:23 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1192,6 +1160,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 25
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-09 18:14:33 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 0,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2177,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
       }
     },
     "posts": []

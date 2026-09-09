@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-09T09:05:51.103916+00:00",
-  "pending_count": 1242,
+  "updated_at_utc": "2026-09-09T12:44:33.270287+00:00",
+  "pending_count": 1245,
   "pending": [
+    {
+      "title": "Worried Anthropic researchers warn that AI ‘could kill all humans’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "score": 49,
+      "fetched_at": "2026-09-09",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
@@ -74,6 +85,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
@@ -268,6 +290,17 @@
       "score": 18,
       "fetched_at": "2026-09-09",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "score": 18,
+      "fetched_at": "2026-09-09",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],

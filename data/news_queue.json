@@ -283,6 +283,19 @@
       "topic": ""
     },
     {
+      "title": "Worried Anthropic researchers warn that AI \u2018could kill all humans\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "score": 49,
+      "fetched_at": "2026-09-09",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "score": 48,
@@ -8563,6 +8576,19 @@
       "topic": ""
     },
     {
+      "title": "The Download: OpenAI\u2019s turning point for math and a battery record",
+      "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -12916,6 +12942,19 @@
       "score": 18,
       "fetched_at": "2026-09-09",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+      "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+      "score": 18,
+      "fetched_at": "2026-09-09",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -21209,7 +21248,7 @@
     {
       "date": "2026-09-09",
       "posts": 0,
-      "items_processed": 4354,
+      "items_processed": 6531,
       "estimated_tokens": 0
     }
   ]
