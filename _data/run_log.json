@@ -1,44 +1,5 @@
 [
   {
-    "ran_at": "2026-09-03 00:23:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 2,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2155,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-        "file": "_posts/2026-09-02-researchers-fear-safety-disaster-ahead-of-openais-astra-release.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      },
-      {
-        "title": "Google is sending MrBeast into the wilderness, armed with AI",
-        "file": "_posts/2026-09-02-google-is-sending-mrbeast-into-the-wilderness-armed-with-ai.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-03 03:09:29 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1209,6 +1170,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-09 14:35:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 25,
+    "posts_created": 0,
+    "queued": 25,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 25
+      },
+      "rss": {
+        "raw": 2177,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 25
       }
     },
     "posts": []
