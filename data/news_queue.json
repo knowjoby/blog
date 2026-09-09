@@ -3327,6 +3327,19 @@
       "topic": ""
     },
     {
+      "title": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
+      "url": "https://www.wired.com/story/everything-apple-announced-september-2026/",
+      "score": 30,
+      "fetched_at": "2026-09-09",
+      "source": "Wired",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -8642,6 +8655,58 @@
       "topic": ""
     },
     {
+      "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+      "url": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+      "url": "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "Ars Technica",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+      "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -13764,6 +13829,19 @@
       "score": 14,
       "fetched_at": "2026-09-09",
       "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "I Let an AI Agent Hack All My Gadgets\u2014and I\u2019d Do It Again",
+      "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "score": 14,
+      "fetched_at": "2026-09-09",
+      "source": "Wired",
       "companies": [],
       "topics": [
         "agentic"
@@ -21301,7 +21379,7 @@
     {
       "date": "2026-09-09",
       "posts": 0,
-      "items_processed": 10886,
+      "items_processed": 13064,
       "estimated_tokens": 0
     }
   ]
