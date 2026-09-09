@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-09T20:45:49.268070+00:00",
-  "pending_count": 1255,
+  "updated_at_utc": "2026-09-09T23:06:02.047520+00:00",
+  "pending_count": 1260,
   "pending": [
     {
       "title": "iOS 27 launches on September 14th with Siri AI",
@@ -108,6 +108,19 @@
       ]
     },
     {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "score": 26,
+      "fetched_at": "2026-09-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
       "title": "Building self-improving tax agents with Codex",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "score": 26,
@@ -121,11 +134,44 @@
       ]
     },
     {
+      "title": "San Francisco Orders Meta to Stop ‘Allowing’ AI Child Abuse Ads",
+      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Download: OpenAI’s turning point for math and a battery record",
       "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "score": 24,
       "fetched_at": "2026-09-09",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -354,6 +400,17 @@
     {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "score": 18,
+      "fetched_at": "2026-09-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "score": 18,
       "fetched_at": "2026-09-09",
       "source": "OpenAI",

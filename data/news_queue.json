@@ -4209,6 +4209,21 @@
       "topic": "agentic"
     },
     {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "score": 26,
+      "fetched_at": "2026-09-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
       "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
       "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "score": 24,
@@ -8707,6 +8722,45 @@
       "topic": ""
     },
     {
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The AI Researcher Who Just Quit Anthropic Says It\u2019s \u2018Crunch Time for Humanity\u2019",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "San Francisco Orders Meta to Stop \u2018Allowing\u2019 AI Child Abuse Ads",
+      "url": "https://www.wired.com/story/san-francisco-orders-meta-to-stop-allowing-ai-child-abuse-ads/",
+      "score": 24,
+      "fetched_at": "2026-09-09",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -13073,6 +13127,19 @@
       "score": 18,
       "fetched_at": "2026-09-09",
       "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "score": 18,
+      "fetched_at": "2026-09-09",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -20256,6 +20323,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "score": 55,
+      "file": "_posts/2026-09-09-openais-sly-mathematical-breakthrough-sends-a-chill-through-academia.md",
+      "posted_at": "2026-09-09",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "score": 55,
+      "file": "_posts/2026-09-09-read-the-apple-document-explaining-how-new-listening-features-still-pr.md",
+      "posted_at": "2026-09-09",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21378,8 +21467,8 @@
     },
     {
       "date": "2026-09-09",
-      "posts": 0,
-      "items_processed": 13064,
+      "posts": 2,
+      "items_processed": 15243,
       "estimated_tokens": 0
     }
   ]
