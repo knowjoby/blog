@@ -8683,6 +8683,32 @@
       "topic": ""
     },
     {
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -21461,7 +21487,7 @@
     {
       "date": "2026-09-10",
       "posts": 1,
-      "items_processed": 15279,
+      "items_processed": 17466,
       "estimated_tokens": 0
     }
   ]
