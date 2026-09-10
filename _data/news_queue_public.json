@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-10T12:42:48.544482+00:00",
-  "pending_count": 1247,
+  "updated_at_utc": "2026-09-10T16:36:43.713656+00:00",
+  "pending_count": 1252,
   "pending": [
     {
       "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
@@ -112,6 +112,19 @@
       "topics": []
     },
     {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "score": 26,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "How Preply combines AI and human tutors to personalize learning",
       "url": "https://openai.com/index/preply",
       "score": 24,
@@ -156,6 +169,17 @@
       "topics": []
     },
     {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How loveholidays is making everyone a builder with Codex",
       "url": "https://openai.com/index/loveholidays",
       "score": 18,
@@ -189,6 +213,17 @@
       "topics": []
     },
     {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Building a safe, effective sandbox to enable Codex on Windows",
       "url": "https://openai.com/index/building-codex-windows-sandbox",
       "score": 18,
@@ -209,6 +244,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "score": 11,
+      "fetched_at": "2026-09-10",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "iOS 27 launches on September 14th with Siri AI",

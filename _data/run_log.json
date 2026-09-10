@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-04 06:42:54 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2165,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-        "file": "_posts/2026-09-04-nobody-is-saying-why-openai-and-anthropic-had-outages-today.md",
-        "score": 66,
-        "tags": [
-          "openai",
-          "anthropic",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-04 11:54:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 18,
@@ -1163,5 +1130,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-10 22:06:43 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 2184,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta’s Muse AI works and creeps me out",
+        "file": "_posts/2026-09-10-metas-muse-ai-works-and-creeps-me-out.md",
+        "score": 63,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
