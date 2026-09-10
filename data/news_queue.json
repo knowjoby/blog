@@ -8615,6 +8615,32 @@
       "topic": ""
     },
     {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -21380,7 +21406,7 @@
     {
       "date": "2026-09-10",
       "posts": 1,
-      "items_processed": 10906,
+      "items_processed": 13092,
       "estimated_tokens": 0
     }
   ]
