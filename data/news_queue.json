@@ -434,6 +434,20 @@
       "topic": ""
     },
     {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "score": 46,
+      "fetched_at": "2026-09-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "deepseek"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "DLSS 5 leaked and modders are putting Nvidia\u2019s AI effects on everything",
       "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
       "score": 45,
@@ -2162,6 +2176,21 @@
       "score": 32,
       "fetched_at": "2026-09-08",
       "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
+      "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "score": 32,
+      "fetched_at": "2026-09-10",
+      "source": "TechCrunch",
       "companies": [
         "meta"
       ],
@@ -8641,6 +8670,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -13090,6 +13132,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Is AI Actually Going to Kill Us All?",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -21406,7 +21461,7 @@
     {
       "date": "2026-09-10",
       "posts": 1,
-      "items_processed": 13092,
+      "items_processed": 15279,
       "estimated_tokens": 0
     }
   ]
