@@ -597,6 +597,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "score": 41,
+      "fetched_at": "2026-09-10",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "nvidia",
+      "topic": "multimodal"
+    },
+    {
       "title": "Introducing ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
       "score": 40,
@@ -878,6 +893,21 @@
       "topic": "regulation"
     },
     {
+      "title": "OpenAI\u2019s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
       "title": "Debian won\u2019t ban AI code from its Linux distribution",
       "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "score": 37,
@@ -993,6 +1023,20 @@
       "companies": [
         "openai",
         "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "score": 36,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "amazon"
       ],
       "topics": [],
       "company": "openai",
@@ -1147,6 +1191,36 @@
       ],
       "company": "nvidia",
       "topic": "reasoning"
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "score": 35,
+      "fetched_at": "2026-09-10",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "nvidia",
+      "topic": "robotics"
     },
     {
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
@@ -3183,6 +3257,19 @@
       "topic": ""
     },
     {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "score": 30,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3416,6 +3503,20 @@
       "score": 28,
       "fetched_at": "2026-09-09",
       "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "score": 28,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
       "companies": [
         "openai",
         "huggingface"
@@ -8447,6 +8548,32 @@
       "topic": ""
     },
     {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "score": 24,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -12760,6 +12887,71 @@
       "url": "https://openai.com/index/election-safeguards-2026",
       "score": 18,
       "fetched_at": "2026-09-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 18,
+      "fetched_at": "2026-09-10",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -21056,7 +21248,7 @@
     {
       "date": "2026-09-10",
       "posts": 0,
-      "items_processed": 2180,
+      "items_processed": 4360,
       "estimated_tokens": 0
     }
   ]
