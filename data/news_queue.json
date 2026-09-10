@@ -296,6 +296,32 @@
       "topic": ""
     },
     {
+      "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "score": 49,
+      "fetched_at": "2026-09-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "score": 49,
+      "fetched_at": "2026-09-10",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
       "score": 48,
@@ -12961,6 +12987,32 @@
       "topic": ""
     },
     {
+      "title": "Everything New You Can Do With Siri AI",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "Wired",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
       "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
       "score": 17,
@@ -21248,7 +21300,7 @@
     {
       "date": "2026-09-10",
       "posts": 0,
-      "items_processed": 4360,
+      "items_processed": 6541,
       "estimated_tokens": 0
     }
   ]

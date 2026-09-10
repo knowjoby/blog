@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-09-04 02:18:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 1,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2164,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Four major AI models suffer rare overlapping downtime",
-        "file": "_posts/2026-09-03-four-major-ai-models-suffer-rare-overlapping-downtime.md",
-        "score": 72,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-04 04:38:12 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1163,6 +1129,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 14
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-10 17:38:43 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 0,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2181,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
       }
     },
     "posts": []

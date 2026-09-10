@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-09-10T06:30:58.901156+00:00",
-  "pending_count": 1243,
+  "updated_at_utc": "2026-09-10T12:08:43.335026+00:00",
+  "pending_count": 1247,
   "pending": [
+    {
+      "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "url": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "score": 49,
+      "fetched_at": "2026-09-10",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "score": 49,
+      "fetched_at": "2026-09-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
@@ -108,6 +130,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Everything New You Can Do With Siri AI",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "Wired",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "score": 18,
+      "fetched_at": "2026-09-10",
+      "source": "Wired",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
