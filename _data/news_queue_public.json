@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-11T12:36:59.750554+00:00",
-  "pending_count": 1233,
+  "updated_at_utc": "2026-09-11T13:44:02.525152+00:00",
+  "pending_count": 1234,
   "pending": [
     {
       "title": "Introducing Intelligence Age",
@@ -226,6 +226,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude users found ways around safeguards for bioweapons research",
+      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+      "score": 18,
+      "fetched_at": "2026-09-11",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
