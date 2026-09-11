@@ -3140,6 +3140,19 @@
       "topic": ""
     },
     {
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "score": 30,
+      "fetched_at": "2026-09-11",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -12898,6 +12911,19 @@
       "topic": ""
     },
     {
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "score": 18,
+      "fetched_at": "2026-09-11",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
       "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents",
       "score": 17,
@@ -21201,7 +21227,7 @@
     {
       "date": "2026-09-11",
       "posts": 1,
-      "items_processed": 10936,
+      "items_processed": 13124,
       "estimated_tokens": 0
     }
   ]

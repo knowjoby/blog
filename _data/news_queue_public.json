@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-11T17:40:38.920908+00:00",
-  "pending_count": 1238,
+  "updated_at_utc": "2026-09-11T20:46:49.564063+00:00",
+  "pending_count": 1240,
   "pending": [
     {
       "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
@@ -36,6 +36,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "score": 30,
+      "fetched_at": "2026-09-11",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Work with Codex from anywhere",
@@ -270,6 +281,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "score": 18,
+      "fetched_at": "2026-09-11",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
