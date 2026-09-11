@@ -255,6 +255,19 @@
       "topic": ""
     },
     {
+      "title": "Meta says it\u2019s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "score": 49,
+      "fetched_at": "2026-09-11",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "score": 48,
@@ -395,6 +408,19 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Meta may have leaked the first look at its slim \u2018Project Phoenix\u2019 headset",
+      "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
+      "score": 45,
+      "fetched_at": "2026-09-11",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
     },
     {
       "title": "Pioneering an AI clinical copilot with Penda Health",
@@ -8381,6 +8407,19 @@
       "topic": ""
     },
     {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "score": 24,
+      "fetched_at": "2026-09-11",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
       "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page",
       "score": 22,
@@ -12843,6 +12882,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "score": 18,
+      "fetched_at": "2026-09-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -20003,6 +20055,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "score": 55,
+      "file": "_posts/2026-09-11-anthropic-spent-this-week-in-hot-water-over-cybersecurity.md",
+      "posted_at": "2026-09-11",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21137,8 +21200,8 @@
     },
     {
       "date": "2026-09-11",
-      "posts": 0,
-      "items_processed": 8748,
+      "posts": 1,
+      "items_processed": 10936,
       "estimated_tokens": 0
     }
   ]
