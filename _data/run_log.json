@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-09-04 21:35:50 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2165,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "file": "_posts/2026-09-04-rogue-openai-agents-appear-to-have-organized-another-attack-using-a-ge.md",
-        "score": 51,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-05 00:33:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1150,6 +1119,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-11 09:32:16 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2187,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
