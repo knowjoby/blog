@@ -242,6 +242,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "score": 49,
+      "fetched_at": "2026-09-12",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -928,6 +941,20 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
+      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
+      "score": 36,
+      "fetched_at": "2026-09-12",
+      "source": "Wired",
+      "companies": [
+        "anthropic",
+        "meta"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -21088,7 +21115,7 @@
     {
       "date": "2026-09-12",
       "posts": 0,
-      "items_processed": 4380,
+      "items_processed": 6570,
       "estimated_tokens": 0
     }
   ]
