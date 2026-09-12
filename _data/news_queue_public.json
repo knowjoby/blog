@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-12T14:18:16.039082+00:00",
-  "pending_count": 1232,
+  "updated_at_utc": "2026-09-12T17:22:55.258866+00:00",
+  "pending_count": 1234,
   "pending": [
     {
       "title": "Where to preorder the iPhone 18 Pro and Pro Max",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "score": 49,
+      "fetched_at": "2026-09-12",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -44,6 +55,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "score": 24,
+      "fetched_at": "2026-09-12",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
