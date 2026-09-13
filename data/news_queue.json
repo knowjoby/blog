@@ -19974,6 +19974,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "score": 79,
+      "file": "_posts/2026-09-13-trump-and-mike-johnson-think-the-ai-industry-is-overreacting.md",
+      "posted_at": "2026-09-13",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21120,8 +21133,8 @@
     },
     {
       "date": "2026-09-13",
-      "posts": 0,
-      "items_processed": 13140,
+      "posts": 1,
+      "items_processed": 15330,
       "estimated_tokens": 0
     }
   ]
