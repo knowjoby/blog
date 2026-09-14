@@ -294,6 +294,19 @@
       "topic": ""
     },
     {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won\u2019t take over the world",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "score": 49,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -466,6 +479,19 @@
     {
       "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
       "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "score": 43,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
       "score": 43,
       "fetched_at": "2026-09-14",
       "source": "The Verge",
@@ -3185,6 +3211,32 @@
       "score": 30,
       "fetched_at": "2026-09-14",
       "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia\u2019s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "score": 30,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "score": 30,
+      "fetched_at": "2026-09-14",
+      "source": "Ars Technica",
       "companies": [
         "apple"
       ],
@@ -8374,6 +8426,32 @@
       "score": 24,
       "fetched_at": "2026-09-14",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -20130,6 +20208,30 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "score": 60,
+      "file": "_posts/2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdo.md",
+      "posted_at": "2026-09-14",
+      "companies": [
+        "openai",
+        "anthropic",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple Home\u2019s new security camera features cost up to $60 a month",
+      "url": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+      "score": 55,
+      "file": "_posts/2026-09-14-apple-homes-new-security-camera-features-cost-up-to-60-a-month.md",
+      "posted_at": "2026-09-14",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21282,8 +21384,8 @@
     },
     {
       "date": "2026-09-14",
-      "posts": 1,
-      "items_processed": 10956,
+      "posts": 3,
+      "items_processed": 13148,
       "estimated_tokens": 0
     }
   ]

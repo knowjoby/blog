@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-14T19:09:15.788784+00:00",
-  "pending_count": 1241,
+  "updated_at_utc": "2026-09-14T22:40:00.133134+00:00",
+  "pending_count": 1247,
   "pending": [
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "score": 49,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "macOS 27 is available now",
       "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
@@ -16,6 +27,17 @@
     {
       "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
       "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "score": 43,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
       "score": 43,
       "fetched_at": "2026-09-14",
       "source": "The Verge",
@@ -61,6 +83,17 @@
       "topics": []
     },
     {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "score": 30,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "score": 30,
@@ -68,6 +101,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "score": 30,
+      "fetched_at": "2026-09-14",
+      "source": "Ars Technica",
+      "companies": [
+        "apple"
       ],
       "topics": []
     },
@@ -109,6 +153,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
@@ -600,6 +655,17 @@
       "score": 24,
       "fetched_at": "2026-09-14",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],

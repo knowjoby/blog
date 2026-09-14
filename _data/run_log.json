@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-08 10:33:53 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 782,
-    "posts_created": 0,
-    "queued": 782,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 782
-      },
-      "rss": {
-        "raw": 2169,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 782
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-08 15:29:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1166,6 +1144,47 @@
       {
         "title": "Apple releases iOS 27 with Siri AI overhaul",
         "file": "_posts/2026-09-14-apple-releases-ios-27-with-siri-ai-overhaul.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-15 04:10:00 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 2,
+    "queued": 6,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 2192,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "file": "_posts/2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdo.md",
+        "score": 60,
+        "tags": [
+          "openai",
+          "anthropic",
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Apple Home’s new security camera features cost up to $60 a month",
+        "file": "_posts/2026-09-14-apple-homes-new-security-camera-features-cost-up-to-60-a-month.md",
         "score": 55,
         "tags": [
           "apple"
