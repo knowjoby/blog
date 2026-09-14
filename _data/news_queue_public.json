@@ -1,7 +1,30 @@
 {
-  "updated_at_utc": "2026-09-14T06:55:24.900089+00:00",
-  "pending_count": 1230,
+  "updated_at_utc": "2026-09-14T13:48:26.648197+00:00",
+  "pending_count": 1233,
   "pending": [
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "score": 43,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "score": 36,
+      "fetched_at": "2026-09-14",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24",
@@ -531,6 +554,17 @@
       "title": "Operation “A2Z”: Multilingual influence activity",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-a2z",
       "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "score": 18,
       "fetched_at": "2026-09-14",
       "source": "OpenAI",
       "companies": [

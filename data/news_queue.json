@@ -451,6 +451,19 @@
       "topic": ""
     },
     {
+      "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "score": 43,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -982,6 +995,20 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "score": 36,
+      "fetched_at": "2026-09-14",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -12781,6 +12808,19 @@
       "topic": ""
     },
     {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -21128,7 +21168,7 @@
     {
       "date": "2026-09-14",
       "posts": 0,
-      "items_processed": 4380,
+      "items_processed": 6572,
       "estimated_tokens": 0
     }
   ]
