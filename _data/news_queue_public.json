@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-14T14:44:12.867349+00:00",
-  "pending_count": 1233,
+  "updated_at_utc": "2026-09-14T19:09:15.788784+00:00",
+  "pending_count": 1241,
   "pending": [
+    {
+      "title": "macOS 27 is available now",
+      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+      "score": 49,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
     {
       "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
       "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
@@ -37,6 +48,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "score": 30,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -87,6 +109,28 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": []
     },
     {
       "title": "Why teens deserve access to safe AI",
@@ -562,6 +606,39 @@
       "topics": []
     },
     {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
       "score": 18,
@@ -593,6 +670,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "score": 17,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",

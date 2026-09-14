@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-08 05:35:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2169,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-08 10:33:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 782,
@@ -1163,5 +1141,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-15 00:39:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 9,
+    "posts_created": 1,
+    "queued": 8,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 9
+      },
+      "rss": {
+        "raw": 2192,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 9
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple releases iOS 27 with Siri AI overhaul",
+        "file": "_posts/2026-09-14-apple-releases-ios-27-with-siri-ai-overhaul.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      }
+    ]
   }
 ]

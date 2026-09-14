@@ -281,6 +281,19 @@
       "topic": ""
     },
     {
+      "title": "macOS 27 is available now",
+      "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+      "score": 49,
+      "fetched_at": "2026-09-14",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -3164,6 +3177,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "score": 30,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
       "topic": ""
     },
     {
@@ -8330,6 +8356,32 @@
       "topic": ""
     },
     {
+      "title": "Microsoft\u2019s new AI \u2018code of conduct\u2019 tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "score": 24,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -12821,6 +12873,45 @@
       "topic": ""
     },
     {
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "score": 18,
+      "fetched_at": "2026-09-14",
+      "source": "MIT Tech Review",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -12845,6 +12936,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "score": 17,
+      "fetched_at": "2026-09-14",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
@@ -20015,6 +20119,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple releases iOS 27 with Siri AI overhaul",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "score": 55,
+      "file": "_posts/2026-09-14-apple-releases-ios-27-with-siri-ai-overhaul.md",
+      "posted_at": "2026-09-14",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21167,8 +21282,8 @@
     },
     {
       "date": "2026-09-14",
-      "posts": 0,
-      "items_processed": 8764,
+      "posts": 1,
+      "items_processed": 10956,
       "estimated_tokens": 0
     }
   ]
