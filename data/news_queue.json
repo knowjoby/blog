@@ -559,6 +559,20 @@
       "topic": ""
     },
     {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "score": 42,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "apple"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
       "url": "https://openai.com/index/introducing-aardvark",
       "score": 41,
@@ -20309,6 +20323,21 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "score": 68,
+      "file": "_posts/2026-09-15-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.md",
+      "posted_at": "2026-09-15",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -21467,8 +21496,8 @@
     },
     {
       "date": "2026-09-15",
-      "posts": 4,
-      "items_processed": 10960,
+      "posts": 5,
+      "items_processed": 13152,
       "estimated_tokens": 0
     }
   ]

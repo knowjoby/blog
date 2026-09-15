@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-09 05:04:48 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2177,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-09 09:36:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1211,6 +1189,40 @@
         "score": 55,
         "tags": [
           "meta"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-16 02:35:17 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2192,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "file": "_posts/2026-09-15-meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-s.md",
+        "score": 68,
+        "tags": [
+          "openai",
+          "anthropic",
+          "meta",
+          "coding"
         ]
       }
     ]
