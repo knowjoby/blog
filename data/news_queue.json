@@ -1218,6 +1218,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "score": 35,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "nvidia",
+      "topic": "reasoning"
+    },
+    {
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "score": 34,
@@ -3215,6 +3230,19 @@
       ],
       "topics": [],
       "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "score": 30,
+      "fetched_at": "2026-09-15",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -8379,6 +8407,19 @@
       "topic": ""
     },
     {
+      "title": "\u2018I Felt Super Violated\u2019: Men Wearing Meta Glasses on Dates Is an Instant Red Flag",
+      "url": "https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -12907,6 +12948,19 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
+    },
+    {
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "score": 18,
+      "fetched_at": "2026-09-15",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
     },
     {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
@@ -20164,6 +20218,19 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+      "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+      "score": 54,
+      "file": "_posts/2026-09-15-the-download-ai-doomers-whistleblowing-agents-and-de-aged-livers.md",
+      "posted_at": "2026-09-15",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21322,8 +21389,8 @@
     },
     {
       "date": "2026-09-15",
-      "posts": 1,
-      "items_processed": 4384,
+      "posts": 2,
+      "items_processed": 6576,
       "estimated_tokens": 0
     }
   ]

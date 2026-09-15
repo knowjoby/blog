@@ -1,7 +1,20 @@
 {
-  "updated_at_utc": "2026-09-15T06:33:53.737985+00:00",
-  "pending_count": 1241,
+  "updated_at_utc": "2026-09-15T12:33:38.049489+00:00",
+  "pending_count": 1245,
   "pending": [
+    {
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+      "score": 35,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
       "url": "https://openai.com/index/dell-codex-enterprise-partnership",
@@ -16,6 +29,17 @@
       ]
     },
     {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "score": 30,
+      "fetched_at": "2026-09-15",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -27,6 +51,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag",
+      "url": "https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -128,6 +163,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
+      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
+      "score": 18,
+      "fetched_at": "2026-09-15",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Our views on AI policy and political advocacy",
