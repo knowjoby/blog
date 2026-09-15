@@ -915,19 +915,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Debian won\u2019t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "score": 37,
-      "fetched_at": "2026-08-31",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "John Deere launched an AI chatbot for farmers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
       "score": 37,
@@ -1231,20 +1218,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "score": 34,
-      "fetched_at": "2026-08-31",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
       "score": 34,
@@ -1508,21 +1481,6 @@
       ],
       "company": "",
       "topic": "robotics"
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
@@ -3245,21 +3203,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -3514,21 +3457,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Software engineers' new job isn't writing code \u2014 it's designing the boundaries AI agents can't break",
-      "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
-      "score": 26,
-      "fetched_at": "2026-08-31",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
     },
     {
       "title": "Improving health intelligence in ChatGPT",
@@ -4142,84 +4070,6 @@
       ],
       "company": "openai",
       "topic": "agentic"
-    },
-    {
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "score": 24,
-      "fetched_at": "2026-08-31",
-      "source": "Ars Technica",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "score": 24,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "score": 24,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "score": 24,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "score": 24,
-      "fetched_at": "2026-08-31",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "\u201cZlibrary my beloved\u201d: Anthropic staff chats extolling piracy cited in Sony suit",
-      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "score": 24,
-      "fetched_at": "2026-08-31",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
@@ -8677,86 +8527,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "score": 18,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "score": 18,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "score": 18,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "score": 18,
-      "fetched_at": "2026-08-31",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "score": 18,
-      "fetched_at": "2026-08-31",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
@@ -13446,19 +13216,6 @@
       "topic": ""
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "score": 14,
-      "fetched_at": "2026-08-31",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "score": 14,
@@ -13808,19 +13565,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "score": 11,
-      "fetched_at": "2026-08-31",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
@@ -14367,19 +14111,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-08-31",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -20232,6 +19963,19 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "score": 79,
+      "file": "_posts/2026-09-15-is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel.md",
+      "posted_at": "2026-09-15",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21386,6 +21130,12 @@
       "date": "2026-09-14",
       "posts": 3,
       "items_processed": 13148,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-09-15",
+      "posts": 1,
+      "items_processed": 2192,
       "estimated_tokens": 0
     }
   ]
