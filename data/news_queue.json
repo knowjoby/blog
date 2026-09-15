@@ -8420,6 +8420,19 @@
       "topic": ""
     },
     {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -21390,7 +21403,7 @@
     {
       "date": "2026-09-15",
       "posts": 2,
-      "items_processed": 6576,
+      "items_processed": 8768,
       "estimated_tokens": 0
     }
   ]
