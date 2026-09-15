@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-15T13:08:48.538823+00:00",
-  "pending_count": 1246,
+  "updated_at_utc": "2026-09-15T17:34:57.681163+00:00",
+  "pending_count": 1249,
   "pending": [
     {
       "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
@@ -53,11 +53,46 @@
       ]
     },
     {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "score": 26,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "amazon"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "‘I Felt Super Violated’: Men Wearing Meta Glasses on Dates Is an Instant Red Flag",
       "url": "https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/",
       "score": 24,
       "fetched_at": "2026-09-15",
       "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
       "companies": [
         "meta"
       ],

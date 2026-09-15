@@ -4130,6 +4130,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "score": 26,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "amazon"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "amazon",
+      "topic": "robotics"
+    },
+    {
       "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
       "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "score": 24,
@@ -8430,6 +8445,32 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
+      "score": 24,
+      "fetched_at": "2026-09-15",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -20244,6 +20285,30 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "score": 72,
+      "file": "_posts/2026-09-15-openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks.md",
+      "posted_at": "2026-09-15",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta\u2019s new One subscriptions put a price on social media and AI",
+      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "score": 55,
+      "file": "_posts/2026-09-15-metas-new-one-subscriptions-put-a-price-on-social-media-and-ai.md",
+      "posted_at": "2026-09-15",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21402,8 +21467,8 @@
     },
     {
       "date": "2026-09-15",
-      "posts": 2,
-      "items_processed": 8768,
+      "posts": 4,
+      "items_processed": 10960,
       "estimated_tokens": 0
     }
   ]
