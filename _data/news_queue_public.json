@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-16T09:27:03.466004+00:00",
-  "pending_count": 1233,
+  "updated_at_utc": "2026-09-16T13:09:31.912790+00:00",
+  "pending_count": 1235,
   "pending": [
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -64,6 +64,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "score": 24,
+      "fetched_at": "2026-09-16",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI supports California’s bill to advance youth AI safety",
@@ -207,6 +218,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "The EU Bans Social Media For Under-13s",
+      "url": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/",
+      "score": 14,
+      "fetched_at": "2026-09-16",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Introducing new capabilities to GPT-Rosalind",

@@ -8316,6 +8316,19 @@
       "topic": ""
     },
     {
+      "title": "The Download: AI\u2019s trillion-dollar gamble and OpenAI\u2019s biology data bid",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "score": 24,
+      "fetched_at": "2026-09-16",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13585,6 +13598,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "The EU Bans Social Media For Under-13s",
+      "url": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/",
+      "score": 14,
+      "fetched_at": "2026-09-16",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -20124,6 +20150,22 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "A brief history of AI executives calling for regulation",
+      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "score": 100,
+      "file": "_posts/2026-09-16-a-brief-history-of-ai-executives-calling-for-regulation.md",
+      "posted_at": "2026-09-16",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google",
+        "microsoft"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -21288,8 +21330,8 @@
     },
     {
       "date": "2026-09-16",
-      "posts": 1,
-      "items_processed": 4384,
+      "posts": 2,
+      "items_processed": 6576,
       "estimated_tokens": 0
     }
   ]
