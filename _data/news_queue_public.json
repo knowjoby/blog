@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-16T13:09:31.912790+00:00",
-  "pending_count": 1235,
+  "updated_at_utc": "2026-09-16T14:19:02.285951+00:00",
+  "pending_count": 1236,
   "pending": [
     {
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -167,6 +167,17 @@
     {
       "title": "The Defender’s Window",
       "url": "https://openai.com/index/the-defenders-window",
+      "score": 18,
+      "fetched_at": "2026-09-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "score": 18,
       "fetched_at": "2026-09-16",
       "source": "OpenAI",
