@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-09 18:14:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 0,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2177,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-09 19:20:29 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1217,5 +1195,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-16 14:57:03 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 20,
+    "posts_created": 1,
+    "queued": 19,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 20
+      },
+      "rss": {
+        "raw": 2192,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 20
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta is reportedly ready to launch less pervy smart glasses",
+        "file": "_posts/2026-09-16-meta-is-reportedly-ready-to-launch-less-pervy-smart-glasses.md",
+        "score": 51,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]
