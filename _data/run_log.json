@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-10 02:15:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 0,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2178,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-10 04:36:02 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1239,5 +1217,56 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-16 23:50:36 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 10,
+    "posts_created": 3,
+    "queued": 7,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 10
+      },
+      "rss": {
+        "raw": 2195,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 10
+      }
+    },
+    "posts": [
+      {
+        "title": "Claude comes for Gemini with its own take on Docs and Slides",
+        "file": "_posts/2026-09-16-claude-comes-for-gemini-with-its-own-take-on-docs-and-slides.md",
+        "score": 67,
+        "tags": [
+          "anthropic",
+          "google"
+        ]
+      },
+      {
+        "title": "Google will now let any AI agent run your smart home",
+        "file": "_posts/2026-09-16-google-will-now-let-any-ai-agent-run-your-smart-home.md",
+        "score": 51,
+        "tags": [
+          "anthropic",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "file": "_posts/2026-09-16-robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-wh.md",
+        "score": 50,
+        "tags": [
+          "openai",
+          "nvidia",
+          "robotics"
+        ]
+      }
+    ]
   }
 ]
