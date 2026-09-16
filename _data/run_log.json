@@ -1,44 +1,5 @@
 [
   {
-    "ran_at": "2026-09-10 04:36:02 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 2,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2179,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "file": "_posts/2026-09-09-openais-sly-mathematical-breakthrough-sends-a-chill-through-academia.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      },
-      {
-        "title": "Read the Apple document explaining how new listening features still protect your privacy",
-        "file": "_posts/2026-09-09-read-the-apple-document-explaining-how-new-listening-features-still-pr.md",
-        "score": 55,
-        "tags": [
-          "apple"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-10 06:51:13 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1268,5 +1229,18 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-09-17 03:05:08 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 1243,
+    "feeds": {
+      "ddg": {
+        "skipped": true
+      }
+    },
+    "posts": []
   }
 ]
