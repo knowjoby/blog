@@ -1,7 +1,51 @@
 {
-  "updated_at_utc": "2026-09-16T21:35:08.415262+00:00",
-  "pending_count": 1243,
+  "updated_at_utc": "2026-09-17T00:14:33.178290+00:00",
+  "pending_count": 1214,
   "pending": [
+    {
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "score": 18,
+      "fetched_at": "2026-09-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "score": 18,
+      "fetched_at": "2026-09-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Apple might make servers again to cash in on the AI rush",
       "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
@@ -13623,378 +13667,6 @@
       "topics": [
         "coding"
       ]
-    },
-    {
-      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "score": 49,
-      "fetched_at": "2026-09-02",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "score": 49,
-      "fetched_at": "2026-09-02",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "score": 42,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "This new Roomba seals itself to your carpet",
-      "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-      "score": 39,
-      "fetched_at": "2026-09-02",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "score": 35,
-      "fetched_at": "2026-09-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ]
-    },
-    {
-      "title": "The robot butler dream doesn’t have legs",
-      "url": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
-      "score": 33,
-      "fetched_at": "2026-09-02",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "score": 32,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "score": 32,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ]
-    },
-    {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "score": 30,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "score": 30,
-      "fetched_at": "2026-09-02",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "score": 26,
-      "fetched_at": "2026-09-02",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "robotics"
-      ]
-    },
-    {
-      "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-      "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "VentureBeat",
-      "companies": [
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
-      "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "VentureBeat",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "score": 24,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "score": 20,
-      "fetched_at": "2026-09-02",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
-      "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "VentureBeat",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Data science workflows with ChatGPT Work",
-      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "score": 18,
-      "fetched_at": "2026-09-02",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "score": 11,
-      "fetched_at": "2026-09-02",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "score": 10,
-      "fetched_at": "2026-09-02",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": []
     }
   ]
 }
