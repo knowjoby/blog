@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-17T19:11:26.434131+00:00",
-  "pending_count": 1251,
+  "updated_at_utc": "2026-09-17T22:22:47.845128+00:00",
+  "pending_count": 1255,
   "pending": [
     {
       "title": "Inside the suddenly explosive world of AI safety",
@@ -61,6 +61,17 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "score": 31,
+      "fetched_at": "2026-09-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -127,6 +138,17 @@
       "source": "TechCrunch",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -285,11 +307,33 @@
       "topics": []
     },
     {
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "The EU Wants to Break Up Kids and Their Chatbots",
       "url": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
       "score": 18,
       "fetched_at": "2026-09-17",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "score": 18,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],

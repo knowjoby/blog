@@ -2031,6 +2031,19 @@
       "topic": "ai"
     },
     {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "score": 31,
+      "fetched_at": "2026-09-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Google\u2019s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
       "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
       "score": 30,
@@ -8419,6 +8432,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13018,6 +13057,19 @@
       "score": 18,
       "fetched_at": "2026-09-17",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "score": 18,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -20465,6 +20517,18 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "score": 67,
+      "file": "_posts/2026-09-17-claude-code-relaunches-projects-to-manage-multiple-ai-agents-in-the-cl.md",
+      "posted_at": "2026-09-17",
+      "companies": [
+        "anthropic",
+        "xai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21635,8 +21699,8 @@
     },
     {
       "date": "2026-09-17",
-      "posts": 4,
-      "items_processed": 13206,
+      "posts": 5,
+      "items_processed": 15412,
       "estimated_tokens": 0
     }
   ]

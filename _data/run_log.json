@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-11 03:18:55 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 0,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2187,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-11 05:23:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1271,6 +1249,38 @@
           "openai",
           "anthropic",
           "nvidia"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-18 03:52:47 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 2206,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+        "file": "_posts/2026-09-17-claude-code-relaunches-projects-to-manage-multiple-ai-agents-in-the-cl.md",
+        "score": 67,
+        "tags": [
+          "anthropic",
+          "xai"
         ]
       }
     ]
