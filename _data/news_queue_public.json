@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-17T13:03:22.869195+00:00",
-  "pending_count": 1246,
+  "updated_at_utc": "2026-09-17T15:13:33.836835+00:00",
+  "pending_count": 1250,
   "pending": [
     {
       "title": "Inside the suddenly explosive world of AI safety",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "score": 48,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "nvidia"
       ],
       "topics": []
     },
@@ -52,6 +64,17 @@
       ]
     },
     {
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "score": 30,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "score": 30,
@@ -91,6 +114,17 @@
       "score": 24,
       "fetched_at": "2026-09-17",
       "source": "VentureBeat",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "score": 24,
+      "fetched_at": "2026-09-17",
+      "source": "TechCrunch",
       "companies": [
         "meta"
       ],
@@ -352,6 +386,17 @@
     {
       "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
       "url": "https://openai.com/index/asana",
+      "score": 18,
+      "fetched_at": "2026-09-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
       "score": 18,
       "fetched_at": "2026-09-17",
       "source": "OpenAI",
