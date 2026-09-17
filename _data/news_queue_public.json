@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-17T05:11:07.788213+00:00",
-  "pending_count": 1235,
+  "updated_at_utc": "2026-09-17T10:18:59.233107+00:00",
+  "pending_count": 1236,
   "pending": [
     {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
@@ -134,6 +134,17 @@
       "score": 24,
       "fetched_at": "2026-09-17",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The EU Wants to Break Up Kids and Their Chatbots",
+      "url": "https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/",
+      "score": 18,
+      "fetched_at": "2026-09-17",
+      "source": "Wired",
       "companies": [
         "openai"
       ],
