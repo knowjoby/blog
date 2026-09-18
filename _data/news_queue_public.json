@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-18T18:13:34.837202+00:00",
-  "pending_count": 1254,
+  "updated_at_utc": "2026-09-18T21:08:59.315960+00:00",
+  "pending_count": 1257,
   "pending": [
     {
       "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
@@ -13,6 +13,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "score": 39,
+      "fetched_at": "2026-09-18",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
@@ -284,6 +295,17 @@
       "topics": []
     },
     {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "score": 18,
+      "fetched_at": "2026-09-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Safety and alignment in an era of long-horizon models",
       "url": "https://openai.com/index/safety-alignment-long-horizon-models",
       "score": 18,
@@ -348,6 +370,18 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "score": 16,
+      "fetched_at": "2026-09-18",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "open_source",
+        "china"
+      ]
     },
     {
       "title": "The Leftist Split Over AI Doom",

@@ -784,6 +784,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "score": 39,
+      "fetched_at": "2026-09-18",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -13058,6 +13071,19 @@
       "topic": ""
     },
     {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "score": 18,
+      "fetched_at": "2026-09-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -13525,6 +13551,20 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "score": 16,
+      "fetched_at": "2026-09-18",
+      "source": "Ars Technica",
+      "companies": [],
+      "topics": [
+        "open_source",
+        "china"
+      ],
+      "company": "",
+      "topic": "open_source"
     },
     {
       "title": "Tesla\u2019s Cybercab Officially Launches Today. It\u2019s Already Under Investigation",
@@ -21686,7 +21726,7 @@
     {
       "date": "2026-09-18",
       "posts": 0,
-      "items_processed": 13242,
+      "items_processed": 15449,
       "estimated_tokens": 0
     }
   ]
