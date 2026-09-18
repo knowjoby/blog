@@ -352,6 +352,20 @@
       "topic": ""
     },
     {
+      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "score": 48,
+      "fetched_at": "2026-09-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
       "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "score": 46,
@@ -3025,6 +3039,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s Copyright System Is Being Weaponized Against Albanian Protesters",
+      "url": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
+      "score": 30,
+      "fetched_at": "2026-09-18",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -21581,7 +21608,7 @@
     {
       "date": "2026-09-18",
       "posts": 0,
-      "items_processed": 8828,
+      "items_processed": 11035,
       "estimated_tokens": 0
     }
   ]

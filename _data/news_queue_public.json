@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-09-18T12:43:28.366342+00:00",
-  "pending_count": 1246,
+  "updated_at_utc": "2026-09-18T14:54:00.924681+00:00",
+  "pending_count": 1248,
   "pending": [
+    {
+      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "score": 48,
+      "fetched_at": "2026-09-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
       "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
@@ -26,6 +38,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
+      "url": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
+      "score": 30,
+      "fetched_at": "2026-09-18",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
