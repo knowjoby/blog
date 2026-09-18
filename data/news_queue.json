@@ -961,6 +961,20 @@
       "topic": ""
     },
     {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "score": 36,
+      "fetched_at": "2026-09-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -13746,6 +13760,19 @@
       "topic": "agentic"
     },
     {
+      "title": "The Leftist Split Over AI Doom",
+      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "score": 14,
+      "fetched_at": "2026-09-18",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -21554,7 +21581,7 @@
     {
       "date": "2026-09-18",
       "posts": 0,
-      "items_processed": 4414,
+      "items_processed": 6621,
       "estimated_tokens": 0
     }
   ]

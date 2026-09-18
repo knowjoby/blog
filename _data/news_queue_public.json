@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-09-18T05:42:32.615701+00:00",
-  "pending_count": 1244,
+  "updated_at_utc": "2026-09-18T10:56:13.116662+00:00",
+  "pending_count": 1246,
   "pending": [
+    {
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "score": 36,
+      "fetched_at": "2026-09-18",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
       "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
@@ -247,6 +259,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The Leftist Split Over AI Doom",
+      "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "score": 14,
+      "fetched_at": "2026-09-18",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Google announces new experimental \"CC\" AI agent for families",
