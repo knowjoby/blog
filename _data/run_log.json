@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-12 19:48:16 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2190,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-12 22:52:55 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1275,5 +1253,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-19 21:53:30 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2209,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "The AI regulation smackdown isn’t over",
+        "file": "_posts/2026-09-19-the-ai-regulation-smackdown-isnt-over.md",
+        "score": 60,
+        "tags": [
+          "anthropic",
+          "regulation"
+        ]
+      }
+    ]
   }
 ]

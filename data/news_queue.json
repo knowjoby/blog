@@ -254,6 +254,19 @@
       "topic": ""
     },
     {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "score": 49,
+      "fetched_at": "2026-09-19",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -20429,6 +20442,19 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "The AI regulation smackdown isn\u2019t over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "score": 60,
+      "file": "_posts/2026-09-19-the-ai-regulation-smackdown-isnt-over.md",
+      "posted_at": "2026-09-19",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -21611,8 +21637,8 @@
     },
     {
       "date": "2026-09-19",
-      "posts": 0,
-      "items_processed": 8835,
+      "posts": 1,
+      "items_processed": 11044,
       "estimated_tokens": 0
     }
   ]
