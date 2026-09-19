@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "score": 49,
+      "fetched_at": "2026-09-19",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -21651,7 +21664,7 @@
     {
       "date": "2026-09-19",
       "posts": 1,
-      "items_processed": 13253,
+      "items_processed": 15462,
       "estimated_tokens": 0
     }
   ]
