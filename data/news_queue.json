@@ -8305,6 +8305,19 @@
       "topic": ""
     },
     {
+      "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "score": 24,
+      "fetched_at": "2026-09-19",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -21638,7 +21651,7 @@
     {
       "date": "2026-09-19",
       "posts": 1,
-      "items_processed": 11044,
+      "items_processed": 13253,
       "estimated_tokens": 0
     }
   ]
