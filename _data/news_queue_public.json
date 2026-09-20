@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-20T16:24:43.789093+00:00",
-  "pending_count": 1245,
+  "updated_at_utc": "2026-09-20T18:59:23.643143+00:00",
+  "pending_count": 1246,
   "pending": [
+    {
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "score": 49,
+      "fetched_at": "2026-09-20",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",

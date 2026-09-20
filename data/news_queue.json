@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "score": 49,
+      "fetched_at": "2026-09-20",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -21590,7 +21603,7 @@
     {
       "date": "2026-09-20",
       "posts": 0,
-      "items_processed": 11045,
+      "items_processed": 13254,
       "estimated_tokens": 0
     }
   ]
