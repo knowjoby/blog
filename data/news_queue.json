@@ -2985,6 +2985,19 @@
       "topic": ""
     },
     {
+      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "score": 30,
+      "fetched_at": "2026-09-20",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -12897,6 +12910,19 @@
       "topic": ""
     },
     {
+      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here\u2019s How to Change That",
+      "url": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+      "score": 18,
+      "fetched_at": "2026-09-20",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -21551,7 +21577,7 @@
     {
       "date": "2026-09-20",
       "posts": 0,
-      "items_processed": 4418,
+      "items_processed": 6627,
       "estimated_tokens": 0
     }
   ]
