@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-14 02:33:32 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2190,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "file": "_posts/2026-09-13-trump-and-mike-johnson-think-the-ai-industry-is-overreacting.md",
-        "score": 79,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-14 04:52:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1282,6 +1249,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-21 02:58:11 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2209,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
