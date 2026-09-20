@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-20T12:09:52.498552+00:00",
-  "pending_count": 1244,
+  "updated_at_utc": "2026-09-20T12:51:55.578393+00:00",
+  "pending_count": 1245,
   "pending": [
     {
       "title": "Running Codex safely at OpenAI",
@@ -14,6 +14,17 @@
       "topics": [
         "agentic",
         "coding"
+      ]
+    },
+    {
+      "title": "A24’s reputation is on the line with the SCP Foundation movie",
+      "url": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+      "score": 34,
+      "fetched_at": "2026-09-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
