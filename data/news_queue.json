@@ -1930,6 +1930,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "score": 32,
+      "fetched_at": "2026-09-21",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "The AI Superintelligence Slowdown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "score": 31,
@@ -8325,6 +8340,19 @@
       "score": 24,
       "fetched_at": "2026-09-21",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "score": 24,
+      "fetched_at": "2026-09-21",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -21705,7 +21733,7 @@
     {
       "date": "2026-09-21",
       "posts": 1,
-      "items_processed": 11054,
+      "items_processed": 13269,
       "estimated_tokens": 0
     }
   ]

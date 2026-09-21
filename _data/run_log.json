@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-09-15 04:10:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 8,
-    "posts_created": 2,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 8
-      },
-      "rss": {
-        "raw": 2192,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 8
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "file": "_posts/2026-09-14-nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdo.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "anthropic",
-          "nvidia"
-        ]
-      },
-      {
-        "title": "Apple Home’s new security camera features cost up to $60 a month",
-        "file": "_posts/2026-09-14-apple-homes-new-security-camera-features-cost-up-to-60-a-month.md",
-        "score": 55,
-        "tags": [
-          "apple"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-15 06:47:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1276,5 +1235,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-09-22 04:40:49 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 0,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2215,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": []
   }
 ]

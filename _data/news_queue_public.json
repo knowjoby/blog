@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-21T19:56:44.972018+00:00",
-  "pending_count": 1252,
+  "updated_at_utc": "2026-09-21T23:10:49.623027+00:00",
+  "pending_count": 1254,
   "pending": [
     {
       "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
@@ -65,6 +65,19 @@
       ]
     },
     {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "score": 32,
+      "fetched_at": "2026-09-21",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Introducing the OpenAI Economic Research Exchange",
       "url": "https://openai.com/index/introducing-the-openai-economic-research-exchange",
       "score": 30,
@@ -100,6 +113,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "score": 24,
+      "fetched_at": "2026-09-21",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
