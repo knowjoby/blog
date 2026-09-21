@@ -280,6 +280,19 @@
       "topic": ""
     },
     {
+      "title": "iPhone owners can now submit claims in Apple\u2019s $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "score": 49,
+      "fetched_at": "2026-09-21",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -482,6 +495,19 @@
       "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "score": 43,
       "fetched_at": "2026-09-16",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+      "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+      "score": 43,
+      "fetched_at": "2026-09-21",
       "source": "The Verge",
       "companies": [
         "nvidia"
@@ -8235,6 +8261,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s $899 Googlebook is a bet that you\u2019ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "score": 24,
+      "fetched_at": "2026-09-21",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -21583,7 +21622,7 @@
     {
       "date": "2026-09-21",
       "posts": 0,
-      "items_processed": 4418,
+      "items_processed": 6629,
       "estimated_tokens": 0
     }
   ]

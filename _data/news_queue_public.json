@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-09-21T07:49:37.858036+00:00",
-  "pending_count": 1244,
+  "updated_at_utc": "2026-09-21T14:51:17.054670+00:00",
+  "pending_count": 1247,
   "pending": [
+    {
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "score": 49,
+      "fetched_at": "2026-09-21",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The M5 Ultra Mac Studio tears through our benchmark tests",
+      "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
+      "score": 43,
+      "fetched_at": "2026-09-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
@@ -52,6 +74,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "score": 24,
+      "fetched_at": "2026-09-21",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
