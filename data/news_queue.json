@@ -1915,6 +1915,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "score": 32,
+      "fetched_at": "2026-09-21",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "The AI Superintelligence Slowdown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "score": 31,
@@ -3919,6 +3934,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "score": 26,
+      "fetched_at": "2026-09-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
@@ -8274,6 +8304,32 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google confirms Gemini models hacked three companies in May 2026",
+      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "score": 24,
+      "fetched_at": "2026-09-21",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "score": 24,
+      "fetched_at": "2026-09-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -12951,6 +13007,19 @@
     {
       "title": "Inside our approach to the Model Spec",
       "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "score": 18,
+      "fetched_at": "2026-09-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "score": 18,
       "fetched_at": "2026-09-21",
       "source": "OpenAI",
@@ -20427,6 +20496,20 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Meta\u2019s Muse is outpacing ChatGPT\u2019s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "score": 56,
+      "file": "_posts/2026-09-21-metas-muse-is-outpacing-chatgpts-early-mobile-launch.md",
+      "posted_at": "2026-09-21",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -21621,8 +21704,8 @@
     },
     {
       "date": "2026-09-21",
-      "posts": 0,
-      "items_processed": 8840,
+      "posts": 1,
+      "items_processed": 11054,
       "estimated_tokens": 0
     }
   ]
