@@ -280,6 +280,32 @@
       "topic": ""
     },
     {
+      "title": "These discreet hearing aid glasses now have better voice boosting and battery life",
+      "url": "https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses",
+      "score": 49,
+      "fetched_at": "2026-09-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Can you forget how you feel about Meta?",
+      "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+      "score": 49,
+      "fetched_at": "2026-09-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -495,6 +521,19 @@
       "url": "https://www.theverge.com/tech/998040/apple-mac-studio-m5-ultra-initial-impressions-testing-review",
       "score": 43,
       "fetched_at": "2026-09-21",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "It\u2019s time for the Mac Neo",
+      "url": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+      "score": 43,
+      "fetched_at": "2026-09-22",
       "source": "The Verge",
       "companies": [
         "nvidia"
@@ -3334,6 +3373,20 @@
       ],
       "topics": [],
       "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "score": 28,
+      "fetched_at": "2026-09-22",
+      "source": "Hugging Face",
+      "companies": [
+        "meta",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -8362,6 +8415,19 @@
       "topic": ""
     },
     {
+      "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+      "url": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+      "score": 24,
+      "fetched_at": "2026-09-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13058,6 +13124,19 @@
       ],
       "company": "huggingface",
       "topic": "agentic"
+    },
+    {
+      "title": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
     },
     {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
@@ -20539,6 +20618,33 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Don\u2019t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "score": 64,
+      "file": "_posts/2026-09-22-dont-be-fooled-by-this-summer-of-ai-hype.md",
+      "posted_at": "2026-09-22",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "score": 57,
+      "file": "_posts/2026-09-22-meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent.md",
+      "posted_at": "2026-09-22",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -21739,8 +21845,8 @@
     },
     {
       "date": "2026-09-22",
-      "posts": 0,
-      "items_processed": 4431,
+      "posts": 2,
+      "items_processed": 6648,
       "estimated_tokens": 0
     }
   ]
