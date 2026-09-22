@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-09-15 23:04:57 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 2,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2192,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-        "file": "_posts/2026-09-15-openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks.md",
-        "score": 72,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google"
-        ]
-      },
-      {
-        "title": "Meta’s new One subscriptions put a price on social media and AI",
-        "file": "_posts/2026-09-15-metas-new-one-subscriptions-put-a-price-on-social-media-and-ai.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-16 02:35:17 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1256,5 +1215,47 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-22 23:12:48 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 2,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2219,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+        "file": "_posts/2026-09-22-andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partn.md",
+        "score": 100,
+        "tags": [
+          "openai",
+          "anthropic",
+          "meta",
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "file": "_posts/2026-09-22-anthropic-launches-claude-opus-55-with-stricter-safeguards-for-cyberse.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

@@ -1012,6 +1012,20 @@
       "topic": ""
     },
     {
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "score": 36,
+      "fetched_at": "2026-09-22",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -1975,6 +1989,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "score": 31,
       "fetched_at": "2026-09-17",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Trump says the US is officially renaming AI to \u2018super intelligence\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "score": 31,
+      "fetched_at": "2026-09-22",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -3116,6 +3143,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "score": 30,
+      "fetched_at": "2026-09-22",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -13139,6 +13179,19 @@
       "topic": ""
     },
     {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -13958,6 +14011,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Rabbit Is Back, This Time With an AI Agent App",
+      "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+      "score": 14,
+      "fetched_at": "2026-09-22",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -20645,6 +20711,31 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "score": 100,
+      "file": "_posts/2026-09-22-andreessen-horowitz-is-launching-an-academy-with-no-homework-and-partn.md",
+      "posted_at": "2026-09-22",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "score": 55,
+      "file": "_posts/2026-09-22-anthropic-launches-claude-opus-55-with-stricter-safeguards-for-cyberse.md",
+      "posted_at": "2026-09-22",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21845,8 +21936,8 @@
     },
     {
       "date": "2026-09-22",
-      "posts": 2,
-      "items_processed": 8865,
+      "posts": 4,
+      "items_processed": 11084,
       "estimated_tokens": 0
     }
   ]
