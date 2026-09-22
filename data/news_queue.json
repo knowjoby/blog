@@ -378,6 +378,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "score": 48,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
       "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
       "score": 46,
@@ -1336,6 +1350,20 @@
       "topic": "ai"
     },
     {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "score": 34,
+      "fetched_at": "2026-09-22",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "score": 33,
@@ -1887,6 +1915,21 @@
       ],
       "company": "meta",
       "topic": "agentic"
+    },
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "score": 32,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -3011,6 +3054,32 @@
       "topic": ""
     },
     {
+      "title": "Meta Quest Promo Codes and Coupons for September 2026",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "score": 30,
+      "fetched_at": "2026-09-22",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "score": 30,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Inside Mirakl's agentic commerce vision",
       "url": "https://openai.com/index/mirakl",
       "score": 29,
@@ -3251,6 +3320,20 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "score": 28,
+      "fetched_at": "2026-09-22",
+      "source": "Hugging Face",
+      "companies": [
+        "apple",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "apple",
       "topic": ""
     },
     {
@@ -3880,6 +3963,21 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "score": 26,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
@@ -8230,6 +8328,32 @@
       "score": 24,
       "fetched_at": "2026-09-21",
       "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "score": 24,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "score": 24,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
       "companies": [
         "openai"
       ],
@@ -12685,6 +12809,255 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT Sites",
+      "url": "https://openai.com/academy/chatgpt-sites",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AI is becoming a first hire for small businesses",
+      "url": "https://openai.com/index/ai-first-hire-small-business",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Everyday work with ChatGPT Work",
+      "url": "https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT for operations teams",
+      "url": "https://openai.com/academy/operations",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AI fundamentals",
+      "url": "https://openai.com/academy/what-is-ai",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Writing with ChatGPT",
+      "url": "https://openai.com/academy/writing",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT for research",
+      "url": "https://openai.com/academy/research",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Using skills",
+      "url": "https://openai.com/academy/skills",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Personalizing ChatGPT",
+      "url": "https://openai.com/academy/personalization",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Creating images with ChatGPT",
+      "url": "https://openai.com/academy/image-generation",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "score": 18,
+      "fetched_at": "2026-09-22",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "huggingface",
+      "topic": "agentic"
     },
     {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
@@ -21367,7 +21740,7 @@
     {
       "date": "2026-09-22",
       "posts": 0,
-      "items_processed": 2215,
+      "items_processed": 4431,
       "estimated_tokens": 0
     }
   ]
