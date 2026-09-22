@@ -1430,6 +1430,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "score": 33,
+      "fetched_at": "2026-09-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "score": 32,
@@ -3156,6 +3169,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "score": 30,
+      "fetched_at": "2026-09-22",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -8465,6 +8491,32 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "score": 24,
+      "fetched_at": "2026-09-22",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "score": 24,
+      "fetched_at": "2026-09-22",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -20736,6 +20788,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "score": 51,
+      "file": "_posts/2026-09-22-score-free-pixel-buds-2a-when-you-preorder-a-googlebook-at-best-buy.md",
+      "posted_at": "2026-09-22",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -21936,8 +22001,8 @@
     },
     {
       "date": "2026-09-22",
-      "posts": 4,
-      "items_processed": 11084,
+      "posts": 5,
+      "items_processed": 13305,
       "estimated_tokens": 0
     }
   ]
