@@ -1,56 +1,5 @@
 [
   {
-    "ran_at": "2026-09-16 23:50:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 10,
-    "posts_created": 3,
-    "queued": 7,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 10
-      },
-      "rss": {
-        "raw": 2195,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 10
-      }
-    },
-    "posts": [
-      {
-        "title": "Claude comes for Gemini with its own take on Docs and Slides",
-        "file": "_posts/2026-09-16-claude-comes-for-gemini-with-its-own-take-on-docs-and-slides.md",
-        "score": 67,
-        "tags": [
-          "anthropic",
-          "google"
-        ]
-      },
-      {
-        "title": "Google will now let any AI agent run your smart home",
-        "file": "_posts/2026-09-16-google-will-now-let-any-ai-agent-run-your-smart-home.md",
-        "score": 51,
-        "tags": [
-          "anthropic",
-          "agentic"
-        ]
-      },
-      {
-        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "file": "_posts/2026-09-16-robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-wh.md",
-        "score": 50,
-        "tags": [
-          "openai",
-          "nvidia",
-          "robotics"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-17 03:05:08 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1266,6 +1215,47 @@
         "score": 55,
         "tags": [
           "anthropic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-24 03:38:51 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 2,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2232,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+        "file": "_posts/2026-09-23-microsofts-new-surface-mouse-has-haptic-feedback-and-a-customizable-ac.md",
+        "score": 63,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      },
+      {
+        "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+        "file": "_posts/2026-09-23-metas-ai-agent-is-a-cute-little-guy-whos-great-at-spending-my-money.md",
+        "score": 57,
+        "tags": [
+          "meta",
+          "agentic"
         ]
       }
     ]
