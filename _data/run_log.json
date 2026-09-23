@@ -1,40 +1,5 @@
 [
   {
-    "ran_at": "2026-09-16 18:39:31 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2192,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "A brief history of AI executives calling for regulation",
-        "file": "_posts/2026-09-16-a-brief-history-of-ai-executives-calling-for-regulation.md",
-        "score": 100,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google",
-          "microsoft",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-16 19:49:02 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1273,5 +1238,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-09-23 19:51:20 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2225,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
   }
 ]
