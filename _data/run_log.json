@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-16 19:49:02 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2193,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-16 23:50:36 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 10,
@@ -1260,5 +1238,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-24 00:02:38 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 2227,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
+        "file": "_posts/2026-09-23-anthropics-biolab-made-a-discovery-its-comparing-to-crispr.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]

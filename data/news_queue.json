@@ -3192,6 +3192,21 @@
       "topic": "coding"
     },
     {
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "score": 29,
+      "fetched_at": "2026-09-23",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Superintelligence is coming. Should we let it?",
       "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
       "score": 28,
@@ -8437,6 +8452,32 @@
       "topic": ""
     },
     {
+      "title": "Ringg\u2019s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -13122,6 +13163,19 @@
       "topic": ""
     },
     {
+      "title": "YouTube will let you build your own algorithm with AI",
+      "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "score": 18,
+      "fetched_at": "2026-09-23",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
       "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
       "score": 17,
@@ -13954,6 +14008,19 @@
       ],
       "company": "",
       "topic": "open_source"
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "score": 14,
+      "fetched_at": "2026-09-23",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -20688,6 +20755,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic\u2019s biolab made a discovery it\u2019s comparing to Crispr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "score": 55,
+      "file": "_posts/2026-09-23-anthropics-biolab-made-a-discovery-its-comparing-to-crispr.md",
+      "posted_at": "2026-09-23",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21894,8 +21972,8 @@
     },
     {
       "date": "2026-09-23",
-      "posts": 2,
-      "items_processed": 8894,
+      "posts": 3,
+      "items_processed": 11121,
       "estimated_tokens": 0
     }
   ]
