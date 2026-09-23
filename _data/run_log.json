@@ -1,18 +1,5 @@
 [
   {
-    "ran_at": "2026-09-16 05:07:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 1250,
-    "feeds": {
-      "ddg": {
-        "skipped": true
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-16 09:47:38 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1252,6 +1239,37 @@
         "tags": [
           "microsoft",
           "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-23 09:44:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2222,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "file": "_posts/2026-09-23-openai-wants-to-consult-elite-mathematicians-about-how-to-not-fumble-a.md",
+        "score": 55,
+        "tags": [
+          "openai"
         ]
       }
     ]
