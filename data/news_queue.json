@@ -3104,6 +3104,19 @@
       "topic": ""
     },
     {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "score": 30,
+      "fetched_at": "2026-09-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -8374,6 +8387,45 @@
     {
       "title": "Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code",
       "url": "https://huggingface.co/blog/optimum-nvidia",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
       "score": 24,
       "fetched_at": "2026-09-23",
       "source": "Hugging Face",
@@ -20625,6 +20677,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+      "score": 55,
+      "file": "_posts/2026-09-23-openai-nabs-key-patreon-execs-ahead-of-upcoming-announcement.md",
+      "posted_at": "2026-09-23",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -21831,8 +21894,8 @@
     },
     {
       "date": "2026-09-23",
-      "posts": 1,
-      "items_processed": 4444,
+      "posts": 2,
+      "items_processed": 6669,
       "estimated_tokens": 0
     }
   ]

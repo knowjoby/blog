@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-23T09:27:40.386626+00:00",
-  "pending_count": 1255,
+  "updated_at_utc": "2026-09-23T13:21:54.772408+00:00",
+  "pending_count": 1259,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -1234,6 +1234,17 @@
       "topics": []
     },
     {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "score": 30,
+      "fetched_at": "2026-09-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Building more with GPT-5.1-Codex-Max",
       "url": "https://openai.com/index/gpt-5-1-codex-max",
       "score": 30,
@@ -1916,6 +1927,17 @@
       ]
     },
     {
+      "title": "Meta’s Muse AI Assistant Rolled Out With a Serious Security Flaw",
+      "url": "https://www.wired.com/story/metas-muse-ai-agent-zero-day/",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI o1 Contributions",
       "url": "https://openai.com/openai-o1-contributions",
       "score": 24,
@@ -2589,6 +2611,17 @@
     {
       "title": "OpenAI Fellows Fall 2018: Final projects",
       "url": "https://openai.com/index/openai-fellows-fall-2018",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "score": 24,
       "fetched_at": "2026-09-23",
       "source": "OpenAI",
@@ -3843,6 +3876,17 @@
     {
       "title": "Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code",
       "url": "https://huggingface.co/blog/optimum-nvidia",
+      "score": 24,
+      "fetched_at": "2026-09-23",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
       "score": 24,
       "fetched_at": "2026-09-23",
       "source": "Hugging Face",
