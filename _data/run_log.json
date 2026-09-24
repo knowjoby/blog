@@ -1,18 +1,5 @@
 [
   {
-    "ran_at": "2026-09-17 03:05:08 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 1243,
-    "feeds": {
-      "ddg": {
-        "skipped": true
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-17 05:44:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 6,
@@ -1256,6 +1243,72 @@
         "tags": [
           "meta",
           "agentic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-24 06:16:19 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 12,
+    "posts_created": 5,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 12
+      },
+      "rss": {
+        "raw": 2232,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 12
+      }
+    },
+    "posts": [
+      {
+        "title": "Muse is coming to Meta smart glasses",
+        "file": "_posts/2026-09-24-muse-is-coming-to-meta-smart-glasses.md",
+        "score": 63,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+        "file": "_posts/2026-09-24-meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it.md",
+        "score": 63,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Meta is making a standalone Muse AI gadget",
+        "file": "_posts/2026-09-24-meta-is-making-a-standalone-muse-ai-gadget.md",
+        "score": 57,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+        "file": "_posts/2026-09-24-metas-next-vr-device-isnt-a-headset-its-glasses.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      },
+      {
+        "title": "Meta Connect 2026: The biggest news and announcements",
+        "file": "_posts/2026-09-24-meta-connect-2026-the-biggest-news-and-announcements.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]
