@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-18 00:41:26 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2205,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-        "file": "_posts/2026-09-17-the-ai-slowdown-debate-crashed-salesforces-party.md",
-        "score": 54,
-        "tags": [
-          "openai",
-          "anthropic",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-18 03:52:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1226,6 +1193,19 @@
   },
   {
     "ran_at": "2026-09-25 01:49:11 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 1232,
+    "feeds": {
+      "ddg": {
+        "skipped": true
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-25 04:49:59 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
