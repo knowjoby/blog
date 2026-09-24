@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-17 20:43:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2205,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-        "file": "_posts/2026-09-17-microsoft-ai-ceo-says-ai-threats-are-real-and-anthropic-is-making-it-w.md",
-        "score": 87,
-        "tags": [
-          "anthropic",
-          "microsoft",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-18 00:41:26 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1246,6 +1213,19 @@
   },
   {
     "ran_at": "2026-09-24 22:23:31 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 1232,
+    "feeds": {
+      "ddg": {
+        "skipped": true
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-09-25 01:49:11 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
