@@ -1,47 +1,5 @@
 [
   {
-    "ran_at": "2026-09-17 05:44:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 2,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2197,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-        "file": "_posts/2026-09-17-snap-is-launching-a-new-specs-ai-tool-and-its-coming-to-ios-and-mac.md",
-        "score": 67,
-        "tags": [
-          "google",
-          "meta"
-        ]
-      },
-      {
-        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-        "file": "_posts/2026-09-17-anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really.md",
-        "score": 62,
-        "tags": [
-          "openai",
-          "anthropic",
-          "regulation"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-17 10:41:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 21,
@@ -1312,5 +1270,18 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-09-24 11:27:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 1232,
+    "feeds": {
+      "ddg": {
+        "skipped": true
+      }
+    },
+    "posts": []
   }
 ]
