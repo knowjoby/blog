@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-18 11:12:32 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 24,
-    "posts_created": 0,
-    "queued": 24,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 24
-      },
-      "rss": {
-        "raw": 2207,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 24
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-18 16:26:13 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1233,5 +1211,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-25 18:25:26 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2234,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "file": "_posts/2026-09-25-microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-o.md",
+        "score": 63,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
