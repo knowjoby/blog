@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-09-18 03:52:47 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2206,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "file": "_posts/2026-09-17-claude-code-relaunches-projects-to-manage-multiple-ai-agents-in-the-cl.md",
-        "score": 67,
-        "tags": [
-          "anthropic",
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-18 06:11:52 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1216,5 +1184,54 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-25 07:17:00 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 42,
+    "posts_created": 3,
+    "queued": 8,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 42
+      },
+      "rss": {
+        "raw": 1366,
+        "feeds_total": 10,
+        "feeds_ok": 8,
+        "feeds_failed": 2,
+        "candidates": 42
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+        "file": "_posts/2026-09-25-microsoft-is-killing-off-the-copilot-plus-pc-brand.md",
+        "score": 57,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      },
+      {
+        "title": "Muse sure looks a lot like OpenClaw",
+        "file": "_posts/2026-09-25-muse-sure-looks-a-lot-like-openclaw.md",
+        "score": 57,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Meta is going to let you build games with AI right on your phone",
+        "file": "_posts/2026-09-25-meta-is-going-to-let-you-build-games-with-ai-right-on-your-phone.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]
