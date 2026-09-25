@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-25T01:47:00.955536+00:00",
-  "pending_count": 1240,
+  "updated_at_utc": "2026-09-25T07:27:31.537062+00:00",
+  "pending_count": 1262,
   "pending": [
     {
       "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
@@ -47,6 +47,19 @@
       "topics": []
     },
     {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "score": 41,
+      "fetched_at": "2026-09-25",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
       "title": "Warp’s big bet on building open source with GPT-5.5",
       "url": "https://openai.com/index/warp",
       "score": 40,
@@ -58,6 +71,57 @@
       "topics": [
         "coding",
         "open_source"
+      ]
+    },
+    {
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "score": 38,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "score": 36,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "amazon"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "score": 35,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "score": 35,
+      "fetched_at": "2026-09-25",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -109,6 +173,53 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "score": 30,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "score": 30,
+      "fetched_at": "2026-09-25",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "score": 28,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "score": 26,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -205,8 +316,30 @@
       "topics": []
     },
     {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "score": 24,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "score": 24,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
       "score": 24,
       "fetched_at": "2026-09-25",
       "source": "OpenAI",
@@ -238,6 +371,17 @@
       "topics": []
     },
     {
+      "title": "Introducing ChatGPT for Financial Services",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "score": 24,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
       "url": "https://openai.com/index/introducing-admin-plugin",
       "score": 24,
@@ -254,6 +398,17 @@
       "score": 24,
       "fetched_at": "2026-09-25",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "score": 24,
+      "fetched_at": "2026-09-25",
+      "source": "Hugging Face",
       "companies": [
         "openai"
       ],
@@ -284,6 +439,17 @@
     {
       "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
       "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "score": 18,
       "fetched_at": "2026-09-25",
       "source": "OpenAI",
@@ -337,6 +503,28 @@
       "topics": []
     },
     {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "url": "https://openai.com/index/jalapeno-first-results",
       "score": 18,
@@ -348,8 +536,30 @@
       "topics": []
     },
     {
+      "title": "How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
       "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
       "score": 18,
       "fetched_at": "2026-09-25",
       "source": "OpenAI",
@@ -392,8 +602,30 @@
       "topics": []
     },
     {
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "What building an AI-native finance function taught me",
       "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
       "score": 18,
       "fetched_at": "2026-09-25",
       "source": "OpenAI",
@@ -410,6 +642,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "score": 18,
+      "fetched_at": "2026-09-25",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -445,6 +688,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "score": 10,
+      "fetched_at": "2026-09-25",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
