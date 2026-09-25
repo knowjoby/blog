@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-25T13:15:38.067094+00:00",
-  "pending_count": 1262,
+  "updated_at_utc": "2026-09-25T17:52:05.419349+00:00",
+  "pending_count": 1270,
   "pending": [
     {
       "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
@@ -21,6 +21,28 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Phones don’t have lights",
+      "url": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
+      "score": 49,
+      "fetched_at": "2026-09-25",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "score": 49,
+      "fetched_at": "2026-09-25",
+      "source": "The Verge",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -138,6 +160,32 @@
       ]
     },
     {
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "score": 32,
+      "fetched_at": "2026-09-25",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "score": 32,
+      "fetched_at": "2026-09-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Everything new coming to Meta’s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "score": 32,
@@ -195,6 +243,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Tesla’s Optimus robot is going through growing pains",
+      "url": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+      "score": 29,
+      "fetched_at": "2026-09-25",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "The Hugging Face incident and the road ahead",
@@ -268,6 +327,28 @@
       "source": "Wired",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+      "score": 24,
+      "fetched_at": "2026-09-25",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "score": 24,
+      "fetched_at": "2026-09-25",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
@@ -665,6 +746,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
+      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
+      "score": 11,
+      "fetched_at": "2026-09-25",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {

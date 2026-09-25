@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-18 18:13:28 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2207,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-18 20:24:00 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1243,5 +1221,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-25 23:22:05 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 9,
+    "posts_created": 1,
+    "queued": 8,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 9
+      },
+      "rss": {
+        "raw": 2235,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 9
+      }
+    },
+    "posts": [
+      {
+        "title": "One company is at the center of a wave of rogue AI attacks",
+        "file": "_posts/2026-09-25-one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks.md",
+        "score": 89,
+        "tags": [
+          "openai",
+          "anthropic",
+          "meta",
+          "huggingface"
+        ]
+      }
+    ]
   }
 ]
