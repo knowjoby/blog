@@ -20,19 +20,6 @@
       "topic": ""
     },
     {
-      "title": "Meta says it\u2019s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "score": 49,
-      "fetched_at": "2026-09-11",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "OpenAI just wants to win",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
       "score": 49,
@@ -418,19 +405,6 @@
       ],
       "topics": [],
       "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta may have leaked the first look at its slim \u2018Project Phoenix\u2019 headset",
-      "url": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
-      "score": 45,
-      "fetched_at": "2026-09-11",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
       "topic": ""
     },
     {
@@ -1473,21 +1447,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Introducing Intelligence Age",
-      "url": "https://openai.com/index/introducing-intelligence-age",
-      "score": 32,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -2058,6 +2017,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "score": 32,
+      "fetched_at": "2026-09-26",
+      "source": "Ars Technica",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "microsoft",
+      "topic": "coding"
+    },
+    {
       "title": "The AI Superintelligence Slowdown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "score": 31,
@@ -2082,19 +2056,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "url": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-      "score": 30,
-      "fetched_at": "2026-09-11",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
@@ -3545,36 +3506,6 @@
       "topic": "robotics"
     },
     {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "score": 26,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "score": 26,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "The US is advancing AI safety through state and federal action",
       "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "score": 26,
@@ -4170,97 +4101,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Expanding OpenAI\u2019s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Trusted access for the next era of cyber defense",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "score": 24,
-      "fetched_at": "2026-09-11",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Supporting Thailand\u2019s next generation of AI startups",
@@ -8566,6 +8406,71 @@
       "topic": ""
     },
     {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "score": 24,
+      "fetched_at": "2026-09-26",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "score": 24,
+      "fetched_at": "2026-09-26",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "score": 24,
+      "fetched_at": "2026-09-26",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "score": 24,
+      "fetched_at": "2026-09-26",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Thieves Stole \u2018Nvidia\u2019 Trailers. They Got 20 Tons of Sand",
+      "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "score": 24,
+      "fetched_at": "2026-09-26",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -8689,20 +8594,6 @@
       "topic": ""
     },
     {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai",
-      "score": 19,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "score": 19,
@@ -8743,201 +8634,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Boston Children\u2019s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Our response to the TanStack npm supply chain attack",
-      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Learn ChatGPT workflows for finance teams",
-      "url": "https://openai.com/academy/finance",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "score": 18,
-      "fetched_at": "2026-09-11",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -13721,19 +13417,6 @@
       "topic": ""
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "score": 14,
-      "fetched_at": "2026-09-11",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Our views on AI policy and political advocacy",
       "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "score": 14,
@@ -14109,19 +13792,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "score": 11,
-      "fetched_at": "2026-09-11",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "How to manage AI investments in the agentic era",
@@ -21005,6 +20675,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
+      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+      "score": 60,
+      "file": "_posts/2026-09-26-metas-ai-tamagotchi-bet-isworking.md",
+      "posted_at": "2026-09-26",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22225,6 +21908,12 @@
       "date": "2026-09-25",
       "posts": 5,
       "items_processed": 10279,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-09-26",
+      "posts": 1,
+      "items_processed": 2235,
       "estimated_tokens": 0
     }
   ]
