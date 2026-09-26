@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-26T14:40:17.383931+00:00",
-  "pending_count": 1269,
+  "updated_at_utc": "2026-09-26T18:26:54.943570+00:00",
+  "pending_count": 1271,
   "pending": [
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "score": 49,
+      "fetched_at": "2026-09-26",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age",
@@ -71,6 +82,17 @@
       "score": 24,
       "fetched_at": "2026-09-26",
       "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "score": 24,
+      "fetched_at": "2026-09-26",
+      "source": "TechCrunch",
       "companies": [
         "meta"
       ],
