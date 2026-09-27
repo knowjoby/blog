@@ -20,58 +20,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI just wants to win",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "macOS 27 is available now",
       "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
       "score": 49,
@@ -928,20 +876,6 @@
       ],
       "company": "openai",
       "topic": "regulation"
-    },
-    {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "score": 36,
-      "fetched_at": "2026-09-12",
-      "source": "Wired",
-      "companies": [
-        "anthropic",
-        "meta"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "AI Leaders Are Calling for a Slowdown. Trump\u2019s Team Says It\u2019s on Them",
@@ -2084,19 +2018,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing the OpenAI Partner Network",
@@ -4159,58 +4080,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Supporting Thailand\u2019s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -8646,6 +8515,19 @@
       "topic": ""
     },
     {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "score": 24,
+      "fetched_at": "2026-09-27",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -8823,71 +8705,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -13305,19 +13122,6 @@
       "topic": "multimodal"
     },
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "score": 16,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": [],
-      "company": "perplexity",
-      "topic": ""
-    },
-    {
       "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
       "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
       "score": 16,
@@ -14126,58 +13930,6 @@
       "topic": "ai"
     },
     {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
       "url": "https://huggingface.co/blog/gemma4",
       "score": 11,
@@ -14683,19 +14435,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "score": 10,
-      "fetched_at": "2026-09-12",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -22259,6 +21998,12 @@
       "date": "2026-09-26",
       "posts": 1,
       "items_processed": 17880,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-09-27",
+      "posts": 0,
+      "items_processed": 2235,
       "estimated_tokens": 0
     }
   ]

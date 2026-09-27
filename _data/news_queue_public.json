@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-26T23:47:03.658585+00:00",
-  "pending_count": 1271,
+  "updated_at_utc": "2026-09-27T04:45:42.876534+00:00",
+  "pending_count": 1251,
   "pending": [
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "score": 24,
+      "fetched_at": "2026-09-27",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI pauses training of its ‘most capable models’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
@@ -14071,238 +14082,6 @@
       "url": "https://huggingface.co/blog/eee-community-evals",
       "score": 10,
       "fetched_at": "2026-09-13",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Where to preorder the iPhone 18 Pro and Pro Max",
-      "url": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI just wants to win",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "score": 49,
-      "fetched_at": "2026-09-12",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
-      "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
-      "score": 36,
-      "fetched_at": "2026-09-12",
-      "source": "Wired",
-      "companies": [
-        "anthropic",
-        "meta"
-      ],
-      "topics": []
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "score": 18,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "score": 16,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": []
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ]
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ]
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-09-12",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ]
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "score": 10,
-      "fetched_at": "2026-09-12",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
