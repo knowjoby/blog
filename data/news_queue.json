@@ -228,6 +228,19 @@
       "topic": ""
     },
     {
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "score": 49,
+      "fetched_at": "2026-09-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "score": 48,
@@ -370,6 +383,19 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI\u2019s AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "score": 45,
+      "fetched_at": "2026-09-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Pioneering an AI clinical copilot with Penda Health",
@@ -560,6 +586,20 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "score": 42,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "google",
+        "meta"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -874,6 +914,21 @@
         "multimodal"
       ],
       "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "score": 38,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
       "topic": "agentic"
     },
     {
@@ -2004,6 +2059,36 @@
       ],
       "company": "openai",
       "topic": "reasoning"
+    },
+    {
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "score": 32,
+      "fetched_at": "2026-09-28",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+      "url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+      "score": 32,
+      "fetched_at": "2026-09-28",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "meta",
+      "topic": "regulation"
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -3190,6 +3275,45 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -8656,6 +8780,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "score": 24,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "score": 24,
+      "fetched_at": "2026-09-28",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -21123,6 +21273,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "score": 55,
+      "file": "_posts/2026-09-28-openai-keeps-bulldozing-mathematicians.md",
+      "posted_at": "2026-09-28",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22359,8 +22520,8 @@
     },
     {
       "date": "2026-09-28",
-      "posts": 1,
-      "items_processed": 8942,
+      "posts": 2,
+      "items_processed": 11181,
       "estimated_tokens": 0
     }
   ]

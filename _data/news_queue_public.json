@@ -1,7 +1,41 @@
 {
-  "updated_at_utc": "2026-09-28T16:28:01.010145+00:00",
-  "pending_count": 1275,
+  "updated_at_utc": "2026-09-28T21:44:50.173878+00:00",
+  "pending_count": 1286,
   "pending": [
+    {
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "score": 49,
+      "fetched_at": "2026-09-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "score": 45,
+      "fetched_at": "2026-09-28",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "score": 42,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "google",
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
       "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
@@ -11,6 +45,19 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "score": 38,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -39,6 +86,19 @@
       ]
     },
     {
+      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
+      "url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
+      "score": 32,
+      "fetched_at": "2026-09-28",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
       "score": 32,
@@ -52,6 +112,19 @@
       ]
     },
     {
+      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+      "score": 32,
+      "fetched_at": "2026-09-28",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
       "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
       "score": 30,
@@ -59,6 +132,39 @@
       "source": "Wired",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -105,6 +211,28 @@
       "score": 24,
       "fetched_at": "2026-09-28",
       "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "score": 24,
+      "fetched_at": "2026-09-28",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "score": 24,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
