@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-09-28T07:27:45.294898+00:00",
-  "pending_count": 1266,
+  "updated_at_utc": "2026-09-28T15:50:00.933488+00:00",
+  "pending_count": 1275,
   "pending": [
+    {
+      "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "score": 39,
+      "fetched_at": "2026-09-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -14,6 +25,17 @@
         "reasoning",
         "coding",
         "multimodal"
+      ]
+    },
+    {
+      "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+      "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-09-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -30,6 +52,17 @@
       ]
     },
     {
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+      "score": 30,
+      "fetched_at": "2026-09-28",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing the OpenAI Partner Network",
       "url": "https://openai.com/index/introducing-openai-partner-network",
       "score": 30,
@@ -39,6 +72,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "score": 26,
+      "fetched_at": "2026-09-28",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
@@ -52,6 +98,28 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+      "score": 24,
+      "fetched_at": "2026-09-28",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+      "score": 24,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
@@ -72,6 +140,28 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Who’s liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "score": 18,
+      "fetched_at": "2026-09-28",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "score": 18,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -175,6 +265,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "score": 14,
+      "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
