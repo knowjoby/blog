@@ -1,7 +1,44 @@
 {
-  "updated_at_utc": "2026-09-29T15:00:56.953303+00:00",
-  "pending_count": 1284,
+  "updated_at_utc": "2026-09-29T20:09:47.824610+00:00",
+  "pending_count": 1299,
   "pending": [
+    {
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "score": 49,
+      "fetched_at": "2026-09-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "score": 49,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "regulation"
+      ]
+    },
+    {
+      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "score": 48,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
@@ -25,6 +62,18 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "score": 34,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
@@ -62,6 +111,41 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "score": 32,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -136,6 +220,50 @@
       "topics": []
     },
     {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
       "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
       "score": 24,
@@ -171,6 +299,17 @@
     {
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
       "score": 24,
       "fetched_at": "2026-09-29",
       "source": "OpenAI",
@@ -631,6 +770,28 @@
       "topics": []
     },
     {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
       "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
       "score": 24,
@@ -727,6 +888,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "score": 14,
+      "fetched_at": "2026-09-29",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {

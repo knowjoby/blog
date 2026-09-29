@@ -215,6 +215,35 @@
       "topic": ""
     },
     {
+      "title": "Protesters gather at OpenAI\u2019s DevDay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "score": 49,
+      "fetched_at": "2026-09-29",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "score": 49,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "score": 48,
@@ -324,6 +353,20 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
+      "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+      "score": 48,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -1384,6 +1427,20 @@
       "topic": ""
     },
     {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "score": 34,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "score": 33,
@@ -2078,6 +2135,21 @@
         "agentic"
       ],
       "company": "meta",
+      "topic": "agentic"
+    },
+    {
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "score": 32,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
       "topic": "agentic"
     },
     {
@@ -3273,6 +3345,32 @@
       "score": 30,
       "fetched_at": "2026-09-29",
       "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -8786,6 +8884,97 @@
       "topic": ""
     },
     {
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -14264,6 +14453,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "score": 14,
+      "fetched_at": "2026-09-29",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -21274,6 +21476,47 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "score": 81,
+      "file": "_posts/2026-09-29-openai-launches-dots-its-muse-competitor.md",
+      "posted_at": "2026-09-29",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "score": 79,
+      "file": "_posts/2026-09-29-ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-d.md",
+      "posted_at": "2026-09-29",
+      "companies": [
+        "openai",
+        "anthropic",
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "score": 56,
+      "file": "_posts/2026-09-29-heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-ro.md",
+      "posted_at": "2026-09-29",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22516,8 +22759,8 @@
     },
     {
       "date": "2026-09-29",
-      "posts": 1,
-      "items_processed": 8963,
+      "posts": 4,
+      "items_processed": 11207,
       "estimated_tokens": 0
     }
   ]

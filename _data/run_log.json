@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-22 01:26:44 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2214,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "file": "_posts/2026-09-21-metas-muse-is-outpacing-chatgpts-early-mobile-launch.md",
-        "score": 56,
-        "tags": [
-          "openai",
-          "meta",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-22 04:40:49 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1297,5 +1264,58 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-30 01:39:47 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 18,
+    "posts_created": 3,
+    "queued": 15,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 18
+      },
+      "rss": {
+        "raw": 2244,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 18
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI launches Dots, its Muse competitor",
+        "file": "_posts/2026-09-29-openai-launches-dots-its-muse-competitor.md",
+        "score": 81,
+        "tags": [
+          "openai",
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+        "file": "_posts/2026-09-29-ai-researchers-put-out-videos-saying-superintelligence-is-exactly-as-d.md",
+        "score": 79,
+        "tags": [
+          "openai",
+          "anthropic",
+          "google"
+        ]
+      },
+      {
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "file": "_posts/2026-09-29-heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-ro.md",
+        "score": 56,
+        "tags": [
+          "openai",
+          "nvidia",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
