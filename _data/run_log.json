@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-21 20:21:17 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 0,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2211,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-21 20:28:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1287,5 +1265,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-29 20:07:36 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 1,
+    "queued": 7,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 2241,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+        "file": "_posts/2026-09-29-metas-muse-ai-sent-a-youtubers-address-to-a-stranger.md",
+        "score": 63,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]

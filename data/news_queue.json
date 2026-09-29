@@ -372,6 +372,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "score": 45,
+      "fetched_at": "2026-09-29",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Pioneering an AI clinical copilot with Penda Health",
       "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
       "score": 44,
@@ -878,6 +891,21 @@
       ],
       "company": "meta",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "score": 38,
+      "fetched_at": "2026-09-29",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
@@ -1393,6 +1421,19 @@
       ],
       "company": "",
       "topic": "robotics"
+    },
+    {
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "score": 33,
+      "fetched_at": "2026-09-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "china"
+      ],
+      "company": "",
+      "topic": "china"
     },
     {
       "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -2022,6 +2063,21 @@
         "agentic"
       ],
       "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "score": 32,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
       "topic": "agentic"
     },
     {
@@ -8691,6 +8747,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -14136,6 +14205,32 @@
       "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
       "score": 14,
       "fetched_at": "2026-09-28",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "score": 14,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "score": 14,
+      "fetched_at": "2026-09-29",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
@@ -21140,6 +21235,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "score": 63,
+      "file": "_posts/2026-09-29-metas-muse-ai-sent-a-youtubers-address-to-a-stranger.md",
+      "posted_at": "2026-09-29",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22382,8 +22490,8 @@
     },
     {
       "date": "2026-09-29",
-      "posts": 0,
-      "items_processed": 4481,
+      "posts": 1,
+      "items_processed": 6722,
       "estimated_tokens": 0
     }
   ]
