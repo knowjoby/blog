@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-29T14:37:36.286579+00:00",
-  "pending_count": 1282,
+  "updated_at_utc": "2026-09-29T15:00:56.953303+00:00",
+  "pending_count": 1284,
   "pending": [
     {
       "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
@@ -69,6 +69,17 @@
       "score": 30,
       "fetched_at": "2026-09-29",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -627,6 +638,17 @@
       "source": "Ars Technica",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
