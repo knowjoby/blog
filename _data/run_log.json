@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-22 04:40:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2215,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-22 07:15:00 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1313,6 +1291,39 @@
         "tags": [
           "openai",
           "nvidia",
+          "agentic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-09-30 05:24:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 2244,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "file": "_posts/2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch.md",
+        "score": 62,
+        "tags": [
+          "openai",
+          "xai",
           "agentic"
         ]
       }

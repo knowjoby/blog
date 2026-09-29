@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-29T20:09:47.824610+00:00",
-  "pending_count": 1299,
+  "updated_at_utc": "2026-09-29T23:54:56.825941+00:00",
+  "pending_count": 1303,
   "pending": [
     {
       "title": "Protesters gather at OpenAI’s DevDay",
@@ -49,6 +49,17 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "score": 39,
+      "fetched_at": "2026-09-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
@@ -170,6 +181,17 @@
       "topics": []
     },
     {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Univé builds an AI-ready workforce",
       "url": "https://openai.com/index/unive",
       "score": 26,
@@ -227,6 +249,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -788,6 +821,17 @@
       "source": "Hugging Face",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

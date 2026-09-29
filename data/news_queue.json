@@ -800,6 +800,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "score": 39,
+      "fetched_at": "2026-09-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -3376,6 +3389,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "score": 30,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -8972,6 +8998,32 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s latest features take direct aim at the app store model",
+      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Protests against OpenAI get increasingly creative",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "score": 24,
+      "fetched_at": "2026-09-29",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -21517,6 +21569,20 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "score": 62,
+      "file": "_posts/2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch.md",
+      "posted_at": "2026-09-29",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22759,8 +22825,8 @@
     },
     {
       "date": "2026-09-29",
-      "posts": 4,
-      "items_processed": 11207,
+      "posts": 5,
+      "items_processed": 13451,
       "estimated_tokens": 0
     }
   ]
