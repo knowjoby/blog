@@ -470,6 +470,22 @@
       "topic": "coding"
     },
     {
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "score": 44,
+      "fetched_at": "2026-09-30",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Apple might make servers again to cash in on the AI rush",
       "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "score": 43,
@@ -1002,6 +1018,19 @@
       "topic": "ai"
     },
     {
+      "title": "Here\u2019s what AI leaders are saying about Trump\u2019s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "score": 37,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
       "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
       "score": 36,
@@ -1482,6 +1511,20 @@
       "score": 34,
       "fetched_at": "2026-09-30",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "score": 34,
+      "fetched_at": "2026-09-30",
+      "source": "Ars Technica",
       "companies": [
         "openai",
         "huggingface"
@@ -3444,6 +3487,19 @@
       "topic": ""
     },
     {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "score": 30,
+      "fetched_at": "2026-09-30",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -4368,6 +4424,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "score": 26,
+      "fetched_at": "2026-09-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
@@ -9004,6 +9075,32 @@
       "score": 24,
       "fetched_at": "2026-09-30",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "score": 24,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "score": 24,
+      "fetched_at": "2026-09-30",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -14544,6 +14641,19 @@
       "topic": "ai"
     },
     {
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "score": 12,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "url": "https://huggingface.co/blog/is-it-agentic-enough",
       "score": 11,
@@ -17271,6 +17381,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Is Neko Health\u2019s body scan worth it?\u00a0Spotify billionaire\u2019s\u00a0startup\u00a0has\u00a0come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "score": 10,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [
+        "midjourney"
+      ],
+      "topics": [],
+      "company": "midjourney",
       "topic": ""
     }
   ],
@@ -21592,6 +21715,29 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "score": 61,
+      "file": "_posts/2026-09-30-the-ai-tamagotchis-are-coming.md",
+      "posted_at": "2026-09-30",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "score": 55,
+      "file": "_posts/2026-09-30-google-announces-gemini-4-and-says-its-so-capable-that-only-trusted-cy.md",
+      "posted_at": "2026-09-30",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22840,8 +22986,8 @@
     },
     {
       "date": "2026-09-30",
-      "posts": 2,
-      "items_processed": 8978,
+      "posts": 4,
+      "items_processed": 11225,
       "estimated_tokens": 0
     }
   ]

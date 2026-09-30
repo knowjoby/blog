@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-30T16:57:18.524650+00:00",
-  "pending_count": 1302,
+  "updated_at_utc": "2026-09-30T21:22:42.714721+00:00",
+  "pending_count": 1311,
   "pending": [
     {
       "title": "‘Xbox is not for sale’ says Microsoft’s gaming chief",
@@ -25,8 +25,33 @@
       "topics": []
     },
     {
+      "title": "The Battle to Be Your Personal AI Agent Is Here",
+      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "score": 44,
+      "fetched_at": "2026-09-30",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "You can text DoorDash’s AI bot to ‘order my usual’ and it will figure the rest out",
       "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+      "score": 37,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
       "score": 37,
       "fetched_at": "2026-09-30",
       "source": "The Verge",
@@ -52,6 +77,18 @@
       "score": 34,
       "fetched_at": "2026-09-30",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+      "score": 34,
+      "fetched_at": "2026-09-30",
+      "source": "Ars Technica",
       "companies": [
         "openai",
         "huggingface"
@@ -85,6 +122,17 @@
       ]
     },
     {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "score": 30,
+      "fetched_at": "2026-09-30",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -98,11 +146,35 @@
       ]
     },
     {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "score": 26,
+      "fetched_at": "2026-09-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
       "title": "The Download: OpenAI’s chief research officer explains its hacking response",
       "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
       "score": 24,
       "fetched_at": "2026-09-30",
       "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "score": 24,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
       "companies": [
         "openai"
       ],
@@ -136,6 +208,17 @@
       "score": 24,
       "fetched_at": "2026-09-30",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+      "score": 24,
+      "fetched_at": "2026-09-30",
+      "source": "Ars Technica",
       "companies": [
         "openai"
       ],
@@ -232,6 +315,17 @@
       ]
     },
     {
+      "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+      "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+      "score": 12,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "Agentic Resource Discovery: Let agents search",
       "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
       "score": 11,
@@ -241,6 +335,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+      "score": 10,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [
+        "midjourney"
+      ],
+      "topics": []
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
