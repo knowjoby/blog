@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-22 13:02:52 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 28,
-    "posts_created": 0,
-    "queued": 28,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 28
-      },
-      "rss": {
-        "raw": 2216,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 28
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-22 18:36:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 8,
@@ -1328,5 +1306,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-09-30 16:48:23 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 15,
+    "posts_created": 1,
+    "queued": 14,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 15
+      },
+      "rss": {
+        "raw": 2244,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 15
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
+        "file": "_posts/2026-09-30-apples-homepad-will-reportedly-launch-on-october-13th.md",
+        "score": 51,
+        "tags": [
+          "apple"
+        ]
+      }
+    ]
   }
 ]
