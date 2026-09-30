@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-30T11:18:23.056417+00:00",
-  "pending_count": 1295,
+  "updated_at_utc": "2026-09-30T14:37:41.605879+00:00",
+  "pending_count": 1298,
   "pending": [
     {
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
@@ -12,6 +12,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "You can text DoorDash’s AI bot to ‘order my usual’ and it will figure the rest out",
+      "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+      "score": 37,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "score": 37,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
@@ -50,6 +72,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "score": 24,
+      "fetched_at": "2026-09-30",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",

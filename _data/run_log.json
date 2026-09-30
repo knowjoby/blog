@@ -1,48 +1,5 @@
 [
   {
-    "ran_at": "2026-09-22 18:36:57 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 8,
-    "posts_created": 2,
-    "queued": 6,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 8
-      },
-      "rss": {
-        "raw": 2217,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 8
-      }
-    },
-    "posts": [
-      {
-        "title": "Don’t be fooled by this summer of AI hype",
-        "file": "_posts/2026-09-22-dont-be-fooled-by-this-summer-of-ai-hype.md",
-        "score": 64,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta",
-          "huggingface"
-        ]
-      },
-      {
-        "title": "Meta patches Muse exploit that let attackers control the AI agent",
-        "file": "_posts/2026-09-22-meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent.md",
-        "score": 57,
-        "tags": [
-          "meta",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-22 18:46:08 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1337,5 +1294,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-09-30 20:07:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 0,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2244,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": []
   }
 ]

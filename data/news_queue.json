@@ -963,6 +963,32 @@
       "topic": "regulation"
     },
     {
+      "title": "You can text DoorDash\u2019s AI bot to \u2018order my usual\u2019 and it will figure the rest out",
+      "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
+      "score": 37,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "score": 37,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
       "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
       "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
       "score": 36,
@@ -8937,6 +8963,19 @@
       "score": 24,
       "fetched_at": "2026-09-30",
       "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "score": 24,
+      "fetched_at": "2026-09-30",
+      "source": "MIT Tech Review",
       "companies": [
         "openai"
       ],
@@ -22735,7 +22774,7 @@
     {
       "date": "2026-09-30",
       "posts": 1,
-      "items_processed": 4488,
+      "items_processed": 6732,
       "estimated_tokens": 0
     }
   ]
