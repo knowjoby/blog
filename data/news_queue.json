@@ -244,6 +244,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "score": 49,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "score": 48,
@@ -506,20 +519,6 @@
       ],
       "topics": [],
       "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "score": 42,
-      "fetched_at": "2026-09-15",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "apple"
-      ],
-      "topics": [],
-      "company": "openai",
       "topic": ""
     },
     {
@@ -1034,21 +1033,6 @@
       "topic": ""
     },
     {
-      "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
-      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-      "score": 35,
-      "fetched_at": "2026-09-15",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "nvidia",
-      "topic": "reasoning"
-    },
-    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -1504,21 +1488,6 @@
       ],
       "company": "",
       "topic": "china"
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -2190,19 +2159,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "AI models need more data about biology, and OpenAI is paying to create it",
-      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
-      "score": 30,
-      "fetched_at": "2026-09-15",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI public policy agenda",
@@ -3405,21 +3361,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -3702,21 +3643,6 @@
         "robotics"
       ],
       "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "score": 26,
-      "fetched_at": "2026-09-15",
-      "source": "TechCrunch",
-      "companies": [
-        "amazon"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "amazon",
       "topic": "robotics"
     },
     {
@@ -4358,97 +4284,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "\u2018I Felt Super Violated\u2019: Men Wearing Meta Glasses on Dates Is an Instant Red Flag",
-      "url": "https://www.wired.com/story/i-felt-super-violated-men-wearing-meta-glasses-on-dates-is-an-instant-red-flag/",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "url": "https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you/",
-      "score": 24,
-      "fetched_at": "2026-09-15",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -9217,99 +9052,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "score": 18,
-      "fetched_at": "2026-09-15",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
@@ -14130,19 +13872,6 @@
       "topic": ""
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "score": 14,
-      "fetched_at": "2026-09-15",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "score": 14,
@@ -14557,19 +14286,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "score": 11,
-      "fetched_at": "2026-09-15",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
@@ -15116,19 +14832,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-09-15",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -22827,6 +22530,12 @@
       "date": "2026-09-29",
       "posts": 5,
       "items_processed": 13451,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-09-30",
+      "posts": 0,
+      "items_processed": 2244,
       "estimated_tokens": 0
     }
   ]
