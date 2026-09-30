@@ -257,6 +257,19 @@
       "topic": ""
     },
     {
+      "title": "\u2018Xbox is not for sale\u2019 says Microsoft\u2019s gaming chief",
+      "url": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview",
+      "score": 49,
+      "fetched_at": "2026-09-30",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
       "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
       "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
       "score": 48,
@@ -2188,6 +2201,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "score": 32,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -13591,6 +13619,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "score": 18,
+      "fetched_at": "2026-09-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14449,6 +14490,19 @@
       ],
       "company": "",
       "topic": "regulation"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "score": 14,
+      "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -21525,6 +21579,19 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "score": 63,
+      "file": "_posts/2026-09-30-all-the-latest-news-on-metas-cute-creepy-muse-ai-agent.md",
+      "posted_at": "2026-09-30",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22773,8 +22840,8 @@
     },
     {
       "date": "2026-09-30",
-      "posts": 1,
-      "items_processed": 6732,
+      "posts": 2,
+      "items_processed": 8978,
       "estimated_tokens": 0
     }
   ]
