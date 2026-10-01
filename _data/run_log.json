@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-23 14:57:40 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 781,
-    "posts_created": 0,
-    "queued": 781,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 781
-      },
-      "rss": {
-        "raw": 2222,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 781
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-23 18:51:54 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1305,5 +1283,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-01 20:11:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2247,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+        "file": "_posts/2026-10-01-openais-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free.md",
+        "score": 87,
+        "tags": [
+          "openai",
+          "meta",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]

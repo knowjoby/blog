@@ -21633,6 +21633,20 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI\u2019s new agent is a shot at Meta \u2014 but can it compete with free?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "score": 87,
+      "file": "_posts/2026-10-01-openais-new-agent-is-a-shot-at-meta-but-can-it-compete-with-free.md",
+      "posted_at": "2026-10-01",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22887,8 +22901,8 @@
     },
     {
       "date": "2026-10-01",
-      "posts": 0,
-      "items_processed": 4494,
+      "posts": 1,
+      "items_processed": 6741,
       "estimated_tokens": 0
     }
   ]
