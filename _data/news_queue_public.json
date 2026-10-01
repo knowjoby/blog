@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-01T15:06:28.975909+00:00",
-  "pending_count": 1303,
+  "updated_at_utc": "2026-10-01T20:14:27.025708+00:00",
+  "pending_count": 1307,
   "pending": [
+    {
+      "title": "Can VR glasses save VR?",
+      "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+      "score": 43,
+      "fetched_at": "2026-10-01",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
@@ -64,6 +75,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "score": 24,
+      "fetched_at": "2026-10-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI supports California’s bill to advance youth AI safety",
@@ -154,6 +176,17 @@
       "topics": []
     },
     {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "score": 18,
+      "fetched_at": "2026-10-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How workers are unlocking new ways of working",
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "score": 18,
@@ -211,6 +244,17 @@
     {
       "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "score": 18,
+      "fetched_at": "2026-10-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
       "score": 18,
       "fetched_at": "2026-10-01",
       "source": "OpenAI",

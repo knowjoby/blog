@@ -538,6 +538,19 @@
       "topic": ""
     },
     {
+      "title": "Can VR glasses save VR?",
+      "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+      "score": 43,
+      "fetched_at": "2026-10-01",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -9056,6 +9069,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "score": 24,
+      "fetched_at": "2026-10-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13626,6 +13652,32 @@
     {
       "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "url": "https://openai.com/index/advancing-content-provenance",
+      "score": 18,
+      "fetched_at": "2026-10-01",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "score": 18,
+      "fetched_at": "2026-10-01",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
       "score": 18,
       "fetched_at": "2026-10-01",
       "source": "OpenAI",
@@ -21647,6 +21699,30 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Inside Microsoft\u2019s big Copilot rethink",
+      "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+      "score": 57,
+      "file": "_posts/2026-10-01-inside-microsofts-big-copilot-rethink.md",
+      "posted_at": "2026-10-01",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "score": 55,
+      "file": "_posts/2026-10-01-googles-new-guided-vision-feature-can-help-you-read-the-fine-print.md",
+      "posted_at": "2026-10-01",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22901,8 +22977,8 @@
     },
     {
       "date": "2026-10-01",
-      "posts": 1,
-      "items_processed": 8989,
+      "posts": 3,
+      "items_processed": 11239,
       "estimated_tokens": 0
     }
   ]
