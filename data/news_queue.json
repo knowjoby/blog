@@ -524,6 +524,19 @@
       "topic": ""
     },
     {
+      "title": "Dots get up in Muse\u2019s business",
+      "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+      "score": 43,
+      "fetched_at": "2026-10-02",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -3433,6 +3446,19 @@
       "topic": ""
     },
     {
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+      "score": 30,
+      "fetched_at": "2026-10-02",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -4371,6 +4397,21 @@
         "regulation"
       ],
       "company": "openai",
+      "topic": "regulation"
+    },
+    {
+      "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "score": 26,
+      "fetched_at": "2026-10-02",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "anthropic",
       "topic": "regulation"
     },
     {
@@ -8965,6 +9006,19 @@
     {
       "title": "Operation \u201cDate Bait\u201d: AI-enabled scam targeting loveseekers",
       "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+      "score": 24,
+      "fetched_at": "2026-10-02",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
       "score": 24,
       "fetched_at": "2026-10-02",
       "source": "OpenAI",
@@ -21617,6 +21671,20 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "score": 75,
+      "file": "_posts/2026-10-02-openais-dot-agent-is-enterprise-software-that-can-also-order-your-dinn.md",
+      "posted_at": "2026-10-02",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22877,8 +22945,8 @@
     },
     {
       "date": "2026-10-02",
-      "posts": 0,
-      "items_processed": 9007,
+      "posts": 1,
+      "items_processed": 11261,
       "estimated_tokens": 0
     }
   ]
