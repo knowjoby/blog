@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-09-24 03:38:51 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 2,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2232,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-        "file": "_posts/2026-09-23-microsofts-new-surface-mouse-has-haptic-feedback-and-a-customizable-ac.md",
-        "score": 63,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      },
-      {
-        "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-        "file": "_posts/2026-09-23-metas-ai-agent-is-a-cute-little-guy-whos-great-at-spending-my-money.md",
-        "score": 57,
-        "tags": [
-          "meta",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-24 06:16:19 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 12,
@@ -1313,6 +1272,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 4
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-02 11:32:52 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 32,
+    "posts_created": 0,
+    "queued": 32,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 32
+      },
+      "rss": {
+        "raw": 2252,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 32
       }
     },
     "posts": []
