@@ -798,6 +798,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Sling TV drops its one-day cable passes",
+      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "score": 39,
+      "fetched_at": "2026-10-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -2237,6 +2250,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
       "score": 31,
       "fetched_at": "2026-09-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "score": 31,
+      "fetched_at": "2026-10-02",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -9030,6 +9056,19 @@
       "topic": ""
     },
     {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "score": 24,
+      "fetched_at": "2026-10-02",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14091,6 +14130,19 @@
       ],
       "topics": [],
       "company": "perplexity",
+      "topic": ""
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "score": 16,
+      "fetched_at": "2026-10-02",
+      "source": "TechCrunch",
+      "companies": [
+        "stability"
+      ],
+      "topics": [],
+      "company": "stability",
       "topic": ""
     },
     {
@@ -21685,6 +21737,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "score": 57,
+      "file": "_posts/2026-10-02-meta-open-sources-code-to-let-you-make-muse-ai-gadgets.md",
+      "posted_at": "2026-10-02",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -22945,8 +23010,8 @@
     },
     {
       "date": "2026-10-02",
-      "posts": 1,
-      "items_processed": 11261,
+      "posts": 2,
+      "items_processed": 13515,
       "estimated_tokens": 0
     }
   ]

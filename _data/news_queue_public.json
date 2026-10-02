@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-02T18:37:58.550600+00:00",
-  "pending_count": 1303,
+  "updated_at_utc": "2026-10-02T22:52:11.105878+00:00",
+  "pending_count": 1307,
   "pending": [
     {
       "title": "Dots get up in Muse’s business",
@@ -26,6 +26,17 @@
       "topics": []
     },
     {
+      "title": "Sling TV drops its one-day cable passes",
+      "url": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+      "score": 39,
+      "fetched_at": "2026-10-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "Strengthening democratic oversight in national security",
       "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "score": 32,
@@ -49,6 +60,17 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "score": 31,
+      "fetched_at": "2026-10-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -263,6 +285,17 @@
       "topics": []
     },
     {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+      "score": 24,
+      "fetched_at": "2026-10-02",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
       "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
       "score": 24,
@@ -413,6 +446,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "score": 16,
+      "fetched_at": "2026-10-02",
+      "source": "TechCrunch",
+      "companies": [
+        "stability"
       ],
       "topics": []
     },
