@@ -13570,6 +13570,19 @@
       "topic": ""
     },
     {
+      "title": "A Flaw in ChatGPT\u2019s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "score": 18,
+      "fetched_at": "2026-10-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -22865,7 +22878,7 @@
     {
       "date": "2026-10-02",
       "posts": 0,
-      "items_processed": 4503,
+      "items_processed": 6755,
       "estimated_tokens": 0
     }
   ]

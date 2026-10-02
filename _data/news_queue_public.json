@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-02T06:02:52.202016+00:00",
-  "pending_count": 1298,
+  "updated_at_utc": "2026-10-02T13:02:30.260059+00:00",
+  "pending_count": 1299,
   "pending": [
     {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
@@ -224,6 +224,17 @@
       "source": "Ars Technica",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+      "score": 18,
+      "fetched_at": "2026-10-02",
+      "source": "Wired",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
