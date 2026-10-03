@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-09-25 18:25:26 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2234,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-        "file": "_posts/2026-09-25-microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-o.md",
-        "score": 63,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-25 18:45:38 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1311,5 +1279,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-10-04 02:21:46 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2254,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": []
   }
 ]
