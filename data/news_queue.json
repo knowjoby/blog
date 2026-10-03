@@ -8937,6 +8937,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "score": 24,
+      "fetched_at": "2026-10-03",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -21539,6 +21552,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "score": 63,
+      "file": "_posts/2026-10-03-an-openai-safety-employee-has-quit-and-is-sounding-the-alarm.md",
+      "posted_at": "2026-10-03",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ]
     }
   ],
   "daily_usage": [
@@ -22805,8 +22831,8 @@
     },
     {
       "date": "2026-10-03",
-      "posts": 0,
-      "items_processed": 9016,
+      "posts": 1,
+      "items_processed": 11270,
       "estimated_tokens": 0
     }
   ]

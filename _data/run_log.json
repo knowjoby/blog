@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-25 12:57:31 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 22,
-    "posts_created": 0,
-    "queued": 22,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 22
-      },
-      "rss": {
-        "raw": 2210,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 22
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-25 18:25:26 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1301,5 +1279,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-03 23:02:16 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2254,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "An OpenAI safety employee has quit and is sounding the alarm",
+        "file": "_posts/2026-10-03-an-openai-safety-employee-has-quit-and-is-sounding-the-alarm.md",
+        "score": 63,
+        "tags": [
+          "openai",
+          "open_source"
+        ]
+      }
+    ]
   }
 ]
