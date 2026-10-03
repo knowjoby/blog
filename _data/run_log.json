@@ -1,54 +1,5 @@
 [
   {
-    "ran_at": "2026-09-25 07:17:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 42,
-    "posts_created": 3,
-    "queued": 8,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 42
-      },
-      "rss": {
-        "raw": 1366,
-        "feeds_total": 10,
-        "feeds_ok": 8,
-        "feeds_failed": 2,
-        "candidates": 42
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
-        "file": "_posts/2026-09-25-microsoft-is-killing-off-the-copilot-plus-pc-brand.md",
-        "score": 57,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      },
-      {
-        "title": "Muse sure looks a lot like OpenClaw",
-        "file": "_posts/2026-09-25-muse-sure-looks-a-lot-like-openclaw.md",
-        "score": 57,
-        "tags": [
-          "meta",
-          "agentic"
-        ]
-      },
-      {
-        "title": "Meta is going to let you build games with AI right on your phone",
-        "file": "_posts/2026-09-25-meta-is-going-to-let-you-build-games-with-ai-right-on-your-phone.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-25 12:57:31 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 22,
@@ -1325,6 +1276,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-03 18:42:18 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2254,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
