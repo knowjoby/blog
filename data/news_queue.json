@@ -4333,6 +4333,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+      "score": 26,
+      "fetched_at": "2026-10-03",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing ChatGPT Images 2.5",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "score": 24,
@@ -22791,7 +22806,7 @@
     {
       "date": "2026-10-03",
       "posts": 0,
-      "items_processed": 4508,
+      "items_processed": 6762,
       "estimated_tokens": 0
     }
   ]
