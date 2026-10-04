@@ -1,18 +1,5 @@
 [
   {
-    "ran_at": "2026-09-26 02:51:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 1270,
-    "feeds": {
-      "ddg": {
-        "skipped": true
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-26 05:33:54 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1286,6 +1273,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-04 16:44:27 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 18,
+    "posts_created": 0,
+    "queued": 18,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 18
+      },
+      "rss": {
+        "raw": 2255,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 18
       }
     },
     "posts": []
