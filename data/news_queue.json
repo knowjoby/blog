@@ -20,32 +20,6 @@
       "topic": ""
     },
     {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "score": 49,
-      "fetched_at": "2026-09-19",
-      "source": "The Verge",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meta\u2019s Muse is creepy, but maybe not for the reasons you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "score": 49,
-      "fetched_at": "2026-09-19",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown.",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "score": 49,
@@ -1032,21 +1006,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "score": 35,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -1210,20 +1169,6 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "score": 34,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
@@ -1502,21 +1447,6 @@
       ],
       "company": "",
       "topic": "china"
-    },
-    {
-      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-      "score": 32,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
     },
     {
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -2188,19 +2118,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "score": 30,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Update on the OpenAI Foundation",
@@ -4346,84 +4263,6 @@
       ],
       "company": "meta",
       "topic": "agentic"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "score": 24,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "score": 24,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "score": 24,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "score": 24,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google\u2019s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "score": 24,
-      "fetched_at": "2026-09-19",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Building AI infrastructure with the Effingham County community",
@@ -9153,97 +8992,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Making ChatGPT better for clinicians",
-      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating with Sora Safely",
-      "url": "https://openai.com/index/creating-with-sora-safely",
-      "score": 18,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "How news organizations are using AI to advance their vital missions",
@@ -14414,19 +14162,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "score": 11,
-      "fetched_at": "2026-09-19",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Coding and design with GPT-5",
@@ -22846,6 +22581,12 @@
       "date": "2026-10-03",
       "posts": 1,
       "items_processed": 15779,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-10-04",
+      "posts": 0,
+      "items_processed": 2255,
       "estimated_tokens": 0
     }
   ]
