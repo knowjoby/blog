@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-26 05:33:54 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2235,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta’s AI Tamagotchi bet is…working?",
-        "file": "_posts/2026-09-26-metas-ai-tamagotchi-bet-isworking.md",
-        "score": 60,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-26 10:50:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 23,
@@ -1295,6 +1262,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 18
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-04 19:11:56 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2255,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
