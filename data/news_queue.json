@@ -21552,6 +21552,18 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "score": 61,
+      "file": "_posts/2026-10-04-an-ai-couldnt-beat-humans-at-starcraft-so-it-decided-to-cheat.md",
+      "posted_at": "2026-10-04",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22824,8 +22836,8 @@
     },
     {
       "date": "2026-10-04",
-      "posts": 0,
-      "items_processed": 6765,
+      "posts": 1,
+      "items_processed": 9020,
       "estimated_tokens": 0
     }
   ]
