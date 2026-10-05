@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-10-05T07:34:26.698950+00:00",
-  "pending_count": 1287,
+  "updated_at_utc": "2026-10-05T16:48:37.247375+00:00",
+  "pending_count": 1294,
   "pending": [
+    {
+      "title": "Our minds aren’t equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "score": 43,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "score": 42,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ]
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
@@ -14,6 +36,19 @@
       "topics": [
         "agentic",
         "coding"
+      ]
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "score": 38,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
       ]
     },
     {
@@ -90,6 +125,17 @@
       "topics": []
     },
     {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "score": 24,
+      "fetched_at": "2026-10-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "score": 24,
@@ -145,6 +191,17 @@
       "topics": []
     },
     {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "score": 18,
+      "fetched_at": "2026-10-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Advancing youth safety and wellbeing in EMEA",
       "url": "https://openai.com/index/advancing-youth-safety-in-emea",
       "score": 18,
@@ -167,6 +224,18 @@
       "topics": []
     },
     {
+      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "score": 16,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "china"
+      ]
+    },
+    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra",
       "score": 14,
@@ -175,6 +244,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "score": 11,
+      "fetched_at": "2026-10-05",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {

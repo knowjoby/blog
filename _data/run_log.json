@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-27 02:55:52 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2235,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-27 05:17:03 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1297,5 +1275,52 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-05 22:18:37 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 10,
+    "posts_created": 3,
+    "queued": 7,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 10
+      },
+      "rss": {
+        "raw": 2258,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 10
+      }
+    },
+    "posts": [
+      {
+        "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+        "file": "_posts/2026-10-05-nvidias-shield-tv-pro-just-got-a-100-price-hike.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      },
+      {
+        "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+        "file": "_posts/2026-10-05-an-open-source-tool-lets-you-delete-12gb-of-apple-intelligence-data-on.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      },
+      {
+        "title": "OpenAI is sticking more ads in ChatGPT",
+        "file": "_posts/2026-10-05-openai-is-sticking-more-ads-in-chatgpt.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]

@@ -471,6 +471,19 @@
       "topic": ""
     },
     {
+      "title": "Our minds aren\u2019t equipped to handle AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "score": 43,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -539,6 +552,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "score": 42,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Introducing Aardvark: OpenAI\u2019s agentic security researcher",
@@ -896,6 +922,21 @@
       ],
       "company": "google",
       "topic": "coding"
+    },
+    {
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "score": 38,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
     },
     {
       "title": "You can text DoorDash\u2019s AI bot to \u2018order my usual\u2019 and it will figure the rest out",
@@ -8898,6 +8939,19 @@
       "topic": ""
     },
     {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "score": 24,
+      "fetched_at": "2026-10-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -13453,6 +13507,19 @@
       "topic": ""
     },
     {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "score": 18,
+      "fetched_at": "2026-10-05",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -13907,6 +13974,20 @@
       "topics": [],
       "company": "stability",
       "topic": ""
+    },
+    {
+      "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "score": 16,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "china"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Rabbit Is Back, This Time With an AI Agent App",
@@ -14889,6 +14970,19 @@
       "score": 11,
       "fetched_at": "2026-10-04",
       "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "score": 11,
+      "fetched_at": "2026-10-05",
+      "source": "MIT Tech Review",
       "companies": [],
       "topics": [
         "agentic"
@@ -21512,6 +21606,39 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Nvidia\u2019s Shield TV Pro just got a $100 price hike",
+      "url": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
+      "score": 55,
+      "file": "_posts/2026-10-05-nvidias-shield-tv-pro-just-got-a-100-price-hike.md",
+      "posted_at": "2026-10-05",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+      "score": 55,
+      "file": "_posts/2026-10-05-an-open-source-tool-lets-you-delete-12gb-of-apple-intelligence-data-on.md",
+      "posted_at": "2026-10-05",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "score": 55,
+      "file": "_posts/2026-10-05-openai-is-sticking-more-ads-in-chatgpt.md",
+      "posted_at": "2026-10-05",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22790,8 +22917,8 @@
     },
     {
       "date": "2026-10-05",
-      "posts": 0,
-      "items_processed": 4510,
+      "posts": 3,
+      "items_processed": 6768,
       "estimated_tokens": 0
     }
   ]
