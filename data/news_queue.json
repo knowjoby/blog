@@ -205,6 +205,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "score": 49,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -481,6 +494,19 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Sam Altman says \u2018some bad things\u2019 will happen but AI is totally worth it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "score": 43,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -22918,7 +22944,7 @@
     {
       "date": "2026-10-05",
       "posts": 3,
-      "items_processed": 6768,
+      "items_processed": 9026,
       "estimated_tokens": 0
     }
   ]

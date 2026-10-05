@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-10-05T16:48:37.247375+00:00",
-  "pending_count": 1294,
+  "updated_at_utc": "2026-10-05T17:00:10.372793+00:00",
+  "pending_count": 1296,
   "pending": [
+    {
+      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "score": 49,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman says ‘some bad things’ will happen but AI is totally worth it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "score": 43,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Our minds aren’t equipped to handle AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
