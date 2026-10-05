@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-05T17:00:10.372793+00:00",
-  "pending_count": 1296,
+  "updated_at_utc": "2026-10-05T23:07:26.725679+00:00",
+  "pending_count": 1303,
   "pending": [
+    {
+      "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "score": 49,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
@@ -61,6 +72,17 @@
       ]
     },
     {
+      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+      "score": 39,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
       "score": 38,
@@ -84,6 +106,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "score": 32,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
     },
     {
       "title": "Powering product discovery in ChatGPT",
@@ -136,6 +171,17 @@
       ]
     },
     {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "score": 24,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping developers build safer AI experiences for teens",
       "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
       "score": 24,
@@ -176,6 +222,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "score": 24,
+      "fetched_at": "2026-10-05",
+      "source": "Ars Technica",
+      "companies": [
+        "apple"
       ],
       "topics": []
     },
@@ -258,6 +315,17 @@
       ]
     },
     {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "score": 14,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra",
       "score": 14,
@@ -266,6 +334,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "score": 12,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {

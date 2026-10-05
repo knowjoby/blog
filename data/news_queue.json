@@ -218,6 +218,19 @@
       "topic": ""
     },
     {
+      "title": "Wikipedia operator says OpenAI\u2019s \u2018rogue\u2019 bots may be linked to a May outage",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "score": 49,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -782,6 +795,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+      "url": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+      "score": 39,
+      "fetched_at": "2026-10-05",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
@@ -2177,6 +2203,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "score": 32,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Trump says the US is officially renaming AI to \u2018super intelligence\u2019",
@@ -8978,6 +9019,32 @@
       "topic": ""
     },
     {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "score": 24,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "score": 24,
+      "fetched_at": "2026-10-05",
+      "source": "Ars Technica",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14393,6 +14460,19 @@
       "topic": "coding"
     },
     {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "score": 14,
+      "fetched_at": "2026-10-05",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Introducing the Chatbot Guardrails Arena",
       "url": "https://huggingface.co/blog/arena-lighthouz",
       "score": 12,
@@ -14436,6 +14516,19 @@
       "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
       "score": 12,
       "fetched_at": "2026-09-30",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "score": 12,
+      "fetched_at": "2026-10-05",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
@@ -21665,6 +21758,30 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "All the drama around AI\u2019s takeover of mathematics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "score": 67,
+      "file": "_posts/2026-10-05-all-the-drama-around-ais-takeover-of-mathematics.md",
+      "posted_at": "2026-10-05",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "score": 67,
+      "file": "_posts/2026-10-05-openai-is-adding-text-watermarking-in-chatgpt-and-codex.md",
+      "posted_at": "2026-10-05",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -22943,8 +23060,8 @@
     },
     {
       "date": "2026-10-05",
-      "posts": 3,
-      "items_processed": 9026,
+      "posts": 5,
+      "items_processed": 11284,
       "estimated_tokens": 0
     }
   ]
