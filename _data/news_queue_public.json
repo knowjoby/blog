@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-06T14:45:14.610836+00:00",
-  "pending_count": 1302,
+  "updated_at_utc": "2026-10-06T17:06:02.006511+00:00",
+  "pending_count": 1306,
   "pending": [
     {
       "title": "Google is about to remove free access to Gemini Flash and Pro",
@@ -76,6 +76,17 @@
       "topics": []
     },
     {
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "score": 30,
+      "fetched_at": "2026-10-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -86,6 +97,19 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+      "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+      "score": 26,
+      "fetched_at": "2026-10-06",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -100,6 +124,28 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
+      "url": "https://www.wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
+      "score": 24,
+      "fetched_at": "2026-10-06",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "score": 24,
+      "fetched_at": "2026-10-06",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
