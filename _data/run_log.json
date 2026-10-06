@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-28 03:59:45 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2235,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "Can Muse overcome Meta’s trust issues?",
-        "file": "_posts/2026-09-27-can-muse-overcome-metas-trust-issues.md",
-        "score": 66,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-28 06:37:25 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1324,6 +1291,28 @@
       },
       "rss": {
         "raw": 2260,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-07 03:20:12 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 0,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2261,
         "feeds_total": 10,
         "feeds_ok": 9,
         "feeds_failed": 1,
