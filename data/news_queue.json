@@ -231,6 +231,19 @@
       "topic": ""
     },
     {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "score": 49,
+      "fetched_at": "2026-10-06",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -3388,6 +3401,21 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "score": 30,
+      "fetched_at": "2026-10-06",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "mistral",
+      "topic": "multimodal"
     },
     {
       "title": "Inside Mirakl's agentic commerce vision",
@@ -8963,6 +8991,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "score": 24,
+      "fetched_at": "2026-10-06",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -9040,6 +9081,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
+      "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "score": 22,
+      "fetched_at": "2026-10-06",
+      "source": "Wired",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
       "topic": ""
     },
     {
@@ -13528,6 +13582,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Facebook tests going Reels-first in India",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+      "score": 18,
+      "fetched_at": "2026-10-06",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -22985,7 +23052,7 @@
     {
       "date": "2026-10-06",
       "posts": 0,
-      "items_processed": 4517,
+      "items_processed": 6776,
       "estimated_tokens": 0
     }
   ]
