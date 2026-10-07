@@ -1,7 +1,62 @@
 {
-  "updated_at_utc": "2026-10-07T15:23:22.028507+00:00",
-  "pending_count": 1308,
+  "updated_at_utc": "2026-10-07T20:44:07.896832+00:00",
+  "pending_count": 1326,
   "pending": [
+    {
+      "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "score": 49,
+      "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599",
+      "url": "https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date",
+      "score": 49,
+      "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The first Nvidia RTX Spark laptops cost up to $7,000",
+      "url": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000",
+      "score": 49,
+      "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Meta Quest 3S gets a rare discount during October Prime Day",
+      "url": "https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale",
+      "score": 49,
+      "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "score": 49,
+      "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -11,6 +66,54 @@
       "companies": [
         "openai",
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "url": "https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi",
+      "score": 39,
+      "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "score": 38,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "score": 36,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "score": 36,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "anthropic",
+        "xai"
       ],
       "topics": []
     },
@@ -98,6 +201,28 @@
       "topics": []
     },
     {
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "score": 30,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "score": 30,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
       "score": 30,
@@ -146,6 +271,17 @@
       ]
     },
     {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "score": 24,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "score": 24,
@@ -179,8 +315,52 @@
       "topics": []
     },
     {
+      "title": "The New ChatGPT Is More Show Than Tell",
+      "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
       "score": 18,
       "fetched_at": "2026-10-07",
       "source": "OpenAI",
@@ -203,6 +383,17 @@
     {
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "url": "https://openai.com/index/jump-trading",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
       "score": 18,
       "fetched_at": "2026-10-07",
       "source": "OpenAI",
@@ -464,6 +655,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "score": 11,
+      "fetched_at": "2026-10-07",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
       ]
     },
     {

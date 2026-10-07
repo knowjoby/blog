@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-09-29 03:14:50 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 12,
-    "posts_created": 1,
-    "queued": 11,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 12
-      },
-      "rss": {
-        "raw": 2239,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 12
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI keeps bulldozing mathematicians",
-        "file": "_posts/2026-09-28-openai-keeps-bulldozing-mathematicians.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-29 07:10:34 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1346,5 +1315,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-08 02:14:07 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 19,
+    "posts_created": 1,
+    "queued": 18,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 19
+      },
+      "rss": {
+        "raw": 2265,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 19
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft is giving Copilot more control over Windows and your files",
+        "file": "_posts/2026-10-07-microsoft-is-giving-copilot-more-control-over-windows-and-your-files.md",
+        "score": 57,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
