@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-09-28 21:20:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 10,
-    "posts_created": 1,
-    "queued": 9,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 10
-      },
-      "rss": {
-        "raw": 2236,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 10
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "file": "_posts/2026-09-28-nvidia-says-its-new-ai-safety-platform-can-contain-rogue-agents-within.md",
-        "score": 63,
-        "tags": [
-          "nvidia",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-28 21:58:01 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1329,5 +1297,54 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-07 20:35:30 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 11,
+    "posts_created": 3,
+    "queued": 8,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 11
+      },
+      "rss": {
+        "raw": 2262,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 11
+      }
+    },
+    "posts": [
+      {
+        "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+        "file": "_posts/2026-10-07-google-invests-millions-in-mark-zuckerbergs-efforts-to-create-a-virtua.md",
+        "score": 73,
+        "tags": [
+          "google",
+          "meta"
+        ]
+      },
+      {
+        "title": "Windows and Surface event: how to watch and what to expect",
+        "file": "_posts/2026-10-07-windows-and-surface-event-how-to-watch-and-what-to-expect.md",
+        "score": 61,
+        "tags": [
+          "microsoft",
+          "nvidia"
+        ]
+      },
+      {
+        "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
+        "file": "_posts/2026-10-07-at-1279-googles-xreal-aura-will-go-head-to-head-with-metas-vr-glasses.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]

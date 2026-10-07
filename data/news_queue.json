@@ -1033,6 +1033,20 @@
       "topic": ""
     },
     {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "score": 36,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -2135,6 +2149,21 @@
       ],
       "company": "microsoft",
       "topic": "coding"
+    },
+    {
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "score": 32,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
@@ -3336,6 +3365,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s Alexander Embiricos is coming to TechCrunch Disrupt 2026 \u2014 days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "score": 30,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "I Put on Meta and Xreal\u2019s XR Glasses. Face Computers Are Finally Getting Good",
+      "url": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+      "score": 30,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -13586,6 +13641,32 @@
       "topic": "agentic"
     },
     {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14056,6 +14137,19 @@
       "topic": ""
     },
     {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "score": 16,
+      "fetched_at": "2026-10-07",
+      "source": "Ars Technica",
+      "companies": [
+        "mistral"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Codex app",
       "url": "https://openai.com/index/introducing-the-codex-app",
       "score": 14,
@@ -14431,6 +14525,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Bloom raises $3.6M to become the Alibaba of American manufacturing",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "score": 14,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -21753,6 +21860,41 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg\u2019s efforts to create a \u2018virtual cell\u2019",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "score": 73,
+      "file": "_posts/2026-10-07-google-invests-millions-in-mark-zuckerbergs-efforts-to-create-a-virtua.md",
+      "posted_at": "2026-10-07",
+      "companies": [
+        "google",
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Windows and Surface event: how to watch and what to expect",
+      "url": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+      "score": 61,
+      "file": "_posts/2026-10-07-windows-and-surface-event-how-to-watch-and-what-to-expect.md",
+      "posted_at": "2026-10-07",
+      "companies": [
+        "microsoft",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "At $1,279, Google\u2019s Xreal Aura will go head-to-head with Meta\u2019s VR Glasses",
+      "url": "https://www.theverge.com/news/1006207/google-xreal-aura-glasses-price-release-date-preorder",
+      "score": 55,
+      "file": "_posts/2026-10-07-at-1279-googles-xreal-aura-will-go-head-to-head-with-metas-vr-glasses.md",
+      "posted_at": "2026-10-07",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23043,8 +23185,8 @@
     },
     {
       "date": "2026-10-07",
-      "posts": 1,
-      "items_processed": 4526,
+      "posts": 4,
+      "items_processed": 6788,
       "estimated_tokens": 0
     }
   ]

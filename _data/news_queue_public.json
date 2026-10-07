@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-07T07:38:22.383829+00:00",
-  "pending_count": 1300,
+  "updated_at_utc": "2026-10-07T15:05:30.080769+00:00",
+  "pending_count": 1308,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -10,6 +10,18 @@
       "source": "OpenAI",
       "companies": [
         "openai",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "score": 36,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic",
         "nvidia"
       ],
       "topics": []
@@ -38,6 +50,19 @@
       ]
     },
     {
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "score": 32,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "score": 32,
@@ -49,6 +74,28 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
+      "url": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+      "score": 30,
+      "fetched_at": "2026-10-07",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "score": 30,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
@@ -373,6 +420,50 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "score": 18,
+      "fetched_at": "2026-10-07",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "score": 16,
+      "fetched_at": "2026-10-07",
+      "source": "Ars Technica",
+      "companies": [
+        "mistral"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Bloom raises $3.6M to become the Alibaba of American manufacturing",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "score": 14,
+      "fetched_at": "2026-10-07",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
