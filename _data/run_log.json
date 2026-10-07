@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-09-28 06:37:25 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2235,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-09-28 12:57:45 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 16,
@@ -1320,5 +1298,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-07 06:49:48 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 2263,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "file": "_posts/2026-10-07-openai-drops-another-batch-of-mathematical-breakthroughs.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]
