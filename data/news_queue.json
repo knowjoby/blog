@@ -283,6 +283,19 @@
       "topic": ""
     },
     {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-10-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
       "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "score": 48,
@@ -1317,6 +1330,21 @@
       "topic": "reasoning"
     },
     {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "score": 35,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "google",
+      "topic": "agentic"
+    },
+    {
       "title": "OpenAI Gets Sued Over the Hugging Face Hack",
       "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
       "score": 34,
@@ -1587,6 +1615,19 @@
       "url": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
       "score": 33,
       "fetched_at": "2026-10-07",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "score": 33,
+      "fetched_at": "2026-10-08",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -3535,6 +3576,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "score": 30,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -9111,6 +9165,58 @@
       "topic": ""
     },
     {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "score": 24,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "score": 24,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "She Designed Meta\u2019s New AI Logo. Then Came the Hate",
+      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "score": 24,
+      "fetched_at": "2026-10-08",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "score": 24,
+      "fetched_at": "2026-10-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -9257,6 +9363,19 @@
       ],
       "topics": [],
       "company": "stability",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "score": 20,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -13835,6 +13954,32 @@
       "topic": ""
     },
     {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "score": 18,
+      "fetched_at": "2026-10-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "score": 18,
+      "fetched_at": "2026-10-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14318,6 +14463,19 @@
       "topic": ""
     },
     {
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "score": 16,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
       "title": "An open-source spec for orchestration: Symphony",
       "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "score": 14,
@@ -14710,6 +14868,19 @@
     {
       "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
       "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "score": 14,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Goodfire says its new \u2018inside-out\u2019 monitors catch rogue AI agents at a fraction of the cost",
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
       "score": 14,
       "fetched_at": "2026-10-08",
       "source": "TechCrunch",
@@ -22127,6 +22298,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
+      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
+      "score": 55,
+      "file": "_posts/2026-10-08-spacexai-backs-omarchy-the-controversial-linux-distro-with-15-million.md",
+      "posted_at": "2026-10-08",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23423,8 +23605,8 @@
     },
     {
       "date": "2026-10-08",
-      "posts": 2,
-      "items_processed": 9062,
+      "posts": 3,
+      "items_processed": 11331,
       "estimated_tokens": 0
     }
   ]
