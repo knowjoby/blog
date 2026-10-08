@@ -520,6 +520,19 @@
       "topic": ""
     },
     {
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "score": 43,
+      "fetched_at": "2026-10-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
       "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "score": 42,
@@ -2243,6 +2256,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "score": 32,
+      "fetched_at": "2026-10-08",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "nvidia",
+      "topic": "robotics"
+    },
+    {
       "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "score": 31,
@@ -3494,6 +3522,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "score": 30,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -14667,6 +14708,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "score": 14,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
       "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
       "score": 12,
@@ -15302,6 +15356,19 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "AI breakthroughs in robotics won\u2019t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "score": 11,
+      "fetched_at": "2026-10-08",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
@@ -22035,6 +22102,31 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Can you trust Meta\u2019s Muse or OpenAI\u2019s Dots to run your life?",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "score": 73,
+      "file": "_posts/2026-10-08-can-you-trust-metas-muse-or-openais-dots-to-run-your-life.md",
+      "posted_at": "2026-10-08",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "score": 63,
+      "file": "_posts/2026-10-08-google-is-launching-a-one-stop-gemini-agent-for-your-work-tasks.md",
+      "posted_at": "2026-10-08",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -23331,8 +23423,8 @@
     },
     {
       "date": "2026-10-08",
-      "posts": 0,
-      "items_processed": 4530,
+      "posts": 2,
+      "items_processed": 6796,
       "estimated_tokens": 0
     }
   ]

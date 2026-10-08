@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-08T07:10:47.037291+00:00",
-  "pending_count": 1318,
+  "updated_at_utc": "2026-10-08T14:49:20.535231+00:00",
+  "pending_count": 1323,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -78,6 +78,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Artificial is a wicked satire that also sticks to the facts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
+      "score": 43,
+      "fetched_at": "2026-10-08",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Procgen and MineRL Competitions",
@@ -791,6 +802,30 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "score": 32,
+      "fetched_at": "2026-10-08",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "score": 30,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
@@ -6643,6 +6678,17 @@
       "topics": []
     },
     {
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "score": 14,
+      "fetched_at": "2026-10-08",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "score": 14,
@@ -6860,6 +6906,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "score": 11,
+      "fetched_at": "2026-10-08",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
