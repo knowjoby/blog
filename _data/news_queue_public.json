@@ -1,7 +1,42 @@
 {
-  "updated_at_utc": "2026-10-09T07:53:34.481920+00:00",
-  "pending_count": 1329,
+  "updated_at_utc": "2026-10-09T14:58:46.881985+00:00",
+  "pending_count": 1332,
   "pending": [
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "score": 49,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "score": 33,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "score": 32,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
     {
       "title": "USA Today becomes the latest publisher to sue OpenAI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",

@@ -270,6 +270,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "score": 49,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
       "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "score": 48,
@@ -1611,6 +1624,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "score": 33,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Everything new coming to Meta\u2019s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
       "score": 32,
@@ -2284,6 +2310,21 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "score": 32,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
@@ -22242,6 +22283,17 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "Meta is banning TikTok ads across its platforms",
+      "url": "https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban",
+      "score": 55,
+      "file": "_posts/2026-10-09-meta-is-banning-tiktok-ads-across-its-platforms.md",
+      "posted_at": "2026-10-09",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23544,8 +23596,8 @@
     },
     {
       "date": "2026-10-09",
-      "posts": 2,
-      "items_processed": 4542,
+      "posts": 3,
+      "items_processed": 6814,
       "estimated_tokens": 0
     }
   ]

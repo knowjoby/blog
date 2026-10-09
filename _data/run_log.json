@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-09-30 16:48:23 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 15,
-    "posts_created": 1,
-    "queued": 14,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 15
-      },
-      "rss": {
-        "raw": 2244,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 15
-      }
-    },
-    "posts": [
-      {
-        "title": "Apple’s ‘HomePad’ will reportedly launch on October 13th",
-        "file": "_posts/2026-09-30-apples-homepad-will-reportedly-launch-on-october-13th.md",
-        "score": 51,
-        "tags": [
-          "apple"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-30 20:07:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1339,6 +1308,37 @@
         "tags": [
           "microsoft",
           "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-10-09 20:28:46 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 1,
+    "queued": 3,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2272,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta is banning TikTok ads across its platforms",
+        "file": "_posts/2026-10-09-meta-is-banning-tiktok-ads-across-its-platforms.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]
