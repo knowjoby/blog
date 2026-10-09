@@ -283,6 +283,19 @@
       "topic": ""
     },
     {
+      "title": "\u2018Pure insanity\u2019: Mathematicians will need years to make sense of OpenAI\u2019s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "score": 49,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
       "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "score": 48,
@@ -766,6 +779,22 @@
       "topics": [],
       "company": "amazon",
       "topic": ""
+    },
+    {
+      "title": "Solving complex problems with OpenAI o1 models",
+      "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+      "score": 40,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery",
@@ -2331,6 +2360,19 @@
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "score": 31,
       "fetched_at": "2026-10-02",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "score": 31,
+      "fetched_at": "2026-10-09",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -4550,6 +4592,51 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
+    },
+    {
+      "title": "Delegate work to ChatGPT agent",
+      "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+      "score": 26,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "Create on-brand visuals with image generation",
+      "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+      "score": 26,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Vision and voice in ChatGPT",
+      "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
     },
     {
       "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
@@ -9158,6 +9245,58 @@
       "url": "https://openai.com/index/pollo-ai",
       "score": 24,
       "fetched_at": "2026-10-08",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI uses ChatGPT Atlas at work",
+      "url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Automate complex workflows with OpenAI o3",
+      "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+      "score": 24,
+      "fetched_at": "2026-10-09",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -13930,6 +14069,162 @@
       "topic": ""
     },
     {
+      "title": "Think Bigger: How Small Teams Win with ChatGPT",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Personalize ChatGPT with custom instructions",
+      "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Collaborate and write with GPT-4o",
+      "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Connect internal knowledge from Google Drive",
+      "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Prototyping with canvas in ChatGPT",
+      "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Market research with ChatGPT",
+      "url": "https://openai.com/business/learn/market-research-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Creating a contextual workspace in ChatGPT",
+      "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Strategic planning with ChatGPT",
+      "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Shipping code to your IDE with ChatGPT",
+      "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Fine-tuning GPT-4o webinar",
+      "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Enabling a data-driven workforce",
+      "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -15484,6 +15779,19 @@
       "score": 11,
       "fetched_at": "2026-10-08",
       "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Danu Robotics\u2019 fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "score": 11,
+      "fetched_at": "2026-10-09",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "robotics"
@@ -23597,7 +23905,7 @@
     {
       "date": "2026-10-09",
       "posts": 3,
-      "items_processed": 9086,
+      "items_processed": 11386,
       "estimated_tokens": 0
     }
   ]

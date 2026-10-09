@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-09T15:08:48.662327+00:00",
-  "pending_count": 1332,
+  "updated_at_utc": "2026-10-09T20:16:20.256465+00:00",
+  "pending_count": 1355,
   "pending": [
+    {
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "score": 49,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI doubles down on decision to fire three AI safety researchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
@@ -12,6 +23,20 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Solving complex problems with OpenAI o1 models",
+      "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+      "score": 40,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "coding"
+      ]
     },
     {
       "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
@@ -35,6 +60,243 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "score": 31,
+      "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Vision and voice in ChatGPT",
+      "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Delegate work to ChatGPT agent",
+      "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+      "score": 26,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Create on-brand visuals with image generation",
+      "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+      "score": 26,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI uses ChatGPT Atlas at work",
+      "url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Automate complex workflows with OpenAI o3",
+      "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+      "score": 24,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Strategic planning with ChatGPT",
+      "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Shipping code to your IDE with ChatGPT",
+      "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Prototyping with canvas in ChatGPT",
+      "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Personalize ChatGPT with custom instructions",
+      "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Market research with ChatGPT",
+      "url": "https://openai.com/business/learn/market-research-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating a contextual workspace in ChatGPT",
+      "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Connect internal knowledge from Google Drive",
+      "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Collaborate and write with GPT-4o",
+      "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Think Bigger: How Small Teams Win with ChatGPT",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Fine-tuning GPT-4o webinar",
+      "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Enabling a data-driven workforce",
+      "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "score": 18,
+      "fetched_at": "2026-10-09",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "score": 11,
+      "fetched_at": "2026-10-09",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
