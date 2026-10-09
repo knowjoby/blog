@@ -22229,6 +22229,19 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "url": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "score": 57,
+      "file": "_posts/2026-10-09-microsoft-365-family-subscribers-will-finally-be-able-to-share-ai-bene.md",
+      "posted_at": "2026-10-09",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -23531,8 +23544,8 @@
     },
     {
       "date": "2026-10-09",
-      "posts": 1,
-      "items_processed": 2271,
+      "posts": 2,
+      "items_processed": 4542,
       "estimated_tokens": 0
     }
   ]
