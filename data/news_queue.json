@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg\u2019s next big product launch",
-      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "score": 55,
-      "fetched_at": "2026-09-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "score": 49,
-      "fetched_at": "2026-09-24",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Meta employees ordered \u2018attorney/client privilege\u2019 hats while fighting child safety disclosures",
       "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
       "score": 49,
@@ -2325,32 +2299,6 @@
       "topic": "ai"
     },
     {
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "score": 30,
-      "fetched_at": "2026-09-24",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "url": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-      "score": 30,
-      "fetched_at": "2026-09-24",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
       "score": 30,
@@ -4561,45 +4509,6 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
-    },
-    {
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "score": 24,
-      "fetched_at": "2026-09-24",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic says its biology lab has already found something big",
-      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "score": 24,
-      "fetched_at": "2026-09-24",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
-      "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
-      "score": 24,
-      "fetched_at": "2026-09-24",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "Meta\u2019s Muse Charm looks like a Tamagotchi, but it\u2019s tapping into a much newer trend",
@@ -22309,6 +22218,17 @@
         "xai"
       ],
       "topics": []
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "score": 55,
+      "file": "_posts/2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-projects.md",
+      "posted_at": "2026-10-09",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23607,6 +23527,12 @@
       "date": "2026-10-08",
       "posts": 3,
       "items_processed": 11331,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-10-09",
+      "posts": 1,
+      "items_processed": 2271,
       "estimated_tokens": 0
     }
   ]

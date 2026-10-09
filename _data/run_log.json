@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-09-30 05:24:56 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2244,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-        "file": "_posts/2026-09-29-the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch.md",
-        "score": 62,
-        "tags": [
-          "openai",
-          "xai",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-09-30 10:30:48 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1331,6 +1298,37 @@
         "score": 55,
         "tags": [
           "xai"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-10-09 06:35:22 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2271,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "file": "_posts/2026-10-09-anthropic-launches-free-ai-security-scans-for-open-source-projects.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
         ]
       }
     ]
