@@ -1,45 +1,5 @@
 [
   {
-    "ran_at": "2026-10-01 02:52:42 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 11,
-    "posts_created": 2,
-    "queued": 9,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 11
-      },
-      "rss": {
-        "raw": 2247,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 11
-      }
-    },
-    "posts": [
-      {
-        "title": "The AI Tamagotchis are coming",
-        "file": "_posts/2026-09-30-the-ai-tamagotchis-are-coming.md",
-        "score": 61,
-        "tags": [
-          "openai",
-          "meta"
-        ]
-      },
-      {
-        "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-        "file": "_posts/2026-09-30-google-announces-gemini-4-and-says-its-so-capable-that-only-trusted-cy.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-01 06:15:58 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1332,5 +1292,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-10 05:45:12 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2300,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "file": "_posts/2026-10-10-anthropics-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-ho.md",
+        "score": 55,
+        "tags": [
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
