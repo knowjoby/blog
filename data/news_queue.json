@@ -22356,6 +22356,20 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "score": 69,
+      "file": "_posts/2026-10-10-ai-agent-makers-are-promising-privacy-will-they-deliver.md",
+      "posted_at": "2026-10-10",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -23664,8 +23678,8 @@
     },
     {
       "date": "2026-10-10",
-      "posts": 1,
-      "items_processed": 6900,
+      "posts": 2,
+      "items_processed": 9200,
       "estimated_tokens": 0
     }
   ]
