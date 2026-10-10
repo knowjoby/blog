@@ -1,45 +1,5 @@
 [
   {
-    "ran_at": "2026-10-02 01:44:27 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 2,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2250,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "Inside Microsoft’s big Copilot rethink",
-        "file": "_posts/2026-10-01-inside-microsofts-big-copilot-rethink.md",
-        "score": 57,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      },
-      {
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "file": "_posts/2026-10-01-googles-new-guided-vision-feature-can-help-you-read-the-fine-print.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-02 05:34:14 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1320,6 +1280,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-11 02:54:54 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2300,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
