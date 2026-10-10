@@ -244,6 +244,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "score": 49,
+      "fetched_at": "2026-10-10",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
       "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "score": 48,
@@ -14893,6 +14906,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "score": 14,
+      "fetched_at": "2026-10-10",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
       "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
       "score": 12,
@@ -23679,7 +23705,7 @@
     {
       "date": "2026-10-10",
       "posts": 2,
-      "items_processed": 9200,
+      "items_processed": 11500,
       "estimated_tokens": 0
     }
   ]
