@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-03 18:32:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2254,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-03 18:42:18 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1284,5 +1262,45 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-12 22:53:50 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 2,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2300,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta has some Wonder Full new AI models",
+        "file": "_posts/2026-10-12-meta-has-some-wonder-full-new-ai-models.md",
+        "score": 63,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+        "file": "_posts/2026-10-12-microsofts-new-ai-chip-makes-it-less-reliant-on-nvidias-gpus.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]

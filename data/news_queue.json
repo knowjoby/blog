@@ -8930,6 +8930,19 @@
       "topic": ""
     },
     {
+      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+      "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "score": 24,
+      "fetched_at": "2026-10-12",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -13886,6 +13899,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "score": 17,
+      "fetched_at": "2026-10-12",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -22264,6 +22290,30 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "score": 63,
+      "file": "_posts/2026-10-12-meta-has-some-wonder-full-new-ai-models.md",
+      "posted_at": "2026-10-12",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "score": 55,
+      "file": "_posts/2026-10-12-microsofts-new-ai-chip-makes-it-less-reliant-on-nvidias-gpus.md",
+      "posted_at": "2026-10-12",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23584,8 +23634,8 @@
     },
     {
       "date": "2026-10-12",
-      "posts": 0,
-      "items_processed": 4600,
+      "posts": 2,
+      "items_processed": 6900,
       "estimated_tokens": 0
     }
   ]
