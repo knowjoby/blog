@@ -993,6 +993,21 @@
       "topic": "regulation"
     },
     {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "score": 38,
+      "fetched_at": "2026-10-12",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "meta",
+      "topic": "coding"
+    },
+    {
       "title": "You can text DoorDash\u2019s AI bot to \u2018order my usual\u2019 and it will figure the rest out",
       "url": "https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability",
       "score": 37,
@@ -13875,6 +13890,19 @@
       "topic": ""
     },
     {
+      "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+      "score": 18,
+      "fetched_at": "2026-10-12",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -23635,7 +23663,7 @@
     {
       "date": "2026-10-12",
       "posts": 2,
-      "items_processed": 6900,
+      "items_processed": 9200,
       "estimated_tokens": 0
     }
   ]
