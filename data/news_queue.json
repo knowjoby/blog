@@ -231,6 +231,32 @@
       "topic": ""
     },
     {
+      "title": "Epic shifts to \u2018AI-accelerated development\u2019 for upcoming Disney game",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "score": 49,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Where to preorder the new Apple TV 4K",
+      "url": "https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy",
+      "score": 49,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
       "title": "OpenAI\u2019s Dots Are Always-On AI Agents\u2014and Its Answer to Meta\u2019s Muse",
       "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
       "score": 48,
@@ -452,6 +478,32 @@
       ],
       "topics": [],
       "company": "microsoft",
+      "topic": ""
+    },
+    {
+      "title": "Here are all the new HomePod Mini 2 colors",
+      "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
+      "score": 43,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+      "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+      "score": 43,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -3358,6 +3410,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "score": 30,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
       "topic": ""
     },
     {
@@ -8769,6 +8834,45 @@
       "topic": ""
     },
     {
+      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
+      ],
+      "topics": [],
+      "company": "apple",
+      "topic": ""
+    },
+    {
+      "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -13688,6 +13792,19 @@
       "topic": "open_source"
     },
     {
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "score": 18,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14682,6 +14799,32 @@
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "score": 12,
       "fetched_at": "2026-10-10",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "score": 12,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "score": 12,
+      "fetched_at": "2026-10-13",
       "source": "TechCrunch",
       "companies": [],
       "topics": [
@@ -22114,6 +22257,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
+      "url": "https://www.theverge.com/tech/1009663/apple-tv-4k-siri-ai-microphones-4th-gen-announced",
+      "score": 55,
+      "file": "_posts/2026-10-13-the-new-apple-tv-4k-has-built-in-microphones-so-you-can-talk-to-siri-a.md",
+      "posted_at": "2026-10-13",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23440,8 +23594,8 @@
     },
     {
       "date": "2026-10-13",
-      "posts": 0,
-      "items_processed": 4600,
+      "posts": 1,
+      "items_processed": 6900,
       "estimated_tokens": 0
     }
   ]
