@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-13T16:18:55.998780+00:00",
-  "pending_count": 1327,
+  "updated_at_utc": "2026-10-13T21:27:52.750288+00:00",
+  "pending_count": 1336,
   "pending": [
     {
       "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
@@ -25,6 +25,29 @@
       "topics": []
     },
     {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "score": 49,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "score": 48,
+      "fetched_at": "2026-10-13",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Here are all the new HomePod Mini 2 colors",
       "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
       "score": 43,
@@ -45,6 +68,28 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Rivian partner Mind Robotics hires Doug Field as president",
+      "url": "https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple",
+      "score": 42,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "score": 39,
+      "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -151,6 +196,39 @@
       "source": "MIT Tech Review",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -322,6 +400,17 @@
       "topics": []
     },
     {
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+      "score": 18,
+      "fetched_at": "2026-10-13",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
       "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
       "score": 12,
@@ -341,6 +430,17 @@
       "companies": [],
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
+      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
+      "score": 11,
+      "fetched_at": "2026-10-13",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
