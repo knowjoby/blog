@@ -13805,6 +13805,19 @@
       "topic": ""
     },
     {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "score": 18,
+      "fetched_at": "2026-10-13",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -22268,6 +22281,19 @@
         "apple"
       ],
       "topics": []
+    },
+    {
+      "title": "Google finally releases Gemini 4 Argon",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "score": 63,
+      "file": "_posts/2026-10-13-google-finally-releases-gemini-4-argon.md",
+      "posted_at": "2026-10-13",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "reasoning"
+      ]
     }
   ],
   "daily_usage": [
@@ -23594,8 +23620,8 @@
     },
     {
       "date": "2026-10-13",
-      "posts": 1,
-      "items_processed": 6900,
+      "posts": 2,
+      "items_processed": 9200,
       "estimated_tokens": 0
     }
   ]
