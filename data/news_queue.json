@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "score": 49,
-      "fetched_at": "2026-09-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Protesters gather at OpenAI\u2019s DevDay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
       "score": 49,
@@ -328,19 +315,6 @@
       "topic": ""
     },
     {
-      "title": "OpenAI\u2019s AI agents need to catch up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "score": 45,
-      "fetched_at": "2026-09-28",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
       "score": 45,
@@ -478,20 +452,6 @@
       ],
       "topics": [],
       "company": "microsoft",
-      "topic": ""
-    },
-    {
-      "title": "Google is killing off Gemini\u2019s Gems in favor of \u2018skills\u2019",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "score": 42,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "google",
-        "meta"
-      ],
-      "topics": [],
-      "company": "google",
       "topic": ""
     },
     {
@@ -732,19 +692,6 @@
       "topic": "coding"
     },
     {
-      "title": "Honor\u2019s Magic 9 Pro Max has a big camera and a bigger battery",
-      "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
-      "score": 39,
-      "fetched_at": "2026-09-28",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
       "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
       "score": 39,
@@ -794,37 +741,6 @@
         "agentic"
       ],
       "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Meta launches enterprise\u00a0AI platform, hires\u00a0MongoDB CEO to\u00a0lead new initiative",
-      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "score": 38,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "meta",
       "topic": "agentic"
     },
     {
@@ -1564,19 +1480,6 @@
       "topic": ""
     },
     {
-      "title": "Dreame\u2019s step-climbing X50 Ultra mopping vacuum is hundreds off",
-      "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-      "score": 33,
-      "fetched_at": "2026-09-28",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
       "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
       "score": 33,
@@ -1627,51 +1530,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-      "score": 32,
-      "fetched_at": "2026-09-28",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
-      "url": "https://www.wired.com/story/independent-advisers-resign-en-masse-from-big-techs-anti-terrorism-group/",
-      "score": 32,
-      "fetched_at": "2026-09-28",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "meta",
-      "topic": "regulation"
     },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
@@ -2229,6 +2087,21 @@
       "topic": "regulation"
     },
     {
+      "title": "I Got My Muse AI Agent to Sext Me\u2014and Meta Says That\u2019s Totally Fine",
+      "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+      "score": 32,
+      "fetched_at": "2026-10-13",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "score": 31,
@@ -2253,71 +2126,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "score": 30,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
-      "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
-      "score": 30,
-      "fetched_at": "2026-09-28",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "score": 30,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "score": 30,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "score": 30,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
@@ -3768,36 +3576,6 @@
       "topic": "robotics"
     },
     {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "score": 26,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-      "score": 26,
-      "fetched_at": "2026-09-28",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
       "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
       "score": 26,
@@ -4497,84 +4275,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "score": 24,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "score": 24,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
-      "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-      "score": 24,
-      "fetched_at": "2026-09-28",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "score": 24,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "score": 24,
-      "fetched_at": "2026-09-28",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
@@ -8958,6 +8658,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "score": 24,
+      "fetched_at": "2026-10-13",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -9174,151 +8887,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Who\u2019s liable when AI agents go rogue?",
-      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-      "score": 18,
-      "fetched_at": "2026-09-28",
-      "source": "MIT Tech Review",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "How we will do better for Australia",
@@ -14412,19 +13980,6 @@
       "topic": ""
     },
     {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "score": 14,
-      "fetched_at": "2026-09-28",
-      "source": "TechCrunch",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Reco raises $55M as AI agent security startups crowd the market",
       "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
       "score": 14,
@@ -15489,19 +15044,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "score": 10,
-      "fetched_at": "2026-09-28",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
@@ -23664,6 +23206,12 @@
       "date": "2026-10-12",
       "posts": 2,
       "items_processed": 9200,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-10-13",
+      "posts": 0,
+      "items_processed": 2300,
       "estimated_tokens": 0
     }
   ]
