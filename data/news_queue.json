@@ -241,6 +241,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "score": 49,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic\u2019s self-replicating AI warning is alarming deja vu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "score": 49,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -475,6 +501,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Now you can call anyone with WhatsApp, even if they don\u2019t have WhatsApp",
+      "url": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+      "score": 43,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -771,6 +810,19 @@
       "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
       "score": 39,
       "fetched_at": "2026-10-13",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
+      "title": "Square\u2019s new kiosk lets you talk to AI for help with your order",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "score": 39,
+      "fetched_at": "2026-10-14",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -23407,7 +23459,7 @@
     {
       "date": "2026-10-14",
       "posts": 0,
-      "items_processed": 9206,
+      "items_processed": 11509,
       "estimated_tokens": 0
     }
   ]

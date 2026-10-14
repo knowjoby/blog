@@ -1,7 +1,51 @@
 {
-  "updated_at_utc": "2026-10-14T13:18:46.186917+00:00",
-  "pending_count": 1310,
+  "updated_at_utc": "2026-10-14T16:54:50.745097+00:00",
+  "pending_count": 1314,
   "pending": [
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "score": 49,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "score": 49,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Now you can call anyone with WhatsApp, even if they don’t have WhatsApp",
+      "url": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
+      "score": 43,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "score": 39,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24",
