@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn\u2019t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "score": 49,
+      "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -8722,6 +8735,19 @@
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
       "score": 24,
       "fetched_at": "2026-10-14",
       "source": "OpenAI",
@@ -23511,7 +23537,7 @@
     {
       "date": "2026-10-14",
       "posts": 1,
-      "items_processed": 13814,
+      "items_processed": 16120,
       "estimated_tokens": 0
     }
   ]
