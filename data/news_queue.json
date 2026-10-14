@@ -8629,6 +8629,32 @@
       "topic": ""
     },
     {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -23381,7 +23407,7 @@
     {
       "date": "2026-10-14",
       "posts": 0,
-      "items_processed": 6904,
+      "items_processed": 9206,
       "estimated_tokens": 0
     }
   ]
