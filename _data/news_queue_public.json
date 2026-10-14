@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-14T16:54:50.745097+00:00",
-  "pending_count": 1314,
+  "updated_at_utc": "2026-10-14T20:31:44.468564+00:00",
+  "pending_count": 1317,
   "pending": [
     {
       "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
@@ -616,8 +616,30 @@
       "topics": []
     },
     {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
       "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
       "score": 24,
       "fetched_at": "2026-10-14",
       "source": "Ars Technica",
@@ -634,6 +656,17 @@
       "source": "Ars Technica",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "score": 18,
+      "fetched_at": "2026-10-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

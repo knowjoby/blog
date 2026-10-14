@@ -8707,6 +8707,32 @@
       "topic": ""
     },
     {
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "score": 24,
+      "fetched_at": "2026-10-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -13641,6 +13667,19 @@
     {
       "title": "Codex now offers more flexible pricing for teams",
       "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "score": 18,
+      "fetched_at": "2026-10-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
       "score": 18,
       "fetched_at": "2026-10-14",
       "source": "OpenAI",
@@ -22126,6 +22165,19 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "The AI race is back on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "score": 79,
+      "file": "_posts/2026-10-14-the-ai-race-is-back-on.md",
+      "posted_at": "2026-10-14",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23458,8 +23510,8 @@
     },
     {
       "date": "2026-10-14",
-      "posts": 0,
-      "items_processed": 11509,
+      "posts": 1,
+      "items_processed": 13814,
       "estimated_tokens": 0
     }
   ]
