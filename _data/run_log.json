@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-06 08:45:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2258,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-06 16:11:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 28,
@@ -1277,5 +1255,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-15 18:34:27 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2306,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Google launches its ‘universal’ online shopping cart ahead of the holidays",
+        "file": "_posts/2026-10-15-google-launches-its-universal-online-shopping-cart-ahead-of-the-holida.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]

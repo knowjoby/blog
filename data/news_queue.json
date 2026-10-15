@@ -1498,6 +1498,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Your secrets aren\u2019t safe with this cute robot toy \u2014 they\u2019re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "score": 33,
+      "fetched_at": "2026-10-15",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "url": "https://openai.com/index/gilbert-tobin",
       "score": 32,
@@ -21989,6 +22002,17 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Google launches its \u2018universal\u2019 online shopping cart ahead of the holidays",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "score": 55,
+      "file": "_posts/2026-10-15-google-launches-its-universal-online-shopping-cart-ahead-of-the-holida.md",
+      "posted_at": "2026-10-15",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23327,8 +23351,8 @@
     },
     {
       "date": "2026-10-15",
-      "posts": 0,
-      "items_processed": 4612,
+      "posts": 1,
+      "items_processed": 6918,
       "estimated_tokens": 0
     }
   ]
