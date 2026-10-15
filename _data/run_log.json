@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-10-06 04:37:26 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 9,
-    "posts_created": 2,
-    "queued": 7,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 9
-      },
-      "rss": {
-        "raw": 2258,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 9
-      }
-    },
-    "posts": [
-      {
-        "title": "All the drama around AI’s takeover of mathematics",
-        "file": "_posts/2026-10-05-all-the-drama-around-ais-takeover-of-mathematics.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "anthropic"
-        ]
-      },
-      {
-        "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-        "file": "_posts/2026-10-05-openai-is-adding-text-watermarking-in-chatgpt-and-codex.md",
-        "score": 67,
-        "tags": [
-          "openai",
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-06 08:45:37 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1293,6 +1252,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-15 14:48:39 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 15,
+    "posts_created": 0,
+    "queued": 15,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 15
+      },
+      "rss": {
+        "raw": 2306,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 15
       }
     },
     "posts": []

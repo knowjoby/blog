@@ -2023,6 +2023,21 @@
       "topic": "agentic"
     },
     {
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "score": 32,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
       "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
       "score": 31,
@@ -3259,6 +3274,21 @@
       "topic": "coding"
     },
     {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "score": 29,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
       "title": "Transformers now runs llama.cpp quants",
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "score": 28,
@@ -4142,6 +4172,21 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "score": 26,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "Path to Astra: critical capabilities and frontier safeguards",
@@ -8490,6 +8535,45 @@
       "url": "https://openai.com/index/block-ai-powered-security",
       "score": 24,
       "fetched_at": "2026-10-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "score": 24,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "score": 24,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "score": 24,
+      "fetched_at": "2026-10-15",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -13377,6 +13461,86 @@
       "topic": ""
     },
     {
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "score": 18,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "score": 18,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "score": 18,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "score": 18,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "score": 18,
+      "fetched_at": "2026-10-15",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "huggingface",
+      "topic": "robotics"
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14250,6 +14414,19 @@
       "topic": "coding"
     },
     {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "score": 14,
+      "fetched_at": "2026-10-15",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
+    },
+    {
       "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
       "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
       "score": 12,
@@ -14911,6 +15088,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "score": 11,
+      "fetched_at": "2026-10-15",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -17062,6 +17252,19 @@
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "score": 10,
       "fetched_at": "2026-10-14",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "score": 10,
+      "fetched_at": "2026-10-15",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -23125,7 +23328,7 @@
     {
       "date": "2026-10-15",
       "posts": 0,
-      "items_processed": 2306,
+      "items_processed": 4612,
       "estimated_tokens": 0
     }
   ]
