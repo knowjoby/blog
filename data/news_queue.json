@@ -338,6 +338,20 @@
       "topic": ""
     },
     {
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \u201choax\u201d",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "score": 48,
+      "fetched_at": "2026-10-15",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -479,6 +493,19 @@
       "url": "https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls",
       "score": 43,
       "fetched_at": "2026-10-14",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Friends don\u2019t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "score": 43,
+      "fetched_at": "2026-10-15",
       "source": "The Verge",
       "companies": [
         "meta"
@@ -1259,6 +1286,21 @@
       ],
       "company": "nvidia",
       "topic": "robotics"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "score": 35,
+      "fetched_at": "2026-10-15",
+      "source": "Hugging Face",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "meta",
+      "topic": "multimodal"
     },
     {
       "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -3224,6 +3266,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Volvo makes a bigger bet on Nvidia",
+      "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+      "score": 30,
+      "fetched_at": "2026-10-15",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "score": 30,
+      "fetched_at": "2026-10-15",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -22013,6 +22081,53 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "score": 97,
+      "file": "_posts/2026-10-15-meta-and-apple-team-up-to-make-muse-ai-models-run-better-on-macs.md",
+      "posted_at": "2026-10-15",
+      "companies": [
+        "openai",
+        "meta",
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+      "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
+      "score": 73,
+      "file": "_posts/2026-10-15-nvidia-apple-google-microsoft-amazon-and-meta-gave-trump-a-combined-92.md",
+      "posted_at": "2026-10-15",
+      "companies": [
+        "meta",
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Volvo will use Nvidia\u2019s tech for hands-free, point-to-point driving",
+      "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+      "score": 55,
+      "file": "_posts/2026-10-15-volvo-will-use-nvidias-tech-for-hands-free-point-to-point-driving.md",
+      "posted_at": "2026-10-15",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The best reason to care about Nvidia\u2019s RTX Spark: \u2018everything\u2019 will run on Arm",
+      "url": "https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm",
+      "score": 55,
+      "file": "_posts/2026-10-15-the-best-reason-to-care-about-nvidias-rtx-spark-everything-will-run-on.md",
+      "posted_at": "2026-10-15",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23351,8 +23466,8 @@
     },
     {
       "date": "2026-10-15",
-      "posts": 1,
-      "items_processed": 9226,
+      "posts": 5,
+      "items_processed": 11536,
       "estimated_tokens": 0
     }
   ]
