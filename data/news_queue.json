@@ -254,6 +254,32 @@
       "topic": ""
     },
     {
+      "title": "A week with RTX Spark: everything we\u2019ve learned using Nvidia\u2019s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "score": 49,
+      "fetched_at": "2026-10-16",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "score": 49,
+      "fetched_at": "2026-10-16",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -23484,7 +23510,7 @@
     {
       "date": "2026-10-16",
       "posts": 0,
-      "items_processed": 9248,
+      "items_processed": 11561,
       "estimated_tokens": 0
     }
   ]

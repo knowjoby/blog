@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-10-16T13:00:55.569588+00:00",
-  "pending_count": 1310,
+  "updated_at_utc": "2026-10-16T15:27:46.339137+00:00",
+  "pending_count": 1312,
   "pending": [
+    {
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "score": 49,
+      "fetched_at": "2026-10-16",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "score": 49,
+      "fetched_at": "2026-10-16",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "ChatGPT can peek at your Chrome tabs now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
