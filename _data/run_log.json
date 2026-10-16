@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-10-08 02:14:07 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 19,
-    "posts_created": 1,
-    "queued": 18,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 19
-      },
-      "rss": {
-        "raw": 2265,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 19
-      }
-    },
-    "posts": [
-      {
-        "title": "Microsoft is giving Copilot more control over Windows and your files",
-        "file": "_posts/2026-10-07-microsoft-is-giving-copilot-more-control-over-windows-and-your-files.md",
-        "score": 57,
-        "tags": [
-          "microsoft",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-08 06:21:58 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1277,5 +1245,39 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-17 00:27:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2313,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "file": "_posts/2026-10-16-an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-mome.md",
+        "score": 61,
+        "tags": [
+          "openai",
+          "nvidia",
+          "regulation",
+          "robotics"
+        ]
+      }
+    ]
   }
 ]

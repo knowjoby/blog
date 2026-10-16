@@ -8701,6 +8701,19 @@
       "topic": ""
     },
     {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "score": 24,
+      "fetched_at": "2026-10-16",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
       "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "score": 22,
@@ -22165,6 +22178,21 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "score": 61,
+      "file": "_posts/2026-10-16-an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-mome.md",
+      "posted_at": "2026-10-16",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [
+        "regulation",
+        "robotics"
+      ]
     }
   ],
   "daily_usage": [
@@ -23509,8 +23537,8 @@
     },
     {
       "date": "2026-10-16",
-      "posts": 0,
-      "items_processed": 11561,
+      "posts": 1,
+      "items_processed": 13874,
       "estimated_tokens": 0
     }
   ]

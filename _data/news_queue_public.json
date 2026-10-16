@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-16T15:27:46.339137+00:00",
-  "pending_count": 1312,
+  "updated_at_utc": "2026-10-16T18:57:41.768620+00:00",
+  "pending_count": 1313,
   "pending": [
     {
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
@@ -192,6 +192,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "score": 24,
+      "fetched_at": "2026-10-16",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
