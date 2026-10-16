@@ -1,54 +1,5 @@
 [
   {
-    "ran_at": "2026-10-07 20:35:30 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 11,
-    "posts_created": 3,
-    "queued": 8,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 11
-      },
-      "rss": {
-        "raw": 2262,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 11
-      }
-    },
-    "posts": [
-      {
-        "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-        "file": "_posts/2026-10-07-google-invests-millions-in-mark-zuckerbergs-efforts-to-create-a-virtua.md",
-        "score": 73,
-        "tags": [
-          "google",
-          "meta"
-        ]
-      },
-      {
-        "title": "Windows and Surface event: how to watch and what to expect",
-        "file": "_posts/2026-10-07-windows-and-surface-event-how-to-watch-and-what-to-expect.md",
-        "score": 61,
-        "tags": [
-          "microsoft",
-          "nvidia"
-        ]
-      },
-      {
-        "title": "At $1,279, Google’s Xreal Aura will go head-to-head with Meta’s VR Glasses",
-        "file": "_posts/2026-10-07-at-1279-googles-xreal-aura-will-go-head-to-head-with-metas-vr-glasses.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-07 20:53:22 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1285,6 +1236,28 @@
   },
   {
     "ran_at": "2026-10-16 16:35:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2312,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-16 18:30:55 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
