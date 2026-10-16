@@ -385,19 +385,6 @@
       "topic": "coding"
     },
     {
-      "title": "Can VR glasses save VR?",
-      "url": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-      "score": 43,
-      "fetched_at": "2026-10-01",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Dots get up in Muse\u2019s business",
       "url": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
       "score": 43,
@@ -512,6 +499,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "score": 43,
+      "fetched_at": "2026-10-16",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -828,21 +828,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "score": 38,
-      "fetched_at": "2026-10-01",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "google",
-      "topic": "coding"
     },
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
@@ -2119,19 +2104,6 @@
       "topic": "ai"
     },
     {
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "score": 30,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "The next phase of OpenAI\u2019s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "score": 30,
@@ -3295,6 +3267,19 @@
       "topic": ""
     },
     {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "score": 30,
+      "fetched_at": "2026-10-16",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -3565,51 +3550,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "score": 26,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "score": 26,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "score": 26,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
     },
     {
       "title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
@@ -4268,110 +4208,6 @@
       ],
       "company": "openai",
       "topic": "reasoning"
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI supports California\u2019s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "score": 24,
-      "fetched_at": "2026-10-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
@@ -8664,16 +8500,29 @@
       "topic": ""
     },
     {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "score": 22,
-      "fetched_at": "2026-10-01",
-      "source": "Hugging Face",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "score": 24,
+      "fetched_at": "2026-10-16",
+      "source": "TechCrunch",
       "companies": [
-        "huggingface"
+        "anthropic"
       ],
       "topics": [],
-      "company": "huggingface",
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "We Got Hot and Heavy With Meta\u2019s Muse\u2014and Baffled by Apple\u2019s HomeView",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+      "score": 24,
+      "fetched_at": "2026-10-16",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -8867,123 +8716,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "url": "https://openai.com/index/polimill",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Defender\u2019s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "score": 18,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -13622,6 +13354,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "score": 18,
+      "fetched_at": "2026-10-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14131,19 +13876,6 @@
       "topic": ""
     },
     {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "score": 14,
-      "fetched_at": "2026-10-01",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
       "title": "Kevin Mandia\u2019s new \u2018agent swarm\u2019 security startup Armadin raises $255.5M at $2.5B valuation",
       "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
       "score": 14,
@@ -14597,19 +14329,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "score": 11,
-      "fetched_at": "2026-10-01",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
@@ -23468,6 +23187,12 @@
       "date": "2026-10-15",
       "posts": 5,
       "items_processed": 11536,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-10-16",
+      "posts": 0,
+      "items_processed": 2312,
       "estimated_tokens": 0
     }
   ]
