@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-17T09:06:40.398623+00:00",
-  "pending_count": 1307,
+  "updated_at_utc": "2026-10-17T11:58:34.236089+00:00",
+  "pending_count": 1308,
   "pending": [
     {
       "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
@@ -246,6 +246,17 @@
       "source": "Ars Technica",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "score": 18,
+      "fetched_at": "2026-10-17",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },

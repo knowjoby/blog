@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-10-09 02:06:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 14,
-    "posts_created": 1,
-    "queued": 13,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 14
-      },
-      "rss": {
-        "raw": 2269,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 14
-      }
-    },
-    "posts": [
-      {
-        "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-        "file": "_posts/2026-10-08-spacexai-backs-omarchy-the-controversial-linux-distro-with-15-million.md",
-        "score": 55,
-        "tags": [
-          "xai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-09 06:35:22 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1257,6 +1226,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-17 17:28:34 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2316,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
