@@ -418,6 +418,20 @@
       "topic": ""
     },
     {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "score": 48,
+      "fetched_at": "2026-10-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -8699,6 +8713,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "score": 24,
+      "fetched_at": "2026-10-17",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "score": 24,
+      "fetched_at": "2026-10-17",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -23505,7 +23545,7 @@
     {
       "date": "2026-10-17",
       "posts": 1,
-      "items_processed": 16210,
+      "items_processed": 18526,
       "estimated_tokens": 0
     }
   ]
