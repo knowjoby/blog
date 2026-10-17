@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-10-08 20:19:20 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 2,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2266,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
-        "file": "_posts/2026-10-08-can-you-trust-metas-muse-or-openais-dots-to-run-your-life.md",
-        "score": 73,
-        "tags": [
-          "openai",
-          "meta"
-        ]
-      },
-      {
-        "title": "Google is launching a one-stop Gemini agent for your work tasks",
-        "file": "_posts/2026-10-08-google-is-launching-a-one-stop-gemini-agent-for-your-work-tasks.md",
-        "score": 63,
-        "tags": [
-          "google",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-08 20:43:33 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1276,6 +1235,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-17 10:22:52 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 34,
+    "posts_created": 0,
+    "queued": 34,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 34
+      },
+      "rss": {
+        "raw": 2315,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 34
       }
     },
     "posts": []
