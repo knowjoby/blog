@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-10-09 20:28:46 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2272,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta is banning TikTok ads across its platforms",
-        "file": "_posts/2026-10-09-meta-is-banning-tiktok-ads-across-its-platforms.md",
-        "score": 55,
-        "tags": [
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-09 20:38:48 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1239,6 +1208,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 1
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-18 00:38:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2316,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
