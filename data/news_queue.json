@@ -22129,6 +22129,18 @@
         "regulation",
         "robotics"
       ]
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "score": 61,
+      "file": "_posts/2026-10-17-websites-are-closing-their-doors-to-ai-agents.md",
+      "posted_at": "2026-10-17",
+      "companies": [
+        "openai",
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23479,8 +23491,8 @@
     },
     {
       "date": "2026-10-17",
-      "posts": 0,
-      "items_processed": 9262,
+      "posts": 1,
+      "items_processed": 11578,
       "estimated_tokens": 0
     }
   ]
