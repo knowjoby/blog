@@ -8729,6 +8729,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "score": 24,
+      "fetched_at": "2026-10-18",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
       "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "score": 22,
@@ -23538,7 +23551,7 @@
     {
       "date": "2026-10-18",
       "posts": 0,
-      "items_processed": 13896,
+      "items_processed": 16212,
       "estimated_tokens": 0
     }
   ]
