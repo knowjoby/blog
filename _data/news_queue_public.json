@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-18T16:45:15.991692+00:00",
-  "pending_count": 1309,
+  "updated_at_utc": "2026-10-18T19:20:11.030565+00:00",
+  "pending_count": 1311,
   "pending": [
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "score": 33,
+      "fetched_at": "2026-10-18",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
@@ -168,6 +179,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "score": 24,
+      "fetched_at": "2026-10-18",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
