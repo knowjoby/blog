@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-10-10 05:45:12 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2300,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-        "file": "_posts/2026-10-10-anthropics-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-ho.md",
-        "score": 55,
-        "tags": [
-          "anthropic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-10 11:46:16 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 48,
@@ -1214,6 +1183,28 @@
   },
   {
     "ran_at": "2026-10-18 05:23:13 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2316,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-18 09:28:19 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
     "posts_created": 0,
