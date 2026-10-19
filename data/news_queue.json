@@ -1160,6 +1160,19 @@
       "topic": ""
     },
     {
+      "title": "Vibe coding is turning the music gear world upside down",
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "score": 36,
+      "fetched_at": "2026-10-19",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -2177,6 +2190,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "score": 31,
       "fetched_at": "2026-10-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "score": 31,
+      "fetched_at": "2026-10-19",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -23583,7 +23609,7 @@
     {
       "date": "2026-10-19",
       "posts": 0,
-      "items_processed": 6949,
+      "items_processed": 9266,
       "estimated_tokens": 0
     }
   ]
