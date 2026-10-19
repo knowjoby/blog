@@ -3388,6 +3388,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "score": 30,
+      "fetched_at": "2026-10-19",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -8917,6 +8930,19 @@
       "topic": ""
     },
     {
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "score": 20,
+      "fetched_at": "2026-10-19",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
       "score": 19,
@@ -13718,6 +13744,19 @@
       "score": 18,
       "fetched_at": "2026-10-19",
       "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Musk pledges to give \u2018every kid in America\u2019 one of his SpaceX shares",
+      "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "score": 18,
+      "fetched_at": "2026-10-19",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
@@ -23609,7 +23648,7 @@
     {
       "date": "2026-10-19",
       "posts": 0,
-      "items_processed": 9266,
+      "items_processed": 11583,
       "estimated_tokens": 0
     }
   ]
