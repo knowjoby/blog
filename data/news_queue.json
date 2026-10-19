@@ -13687,6 +13687,19 @@
       "topic": ""
     },
     {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "score": 18,
+      "fetched_at": "2026-10-19",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Frontier AI regulation: Managing emerging risks to public safety",
       "url": "https://openai.com/index/frontier-ai-regulation",
       "score": 17,
@@ -14630,6 +14643,19 @@
       "score": 12,
       "fetched_at": "2026-10-18",
       "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "score": 12,
+      "fetched_at": "2026-10-19",
+      "source": "Wired",
       "companies": [],
       "topics": [
         "ai"
@@ -23557,7 +23583,7 @@
     {
       "date": "2026-10-19",
       "posts": 0,
-      "items_processed": 4632,
+      "items_processed": 6949,
       "estimated_tokens": 0
     }
   ]

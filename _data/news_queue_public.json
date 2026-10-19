@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-19T05:08:03.296764+00:00",
-  "pending_count": 1312,
+  "updated_at_utc": "2026-10-19T11:06:19.612678+00:00",
+  "pending_count": 1314,
   "pending": [
     {
       "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
@@ -118,6 +118,17 @@
       "topics": []
     },
     {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "score": 18,
+      "fetched_at": "2026-10-19",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
       "score": 18,
@@ -193,6 +204,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "score": 12,
+      "fetched_at": "2026-10-19",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Speeding up agentic workflows with WebSockets in the Responses API",
