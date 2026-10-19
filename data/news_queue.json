@@ -582,6 +582,22 @@
       "topic": ""
     },
     {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "score": 43,
+      "fetched_at": "2026-10-19",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
       "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
       "score": 42,
@@ -1171,6 +1187,20 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "score": 36,
+      "fetched_at": "2026-10-19",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -3398,6 +3428,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "score": 30,
+      "fetched_at": "2026-10-19",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -8781,6 +8824,32 @@
       "topic": ""
     },
     {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "score": 24,
+      "fetched_at": "2026-10-19",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "score": 24,
+      "fetched_at": "2026-10-19",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
       "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "score": 22,
@@ -13762,6 +13831,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "score": 18,
+      "fetched_at": "2026-10-19",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -23648,7 +23730,7 @@
     {
       "date": "2026-10-19",
       "posts": 0,
-      "items_processed": 11583,
+      "items_processed": 13901,
       "estimated_tokens": 0
     }
   ]
