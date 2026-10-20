@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-10-13 21:05:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 12,
-    "posts_created": 1,
-    "queued": 11,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 12
-      },
-      "rss": {
-        "raw": 2300,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 12
-      }
-    },
-    "posts": [
-      {
-        "title": "The new Apple TV 4K has built-in microphones so you can talk to Siri AI",
-        "file": "_posts/2026-10-13-the-new-apple-tv-4k-has-built-in-microphones-so-you-can-talk-to-siri-a.md",
-        "score": 55,
-        "tags": [
-          "apple"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-13 21:48:56 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1206,5 +1175,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-10-21 01:51:22 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 11,
+    "posts_created": 0,
+    "queued": 11,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 11
+      },
+      "rss": {
+        "raw": 2325,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 11
+      }
+    },
+    "posts": []
   }
 ]

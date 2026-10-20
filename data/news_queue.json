@@ -280,6 +280,19 @@
       "topic": ""
     },
     {
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "score": 49,
+      "fetched_at": "2026-10-20",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "score": 48,
@@ -1585,6 +1598,32 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "score": 33,
       "fetched_at": "2026-10-18",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "Can you see everything?",
+      "url": "https://www.theverge.com/policy/1014687/fielder-holmes-you-can-see-everything",
+      "score": 33,
+      "fetched_at": "2026-10-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "The $20,000 Voxel bot will help you find misplaced things around your home",
+      "url": "https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation",
+      "score": 33,
+      "fetched_at": "2026-10-20",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -3351,6 +3390,19 @@
     {
       "title": "Update on the OpenAI Foundation",
       "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-10-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "score": 30,
       "fetched_at": "2026-10-20",
       "source": "OpenAI",
@@ -8783,6 +8835,58 @@
       "topic": ""
     },
     {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "score": 24,
+      "fetched_at": "2026-10-20",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "score": 24,
+      "fetched_at": "2026-10-20",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "score": 24,
+      "fetched_at": "2026-10-20",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "score": 24,
+      "fetched_at": "2026-10-20",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
       "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
       "score": 22,
@@ -8942,6 +9046,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "score": 20,
+      "fetched_at": "2026-10-20",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -13769,6 +13886,32 @@
     {
       "title": "Advancing youth safety and wellbeing in EMEA",
       "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "score": 18,
+      "fetched_at": "2026-10-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "score": 18,
+      "fetched_at": "2026-10-20",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
       "score": 18,
       "fetched_at": "2026-10-20",
       "source": "OpenAI",
@@ -23682,7 +23825,7 @@
     {
       "date": "2026-10-20",
       "posts": 1,
-      "items_processed": 11602,
+      "items_processed": 13927,
       "estimated_tokens": 0
     }
   ]
