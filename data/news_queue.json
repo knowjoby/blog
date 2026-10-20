@@ -546,6 +546,19 @@
       "topic": "agentic"
     },
     {
+      "title": "The Gospel according to Peter (Thiel)",
+      "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "score": 43,
+      "fetched_at": "2026-10-20",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -17471,6 +17484,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "score": 10,
+      "fetched_at": "2026-10-20",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -22273,6 +22299,20 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in it\u2019s LEGO era\u2019",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "score": 50,
+      "file": "_posts/2026-10-20-ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era.md",
+      "posted_at": "2026-10-20",
+      "companies": [
+        "openai",
+        "nvidia"
+      ],
+      "topics": [
+        "robotics"
+      ]
     }
   ],
   "daily_usage": [
@@ -23641,8 +23681,8 @@
     },
     {
       "date": "2026-10-20",
-      "posts": 0,
-      "items_processed": 9279,
+      "posts": 1,
+      "items_processed": 11602,
       "estimated_tokens": 0
     }
   ]

@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-20T13:20:57.423970+00:00",
-  "pending_count": 1318,
+  "updated_at_utc": "2026-10-20T16:49:37.828915+00:00",
+  "pending_count": 1320,
   "pending": [
+    {
+      "title": "The Gospel according to Peter (Thiel)",
+      "url": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "score": 43,
+      "fetched_at": "2026-10-20",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
@@ -292,6 +303,17 @@
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
       "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "score": 10,
+      "fetched_at": "2026-10-20",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
       "score": 10,
       "fetched_at": "2026-10-20",
       "source": "Hugging Face",
