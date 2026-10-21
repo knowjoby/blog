@@ -22480,6 +22480,17 @@
       "topics": [
         "robotics"
       ]
+    },
+    {
+      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "score": 55,
+      "file": "_posts/2026-10-21-nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games.md",
+      "posted_at": "2026-10-21",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23854,8 +23865,8 @@
     },
     {
       "date": "2026-10-21",
-      "posts": 0,
-      "items_processed": 6979,
+      "posts": 1,
+      "items_processed": 9306,
       "estimated_tokens": 0
     }
   ]
