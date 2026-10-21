@@ -1,7 +1,19 @@
 {
-  "updated_at_utc": "2026-10-21T07:21:01.445354+00:00",
-  "pending_count": 1328,
+  "updated_at_utc": "2026-10-21T13:06:31.174960+00:00",
+  "pending_count": 1333,
   "pending": [
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "score": 48,
+      "fetched_at": "2026-10-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
@@ -27,6 +39,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "A critical PHP vulnerability may take websites down today",
+      "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
+      "score": 33,
+      "fetched_at": "2026-10-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -76,6 +99,28 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
@@ -129,6 +174,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
