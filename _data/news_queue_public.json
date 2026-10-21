@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-21T18:11:36.910667+00:00",
-  "pending_count": 1341,
+  "updated_at_utc": "2026-10-21T21:54:54.255151+00:00",
+  "pending_count": 1351,
   "pending": [
     {
       "title": "Conversational Gemini navigation comes to Apple CarPlay",
@@ -64,6 +64,17 @@
       ]
     },
     {
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "score": 33,
+      "fetched_at": "2026-10-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "A critical PHP vulnerability may take websites down today",
       "url": "https://www.theverge.com/tech/1015257/php-vulnerability-patch-website-security-wordpress",
       "score": 33,
@@ -72,6 +83,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "score": 33,
+      "fetched_at": "2026-10-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -136,6 +158,19 @@
       ]
     },
     {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "score": 26,
+      "fetched_at": "2026-10-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Building standards for the next phase of AI",
       "url": "https://openai.com/index/building-standards-next-phase-ai",
       "score": 26,
@@ -178,6 +213,28 @@
       "source": "TechCrunch",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -237,6 +294,28 @@
       "topics": []
     },
     {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
       "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
       "score": 24,
@@ -244,6 +323,17 @@
       "source": "Hugging Face",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -449,6 +539,17 @@
       "topics": []
     },
     {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "score": 17,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "DeepSeek-V4: a million-token context that agents can actually use",
       "url": "https://huggingface.co/blog/deepseekv4",
       "score": 16,
@@ -458,6 +559,17 @@
         "deepseek"
       ],
       "topics": []
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "score": 12,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "How to Use Transformers.js in a Chrome Extension",

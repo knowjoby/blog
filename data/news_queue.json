@@ -1700,6 +1700,32 @@
       "topic": "coding"
     },
     {
+      "title": "PHP: The three letters that shut down sites all over the internet today",
+      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
+      "score": 33,
+      "fetched_at": "2026-10-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "score": 33,
+      "fetched_at": "2026-10-21",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "score": 32,
@@ -4506,6 +4532,21 @@
       ],
       "company": "anthropic",
       "topic": "agentic"
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "score": 26,
+      "fetched_at": "2026-10-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
@@ -9016,6 +9057,71 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+      "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "score": 24,
+      "fetched_at": "2026-10-21",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -14094,6 +14200,19 @@
       "topic": "regulation"
     },
     {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "score": 17,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
       "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
       "score": 16,
@@ -14997,6 +15116,19 @@
       "score": 12,
       "fetched_at": "2026-10-19",
       "source": "Wired",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "score": 12,
+      "fetched_at": "2026-10-21",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "ai"
@@ -22613,6 +22745,43 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "score": 99,
+      "file": "_posts/2026-10-21-anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent.md",
+      "posted_at": "2026-10-21",
+      "companies": [
+        "openai",
+        "anthropic",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Meta to create a new class of shares to fund AI push",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "score": 55,
+      "file": "_posts/2026-10-21-meta-to-create-a-new-class-of-shares-to-fund-ai-push.md",
+      "posted_at": "2026-10-21",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta says it would\u2019ve made over $22 billion if it didn\u2019t have to pay a child safety settlement",
+      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "score": 55,
+      "file": "_posts/2026-10-21-meta-says-it-wouldve-made-over-22-billion-if-it-didnt-have-to-pay-a-ch.md",
+      "posted_at": "2026-10-21",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -23987,8 +24156,8 @@
     },
     {
       "date": "2026-10-21",
-      "posts": 2,
-      "items_processed": 11639,
+      "posts": 5,
+      "items_processed": 13974,
       "estimated_tokens": 0
     }
   ]

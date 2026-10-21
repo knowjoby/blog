@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-14 22:24:50 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 0,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2303,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-15 02:01:44 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1195,6 +1173,56 @@
           "openai",
           "agentic",
           "coding"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-10-22 03:24:54 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 13,
+    "posts_created": 3,
+    "queued": 10,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 13
+      },
+      "rss": {
+        "raw": 2335,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 13
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "file": "_posts/2026-10-21-anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent.md",
+        "score": 99,
+        "tags": [
+          "openai",
+          "anthropic",
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Meta to create a new class of shares to fund AI push",
+        "file": "_posts/2026-10-21-meta-to-create-a-new-class-of-shares-to-fund-ai-push.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      },
+      {
+        "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+        "file": "_posts/2026-10-21-meta-says-it-wouldve-made-over-22-billion-if-it-didnt-have-to-pay-a-ch.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]
