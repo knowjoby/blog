@@ -1578,6 +1578,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Eiliko maker says it\u2019s hiring an \u2018independent security firm\u2019 after Verge report on its insecure robots",
+      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "score": 33,
+      "fetched_at": "2026-10-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "url": "https://openai.com/index/openai-on-oracle-cloud",
       "score": 32,
@@ -3313,6 +3326,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Meta\u2019s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization",
+      "url": "https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization/",
+      "score": 30,
+      "fetched_at": "2026-10-22",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -14441,6 +14467,19 @@
       "topic": ""
     },
     {
+      "title": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "score": 16,
+      "fetched_at": "2026-10-22",
+      "source": "Wired",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "score": 14,
@@ -23896,7 +23935,7 @@
     {
       "date": "2026-10-22",
       "posts": 0,
-      "items_processed": 4673,
+      "items_processed": 7010,
       "estimated_tokens": 0
     }
   ]
