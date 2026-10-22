@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-10-15 02:01:44 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 4,
-    "posts_created": 1,
-    "queued": 3,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 4
-      },
-      "rss": {
-        "raw": 2305,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 4
-      }
-    },
-    "posts": [
-      {
-        "title": "The AI race is back on",
-        "file": "_posts/2026-10-14-the-ai-race-is-back-on.md",
-        "score": 79,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-15 05:17:30 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1226,5 +1193,27 @@
         ]
       }
     ]
+  },
+  {
+    "ran_at": "2026-10-22 06:01:41 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 4,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 4
+      },
+      "rss": {
+        "raw": 2336,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 4
+      }
+    },
+    "posts": []
   }
 ]
