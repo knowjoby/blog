@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-22T20:28:03.770967+00:00",
-  "pending_count": 1352,
+  "updated_at_utc": "2026-10-22T23:31:24.231128+00:00",
+  "pending_count": 1354,
   "pending": [
+    {
+      "title": "Meta’s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "score": 49,
+      "fetched_at": "2026-10-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Meta turns Muse sharing back on",
       "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
@@ -242,6 +253,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "score": 24,
+      "fetched_at": "2026-10-22",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",

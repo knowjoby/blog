@@ -1,63 +1,5 @@
 [
   {
-    "ran_at": "2026-10-16 00:01:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 9,
-    "posts_created": 4,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 9
-      },
-      "rss": {
-        "raw": 2310,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 9
-      }
-    },
-    "posts": [
-      {
-        "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-        "file": "_posts/2026-10-15-meta-and-apple-team-up-to-make-muse-ai-models-run-better-on-macs.md",
-        "score": 97,
-        "tags": [
-          "openai",
-          "meta",
-          "apple"
-        ]
-      },
-      {
-        "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-        "file": "_posts/2026-10-15-nvidia-apple-google-microsoft-amazon-and-meta-gave-trump-a-combined-92.md",
-        "score": 73,
-        "tags": [
-          "meta",
-          "nvidia"
-        ]
-      },
-      {
-        "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-        "file": "_posts/2026-10-15-volvo-will-use-nvidias-tech-for-hands-free-point-to-point-driving.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      },
-      {
-        "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
-        "file": "_posts/2026-10-15-the-best-reason-to-care-about-nvidias-rtx-spark-everything-will-run-on.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-16 03:32:22 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1217,5 +1159,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-23 05:01:24 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2340,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "file": "_posts/2026-10-22-canvas-first-ai-image-model-plans-designs-before-generating-them.md",
+        "score": 57,
+        "tags": [
+          "openai",
+          "multimodal"
+        ]
+      }
+    ]
   }
 ]
