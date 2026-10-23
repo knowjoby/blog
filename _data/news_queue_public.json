@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-23T14:22:17.087563+00:00",
-  "pending_count": 1343,
+  "updated_at_utc": "2026-10-23T18:37:51.291438+00:00",
+  "pending_count": 1346,
   "pending": [
+    {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "score": 49,
+      "fetched_at": "2026-10-23",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
@@ -1935,6 +1946,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+      "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
+      "score": 24,
+      "fetched_at": "2026-10-23",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -4080,6 +4102,17 @@
       "source": "Hugging Face",
       "companies": [
         "deepseek"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "score": 20,
+      "fetched_at": "2026-10-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },

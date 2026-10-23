@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "score": 49,
+      "fetched_at": "2026-10-23",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
       "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "score": 48,
@@ -9103,6 +9116,19 @@
       "topic": ""
     },
     {
+      "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+      "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
+      "score": 24,
+      "fetched_at": "2026-10-23",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -9249,6 +9275,19 @@
       ],
       "topics": [],
       "company": "stability",
+      "topic": ""
+    },
+    {
+      "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "score": 20,
+      "fetched_at": "2026-10-23",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -24082,7 +24121,7 @@
     {
       "date": "2026-10-23",
       "posts": 0,
-      "items_processed": 9368,
+      "items_processed": 11712,
       "estimated_tokens": 0
     }
   ]
