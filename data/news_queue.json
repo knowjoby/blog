@@ -642,6 +642,19 @@
       "topic": ""
     },
     {
+      "title": "People are vibe coding their way to better TVs",
+      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "score": 42,
+      "fetched_at": "2026-10-23",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "score": 41,
@@ -24069,7 +24082,7 @@
     {
       "date": "2026-10-23",
       "posts": 0,
-      "items_processed": 4683,
+      "items_processed": 7025,
       "estimated_tokens": 0
     }
   ]

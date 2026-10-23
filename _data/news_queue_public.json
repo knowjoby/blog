@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-23T09:29:15.530332+00:00",
-  "pending_count": 1342,
+  "updated_at_utc": "2026-10-23T13:04:47.541320+00:00",
+  "pending_count": 1343,
   "pending": [
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
@@ -75,6 +75,17 @@
         "openai",
         "microsoft"
       ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "People are vibe coding their way to better TVs",
+      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "score": 42,
+      "fetched_at": "2026-10-23",
+      "source": "The Verge",
+      "companies": [],
       "topics": [
         "coding"
       ]
