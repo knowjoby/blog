@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-23T18:37:51.291438+00:00",
-  "pending_count": 1346,
+  "updated_at_utc": "2026-10-23T21:56:28.619214+00:00",
+  "pending_count": 1348,
   "pending": [
     {
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "score": 49,
+      "fetched_at": "2026-10-23",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -4596,6 +4607,17 @@
     {
       "title": "Security on the path to AGI",
       "url": "https://openai.com/index/security-on-the-path-to-agi",
+      "score": 18,
+      "fetched_at": "2026-10-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "score": 18,
       "fetched_at": "2026-10-23",
       "source": "OpenAI",
