@@ -1,7 +1,73 @@
 {
-  "updated_at_utc": "2026-10-24T00:26:57.786240+00:00",
-  "pending_count": 1324,
+  "updated_at_utc": "2026-10-24T04:56:38.980390+00:00",
+  "pending_count": 1343,
   "pending": [
+    {
+      "title": "Solving complex problems with OpenAI o1 models",
+      "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+      "score": 40,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "coding"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "score": 32,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "Vision and voice in ChatGPT",
+      "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Delegate work to ChatGPT agent",
+      "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+      "score": 26,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Create on-brand visuals with image generation",
+      "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+      "score": 26,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -21,6 +87,160 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI uses ChatGPT Atlas at work",
+      "url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+      "score": 24,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Automate complex workflows with OpenAI o3",
+      "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+      "score": 24,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+      "score": 24,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Strategic planning with ChatGPT",
+      "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Shipping code to your IDE with ChatGPT",
+      "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Prototyping with canvas in ChatGPT",
+      "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Personalize ChatGPT with custom instructions",
+      "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Market research with ChatGPT",
+      "url": "https://openai.com/business/learn/market-research-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating a contextual workspace in ChatGPT",
+      "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Connect internal knowledge from Google Drive",
+      "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Collaborate and write with GPT-4o",
+      "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Think Bigger: How Small Teams Win with ChatGPT",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Fine-tuning GPT-4o webinar",
+      "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Enabling a data-driven workforce",
+      "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+      "score": 18,
+      "fetched_at": "2026-10-24",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
