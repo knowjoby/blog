@@ -3390,6 +3390,19 @@
       "topic": ""
     },
     {
+      "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
+      "url": "https://www.wired.com/review/ray-ban-meta-audio/",
+      "score": 30,
+      "fetched_at": "2026-10-24",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -24088,7 +24101,7 @@
     {
       "date": "2026-10-24",
       "posts": 0,
-      "items_processed": 4690,
+      "items_processed": 7035,
       "estimated_tokens": 0
     }
   ]
