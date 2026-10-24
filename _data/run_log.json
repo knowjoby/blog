@@ -1,39 +1,5 @@
 [
   {
-    "ran_at": "2026-10-17 00:27:41 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2313,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "file": "_posts/2026-10-16-an-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-mome.md",
-        "score": 61,
-        "tags": [
-          "openai",
-          "nvidia",
-          "regulation",
-          "robotics"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-17 03:29:48 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 3,
@@ -1185,6 +1151,28 @@
     "candidates_found": 2,
     "posts_created": 0,
     "queued": 2,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2345,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-24 05:56:57 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 0,
+    "queued": 0,
     "feeds": {
       "ddg": {
         "queries": 3,
