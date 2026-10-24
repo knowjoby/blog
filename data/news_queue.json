@@ -424,6 +424,19 @@
       "topic": "agentic"
     },
     {
+      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "score": 45,
+      "fetched_at": "2026-10-24",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Pioneering an AI clinical copilot with Penda Health",
       "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
       "score": 44,
@@ -653,6 +666,20 @@
       ],
       "company": "",
       "topic": "coding"
+    },
+    {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "score": 42,
+      "fetched_at": "2026-10-24",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "xai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -24101,7 +24128,7 @@
     {
       "date": "2026-10-24",
       "posts": 0,
-      "items_processed": 11725,
+      "items_processed": 14070,
       "estimated_tokens": 0
     }
   ]
