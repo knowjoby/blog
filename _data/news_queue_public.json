@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-25T12:57:38.144581+00:00",
-  "pending_count": 1343,
+  "updated_at_utc": "2026-10-25T14:31:12.194031+00:00",
+  "pending_count": 1344,
   "pending": [
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -26,6 +26,17 @@
       ],
       "topics": [
         "coding",
+        "open_source"
+      ]
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "score": 39,
+      "fetched_at": "2026-10-25",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
         "open_source"
       ]
     },
