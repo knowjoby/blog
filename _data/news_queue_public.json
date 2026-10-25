@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-25T21:08:09.108066+00:00",
-  "pending_count": 1344,
+  "updated_at_utc": "2026-10-25T23:28:50.356605+00:00",
+  "pending_count": 1345,
   "pending": [
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
@@ -187,6 +187,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "score": 24,
+      "fetched_at": "2026-10-25",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
     },
     {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
