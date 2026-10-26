@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-26T15:01:11.264946+00:00",
-  "pending_count": 1346,
+  "updated_at_utc": "2026-10-26T20:40:42.311726+00:00",
+  "pending_count": 1355,
   "pending": [
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "score": 49,
+      "fetched_at": "2026-10-26",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Can AI help solve the COBOL code crisis?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
@@ -12,6 +23,30 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "score": 33,
+      "fetched_at": "2026-10-26",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+      "score": 32,
+      "fetched_at": "2026-10-26",
+      "source": "TechCrunch",
+      "companies": [
+        "amazon"
+      ],
+      "topics": [
+        "robotics"
+      ]
     },
     {
       "title": "Anthropic officially files for its public debut",
@@ -66,11 +101,44 @@
       ]
     },
     {
+      "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+      "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+      "score": 24,
+      "fetched_at": "2026-10-26",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
       "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
       "score": 24,
       "fetched_at": "2026-10-26",
       "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Will the real Anthropic please stand up",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "score": 24,
+      "fetched_at": "2026-10-26",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "score": 24,
+      "fetched_at": "2026-10-26",
+      "source": "TechCrunch",
       "companies": [
         "anthropic"
       ],
@@ -101,6 +169,17 @@
     {
       "title": "Our commitment to community safety",
       "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "score": 24,
+      "fetched_at": "2026-10-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
       "score": 24,
       "fetched_at": "2026-10-26",
       "source": "OpenAI",
@@ -153,6 +232,17 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "score": 18,
+      "fetched_at": "2026-10-26",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -245,6 +335,17 @@
     {
       "title": "Helping ChatGPT better recognize context in sensitive conversations",
       "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "score": 18,
+      "fetched_at": "2026-10-26",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
       "score": 18,
       "fetched_at": "2026-10-26",
       "source": "OpenAI",
