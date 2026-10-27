@@ -987,6 +987,19 @@
       "topic": "open_source"
     },
     {
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "score": 39,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
       "score": 38,
@@ -9427,6 +9440,32 @@
       "topic": ""
     },
     {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -14452,6 +14491,19 @@
     {
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
       "score": 18,
       "fetched_at": "2026-10-27",
       "source": "OpenAI",
@@ -23042,6 +23094,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Google\u2019s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "score": 55,
+      "file": "_posts/2026-10-27-googles-next-genie-ai-model-generates-more-realistic-experiences.md",
+      "posted_at": "2026-10-27",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -24452,8 +24515,8 @@
     },
     {
       "date": "2026-10-27",
-      "posts": 1,
-      "items_processed": 9408,
+      "posts": 2,
+      "items_processed": 11761,
       "estimated_tokens": 0
     }
   ]

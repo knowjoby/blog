@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-27T13:58:51.323933+00:00",
-  "pending_count": 1367,
+  "updated_at_utc": "2026-10-27T16:18:21.062223+00:00",
+  "pending_count": 1371,
   "pending": [
     {
       "title": "Anthropic is burning gas to feed the AI boom",
@@ -53,6 +53,17 @@
       ]
     },
     {
+      "title": "My favorite robot vacuum just got quieter, and more expensive",
+      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
+      "score": 39,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
       "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
       "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
       "score": 33,
@@ -82,6 +93,17 @@
       "source": "Ars Technica",
       "companies": [
         "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -126,6 +148,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -255,6 +288,17 @@
     {
       "title": "Working with academic communities to build scientific understanding",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
       "score": 18,
       "fetched_at": "2026-10-27",
       "source": "OpenAI",
