@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-27T10:50:46.580264+00:00",
-  "pending_count": 1360,
+  "updated_at_utc": "2026-10-27T13:58:51.323933+00:00",
+  "pending_count": 1367,
   "pending": [
     {
       "title": "Anthropic is burning gas to feed the AI boom",
@@ -28,6 +28,17 @@
       ]
     },
     {
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "score": 43,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
       "score": 43,
@@ -39,6 +50,17 @@
       "topics": [
         "agentic",
         "coding"
+      ]
+    },
+    {
+      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "score": 33,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -64,6 +86,17 @@
       "topics": []
     },
     {
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
       "score": 24,
@@ -71,6 +104,50 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "apple"
       ],
       "topics": []
     },
