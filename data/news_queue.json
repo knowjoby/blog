@@ -479,6 +479,22 @@
       "topic": "coding"
     },
     {
+      "title": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One",
+      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+      "score": 44,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic",
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
+    },
+    {
       "title": "Here are all the new HomePod Mini 2 colors",
       "url": "https://www.theverge.com/tech/1009935/apple-homepod-mini-2-hands-on",
       "score": 43,
@@ -17995,6 +18011,19 @@
       "topics": [],
       "company": "huggingface",
       "topic": ""
+    },
+    {
+      "title": "How solid-state transformers could help power the AI boom",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "score": 10,
+      "fetched_at": "2026-10-27",
+      "source": "MIT Tech Review",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
     }
   ],
   "posted": [
@@ -24333,7 +24362,7 @@
     {
       "date": "2026-10-27",
       "posts": 1,
-      "items_processed": 4704,
+      "items_processed": 7056,
       "estimated_tokens": 0
     }
   ]
