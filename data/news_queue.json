@@ -293,6 +293,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "score": 49,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
       "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
       "score": 48,
@@ -1766,6 +1779,19 @@
     {
       "title": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
       "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+      "score": 33,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
       "score": 33,
       "fetched_at": "2026-10-27",
       "source": "The Verge",
@@ -3571,6 +3597,32 @@
     {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
+      "score": 30,
+      "fetched_at": "2026-10-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "score": 30,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "score": 30,
       "fetched_at": "2026-10-27",
       "source": "OpenAI",
@@ -9466,6 +9518,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -14515,6 +14580,45 @@
       "topic": ""
     },
     {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
       "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "score": 17,
@@ -15961,6 +16065,19 @@
     {
       "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-10-27",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "score": 11,
       "fetched_at": "2026-10-27",
       "source": "Hugging Face",
@@ -23105,6 +23222,28 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "score": 55,
+      "file": "_posts/2026-10-27-researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs.md",
+      "posted_at": "2026-10-27",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta\u2019s $25 billion legal loss just put blood in the water",
+      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "score": 55,
+      "file": "_posts/2026-10-27-metas-25-billion-legal-loss-just-put-blood-in-the-water.md",
+      "posted_at": "2026-10-27",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -24515,8 +24654,8 @@
     },
     {
       "date": "2026-10-27",
-      "posts": 2,
-      "items_processed": 11761,
+      "posts": 4,
+      "items_processed": 14117,
       "estimated_tokens": 0
     }
   ]

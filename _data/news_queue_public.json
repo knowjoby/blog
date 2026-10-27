@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-27T16:18:21.062223+00:00",
-  "pending_count": 1371,
+  "updated_at_utc": "2026-10-27T20:52:07.385045+00:00",
+  "pending_count": 1380,
   "pending": [
+    {
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "score": 49,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic is burning gas to feed the AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
@@ -75,6 +86,39 @@
       ]
     },
     {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "score": 33,
+      "fetched_at": "2026-10-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "score": 30,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "score": 30,
+      "fetched_at": "2026-10-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "url": "https://openai.com/index/hp-frontier-partnership",
       "score": 30,
@@ -121,6 +165,17 @@
     {
       "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "score": 24,
+      "fetched_at": "2026-10-27",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
+      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
       "score": 24,
       "fetched_at": "2026-10-27",
       "source": "Wired",
@@ -231,6 +286,17 @@
       "topics": []
     },
     {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
       "score": 18,
@@ -275,6 +341,17 @@
       "topics": []
     },
     {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
       "url": "https://openai.com/index/chatgpt-for-academic-researchers",
       "score": 18,
@@ -304,6 +381,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "score": 18,
+      "fetched_at": "2026-10-27",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -354,6 +442,17 @@
     {
       "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-10-27",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "score": 11,
       "fetched_at": "2026-10-27",
       "source": "Hugging Face",

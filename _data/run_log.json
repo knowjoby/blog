@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-20 17:28:43 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2320,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-20 18:50:57 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1203,6 +1181,45 @@
         "score": 55,
         "tags": [
           "google"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-10-28 02:22:07 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 11,
+    "posts_created": 2,
+    "queued": 9,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 11
+      },
+      "rss": {
+        "raw": 2356,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 11
+      }
+    },
+    "posts": [
+      {
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "file": "_posts/2026-10-27-researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      },
+      {
+        "title": "Meta’s $25 billion legal loss just put blood in the water",
+        "file": "_posts/2026-10-27-metas-25-billion-legal-loss-just-put-blood-in-the-water.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]
