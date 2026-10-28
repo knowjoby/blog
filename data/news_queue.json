@@ -3606,6 +3606,21 @@
       "topic": "coding"
     },
     {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "score": 29,
+      "fetched_at": "2026-10-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Transformers now runs llama.cpp quants",
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "score": 28,
@@ -24452,7 +24467,7 @@
     {
       "date": "2026-10-28",
       "posts": 0,
-      "items_processed": 4716,
+      "items_processed": 7075,
       "estimated_tokens": 0
     }
   ]

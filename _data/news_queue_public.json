@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-28T06:07:47.544046+00:00",
-  "pending_count": 1364,
+  "updated_at_utc": "2026-10-28T13:24:41.188139+00:00",
+  "pending_count": 1365,
   "pending": [
     {
       "title": "Introducing GPT-5.4 mini and nano",
@@ -63,6 +63,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "score": 29,
+      "fetched_at": "2026-10-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "The US is advancing AI safety through state and federal action",
