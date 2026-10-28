@@ -921,6 +921,19 @@
       "topic": "robotics"
     },
     {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "score": 39,
+      "fetched_at": "2026-10-28",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Introducing the OpenAI Safety Bug Bounty program",
       "url": "https://openai.com/index/safety-bug-bounty",
       "score": 38,
@@ -3552,6 +3565,58 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "score": 30,
+      "fetched_at": "2026-10-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "score": 30,
+      "fetched_at": "2026-10-28",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "score": 30,
+      "fetched_at": "2026-10-28",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "score": 30,
+      "fetched_at": "2026-10-28",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -15323,6 +15388,19 @@
       "topic": "agentic"
     },
     {
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers\u2014Including Undercover ICE Agents",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "score": 14,
+      "fetched_at": "2026-10-28",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
       "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "score": 12,
@@ -23165,6 +23243,21 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "score": 89,
+      "file": "_posts/2026-10-28-google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecuri.md",
+      "posted_at": "2026-10-28",
+      "companies": [
+        "anthropic",
+        "google"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -24581,8 +24674,8 @@
     },
     {
       "date": "2026-10-28",
-      "posts": 2,
-      "items_processed": 11794,
+      "posts": 3,
+      "items_processed": 14155,
       "estimated_tokens": 0
     }
   ]

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-21 12:51:01 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 30,
-    "posts_created": 0,
-    "queued": 30,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 30
-      },
-      "rss": {
-        "raw": 2326,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 30
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-21 18:36:31 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 5,
@@ -1227,6 +1205,40 @@
         "score": 55,
         "tags": [
           "meta"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-10-29 04:56:00 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 1,
+    "queued": 6,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2361,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+        "file": "_posts/2026-10-28-google-launches-gemini-4-carbon-with-a-significant-leap-in-cybersecuri.md",
+        "score": 89,
+        "tags": [
+          "anthropic",
+          "google",
+          "agentic",
+          "coding"
         ]
       }
     ]
