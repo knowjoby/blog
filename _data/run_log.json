@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-21 07:23:53 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2326,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-21 12:51:01 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 30,
@@ -1212,5 +1190,45 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-10-29 00:30:48 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 2,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2360,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Microsoft is ending Copilot support on smart TVs",
+        "file": "_posts/2026-10-28-microsoft-is-ending-copilot-support-on-smart-tvs.md",
+        "score": 63,
+        "tags": [
+          "microsoft",
+          "coding"
+        ]
+      },
+      {
+        "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
+        "file": "_posts/2026-10-28-surprise-the-google-xreal-glasses-debut-at-a-meta-beating-1099.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      }
+    ]
   }
 ]
