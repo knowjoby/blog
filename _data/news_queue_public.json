@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-28T13:24:41.188139+00:00",
-  "pending_count": 1365,
+  "updated_at_utc": "2026-10-28T14:51:50.588979+00:00",
+  "pending_count": 1367,
   "pending": [
+    {
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "score": 49,
+      "fetched_at": "2026-10-28",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing GPT-5.4 mini and nano",
       "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -41,6 +52,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "score": 30,
+      "fetched_at": "2026-10-28",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
