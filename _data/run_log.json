@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-10-20 22:19:37 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 3,
-    "posts_created": 1,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 3
-      },
-      "rss": {
-        "raw": 2323,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 3
-      }
-    },
-    "posts": [
-      {
-        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
-        "file": "_posts/2026-10-20-ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era.md",
-        "score": 50,
-        "tags": [
-          "openai",
-          "nvidia",
-          "robotics"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-21 01:51:22 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 11,
@@ -1220,6 +1187,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 5
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-28 11:37:47 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 19,
+    "posts_created": 0,
+    "queued": 19,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 19
+      },
+      "rss": {
+        "raw": 2358,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 19
       }
     },
     "posts": []
