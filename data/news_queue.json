@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "Microsoft\u2019s AI future has fewer jobs",
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "score": 49,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [
+        "microsoft"
+      ],
+      "topics": [],
+      "company": "microsoft",
+      "topic": ""
+    },
+    {
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \u201choax\u201d",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
       "score": 48,
@@ -9501,6 +9514,19 @@
       "topic": ""
     },
     {
+      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "score": 24,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -16070,6 +16096,19 @@
       ],
       "company": "",
       "topic": "multimodal"
+    },
+    {
+      "title": "The \u2018Pain in the Ass\u2019 Math That Could Save Vibe Coding From Itself",
+      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "score": 11,
+      "fetched_at": "2026-10-29",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
@@ -24689,7 +24728,7 @@
     {
       "date": "2026-10-29",
       "posts": 0,
-      "items_processed": 7086,
+      "items_processed": 9450,
       "estimated_tokens": 0
     }
   ]
