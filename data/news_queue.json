@@ -241,6 +241,32 @@
       "topic": ""
     },
     {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "score": 49,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic\u2019s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "score": 49,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \u201choax\u201d",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
       "score": 48,
@@ -804,6 +830,22 @@
       "topic": "coding"
     },
     {
+      "title": "Mistral Says Its AI Model \u2018Le Chonk\u2019 Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "score": 40,
+      "fetched_at": "2026-10-29",
+      "source": "Wired",
+      "companies": [
+        "deepseek",
+        "mistral"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "deepseek",
+      "topic": "coding"
+    },
+    {
       "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
       "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
       "score": 39,
@@ -1070,6 +1112,36 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "score": 36,
+      "fetched_at": "2026-10-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "We urgently need to monitor AI agents\u2019 actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "score": 36,
+      "fetched_at": "2026-10-29",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -2229,6 +2301,19 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "score": 31,
       "fetched_at": "2026-10-24",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "AI has come for Arizona\u2019s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "score": 31,
+      "fetched_at": "2026-10-29",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -4614,6 +4699,20 @@
       ],
       "company": "openai",
       "topic": "agentic"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "score": 26,
+      "fetched_at": "2026-10-29",
+      "source": "Hugging Face",
+      "companies": [
+        "mistral",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "mistral",
+      "topic": ""
     },
     {
       "title": "A scorecard for the AI age",
@@ -15284,6 +15383,32 @@
       "topic": "coding"
     },
     {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "score": 14,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ],
+      "company": "",
+      "topic": "open_source"
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "score": 14,
+      "fetched_at": "2026-10-29",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "score": 12,
@@ -24564,7 +24689,7 @@
     {
       "date": "2026-10-29",
       "posts": 0,
-      "items_processed": 4722,
+      "items_processed": 7086,
       "estimated_tokens": 0
     }
   ]

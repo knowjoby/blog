@@ -1,7 +1,69 @@
 {
-  "updated_at_utc": "2026-10-29T09:41:27.593979+00:00",
-  "pending_count": 1369,
+  "updated_at_utc": "2026-10-29T14:56:59.166176+00:00",
+  "pending_count": 1378,
   "pending": [
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "score": 49,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "score": 49,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "score": 40,
+      "fetched_at": "2026-10-29",
+      "source": "Wired",
+      "companies": [
+        "deepseek",
+        "mistral"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "url": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+      "score": 36,
+      "fetched_at": "2026-10-29",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "score": 36,
+      "fetched_at": "2026-10-29",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24",
@@ -13,6 +75,17 @@
       ],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "score": 31,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -64,6 +137,18 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "score": 26,
+      "fetched_at": "2026-10-29",
+      "source": "Hugging Face",
+      "companies": [
+        "mistral",
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Why teens deserve access to safe AI",
@@ -636,6 +721,28 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "score": 14,
+      "fetched_at": "2026-10-29",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "score": 14,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "open_source"
+      ]
     },
     {
       "title": "Introducing GPT-6.1 Sol",

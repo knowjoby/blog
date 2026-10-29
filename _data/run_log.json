@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-10-21 23:41:36 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 9,
-    "posts_created": 1,
-    "queued": 8,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 9
-      },
-      "rss": {
-        "raw": 2333,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 9
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-        "file": "_posts/2026-10-21-openai-says-an-ai-agent-lied-about-disabling-its-safety-monitoring-sys.md",
-        "score": 65,
-        "tags": [
-          "openai",
-          "agentic",
-          "coding"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-22 03:24:54 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 13,
@@ -1230,6 +1197,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 60
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-29 20:26:59 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 9,
+    "posts_created": 0,
+    "queued": 9,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 9
+      },
+      "rss": {
+        "raw": 2364,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 9
       }
     },
     "posts": []
