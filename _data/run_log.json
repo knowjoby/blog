@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-10-21 18:56:52 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2327,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": [
-      {
-        "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
-        "file": "_posts/2026-10-21-nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games.md",
-        "score": 55,
-        "tags": [
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-21 23:41:36 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 9,
@@ -1239,6 +1208,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-29 15:11:27 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 60,
+    "posts_created": 0,
+    "queued": 60,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 60
+      },
+      "rss": {
+        "raw": 2361,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 60
       }
     },
     "posts": []
