@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-29T16:47:06.832185+00:00",
-  "pending_count": 1381,
+  "updated_at_utc": "2026-10-29T21:41:04.908278+00:00",
+  "pending_count": 1391,
   "pending": [
     {
       "title": "Microsoft’s AI future has fewer jobs",
@@ -21,6 +21,17 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "score": 49,
+      "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -100,6 +111,28 @@
       ]
     },
     {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "score": 30,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "score": 30,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
       "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "score": 30,
@@ -109,6 +142,19 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "score": 26,
+      "fetched_at": "2026-10-29",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Univé builds an AI-ready workforce",
@@ -121,6 +167,19 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "score": 26,
+      "fetched_at": "2026-10-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -690,8 +749,52 @@
       "topics": []
     },
     {
+      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "score": 24,
+      "fetched_at": "2026-10-29",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "score": 22,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [
+        "mistral"
+      ],
+      "topics": []
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "score": 18,
+      "fetched_at": "2026-10-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "SentinelOne cuts malware analysis from weeks to hours",
       "url": "https://openai.com/index/sentinelone",
+      "score": 18,
+      "fetched_at": "2026-10-29",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
       "score": 18,
       "fetched_at": "2026-10-29",
       "source": "OpenAI",
@@ -775,6 +878,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "score": 12,
+      "fetched_at": "2026-10-29",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
