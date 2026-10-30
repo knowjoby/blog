@@ -293,6 +293,19 @@
       "topic": ""
     },
     {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI\u2019s math onslaught won\u2019t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "score": 49,
+      "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "score": 48,
@@ -2300,6 +2313,19 @@
       "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
       "score": 31,
       "fetched_at": "2026-10-29",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "score": 31,
+      "fetched_at": "2026-10-30",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -24802,7 +24828,7 @@
     {
       "date": "2026-10-30",
       "posts": 0,
-      "items_processed": 4734,
+      "items_processed": 7101,
       "estimated_tokens": 0
     }
   ]

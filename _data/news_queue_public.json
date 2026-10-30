@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-10-30T08:23:00.068021+00:00",
-  "pending_count": 1386,
+  "updated_at_utc": "2026-10-30T14:50:13.843570+00:00",
+  "pending_count": 1388,
   "pending": [
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "score": 49,
+      "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -26,6 +37,17 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "score": 31,
+      "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
