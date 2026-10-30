@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-30T15:13:49.191088+00:00",
-  "pending_count": 1388,
+  "updated_at_utc": "2026-10-30T20:01:33.502496+00:00",
+  "pending_count": 1393,
   "pending": [
     {
       "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "score": 43,
+      "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -77,6 +88,17 @@
       ]
     },
     {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "score": 24,
+      "fetched_at": "2026-10-30",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
       "url": "https://openai.com/index/travelers",
       "score": 24,
@@ -121,6 +143,17 @@
       "topics": []
     },
     {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "score": 18,
+      "fetched_at": "2026-10-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Helping small businesses put AI to work",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "score": 18,
@@ -134,6 +167,28 @@
     {
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "score": 18,
+      "fetched_at": "2026-10-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "score": 18,
+      "fetched_at": "2026-10-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "score": 18,
       "fetched_at": "2026-10-30",
       "source": "OpenAI",
