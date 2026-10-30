@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-10-22 22:26:30 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 1,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2339,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-        "file": "_posts/2026-10-22-openai-anthropic-and-nvidia-had-record-lobbying-quarters.md",
-        "score": 97,
-        "tags": [
-          "openai",
-          "anthropic",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-23 01:58:03 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 8,
@@ -1191,6 +1158,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-10-30 20:43:49 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 0,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 0
+      },
+      "rss": {
+        "raw": 2367,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 0
       }
     },
     "posts": []
