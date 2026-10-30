@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-30T20:01:33.502496+00:00",
-  "pending_count": 1393,
+  "updated_at_utc": "2026-10-30T23:58:30.446759+00:00",
+  "pending_count": 1399,
   "pending": [
     {
       "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
@@ -21,6 +21,17 @@
       "source": "The Verge",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "score": 43,
+      "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -62,6 +73,17 @@
       ]
     },
     {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "score": 30,
+      "fetched_at": "2026-10-30",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -72,6 +94,19 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "score": 26,
+      "fetched_at": "2026-10-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
       ]
     },
     {
@@ -86,6 +121,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "score": 24,
+      "fetched_at": "2026-10-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Google’s first data center satellite is online and writing poetry",
@@ -132,6 +178,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "score": 24,
+      "fetched_at": "2026-10-30",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics",
       "score": 18,
@@ -156,6 +213,17 @@
     {
       "title": "Helping small businesses put AI to work",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "score": 18,
+      "fetched_at": "2026-10-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
       "score": 18,
       "fetched_at": "2026-10-30",
       "source": "OpenAI",

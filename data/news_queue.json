@@ -590,6 +590,19 @@
       "topic": ""
     },
     {
+      "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "score": 43,
+      "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -3665,6 +3678,19 @@
       "topic": ""
     },
     {
+      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "score": 30,
+      "fetched_at": "2026-10-30",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "Advancing coding in low\u2011resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "score": 29,
@@ -4768,6 +4794,21 @@
       ],
       "company": "openai",
       "topic": "reasoning"
+    },
+    {
+      "title": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "score": 26,
+      "fetched_at": "2026-10-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "anthropic",
+      "topic": "agentic"
     },
     {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
@@ -9592,6 +9633,32 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "score": 24,
+      "fetched_at": "2026-10-30",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "score": 24,
+      "fetched_at": "2026-10-30",
+      "source": "Wired",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -14750,6 +14817,19 @@
     {
       "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
       "url": "https://openai.com/index/credit-saison",
+      "score": 18,
+      "fetched_at": "2026-10-30",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
       "score": 18,
       "fetched_at": "2026-10-30",
       "source": "OpenAI",
@@ -23464,6 +23544,29 @@
         "agentic",
         "coding"
       ]
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "score": 61,
+      "file": "_posts/2026-10-30-the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping.md",
+      "posted_at": "2026-10-30",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "score": 51,
+      "file": "_posts/2026-10-30-apple-intelligence-is-finally-coming-to-china-with-ios-273.md",
+      "posted_at": "2026-10-30",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -24892,8 +24995,8 @@
     },
     {
       "date": "2026-10-30",
-      "posts": 0,
-      "items_processed": 11838,
+      "posts": 2,
+      "items_processed": 14209,
       "estimated_tokens": 0
     }
   ]
