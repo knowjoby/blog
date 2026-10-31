@@ -280,6 +280,19 @@
       "topic": ""
     },
     {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "score": 49,
+      "fetched_at": "2026-10-31",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Replit makes OpenAI its default over Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "score": 48,
@@ -4730,6 +4743,19 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "score": 26,
+      "fetched_at": "2026-10-31",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -24897,7 +24923,7 @@
     {
       "date": "2026-10-31",
       "posts": 0,
-      "items_processed": 7113,
+      "items_processed": 9484,
       "estimated_tokens": 0
     }
   ]
