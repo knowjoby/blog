@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-31T20:11:42.566826+00:00",
-  "pending_count": 1393,
+  "updated_at_utc": "2026-10-31T23:34:52.337471+00:00",
+  "pending_count": 1395,
   "pending": [
     {
       "title": "I built an AI Tamagotchi before Meta could",
@@ -23,6 +23,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+      "score": 28,
+      "fetched_at": "2026-10-31",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "OpenAI reportedly lowers funding target for new round",
@@ -95,6 +106,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "score": 24,
+      "fetched_at": "2026-10-31",
+      "source": "TechCrunch",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
