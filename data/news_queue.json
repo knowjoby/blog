@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "score": 49,
-      "fetched_at": "2026-10-17",
-      "source": "The Verge",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "score": 49,
-      "fetched_at": "2026-10-17",
-      "source": "The Verge",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
       "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
       "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
       "score": 49,
@@ -293,20 +267,6 @@
       "topic": ""
     },
     {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "score": 48,
-      "fetched_at": "2026-10-17",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -557,20 +517,6 @@
       "source": "The Verge",
       "companies": [
         "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "score": 42,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai",
-        "nvidia"
       ],
       "topics": [],
       "company": "openai",
@@ -1716,36 +1662,6 @@
       "topic": "robotics"
     },
     {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "score": 32,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "score": 32,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
       "score": 32,
@@ -2319,19 +2235,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "The next phase of OpenAI\u2019s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "score": 30,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Meta says Muse Spark 1.3 has frontier performance \u2014 but its best results come from a model developers can\u2019t broadly use yet",
@@ -4768,253 +4671,6 @@
       ],
       "topics": [],
       "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "Ars Technica",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-      "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "VentureBeat",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI helps Hyatt advance AI among colleagues",
-      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Romance scams: AI-enabled romance scam workflows",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-romance-scam",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Silver lining playbook: Likely China-origin activity targeting US persons",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-silver-lining-playbook",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "\u201cCyber Special Operations\u201d: China-linked influence planning",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Operation \u201cDate Bait\u201d: AI-enabled scam targeting loveseekers",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Operation \u201cNo Bell\u201d: Coordinated criticism of the US and allies",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Operation \u201cFish Food\u201d: Russia-origin content farm activity",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Operation \u201cTrolling Stone\u201d: Russia-linked influence activity",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Operation \u201cFalse Witness\u201d: Fake recovery service impersonating authorities",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-false-witness",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "score": 24,
-      "fetched_at": "2026-10-17",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
       "topic": ""
     },
     {
@@ -9838,175 +9494,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Asana completed a years-long code migration in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Data science workflows with ChatGPT Work",
-      "url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Prompting fundamentals",
-      "url": "https://openai.com/academy/prompting",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "HTC Made Smart Glasses That Are Way More Private",
-      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
-      "score": 18,
-      "fetched_at": "2026-10-17",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -15738,19 +15225,6 @@
       "topic": "ai"
     },
     {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "score": 11,
-      "fetched_at": "2026-10-17",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
       "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
       "url": "https://huggingface.co/blog/Hcompany/neomme",
       "score": 11,
@@ -16295,19 +15769,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "score": 10,
-      "fetched_at": "2026-10-17",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Hugging Face Models on Foundry Managed Compute",
@@ -24950,6 +24411,12 @@
       "date": "2026-10-31",
       "posts": 0,
       "items_processed": 14226,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-11-01",
+      "posts": 0,
+      "items_processed": 2371,
       "estimated_tokens": 0
     }
   ]
