@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-03T08:30:33.110653+00:00",
-  "pending_count": 1388,
+  "updated_at_utc": "2026-11-03T15:49:44.920321+00:00",
+  "pending_count": 1392,
   "pending": [
+    {
+      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "score": 49,
+      "fetched_at": "2026-11-03",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
@@ -9,6 +20,18 @@
       "fetched_at": "2026-11-03",
       "source": "The Verge",
       "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "score": 36,
+      "fetched_at": "2026-11-03",
+      "source": "Wired",
+      "companies": [
+        "openai",
         "anthropic"
       ],
       "topics": []
@@ -24,6 +47,17 @@
       ],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+      "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
+      "score": 34,
+      "fetched_at": "2026-11-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -209,6 +243,17 @@
     {
       "title": "Making ChatGPT better for clinicians",
       "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "score": 18,
+      "fetched_at": "2026-11-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
       "score": 18,
       "fetched_at": "2026-11-03",
       "source": "OpenAI",

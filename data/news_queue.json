@@ -280,6 +280,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI is quietly renaming data centers \u2018compute campuses\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "score": 49,
+      "fetched_at": "2026-11-03",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -1059,6 +1072,20 @@
       "topic": "agentic"
     },
     {
+      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "score": 36,
+      "fetched_at": "2026-11-03",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
       "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
       "score": 35,
@@ -1488,6 +1515,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Apple is restricting dating apps and romanceable chatbots to over 18s",
+      "url": "https://www.theverge.com/tech/1025185/apple-app-store-age-rating-dating-apps-ai-companion",
+      "score": 34,
+      "fetched_at": "2026-11-03",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "Can you see everything?",
@@ -14652,6 +14692,19 @@
       "topic": ""
     },
     {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "score": 18,
+      "fetched_at": "2026-11-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
       "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "score": 17,
@@ -24893,7 +24946,7 @@
     {
       "date": "2026-11-03",
       "posts": 1,
-      "items_processed": 4755,
+      "items_processed": 7135,
       "estimated_tokens": 0
     }
   ]
