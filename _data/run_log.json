@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-25 23:47:18 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2345,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-26 02:38:09 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1209,5 +1187,44 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-04 03:44:26 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 2,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2385,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple starts giving Siri AI access to third-party apps",
+        "file": "_posts/2026-11-03-apple-starts-giving-siri-ai-access-to-third-party-apps.md",
+        "score": 55,
+        "tags": [
+          "apple"
+        ]
+      },
+      {
+        "title": "OpenAI says ChatGPT is catching up to Google in search",
+        "file": "_posts/2026-11-03-openai-says-chatgpt-is-catching-up-to-google-in-search.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]

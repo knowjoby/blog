@@ -9552,6 +9552,58 @@
       "topic": ""
     },
     {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "score": 24,
+      "fetched_at": "2026-11-03",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "score": 24,
+      "fetched_at": "2026-11-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "score": 24,
+      "fetched_at": "2026-11-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
+      "score": 24,
+      "fetched_at": "2026-11-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -14707,6 +14759,19 @@
     {
       "title": "Heimstaden is changing residential real estate management with AI",
       "url": "https://openai.com/index/heimstaden",
+      "score": 18,
+      "fetched_at": "2026-11-03",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "score": 18,
       "fetched_at": "2026-11-03",
       "source": "OpenAI",
@@ -23506,6 +23571,28 @@
         "meta"
       ],
       "topics": []
+    },
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "score": 55,
+      "file": "_posts/2026-11-03-apple-starts-giving-siri-ai-access-to-third-party-apps.md",
+      "posted_at": "2026-11-03",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "score": 55,
+      "file": "_posts/2026-11-03-openai-says-chatgpt-is-catching-up-to-google-in-search.md",
+      "posted_at": "2026-11-03",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -24958,8 +25045,8 @@
     },
     {
       "date": "2026-11-03",
-      "posts": 1,
-      "items_processed": 9515,
+      "posts": 3,
+      "items_processed": 11900,
       "estimated_tokens": 0
     }
   ]
