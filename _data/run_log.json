@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-25 10:40:55 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 47,
-    "posts_created": 0,
-    "queued": 47,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 47
-      },
-      "rss": {
-        "raw": 2345,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 47
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-25 15:33:06 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1197,6 +1175,37 @@
         "score": 55,
         "tags": [
           "openai"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-11-03 06:59:04 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 7,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 7
+      },
+      "rss": {
+        "raw": 2376,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 7
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta will end Quest 2 OS updates in 2027",
+        "file": "_posts/2026-11-03-meta-will-end-quest-2-os-updates-in-2027.md",
+        "score": 55,
+        "tags": [
+          "meta"
         ]
       }
     ]
