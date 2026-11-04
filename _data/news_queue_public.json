@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-04T10:41:25.934809+00:00",
-  "pending_count": 1374,
+  "updated_at_utc": "2026-11-04T15:57:34.124935+00:00",
+  "pending_count": 1379,
   "pending": [
+    {
+      "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "score": 43,
+      "fetched_at": "2026-11-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Running Codex safely at OpenAI",
       "url": "https://openai.com/index/running-codex-safely",
@@ -125,6 +136,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "score": 24,
+      "fetched_at": "2026-11-04",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Building advertising for the way people use AI",
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "score": 24,
@@ -213,6 +235,17 @@
       "topics": []
     },
     {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "score": 18,
+      "fetched_at": "2026-11-04",
+      "source": "OpenAI",
+      "companies": [
+        "amazon"
+      ],
+      "topics": []
+    },
+    {
       "title": "Advancing youth safety and wellbeing in EMEA",
       "url": "https://openai.com/index/advancing-youth-safety-in-emea",
       "score": 18,
@@ -243,6 +276,28 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "score": 11,
+      "fetched_at": "2026-11-04",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Securing the agentic enterprise with data lineage",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "score": 11,
+      "fetched_at": "2026-11-04",
+      "source": "MIT Tech Review",
+      "companies": [],
+      "topics": [
+        "agentic"
       ]
     },
     {

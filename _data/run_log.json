@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-26 07:05:35 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2345,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-26 13:07:21 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 21,
@@ -1226,5 +1204,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-04 21:27:34 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 2387,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "The fight for tech accountability starts now",
+        "file": "_posts/2026-11-04-the-fight-for-tech-accountability-starts-now.md",
+        "score": 57,
+        "tags": [
+          "meta",
+          "regulation"
+        ]
+      }
+    ]
   }
 ]
