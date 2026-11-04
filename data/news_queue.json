@@ -494,6 +494,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "score": 43,
+      "fetched_at": "2026-11-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Procgen and MineRL Competitions",
       "url": "https://openai.com/index/procgen-minerl-competitions",
       "score": 42,
@@ -2149,6 +2162,19 @@
       "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
       "score": 31,
       "fetched_at": "2026-10-30",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "score": 31,
+      "fetched_at": "2026-11-04",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -14548,6 +14574,19 @@
       "topic": ""
     },
     {
+      "title": "The Lawyer Holding Big Tech Accountable by \u2018Beating the Tar Out of Them\u2019 in Court",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+      "score": 18,
+      "fetched_at": "2026-11-04",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
       "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "score": 17,
@@ -24817,7 +24856,7 @@
     {
       "date": "2026-11-04",
       "posts": 1,
-      "items_processed": 7157,
+      "items_processed": 9545,
       "estimated_tokens": 0
     }
   ]

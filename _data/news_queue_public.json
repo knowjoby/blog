@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-04T15:57:34.124935+00:00",
-  "pending_count": 1379,
+  "updated_at_utc": "2026-11-04T18:31:21.154734+00:00",
+  "pending_count": 1382,
   "pending": [
+    {
+      "title": "ChatGPT will now make you animated GIFs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "score": 43,
+      "fetched_at": "2026-11-04",
+      "source": "The Verge",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Sam Altman addresses RAM comments: people should ‘put as much as they want in their computers’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
@@ -63,6 +74,17 @@
       ],
       "topics": [
         "open_source"
+      ]
+    },
+    {
+      "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "score": 31,
+      "fetched_at": "2026-11-04",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -176,6 +198,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
+      "score": 18,
+      "fetched_at": "2026-11-04",
+      "source": "Wired",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
