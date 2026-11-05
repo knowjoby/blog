@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-27 10:56:43 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 16,
-    "posts_created": 0,
-    "queued": 16,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 16
-      },
-      "rss": {
-        "raw": 2352,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 16
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-27 16:20:46 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1217,5 +1195,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-06 03:21:14 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 13,
+    "posts_created": 1,
+    "queued": 12,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 13
+      },
+      "rss": {
+        "raw": 2394,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 13
+      }
+    },
+    "posts": [
+      {
+        "title": "Muse has a voice mode now",
+        "file": "_posts/2026-11-05-muse-has-a-voice-mode-now.md",
+        "score": 57,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
