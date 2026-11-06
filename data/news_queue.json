@@ -9322,6 +9322,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "score": 24,
+      "fetched_at": "2026-11-06",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -24862,7 +24875,7 @@
     {
       "date": "2026-11-06",
       "posts": 2,
-      "items_processed": 4797,
+      "items_processed": 7197,
       "estimated_tokens": 0
     }
   ]

@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-10-27 21:48:21 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 1,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2353,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": [
-      {
-        "title": "Google’s next Genie AI model generates more realistic experiences",
-        "file": "_posts/2026-10-27-googles-next-genie-ai-model-generates-more-realistic-experiences.md",
-        "score": 55,
-        "tags": [
-          "google"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-10-28 02:22:07 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 11,
@@ -1243,6 +1212,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 39
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-11-06 21:10:04 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2400,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []

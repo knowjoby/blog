@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-06T09:43:35.303617+00:00",
-  "pending_count": 1378,
+  "updated_at_utc": "2026-11-06T15:40:04.460931+00:00",
+  "pending_count": 1379,
   "pending": [
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
@@ -183,6 +183,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "score": 24,
+      "fetched_at": "2026-11-06",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
