@@ -215,6 +215,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s refurbished Quest 3S headset is nearly $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+      "score": 49,
+      "fetched_at": "2026-11-06",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -9332,6 +9345,19 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "score": 24,
+      "fetched_at": "2026-11-06",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
       "topic": ""
     },
     {
@@ -24875,7 +24901,7 @@
     {
       "date": "2026-11-06",
       "posts": 2,
-      "items_processed": 7197,
+      "items_processed": 9597,
       "estimated_tokens": 0
     }
   ]
