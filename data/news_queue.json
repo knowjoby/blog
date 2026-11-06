@@ -228,6 +228,19 @@
       "topic": ""
     },
     {
+      "title": "Meta\u2019s Muse AI can create custom \u2018spaces\u2019 for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "score": 49,
+      "fetched_at": "2026-11-06",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
       "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "score": 48,
@@ -952,6 +965,21 @@
       "topic": "agentic"
     },
     {
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "score": 38,
+      "fetched_at": "2026-11-06",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
       "title": "We Got Claude to Build CUDA Kernels and teach open models!",
       "url": "https://huggingface.co/blog/upskill",
       "score": 36,
@@ -1050,6 +1078,22 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "score": 36,
+      "fetched_at": "2026-11-06",
+      "source": "Wired",
+      "companies": [
+        "openai",
+        "deepseek"
+      ],
+      "topics": [
+        "china"
+      ],
+      "company": "openai",
+      "topic": "china"
     },
     {
       "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
@@ -1506,6 +1550,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "Lame-duck Congress might actually do something: speed up energy projects",
+      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+      "score": 33,
+      "fetched_at": "2026-11-06",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "regulation"
+      ],
+      "company": "",
+      "topic": "regulation"
     },
     {
       "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
@@ -3353,6 +3410,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "\u201cDoes Meta think we can\u2019t read?\u201d Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "score": 30,
+      "fetched_at": "2026-11-06",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -9358,6 +9428,45 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+      "score": 24,
+      "fetched_at": "2026-11-06",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI\u2019s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "score": 24,
+      "fetched_at": "2026-11-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "score": 24,
+      "fetched_at": "2026-11-06",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -24901,7 +25010,7 @@
     {
       "date": "2026-11-06",
       "posts": 2,
-      "items_processed": 9597,
+      "items_processed": 11999,
       "estimated_tokens": 0
     }
   ]
