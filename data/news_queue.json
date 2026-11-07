@@ -228,6 +228,19 @@
       "topic": ""
     },
     {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "score": 49,
+      "fetched_at": "2026-11-07",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -24991,7 +25004,7 @@
     {
       "date": "2026-11-07",
       "posts": 1,
-      "items_processed": 7206,
+      "items_processed": 9608,
       "estimated_tokens": 0
     }
   ]
