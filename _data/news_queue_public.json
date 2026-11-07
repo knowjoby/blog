@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-07T09:06:25.977871+00:00",
-  "pending_count": 1384,
+  "updated_at_utc": "2026-11-07T14:40:53.258485+00:00",
+  "pending_count": 1386,
   "pending": [
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "score": 49,
+      "fetched_at": "2026-11-07",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
@@ -1637,6 +1648,19 @@
       ],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "This Totally Free App Can Free Up Space on Your Mac",
+      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+      "score": 26,
+      "fetched_at": "2026-11-07",
+      "source": "Wired",
+      "companies": [
+        "apple"
+      ],
+      "topics": [
+        "open_source"
       ]
     },
     {

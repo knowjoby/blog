@@ -215,6 +215,19 @@
       "topic": ""
     },
     {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "score": 49,
+      "fetched_at": "2026-11-07",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -4486,6 +4499,21 @@
         "open_source"
       ],
       "company": "anthropic",
+      "topic": "open_source"
+    },
+    {
+      "title": "This Totally Free App Can Free Up Space on Your Mac",
+      "url": "https://www.wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge/",
+      "score": 26,
+      "fetched_at": "2026-11-07",
+      "source": "Wired",
+      "companies": [
+        "apple"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "apple",
       "topic": "open_source"
     },
     {
@@ -24963,7 +24991,7 @@
     {
       "date": "2026-11-07",
       "posts": 1,
-      "items_processed": 4804,
+      "items_processed": 7206,
       "estimated_tokens": 0
     }
   ]
