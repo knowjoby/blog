@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-28 11:37:47 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 19,
-    "posts_created": 0,
-    "queued": 19,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 19
-      },
-      "rss": {
-        "raw": 2358,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 19
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-28 18:54:41 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1220,5 +1198,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-07 07:45:12 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 3,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 3
+      },
+      "rss": {
+        "raw": 2402,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 3
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "file": "_posts/2026-11-07-openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo.md",
+        "score": 79,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
