@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-30 07:15:47 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2367,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-30 13:53:00 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 16,
@@ -1207,6 +1185,40 @@
         "tags": [
           "openai",
           "anthropic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-11-09 03:52:35 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 2,
+    "posts_created": 1,
+    "queued": 1,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 2
+      },
+      "rss": {
+        "raw": 2402,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 2
+      }
+    },
+    "posts": [
+      {
+        "title": "Apple is racing to make Siri more agentic",
+        "file": "_posts/2026-11-08-apple-is-racing-to-make-siri-more-agentic.md",
+        "score": 96,
+        "tags": [
+          "openai",
+          "meta",
+          "apple",
+          "agentic"
         ]
       }
     ]
