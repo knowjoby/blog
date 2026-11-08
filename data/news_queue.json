@@ -325,19 +325,6 @@
       "topic": ""
     },
     {
-      "title": "I hope Apple\u2019s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "score": 45,
-      "fetched_at": "2026-10-24",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Netomi\u2019s lessons for scaling agentic systems into the enterprise",
       "url": "https://openai.com/index/netomi",
       "score": 45,
@@ -481,34 +468,6 @@
       "topic": ""
     },
     {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "score": 42,
-      "fetched_at": "2026-10-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "xai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "score": 42,
-      "fetched_at": "2026-10-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai",
-        "apple"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -637,22 +596,6 @@
         "reasoning"
       ],
       "company": "nvidia",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Solving complex problems with OpenAI o1 models",
-      "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
-      "score": 40,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning",
-        "coding"
-      ],
-      "company": "openai",
       "topic": "reasoning"
     },
     {
@@ -1565,21 +1508,6 @@
       "topic": "regulation"
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "score": 32,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
-    },
-    {
       "title": "Introducing Intelligence Age",
       "url": "https://openai.com/index/introducing-intelligence-age",
       "score": 32,
@@ -2135,19 +2063,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "score": 31,
-      "fetched_at": "2026-10-24",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "AI has come for Arizona\u2019s water",
       "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
       "score": 31,
@@ -2185,19 +2100,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
-      "url": "https://www.wired.com/review/ray-ban-meta-audio/",
-      "score": 30,
-      "fetched_at": "2026-10-24",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
     },
     {
       "title": "New OpenAI Academy courses for the next era of work",
@@ -3742,51 +3644,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Delegate work to ChatGPT agent",
-      "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
-      "score": 26,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Create on-brand visuals with image generation",
-      "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
-      "score": 26,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Vision and voice in ChatGPT",
-      "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
-      "score": 26,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "openai",
-      "topic": "multimodal"
-    },
-    {
       "title": "Now everyone can put data to work",
       "url": "https://openai.com/index/put-data-to-work",
       "score": 26,
@@ -4528,71 +4385,6 @@
       ],
       "company": "apple",
       "topic": "open_source"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "score": 24,
-      "fetched_at": "2026-10-24",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "score": 24,
-      "fetched_at": "2026-10-24",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "How OpenAI Uses Codex to Accelerate Engineering",
-      "url": "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
-      "score": 24,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How OpenAI uses ChatGPT Atlas at work",
-      "url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
-      "score": 24,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Automate complex workflows with OpenAI o3",
-      "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
-      "score": 24,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Introducing ChatGPT for Financial Services",
@@ -9662,149 +9454,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Think Bigger: How Small Teams Win with ChatGPT",
-      "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Personalize ChatGPT with custom instructions",
-      "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Connect internal knowledge from Google Drive",
-      "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Collaborate and write with GPT-4o",
-      "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Creating a contextual workspace in ChatGPT",
-      "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Market research with ChatGPT",
-      "url": "https://openai.com/business/learn/market-research-with-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Prototyping with canvas in ChatGPT",
-      "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Shipping code to your IDE with ChatGPT",
-      "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Strategic planning with ChatGPT",
-      "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Fine-tuning GPT-4o webinar",
-      "url": "https://openai.com/business/fine-tuning-gpt-4o-webinar",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Enabling a data-driven workforce",
-      "url": "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
-      "score": 18,
-      "fetched_at": "2026-10-24",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
@@ -25018,6 +24667,12 @@
       "date": "2026-11-07",
       "posts": 1,
       "items_processed": 14412,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-11-08",
+      "posts": 0,
+      "items_processed": 2402,
       "estimated_tokens": 0
     }
   ]
