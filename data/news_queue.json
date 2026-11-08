@@ -23447,6 +23447,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Chatbots might be coming to Apple\u2019s HomeView",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "score": 61,
+      "file": "_posts/2026-11-08-chatbots-might-be-coming-to-apples-homeview.md",
+      "posted_at": "2026-11-08",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -24929,8 +24941,8 @@
     },
     {
       "date": "2026-11-08",
-      "posts": 0,
-      "items_processed": 7206,
+      "posts": 1,
+      "items_processed": 9608,
       "estimated_tokens": 0
     }
   ]

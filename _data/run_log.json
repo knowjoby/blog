@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-30 03:11:04 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 10,
-    "posts_created": 0,
-    "queued": 10,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 10
-      },
-      "rss": {
-        "raw": 2367,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 10
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-30 07:15:47 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1200,5 +1178,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-08 23:31:03 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2402,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Chatbots might be coming to Apple’s HomeView",
+        "file": "_posts/2026-11-08-chatbots-might-be-coming-to-apples-homeview.md",
+        "score": 61,
+        "tags": [
+          "openai",
+          "anthropic"
+        ]
+      }
+    ]
   }
 ]
