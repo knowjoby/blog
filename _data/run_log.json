@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-30 13:53:00 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 16,
-    "posts_created": 0,
-    "queued": 16,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 16
-      },
-      "rss": {
-        "raw": 2367,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 16
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-30 20:20:13 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1218,6 +1196,38 @@
           "openai",
           "meta",
           "apple",
+          "agentic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-11-09 07:21:47 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2402,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "file": "_posts/2026-11-09-heres-the-full-text-of-jensen-huangs-memo-to-nvidia.md",
+        "score": 63,
+        "tags": [
+          "nvidia",
           "agentic"
         ]
       }
