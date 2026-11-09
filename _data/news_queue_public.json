@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-09T09:29:00.757901+00:00",
-  "pending_count": 1381,
+  "updated_at_utc": "2026-11-09T18:20:11.682803+00:00",
+  "pending_count": 1394,
   "pending": [
+    {
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "score": 43,
+      "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
@@ -30,6 +41,19 @@
       ]
     },
     {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "score": 38,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "OpenAI’s Frontier Governance Framework",
       "url": "https://openai.com/index/openai-frontier-governance-framework",
       "score": 38,
@@ -40,6 +64,28 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "score": 37,
+      "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "score": 37,
+      "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
@@ -178,6 +224,50 @@
       ]
     },
     {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "MIT Tech Review",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
       "score": 24,
@@ -284,6 +374,28 @@
       "source": "Hugging Face",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "score": 18,
+      "fetched_at": "2026-11-09",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -530,6 +642,28 @@
       "topics": []
     },
     {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "score": 18,
+      "fetched_at": "2026-11-09",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "score": 18,
+      "fetched_at": "2026-11-09",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "An open-source spec for orchestration: Symphony",
       "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
       "score": 14,
@@ -538,6 +672,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "score": 11,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {

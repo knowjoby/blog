@@ -468,6 +468,19 @@
       "topic": ""
     },
     {
+      "title": "The future of AI hinges on\u2026 Jensen Huang\u2019s sex life?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "score": 43,
+      "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -924,6 +937,47 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "score": 38,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "meta",
+      "topic": "agentic"
+    },
+    {
+      "title": "Instagram\u2019s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "score": 37,
+      "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Disney and Adobe are building generative AI tools together",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "score": 37,
+      "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
     },
     {
       "title": "An AI Breakthrough Has Made Decades of Computer Science Research \u2018Irrelevant\u2019",
@@ -9353,6 +9407,71 @@
       "topic": ""
     },
     {
+      "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "Meta expands Instagram\u2019s AI age-guessing tech globally",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "score": 24,
+      "fetched_at": "2026-11-09",
+      "source": "MIT Tech Review",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "score": 22,
@@ -14588,6 +14707,45 @@
       "topic": ""
     },
     {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "score": 18,
+      "fetched_at": "2026-11-09",
+      "source": "Ars Technica",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "SpaceX now fundamentally an \"infrastructure company,\" senior official says",
+      "url": "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+      "score": 18,
+      "fetched_at": "2026-11-09",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "score": 18,
+      "fetched_at": "2026-11-09",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Serve Robotics launches new business to become the AWS for robots",
       "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
       "score": 17,
@@ -16103,6 +16261,19 @@
       "score": 11,
       "fetched_at": "2026-11-07",
       "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "score": 11,
+      "fetched_at": "2026-11-09",
+      "source": "TechCrunch",
       "companies": [],
       "topics": [
         "coding"
@@ -24976,7 +25147,7 @@
     {
       "date": "2026-11-09",
       "posts": 1,
-      "items_processed": 4804,
+      "items_processed": 7207,
       "estimated_tokens": 0
     }
   ]
