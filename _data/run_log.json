@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-31 01:31:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 5,
-    "posts_created": 0,
-    "queued": 5,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 5
-      },
-      "rss": {
-        "raw": 2370,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 5
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-10-31 05:28:30 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 8,
@@ -1232,5 +1210,38 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-10 01:29:20 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 5,
+    "posts_created": 1,
+    "queued": 4,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 5
+      },
+      "rss": {
+        "raw": 2405,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 5
+      }
+    },
+    "posts": [
+      {
+        "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+        "file": "_posts/2026-11-09-anthropic-launches-new-claude-fable-and-mythos-52-models.md",
+        "score": 71,
+        "tags": [
+          "anthropic",
+          "reasoning",
+          "coding"
+        ]
+      }
+    ]
   }
 ]
