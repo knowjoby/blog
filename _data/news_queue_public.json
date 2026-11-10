@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-10T02:39:48.022556+00:00",
-  "pending_count": 1374,
+  "updated_at_utc": "2026-11-10T10:54:39.711539+00:00",
+  "pending_count": 1401,
   "pending": [
     {
       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
@@ -37,6 +37,19 @@
       "topics": []
     },
     {
+      "title": "Introducing Intelligence Age",
+      "url": "https://openai.com/index/introducing-intelligence-age",
+      "score": 32,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "score": 29,
@@ -48,6 +61,43 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "score": 26,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "score": 26,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "The race is on to sue Nvidia",
@@ -72,6 +122,94 @@
       "topics": []
     },
     {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trusted access for the next era of cyber defense",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic reportedly plans to move forward with IPO plans",
       "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
       "score": 20,
@@ -81,6 +219,18 @@
         "anthropic"
       ],
       "topics": []
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "score": 19,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
@@ -94,8 +244,151 @@
       "topics": []
     },
     {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "url": "https://openai.com/index/control-room",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Learn ChatGPT workflows for finance teams",
+      "url": "https://openai.com/academy/finance",
       "score": 18,
       "fetched_at": "2026-11-10",
       "source": "OpenAI",
@@ -125,6 +418,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "score": 11,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
