@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-10-31 21:45:08 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 0,
-    "queued": 2,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2371,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-11-01 01:41:42 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1264,6 +1242,39 @@
         "tags": [
           "meta",
           "agentic"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-11-11 05:27:25 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 11,
+    "posts_created": 1,
+    "queued": 10,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 11
+      },
+      "rss": {
+        "raw": 2413,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 11
+      }
+    },
+    "posts": [
+      {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "file": "_posts/2026-11-10-openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-e.md",
+        "score": 56,
+        "tags": [
+          "openai",
+          "anthropic",
+          "regulation"
         ]
       }
     ]

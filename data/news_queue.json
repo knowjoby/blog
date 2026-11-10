@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "score": 49,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -525,6 +538,19 @@
     {
       "title": "Here\u2019s what Trump said he knew about Jensen Huang",
       "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "score": 43,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "score": 43,
       "fetched_at": "2026-11-10",
       "source": "The Verge",
@@ -1066,6 +1092,19 @@
       "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
       "score": 37,
       "fetched_at": "2026-11-09",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "score": 37,
+      "fetched_at": "2026-11-10",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -1659,6 +1698,22 @@
       ],
       "company": "",
       "topic": "regulation"
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "score": 33,
+      "fetched_at": "2026-11-10",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "xai",
+      "topic": "agentic"
     },
     {
       "title": "Who\u2019s really in charge at Anthropic after the IPO?",
@@ -3517,6 +3572,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "score": 30,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -9661,6 +9729,58 @@
       "topic": ""
     },
     {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "score": 22,
@@ -15023,6 +15143,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -24033,6 +24166,20 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "score": 56,
+      "file": "_posts/2026-11-10-openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-e.md",
+      "posted_at": "2026-11-10",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [
+        "regulation"
+      ]
     }
   ],
   "daily_usage": [
@@ -25527,8 +25674,8 @@
     },
     {
       "date": "2026-11-10",
-      "posts": 4,
-      "items_processed": 9638,
+      "posts": 5,
+      "items_processed": 12051,
       "estimated_tokens": 0
     }
   ]

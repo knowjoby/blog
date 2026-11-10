@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-10T18:32:18.130251+00:00",
-  "pending_count": 1417,
+  "updated_at_utc": "2026-11-10T23:57:25.696890+00:00",
+  "pending_count": 1427,
   "pending": [
+    {
+      "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+      "url": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+      "score": 49,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "Anthropic targets $1.4 trillion IPO",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
@@ -47,6 +58,17 @@
       "topics": []
     },
     {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "score": 43,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Adobe is going all in on agentic AI",
       "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
       "score": 42,
@@ -81,6 +103,17 @@
       ]
     },
     {
+      "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+      "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+      "score": 37,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
       "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
       "score": 34,
@@ -91,6 +124,20 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "score": 33,
+      "fetched_at": "2026-11-10",
+      "source": "Ars Technica",
+      "companies": [
+        "xai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ]
     },
     {
       "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
@@ -128,6 +175,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "score": 30,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
     },
     {
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -226,8 +284,41 @@
       "topics": []
     },
     {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
       "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
       "score": 24,
       "fetched_at": "2026-11-10",
       "source": "TechCrunch",
@@ -305,6 +396,17 @@
     {
       "title": "MUFG aims to become AI-native with OpenAI",
       "url": "https://openai.com/index/mufg",
+      "score": 24,
+      "fetched_at": "2026-11-10",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "score": 24,
       "fetched_at": "2026-11-10",
       "source": "OpenAI",
@@ -553,6 +655,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "score": 18,
+      "fetched_at": "2026-11-10",
+      "source": "Google AI",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
