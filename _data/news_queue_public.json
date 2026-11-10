@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-10T16:05:54.163892+00:00",
-  "pending_count": 1413,
+  "updated_at_utc": "2026-11-10T18:32:18.130251+00:00",
+  "pending_count": 1417,
   "pending": [
     {
       "title": "Anthropic targets $1.4 trillion IPO",
@@ -10,6 +10,17 @@
       "source": "The Verge",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "score": 49,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -106,6 +117,28 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "The indie game community is in disarray over AI and Big Walk",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "score": 31,
+      "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "score": 30,
+      "fetched_at": "2026-11-10",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
     },
     {
       "title": "Google Cloud launches Gemini for healthcare.",
@@ -566,6 +599,17 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "score": 10,
+      "fetched_at": "2026-11-10",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
