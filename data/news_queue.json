@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "score": 49,
-      "fetched_at": "2026-10-27",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "score": 49,
-      "fetched_at": "2026-10-27",
-      "source": "The Verge",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
       "title": "xAI is buying out homeowners who promise not to sue over data center noise",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
       "score": 49,
@@ -397,22 +371,6 @@
       "topic": "agentic"
     },
     {
-      "title": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One",
-      "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
-      "score": 44,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "anthropic",
-        "meta"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
-    },
-    {
       "title": "Pioneering an AI clinical copilot with Penda Health",
       "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
       "score": 44,
@@ -427,35 +385,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "score": 43,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic",
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "score": 43,
-      "fetched_at": "2026-10-27",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Google\u2019s satellite AI server transmits its first response to Earth",
@@ -842,19 +771,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "score": 39,
-      "fetched_at": "2026-10-27",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
     },
     {
       "title": "Akai is embracing vibe-coded mods with an open-source MPC",
@@ -1648,32 +1564,6 @@
       "topic": ""
     },
     {
-      "title": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
-      "url": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "score": 33,
-      "fetched_at": "2026-10-27",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "score": 33,
-      "fetched_at": "2026-10-27",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "robotics"
-      ],
-      "company": "",
-      "topic": "robotics"
-    },
-    {
       "title": "You can edit your videos with AI on Instagram\u2019s new desktop Edits app",
       "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
       "score": 33,
@@ -2321,58 +2211,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-      "score": 30,
-      "fetched_at": "2026-10-27",
-      "source": "Ars Technica",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "score": 30,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic Says It Will Revolutionize Biology\u2014Some Day",
-      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "score": 30,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "score": 30,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
@@ -4733,164 +4571,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
-      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "cohere"
-      ],
-      "topics": [
-        "china"
-      ],
-      "company": "cohere",
-      "topic": "china"
-    },
-    {
-      "title": "Supporting Thailand\u2019s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the next phase of AI",
-      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "UK Politician Jess Asato Got Deepfaked. Now She\u2019s Taking xAI to Court",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
-      "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "MIT Tech Review",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tools",
-      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "score": 24,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
@@ -9781,6 +9461,19 @@
       "topic": ""
     },
     {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "score": 22,
@@ -9997,149 +9690,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Grok Says Its AI-Generated Version of \u2018The Odyssey\u2019 Is \u2018Not Historically Accurate\u2019",
-      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "Wired",
-      "companies": [
-        "xai"
-      ],
-      "topics": [],
-      "company": "xai",
-      "topic": ""
-    },
-    {
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "url": "https://openai.com/index/anima",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "TechCrunch",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "score": 18,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "How Localiza reorganized work around generative AI",
@@ -15159,6 +14709,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Serve Robotics launches new business to become the AWS for robots",
       "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
       "score": 17,
@@ -15196,19 +14759,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "score": 16,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [
-        "perplexity"
-      ],
-      "topics": [],
-      "company": "perplexity",
-      "topic": ""
     },
     {
       "title": "Stop counting tokens, start counting what ships",
@@ -16071,71 +15621,6 @@
       "topic": "ai"
     },
     {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "score": 11,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "score": 11,
-      "fetched_at": "2026-10-27",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "score": 11,
-      "fetched_at": "2026-10-27",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "",
-      "topic": "reasoning"
-    },
-    {
-      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-      "score": 11,
-      "fetched_at": "2026-10-27",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "score": 11,
-      "fetched_at": "2026-10-27",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "multimodal"
-    },
-    {
       "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
       "url": "https://huggingface.co/blog/gemma4",
       "score": 11,
@@ -16708,30 +16193,17 @@
       "topic": "agentic"
     },
     {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "score": 10,
-      "fetched_at": "2026-10-27",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "score": 11,
+      "fetched_at": "2026-11-11",
       "source": "Hugging Face",
-      "companies": [
-        "huggingface"
+      "companies": [],
+      "topics": [
+        "agentic"
       ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
-    },
-    {
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "score": 10,
-      "fetched_at": "2026-10-27",
-      "source": "MIT Tech Review",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
@@ -24180,6 +23652,20 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Microsoft\u2019s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+      "url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+      "score": 81,
+      "file": "_posts/2026-11-11-microsofts-dlss-competitor-is-out-for-the-xbox-ally-x-and-works-in-han.md",
+      "posted_at": "2026-11-11",
+      "companies": [
+        "microsoft",
+        "nvidia"
+      ],
+      "topics": [
+        "coding"
+      ]
     }
   ],
   "daily_usage": [
@@ -25676,6 +25162,12 @@
       "date": "2026-11-10",
       "posts": 5,
       "items_processed": 12051,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-11-11",
+      "posts": 1,
+      "items_processed": 2417,
       "estimated_tokens": 0
     }
   ]
