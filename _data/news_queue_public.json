@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-11T13:57:22.202514+00:00",
-  "pending_count": 1411,
+  "updated_at_utc": "2026-11-11T15:52:14.730318+00:00",
+  "pending_count": 1414,
   "pending": [
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "score": 49,
+      "fetched_at": "2026-11-11",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
     {
       "title": "Serve Robotics wants to democratize sidewalk delivery robots",
       "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
@@ -49,6 +60,17 @@
       "topics": []
     },
     {
+      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Supporting Thailand’s next generation of AI startups",
       "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
       "score": 24,
@@ -89,6 +111,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
       ],
       "topics": []
     },

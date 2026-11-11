@@ -254,6 +254,19 @@
       "topic": ""
     },
     {
+      "title": "Google\u2019s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "score": 49,
+      "fetched_at": "2026-11-11",
+      "source": "The Verge",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -9564,6 +9577,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "China\u2019s Nvidia Honeypot Isn\u2019t Surprising. Jensen Huang Fell for It Anyway",
+      "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -25481,7 +25520,7 @@
     {
       "date": "2026-11-11",
       "posts": 1,
-      "items_processed": 4835,
+      "items_processed": 7254,
       "estimated_tokens": 0
     }
   ]
