@@ -1,11 +1,167 @@
 {
-  "updated_at_utc": "2026-11-11T05:55:47.679074+00:00",
-  "pending_count": 1387,
+  "updated_at_utc": "2026-11-11T13:57:22.202514+00:00",
+  "pending_count": 1411,
   "pending": [
+    {
+      "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "score": 42,
+      "fetched_at": "2026-11-11",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "score": 32,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "score": 30,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "score": 30,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
     {
       "title": "Cogent and OpenAI build cyber defense factories for enterprises",
       "url": "https://openai.com/index/cogent-security",
       "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "score": 18,
       "fetched_at": "2026-11-11",
       "source": "OpenAI",
       "companies": [
@@ -25,6 +181,72 @@
       "topics": []
     },
     {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "score": 16,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "score": 11,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "score": 11,
+      "fetched_at": "2026-11-11",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "score": 11,
@@ -34,6 +256,50 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "score": 11,
+      "fetched_at": "2026-11-11",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "reasoning"
+      ]
+    },
+    {
+      "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+      "score": 11,
+      "fetched_at": "2026-11-11",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "score": 11,
+      "fetched_at": "2026-11-11",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "score": 10,
+      "fetched_at": "2026-11-11",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
