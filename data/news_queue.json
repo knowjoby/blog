@@ -351,6 +351,20 @@
       "topic": ""
     },
     {
+      "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "score": 48,
+      "fetched_at": "2026-11-11",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
       "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
       "score": 46,
@@ -3626,6 +3640,36 @@
       ],
       "company": "google",
       "topic": "robotics"
+    },
+    {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "score": 29,
+      "fetched_at": "2026-11-11",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ],
+      "company": "openai",
+      "topic": "robotics"
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 29,
+      "fetched_at": "2026-11-11",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "google",
+      "topic": "multimodal"
     },
     {
       "title": "Get in the spirit with these horrors from YouTube",
@@ -9606,6 +9650,19 @@
       "topic": ""
     },
     {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "score": 22,
@@ -9765,6 +9822,19 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "score": 20,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -14981,6 +15051,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -25520,7 +25616,7 @@
     {
       "date": "2026-11-11",
       "posts": 1,
-      "items_processed": 7254,
+      "items_processed": 9674,
       "estimated_tokens": 0
     }
   ]

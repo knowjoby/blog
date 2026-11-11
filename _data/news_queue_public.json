@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-11T15:52:14.730318+00:00",
-  "pending_count": 1414,
+  "updated_at_utc": "2026-11-11T21:15:04.421648+00:00",
+  "pending_count": 1421,
   "pending": [
     {
       "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "score": 48,
+      "fetched_at": "2026-11-11",
+      "source": "Ars Technica",
+      "companies": [
+        "openai",
+        "anthropic"
       ],
       "topics": []
     },
@@ -60,6 +72,32 @@
       "topics": []
     },
     {
+      "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+      "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+      "score": 29,
+      "fetched_at": "2026-11-11",
+      "source": "Wired",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "robotics"
+      ]
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 29,
+      "fetched_at": "2026-11-11",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "multimodal"
+      ]
+    },
+    {
       "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
       "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
       "score": 24,
@@ -67,6 +105,17 @@
       "source": "Wired",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "score": 24,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -126,6 +175,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "score": 20,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
       "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
       "score": 18,
@@ -144,6 +204,28 @@
       "source": "MIT Tech Review",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "score": 18,
+      "fetched_at": "2026-11-11",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
