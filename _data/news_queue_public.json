@@ -1,11 +1,44 @@
 {
-  "updated_at_utc": "2026-11-12T10:07:28.839482+00:00",
-  "pending_count": 1411,
+  "updated_at_utc": "2026-11-12T16:34:57.022093+00:00",
+  "pending_count": 1423,
   "pending": [
+    {
+      "title": "Apple’s HomeView is my new favorite smart display — but not my daughter’s",
+      "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
+      "score": 49,
+      "fetched_at": "2026-11-12",
+      "source": "The Verge",
+      "companies": [
+        "apple"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "score": 49,
+      "fetched_at": "2026-11-12",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Nvidia is reportedly preparing to fire Jensen Huang",
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "score": 45,
+      "fetched_at": "2026-11-12",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang is out. What did China want from him?",
+      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "score": 43,
       "fetched_at": "2026-11-12",
       "source": "The Verge",
       "companies": [
@@ -124,6 +157,61 @@
       ]
     },
     {
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
       "score": 24,
@@ -146,6 +234,17 @@
       "topics": []
     },
     {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "Ars Technica",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
       "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
       "score": 24,
@@ -160,6 +259,28 @@
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
       "score": 20,
+      "fetched_at": "2026-11-12",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+      "score": 18,
+      "fetched_at": "2026-11-12",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "score": 18,
       "fetched_at": "2026-11-12",
       "source": "TechCrunch",
       "companies": [
@@ -247,6 +368,17 @@
     {
       "title": "Core dump epidemiology: fixing an 18-year-old bug",
       "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "score": 18,
+      "fetched_at": "2026-11-12",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
       "score": 18,
       "fetched_at": "2026-11-12",
       "source": "OpenAI",

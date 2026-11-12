@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-11-02 03:23:18 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 0,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 0
-      },
-      "rss": {
-        "raw": 2371,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 0
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-11-02 06:53:40 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 1,
@@ -1289,5 +1267,44 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-12 22:04:57 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 14,
+    "posts_created": 2,
+    "queued": 12,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 14
+      },
+      "rss": {
+        "raw": 2423,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 14
+      }
+    },
+    "posts": [
+      {
+        "title": "I tried Google’s AI glasses and Meta’s finally got real competition",
+        "file": "_posts/2026-11-12-i-tried-googles-ai-glasses-and-metas-finally-got-real-competition.md",
+        "score": 55,
+        "tags": [
+          "meta"
+        ]
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+        "file": "_posts/2026-11-12-nvidia-ceo-jensen-huang-resigns-amid-spy-affair-scandals.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
+        ]
+      }
+    ]
   }
 ]
