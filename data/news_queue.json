@@ -557,6 +557,19 @@
       "topic": ""
     },
     {
+      "title": "The Jensen Huang scandal is hardly over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "score": 43,
+      "fetched_at": "2026-11-12",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -1630,6 +1643,20 @@
       "topic": ""
     },
     {
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "score": 34,
+      "fetched_at": "2026-11-12",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "You can edit your videos with AI on Instagram\u2019s new desktop Edits app",
       "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
       "score": 33,
@@ -2298,6 +2325,19 @@
       "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "score": 31,
       "fetched_at": "2026-11-10",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "ai"
+      ],
+      "company": "",
+      "topic": "ai"
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "score": 31,
+      "fetched_at": "2026-11-12",
       "source": "The Verge",
       "companies": [],
       "topics": [
@@ -9650,6 +9690,32 @@
       "topic": ""
     },
     {
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "Wired",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "score": 24,
+      "fetched_at": "2026-11-12",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
       "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
       "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
       "score": 22,
@@ -15129,6 +15195,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "score": 18,
+      "fetched_at": "2026-11-12",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
+      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
+      "score": 18,
+      "fetched_at": "2026-11-12",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -24163,6 +24255,19 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "score": 71,
+      "file": "_posts/2026-11-12-ai-chatbots-are-recommending-fake-retail-websites-study-finds.md",
+      "posted_at": "2026-11-12",
+      "companies": [
+        "openai",
+        "google",
+        "perplexity"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -25669,8 +25774,8 @@
     },
     {
       "date": "2026-11-12",
-      "posts": 2,
-      "items_processed": 7263,
+      "posts": 3,
+      "items_processed": 9686,
       "estimated_tokens": 0
     }
   ]
