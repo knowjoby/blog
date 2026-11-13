@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-13T15:55:11.619067+00:00",
-  "pending_count": 1439,
+  "updated_at_utc": "2026-11-13T21:51:19.639321+00:00",
+  "pending_count": 1444,
   "pending": [
     {
       "title": "Donald Trump really wants Tim Cook to run Nvidia",
@@ -59,6 +59,17 @@
       "topics": [
         "open_source"
       ]
+    },
+    {
+      "title": "Jensen Huang was reckless with the environment, too",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "score": 43,
+      "fetched_at": "2026-11-13",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "What’s really at stake in the Jensen Huang saga",
@@ -131,6 +142,17 @@
       "topics": [
         "ai"
       ]
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "score": 30,
+      "fetched_at": "2026-11-13",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
@@ -824,6 +846,17 @@
       "topics": []
     },
     {
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "score": 24,
+      "fetched_at": "2026-11-13",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Jensen Huang’s $470 Billion Affair",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
       "score": 18,
@@ -857,6 +890,17 @@
       "topics": []
     },
     {
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+      "score": 18,
+      "fetched_at": "2026-11-13",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Jensen Huang didn’t show confidence in his successor, report says",
       "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
       "score": 18,
@@ -864,6 +908,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "score": 18,
+      "fetched_at": "2026-11-13",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },

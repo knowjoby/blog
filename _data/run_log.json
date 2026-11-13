@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-11-03 14:00:33 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 20,
-    "posts_created": 0,
-    "queued": 20,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 20
-      },
-      "rss": {
-        "raw": 2379,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 20
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-11-03 21:19:44 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 4,
@@ -1309,5 +1287,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-14 03:21:19 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 6,
+    "posts_created": 1,
+    "queued": 5,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 6
+      },
+      "rss": {
+        "raw": 2428,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 6
+      }
+    },
+    "posts": [
+      {
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "file": "_posts/2026-11-13-chatgpt-wallet-lets-openais-dots-agents-make-purchases-for-you.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]
