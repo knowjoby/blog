@@ -267,6 +267,19 @@
       "topic": ""
     },
     {
+      "title": "Meta discussed attacking Jonathan Haidt \u2014 now even his haters are annoyed",
+      "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+      "score": 49,
+      "fetched_at": "2026-11-13",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -564,6 +577,32 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
       "score": 43,
       "fetched_at": "2026-11-12",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "What\u2019s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "score": 43,
+      "fetched_at": "2026-11-13",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "score": 43,
+      "fetched_at": "2026-11-13",
       "source": "The Verge",
       "companies": [
         "nvidia"
@@ -1192,6 +1231,20 @@
       "companies": [
         "openai",
         "amazon"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "score": 36,
+      "fetched_at": "2026-11-13",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai",
+        "meta"
       ],
       "topics": [],
       "company": "openai",
@@ -9713,6 +9766,32 @@
       "topic": ""
     },
     {
+      "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "score": 24,
+      "fetched_at": "2026-11-13",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "score": 24,
+      "fetched_at": "2026-11-13",
+      "source": "MIT Tech Review",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -15270,6 +15349,32 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "score": 18,
+      "fetched_at": "2026-11-13",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "score": 18,
+      "fetched_at": "2026-11-13",
+      "source": "Hugging Face",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
       "topic": ""
     },
     {
@@ -24278,6 +24383,19 @@
         "perplexity"
       ],
       "topics": []
+    },
+    {
+      "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "score": 51,
+      "file": "_posts/2026-11-13-claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful.md",
+      "posted_at": "2026-11-13",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -25790,8 +25908,8 @@
     },
     {
       "date": "2026-11-13",
-      "posts": 0,
-      "items_processed": 4852,
+      "posts": 1,
+      "items_processed": 7279,
       "estimated_tokens": 0
     }
   ]

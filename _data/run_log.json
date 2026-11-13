@@ -1,36 +1,5 @@
 [
   {
-    "ran_at": "2026-11-03 00:13:56 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 2,
-    "posts_created": 1,
-    "queued": 1,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 2
-      },
-      "rss": {
-        "raw": 2373,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 2
-      }
-    },
-    "posts": [
-      {
-        "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-        "file": "_posts/2026-11-02-openai-pitches-data-center-power-plants-as-a-way-to-protect-nearby-are.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-11-03 06:59:04 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 7,
@@ -1317,5 +1286,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-13 21:07:39 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 9,
+    "posts_created": 1,
+    "queued": 8,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 9
+      },
+      "rss": {
+        "raw": 2427,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 9
+      }
+    },
+    "posts": [
+      {
+        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "file": "_posts/2026-11-13-claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful.md",
+        "score": 51,
+        "tags": [
+          "anthropic",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
