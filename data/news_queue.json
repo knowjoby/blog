@@ -7,19 +7,6 @@
   },
   "pending": [
     {
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI\u2019s math onslaught won\u2019t stop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "score": 49,
-      "fetched_at": "2026-10-30",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
       "title": "I built an AI Tamagotchi before Meta could",
       "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "score": 49,
@@ -454,32 +441,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "Google\u2019s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "score": 43,
-      "fetched_at": "2026-10-30",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "score": 43,
-      "fetched_at": "2026-10-30",
-      "source": "The Verge",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Sam Altman addresses RAM comments: people should \u2018put as much as they want in their computers\u2019",
@@ -1264,21 +1225,6 @@
       "topic": ""
     },
     {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "score": 35,
-      "fetched_at": "2026-10-30",
-      "source": "Hugging Face",
-      "companies": [
-        "meta"
-      ],
-      "topics": [
-        "multimodal"
-      ],
-      "company": "meta",
-      "topic": "multimodal"
-    },
-    {
       "title": "Apple\u2019s \u2018Ultra\u2019 smart home robot might have to wait until 2028",
       "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
       "score": 35,
@@ -1749,21 +1695,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "score": 32,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
     },
     {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -2321,19 +2252,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Wikipedia\u2019s operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "score": 31,
-      "fetched_at": "2026-10-30",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
       "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
       "score": 31,
@@ -2384,19 +2302,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "score": 30,
-      "fetched_at": "2026-10-30",
-      "source": "TechCrunch",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
     },
     {
       "title": "OpenAI public policy agenda",
@@ -3573,21 +3478,6 @@
       "topic": ""
     },
     {
-      "title": "How we monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-      "score": 29,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "coding"
-      ],
-      "company": "openai",
-      "topic": "coding"
-    },
-    {
       "title": "Advancing coding in low\u2011resource programming languages",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "score": 29,
@@ -3960,36 +3850,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "score": 26,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
-    },
-    {
-      "title": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-      "score": 26,
-      "fetched_at": "2026-10-30",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "anthropic",
-      "topic": "agentic"
     },
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -4732,84 +4592,6 @@
       ],
       "topics": [],
       "company": "mistral",
-      "topic": ""
-    },
-    {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "score": 24,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "score": 24,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "score": 24,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Google\u2019s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "score": 24,
-      "fetched_at": "2026-10-30",
-      "source": "TechCrunch",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-      "score": 24,
-      "fetched_at": "2026-10-30",
-      "source": "Ars Technica",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
-      "topic": ""
-    },
-    {
-      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "url": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-      "score": 24,
-      "fetched_at": "2026-10-30",
-      "source": "Wired",
-      "companies": [
-        "anthropic"
-      ],
-      "topics": [],
-      "company": "anthropic",
       "topic": ""
     },
     {
@@ -9831,6 +9613,32 @@
       "topic": ""
     },
     {
+      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "score": 24,
+      "fetched_at": "2026-11-14",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "score": 24,
+      "fetched_at": "2026-11-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -10060,138 +9868,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "robotics"
-      ],
-      "company": "huggingface",
-      "topic": "robotics"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "score": 18,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -15913,19 +15589,6 @@
       "topic": ""
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "score": 14,
-      "fetched_at": "2026-10-30",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "regulation"
-      ],
-      "company": "",
-      "topic": "regulation"
-    },
-    {
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
       "score": 14,
@@ -16301,19 +15964,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "score": 11,
-      "fetched_at": "2026-10-30",
-      "source": "Hugging Face",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
     },
     {
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
@@ -16938,19 +16588,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "score": 10,
-      "fetched_at": "2026-10-30",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
@@ -25986,6 +25623,12 @@
       "date": "2026-11-13",
       "posts": 2,
       "items_processed": 12135,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-11-14",
+      "posts": 0,
+      "items_processed": 2429,
       "estimated_tokens": 0
     }
   ]
