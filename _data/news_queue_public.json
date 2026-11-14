@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-14T09:17:10.059299+00:00",
-  "pending_count": 1437,
+  "updated_at_utc": "2026-11-14T14:46:08.241967+00:00",
+  "pending_count": 1439,
   "pending": [
+    {
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "score": 43,
+      "fetched_at": "2026-11-14",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -106,6 +117,17 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
+      "url": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+      "score": 18,
+      "fetched_at": "2026-11-14",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
