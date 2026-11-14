@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-14T15:58:15.525464+00:00",
-  "pending_count": 1439,
+  "updated_at_utc": "2026-11-14T20:37:05.101598+00:00",
+  "pending_count": 1441,
   "pending": [
     {
       "title": "Jensen Huang and the decline of the visionary showman founder CEO",
@@ -10,6 +10,18 @@
       "source": "The Verge",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "score": 42,
+      "fetched_at": "2026-11-14",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "apple"
       ],
       "topics": []
     },
@@ -64,6 +76,17 @@
       "topics": [
         "reasoning"
       ]
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "score": 24,
+      "fetched_at": "2026-11-14",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
