@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-11-04 08:06:05 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 1,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 1
-      },
-      "rss": {
-        "raw": 2385,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 1
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-11-04 16:11:25 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 24,
@@ -1301,5 +1279,36 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-14 21:28:15 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 1,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2429,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
+      }
+    },
+    "posts": [
+      {
+        "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+        "file": "_posts/2026-11-14-the-openai-board-member-who-fired-sam-altman-says-we-still-cant-trust.md",
+        "score": 55,
+        "tags": [
+          "openai"
+        ]
+      }
+    ]
   }
 ]
