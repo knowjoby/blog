@@ -586,6 +586,19 @@
       "topic": ""
     },
     {
+      "title": "An overview of Jensen Huang\u2019s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "score": 43,
+      "fetched_at": "2026-11-15",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
       "score": 42,
@@ -1724,6 +1737,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "score": 33,
+      "fetched_at": "2026-11-15",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
     },
     {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -25916,7 +25942,7 @@
     {
       "date": "2026-11-15",
       "posts": 0,
-      "items_processed": 4858,
+      "items_processed": 7287,
       "estimated_tokens": 0
     }
   ]

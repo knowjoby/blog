@@ -1,7 +1,29 @@
 {
-  "updated_at_utc": "2026-11-15T07:41:32.328442+00:00",
-  "pending_count": 1437,
+  "updated_at_utc": "2026-11-15T15:22:07.231932+00:00",
+  "pending_count": 1439,
   "pending": [
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "score": 43,
+      "fetched_at": "2026-11-15",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Sony Aibo was a robot revolution dressed like a dog",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "score": 33,
+      "fetched_at": "2026-11-15",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ]
+    },
     {
       "title": "OpenAI public policy agenda",
       "url": "https://openai.com/index/public-policy-agenda",
