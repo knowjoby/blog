@@ -254,6 +254,19 @@
       "topic": ""
     },
     {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "score": 49,
+      "fetched_at": "2026-11-15",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud",
       "score": 48,
@@ -405,6 +418,19 @@
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "score": 45,
       "fetched_at": "2026-11-12",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "score": 45,
+      "fetched_at": "2026-11-15",
       "source": "The Verge",
       "companies": [
         "nvidia"
@@ -9736,6 +9762,19 @@
       ],
       "topics": [],
       "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China\u2019s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "score": 24,
+      "fetched_at": "2026-11-15",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -25942,7 +25981,7 @@
     {
       "date": "2026-11-15",
       "posts": 0,
-      "items_processed": 9716,
+      "items_processed": 12145,
       "estimated_tokens": 0
     }
   ]
