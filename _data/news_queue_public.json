@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-16T07:47:22.333758+00:00",
-  "pending_count": 1444,
+  "updated_at_utc": "2026-11-16T17:57:32.875430+00:00",
+  "pending_count": 1461,
   "pending": [
+    {
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "url": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
+      "score": 45,
+      "fetched_at": "2026-11-16",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "How NVIDIA scales expertise with ChatGPT Work",
       "url": "https://openai.com/index/nvidia/chatgpt-work",
@@ -41,6 +52,17 @@
       ]
     },
     {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "score": 30,
+      "fetched_at": "2026-11-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "The next phase of OpenAI’s Education for Countries",
       "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
       "score": 30,
@@ -48,6 +70,39 @@
       "source": "OpenAI",
       "companies": [
         "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "score": 30,
+      "fetched_at": "2026-11-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "score": 30,
+      "fetched_at": "2026-11-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "score": 24,
+      "fetched_at": "2026-11-16",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -63,8 +118,41 @@
       "topics": []
     },
     {
+      "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "score": 24,
+      "fetched_at": "2026-11-16",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "score": 24,
+      "fetched_at": "2026-11-16",
+      "source": "TechCrunch",
+      "companies": [
+        "amazon"
+      ],
+      "topics": []
+    },
+    {
       "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
       "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "score": 24,
+      "fetched_at": "2026-11-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "score": 24,
       "fetched_at": "2026-11-16",
       "source": "OpenAI",
@@ -228,6 +316,61 @@
       "topics": []
     },
     {
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "score": 24,
+      "fetched_at": "2026-11-16",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang Is Gone. Now What?",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
+      "url": "https://www.wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts/",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "MIT Tech Review",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
       "score": 18,
@@ -241,6 +384,17 @@
     {
       "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
       "url": "https://openai.com/index/the-den-family-social",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
       "score": 18,
       "fetched_at": "2026-11-16",
       "source": "OpenAI",
@@ -274,6 +428,17 @@
     {
       "title": "Our new blog for science",
       "url": "https://openai.com/index/our-new-blog-for-science",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
       "score": 18,
       "fetched_at": "2026-11-16",
       "source": "OpenAI",
@@ -318,6 +483,17 @@
     {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "url": "https://openai.com/index/gpt-5-5-instant",
+      "score": 18,
+      "fetched_at": "2026-11-16",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "score": 18,
       "fetched_at": "2026-11-16",
       "source": "OpenAI",
@@ -391,6 +567,17 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "score": 10,
+      "fetched_at": "2026-11-16",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": []
     },
     {
       "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",

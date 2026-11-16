@@ -1,46 +1,5 @@
 [
   {
-    "ran_at": "2026-11-06 07:36:49 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 10,
-    "posts_created": 2,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 10
-      },
-      "rss": {
-        "raw": 2398,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 10
-      }
-    },
-    "posts": [
-      {
-        "title": "Perplexity launches its own take on AI agents for work",
-        "file": "_posts/2026-11-06-perplexity-launches-its-own-take-on-ai-agents-for-work.md",
-        "score": 83,
-        "tags": [
-          "openai",
-          "anthropic",
-          "perplexity"
-        ]
-      },
-      {
-        "title": "OpenAI is stepping back from NDAs for data center projects",
-        "file": "_posts/2026-11-06-openai-is-stepping-back-from-ndas-for-data-center-projects.md",
-        "score": 55,
-        "tags": [
-          "openai"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-11-06 15:13:35 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 39,
@@ -1290,5 +1249,45 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-16 23:27:32 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 19,
+    "posts_created": 2,
+    "queued": 17,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 19
+      },
+      "rss": {
+        "raw": 2440,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 19
+      }
+    },
+    "posts": [
+      {
+        "title": "The Nvidia scandal isn’t slowing down",
+        "file": "_posts/2026-11-16-the-nvidia-scandal-isnt-slowing-down.md",
+        "score": 67,
+        "tags": [
+          "amazon",
+          "nvidia"
+        ]
+      },
+      {
+        "title": "Google Maps can now create trip itineraries for you",
+        "file": "_posts/2026-11-16-google-maps-can-now-create-trip-itineraries-for-you.md",
+        "score": 55,
+        "tags": [
+          "google"
+        ]
+      }
+    ]
   }
 ]
