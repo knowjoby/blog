@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-17T17:23:18.619303+00:00",
-  "pending_count": 1475,
+  "updated_at_utc": "2026-11-17T19:41:57.253252+00:00",
+  "pending_count": 1486,
   "pending": [
     {
       "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
@@ -58,6 +58,18 @@
       "topics": []
     },
     {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "score": 36,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
       "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
       "score": 34,
@@ -96,6 +108,19 @@
       ]
     },
     {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "score": 32,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
       "title": "How Revolut raises ambition without lowering the bar",
       "url": "https://openai.com/business/customer-stories/revolut",
       "score": 32,
@@ -107,6 +132,30 @@
       "topics": [
         "coding"
       ]
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "score": 32,
+      "fetched_at": "2026-11-17",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
+      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+      "score": 30,
+      "fetched_at": "2026-11-17",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
@@ -190,6 +239,17 @@
       ]
     },
     {
+      "title": "Jensen Huang Says He’s Open to Coming Back to Nvidia",
+      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
       "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
       "score": 24,
@@ -225,6 +285,28 @@
     {
       "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
       "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
       "score": 24,
       "fetched_at": "2026-11-17",
       "source": "TechCrunch",
@@ -344,8 +426,30 @@
       "topics": []
     },
     {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "AdventHealth advances whole-person care with OpenAI",
       "url": "https://openai.com/index/adventhealth",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How VistaPrint helps small businesses get the word out",
+      "url": "https://openai.com/ads/customers/vistaprint",
       "score": 24,
       "fetched_at": "2026-11-17",
       "source": "OpenAI",
@@ -454,6 +558,17 @@
       "topics": []
     },
     {
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "score": 18,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Put Gemini to work for you",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "score": 18,
@@ -463,6 +578,17 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "score": 14,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",

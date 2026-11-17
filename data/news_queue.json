@@ -1370,6 +1370,20 @@
       "topic": ""
     },
     {
+      "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "score": 36,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [
+        "openai",
+        "anthropic"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "score": 35,
@@ -2484,6 +2498,36 @@
       ],
       "company": "nvidia",
       "topic": "regulation"
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "score": 32,
+      "fetched_at": "2026-11-17",
+      "source": "Ars Technica",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "score": 32,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
     },
     {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
@@ -3761,6 +3805,19 @@
       ],
       "topics": [],
       "company": "meta",
+      "topic": ""
+    },
+    {
+      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "url": "https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/",
+      "score": 30,
+      "fetched_at": "2026-11-17",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
       "topic": ""
     },
     {
@@ -10100,6 +10157,71 @@
       "topic": ""
     },
     {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "Jensen Huang Says He\u2019s Open to Coming Back to Nvidia",
+      "url": "https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia/",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How VistaPrint helps small businesses get the word out",
+      "url": "https://openai.com/ads/customers/vistaprint",
+      "score": 24,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing GPT-5.1 for developers",
       "url": "https://openai.com/index/gpt-5-1-for-developers",
       "score": 22,
@@ -15868,6 +15990,19 @@
       "topic": ""
     },
     {
+      "title": "ChatGPT Ads increases its market presence in 44 countries",
+      "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
+      "score": 18,
+      "fetched_at": "2026-11-17",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Serve Robotics launches new business to become the AWS for robots",
       "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
       "score": 17,
@@ -16673,6 +16808,19 @@
       ],
       "company": "",
       "topic": "reasoning"
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "score": 14,
+      "fetched_at": "2026-11-17",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -24917,6 +25065,30 @@
         "google"
       ],
       "topics": []
+    },
+    {
+      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "score": 57,
+      "file": "_posts/2026-11-17-googles-spark-ai-agent-becomes-tasks-and-now-its-free.md",
+      "posted_at": "2026-11-17",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "score": 55,
+      "file": "_posts/2026-11-17-meta-is-testing-a-new-standalone-messaging-app-called-direct.md",
+      "posted_at": "2026-11-17",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
     }
   ],
   "daily_usage": [
@@ -26453,8 +26625,8 @@
     },
     {
       "date": "2026-11-17",
-      "posts": 0,
-      "items_processed": 7328,
+      "posts": 2,
+      "items_processed": 9776,
       "estimated_tokens": 0
     }
   ]
