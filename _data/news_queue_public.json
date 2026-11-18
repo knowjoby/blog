@@ -1,10 +1,21 @@
 {
-  "updated_at_utc": "2026-11-18T16:56:52.873778+00:00",
-  "pending_count": 1496,
+  "updated_at_utc": "2026-11-18T19:17:52.472818+00:00",
+  "pending_count": 1504,
   "pending": [
     {
       "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
       "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "score": 49,
+      "fetched_at": "2026-11-18",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "What is Nvidia without AI’s sugar daddy in charge?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
       "score": 49,
       "fetched_at": "2026-11-18",
       "source": "The Verge",
@@ -100,6 +111,17 @@
       ]
     },
     {
+      "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
+      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo/",
+      "score": 30,
+      "fetched_at": "2026-11-18",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
       "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "score": 30,
@@ -142,6 +164,17 @@
       "source": "Wired",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+      "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab/",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "Wired",
+      "companies": [
+        "xai"
       ],
       "topics": []
     },
@@ -344,6 +377,17 @@
       "topics": []
     },
     {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Evernote turns AI-driven discovery into paid subscriptions",
       "url": "https://openai.com/ads/customers/evernote",
       "score": 24,
@@ -373,6 +417,28 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -476,6 +542,17 @@
       "topics": []
     },
     {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": []
+    },
+    {
       "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
       "score": 17,
@@ -484,6 +561,17 @@
       "companies": [],
       "topics": [
         "robotics"
+      ]
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "score": 12,
+      "fetched_at": "2026-11-18",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
       ]
     },
     {
