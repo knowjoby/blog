@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-11-07 14:36:25 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 793,
-    "posts_created": 0,
-    "queued": 793,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 793
-      },
-      "rss": {
-        "raw": 2402,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 793
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-11-07 20:10:53 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 2,
@@ -1294,6 +1272,47 @@
         "score": 55,
         "tags": [
           "meta"
+        ]
+      }
+    ]
+  },
+  {
+    "ran_at": "2026-11-18 07:45:54 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 15,
+    "posts_created": 2,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 15
+      },
+      "rss": {
+        "raw": 2449,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 15
+      }
+    },
+    "posts": [
+      {
+        "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+        "file": "_posts/2026-11-18-not-even-sam-altman-is-safe-from-ai-deepfakes-on-instagram.md",
+        "score": 69,
+        "tags": [
+          "openai",
+          "meta",
+          "agentic"
+        ]
+      },
+      {
+        "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+        "file": "_posts/2026-11-18-nvidias-q3-earnings-hit-the-mark-without-mentioning-the-whole-jensen-h.md",
+        "score": 55,
+        "tags": [
+          "nvidia"
         ]
       }
     ]
