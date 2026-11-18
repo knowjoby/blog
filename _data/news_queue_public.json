@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-18T02:15:54.873306+00:00",
-  "pending_count": 1463,
+  "updated_at_utc": "2026-11-18T10:33:44.460184+00:00",
+  "pending_count": 1491,
   "pending": [
     {
       "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
@@ -39,6 +39,44 @@
       ]
     },
     {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "score": 35,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ]
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "score": 34,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai",
+        "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "score": 32,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
       "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
       "score": 30,
@@ -46,6 +84,17 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "score": 30,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -118,8 +167,151 @@
       "topics": []
     },
     {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Introducing ChatGPT for Sales",
       "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "score": 24,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
       "score": 24,
       "fetched_at": "2026-11-18",
       "source": "OpenAI",
@@ -147,6 +339,127 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Creating with Sora Safely",
+      "url": "https://openai.com/index/creating-with-sora-safely",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "score": 18,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "score": 11,
+      "fetched_at": "2026-11-18",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "score": 10,
+      "fetched_at": "2026-11-18",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
       ],
       "topics": []
     },
