@@ -1080,6 +1080,22 @@
       "topic": "agentic"
     },
     {
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "score": 40,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
       "title": "Airbnb is working on an AI travel agent",
       "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
       "score": 39,
@@ -1830,6 +1846,20 @@
       "topic": ""
     },
     {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "score": 34,
+      "fetched_at": "2026-11-19",
+      "source": "Hugging Face",
+      "companies": [
+        "amazon",
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "amazon",
+      "topic": ""
+    },
+    {
       "title": "You can edit your videos with AI on Instagram\u2019s new desktop Edits app",
       "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
       "score": 33,
@@ -2511,6 +2541,36 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "score": 32,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "openai",
+      "topic": "open_source"
+    },
+    {
+      "title": "Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "score": 32,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "The indie game community is in disarray over AI and Big Walk",
@@ -3817,6 +3877,32 @@
       "topic": ""
     },
     {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "score": 30,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "score": 30,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Separating signal from noise in coding evaluations",
       "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
       "score": 29,
@@ -3956,6 +4042,21 @@
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
       "fetched_at": "2026-11-14",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "coding"
+    },
+    {
+      "title": "Advancing coding in low\u2011resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "score": 29,
+      "fetched_at": "2026-11-19",
       "source": "OpenAI",
       "companies": [
         "openai"
@@ -4937,6 +5038,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "How Balyasny Asset Management built an AI research engine",
+      "url": "https://openai.com/index/balyasny-asset-management",
+      "score": 26,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "OpenAI is already trying to shape the 2028 election",
@@ -10279,6 +10395,71 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "score": 24,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "score": 24,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "score": 24,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "score": 24,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "score": 24,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16102,6 +16283,110 @@
       "topic": ""
     },
     {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "amazon"
+      ],
+      "topics": [],
+      "company": "amazon",
+      "topic": ""
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "score": 18,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Serve Robotics launches new business to become the AWS for robots",
       "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
       "score": 17,
@@ -16920,6 +17205,19 @@
       ],
       "company": "",
       "topic": "agentic"
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "score": 14,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Introducing the Chatbot Guardrails Arena",
@@ -19760,6 +20058,58 @@
       "url": "https://huggingface.co/blog/moe-expert-streaming",
       "score": 10,
       "fetched_at": "2026-11-18",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Hugging Face \u2764\ufe0f TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "score": 10,
+      "fetched_at": "2026-11-19",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "score": 10,
+      "fetched_at": "2026-11-19",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "score": 10,
+      "fetched_at": "2026-11-19",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "score": 10,
+      "fetched_at": "2026-11-19",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -26758,7 +27108,7 @@
     {
       "date": "2026-11-19",
       "posts": 0,
-      "items_processed": 2461,
+      "items_processed": 4922,
       "estimated_tokens": 0
     }
   ]
