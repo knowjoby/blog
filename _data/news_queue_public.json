@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-19T17:03:18.975138+00:00",
-  "pending_count": 1523,
+  "updated_at_utc": "2026-11-19T18:33:27.418981+00:00",
+  "pending_count": 1528,
   "pending": [
     {
       "title": "Nvidia’s rise, visualized",
@@ -36,6 +36,17 @@
       "topics": []
     },
     {
+      "title": "Anthropic starts trading on Wall Street",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "score": 49,
+      "fetched_at": "2026-11-19",
+      "source": "The Verge",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
       "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
       "score": 48,
@@ -44,6 +55,17 @@
       "companies": [
         "microsoft",
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "score": 43,
+      "fetched_at": "2026-11-19",
+      "source": "The Verge",
+      "companies": [
+        "google"
       ],
       "topics": []
     },
@@ -73,6 +95,19 @@
       ]
     },
     {
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "score": 38,
+      "fetched_at": "2026-11-19",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
+    },
+    {
       "title": "From Hugging Face to Amazon SageMaker Studio in one click",
       "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "score": 34,
@@ -83,6 +118,19 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "score": 32,
+      "fetched_at": "2026-11-19",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Powering product discovery in ChatGPT",
@@ -306,6 +354,17 @@
     {
       "title": "Building advertising for the way people use AI",
       "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "score": 24,
+      "fetched_at": "2026-11-19",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
       "score": 24,
       "fetched_at": "2026-11-19",
       "source": "OpenAI",
