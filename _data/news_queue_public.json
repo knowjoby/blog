@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-20T17:43:40.832118+00:00",
-  "pending_count": 1521,
+  "updated_at_utc": "2026-11-20T23:51:28.236524+00:00",
+  "pending_count": 1525,
   "pending": [
     {
       "title": "A brief history of Nvidia’s recent stock fluctuations",
@@ -84,6 +84,17 @@
       "companies": [],
       "topics": [
         "agentic"
+      ]
+    },
+    {
+      "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+      "score": 33,
+      "fetched_at": "2026-11-20",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
@@ -181,6 +192,17 @@
       "topics": [
         "regulation"
       ]
+    },
+    {
+      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "score": 24,
+      "fetched_at": "2026-11-20",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
     },
     {
       "title": "Meta’s new Muse Charm device may cost $300",
@@ -322,6 +344,17 @@
       "source": "Google AI",
       "companies": [
         "google"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "score": 24,
+      "fetched_at": "2026-11-20",
+      "source": "Ars Technica",
+      "companies": [
+        "meta"
       ],
       "topics": []
     },
@@ -507,6 +540,17 @@
     {
       "title": "Helping build shared standards for advanced AI",
       "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "score": 18,
+      "fetched_at": "2026-11-20",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
       "score": 18,
       "fetched_at": "2026-11-20",
       "source": "OpenAI",
