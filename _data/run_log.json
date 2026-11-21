@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-11-10 08:09:48 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 12,
-    "posts_created": 1,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 12
-      },
-      "rss": {
-        "raw": 2407,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 12
-      }
-    },
-    "posts": [
-      {
-        "title": "What could China get from Jensen Huang?",
-        "file": "_posts/2026-11-10-what-could-china-get-from-jensen-huang.md",
-        "score": 61,
-        "tags": [
-          "amazon",
-          "nvidia"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-11-10 16:24:39 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 27,
@@ -1329,6 +1297,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 0
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-11-21 20:42:06 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 45,
+    "posts_created": 0,
+    "queued": 45,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 45
+      },
+      "rss": {
+        "raw": 2471,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 45
       }
     },
     "posts": []
