@@ -10404,6 +10404,19 @@
       "topic": ""
     },
     {
+      "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "score": 24,
+      "fetched_at": "2026-11-22",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -16790,6 +16803,19 @@
       ],
       "topics": [],
       "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "score": 16,
+      "fetched_at": "2026-11-22",
+      "source": "OpenAI",
+      "companies": [
+        "perplexity"
+      ],
+      "topics": [],
+      "company": "perplexity",
       "topic": ""
     },
     {
@@ -27129,7 +27155,7 @@
     {
       "date": "2026-11-22",
       "posts": 0,
-      "items_processed": 9884,
+      "items_processed": 12356,
       "estimated_tokens": 0
     }
   ]
