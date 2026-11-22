@@ -1,59 +1,5 @@
 [
   {
-    "ran_at": "2026-11-11 00:02:18 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 7,
-    "posts_created": 3,
-    "queued": 4,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 7
-      },
-      "rss": {
-        "raw": 2412,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 7
-      }
-    },
-    "posts": [
-      {
-        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "file": "_posts/2026-11-10-google-releases-gemini-4-carbon-with-agent-swarm-feature.md",
-        "score": 99,
-        "tags": [
-          "openai",
-          "anthropic",
-          "google",
-          "agentic"
-        ]
-      },
-      {
-        "title": "Anthropic has its own AI-powered office suite now",
-        "file": "_posts/2026-11-10-anthropic-has-its-own-ai-powered-office-suite-now.md",
-        "score": 93,
-        "tags": [
-          "openai",
-          "anthropic",
-          "meta",
-          "coding"
-        ]
-      },
-      {
-        "title": "eBay appears to have shut the door on third-party AI agents",
-        "file": "_posts/2026-11-10-ebay-appears-to-have-shut-the-door-on-third-party-ai-agents.md",
-        "score": 51,
-        "tags": [
-          "meta",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-11-11 05:27:25 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 11,
@@ -1319,6 +1265,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 5
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-11-22 06:39:14 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 1,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 1
+      },
+      "rss": {
+        "raw": 2471,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 1
       }
     },
     "posts": []
