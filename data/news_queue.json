@@ -319,6 +319,19 @@
       "topic": ""
     },
     {
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "score": 49,
+      "fetched_at": "2026-11-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
       "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
       "score": 48,
@@ -1395,6 +1408,19 @@
       "topics": [],
       "company": "openai",
       "topic": ""
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "score": 36,
+      "fetched_at": "2026-11-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -17131,6 +17157,19 @@
       "topic": "open_source"
     },
     {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "score": 14,
+      "fetched_at": "2026-11-22",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ],
+      "company": "",
+      "topic": "agentic"
+    },
+    {
       "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
       "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
       "score": 12,
@@ -27090,7 +27129,7 @@
     {
       "date": "2026-11-22",
       "posts": 0,
-      "items_processed": 4942,
+      "items_processed": 7413,
       "estimated_tokens": 0
     }
   ]

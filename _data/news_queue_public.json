@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-22T08:40:02.853017+00:00",
-  "pending_count": 1512,
+  "updated_at_utc": "2026-11-22T15:55:49.835601+00:00",
+  "pending_count": 1515,
   "pending": [
+    {
+      "title": "Protesters storm Meta offices in India",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "score": 49,
+      "fetched_at": "2026-11-22",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "OpenAI and Anthropic share findings from a joint safety evaluation",
       "url": "https://openai.com/index/openai-anthropic-safety-evaluation",
@@ -255,6 +266,17 @@
       ],
       "topics": [
         "regulation"
+      ]
+    },
+    {
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "score": 36,
+      "fetched_at": "2026-11-22",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
@@ -6695,6 +6717,17 @@
         "huggingface"
       ],
       "topics": []
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "score": 14,
+      "fetched_at": "2026-11-22",
+      "source": "Wired",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Superalignment Fast Grants",
