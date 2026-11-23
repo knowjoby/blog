@@ -1,7 +1,40 @@
 {
-  "updated_at_utc": "2026-11-23T12:16:01.513047+00:00",
-  "pending_count": 1519,
+  "updated_at_utc": "2026-11-23T19:51:35.296048+00:00",
+  "pending_count": 1537,
   "pending": [
+    {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "score": 43,
+      "fetched_at": "2026-11-23",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+      "score": 43,
+      "fetched_at": "2026-11-23",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "score": 43,
+      "fetched_at": "2026-11-23",
+      "source": "The Verge",
+      "companies": [
+        "xai"
+      ],
+      "topics": []
+    },
     {
       "title": "Solving complex problems with OpenAI o1 models",
       "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
@@ -37,6 +70,17 @@
       "source": "Wired",
       "companies": [
         "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "NVIDIA brings back Jensen Huang as CEO just six days after ruling out his return",
+      "url": "https://venturebeat.com/technology/nvidia-brings-back-jensen-huang-as-ceo-just-six-days-after-ruling-out-his-return",
+      "score": 30,
+      "fetched_at": "2026-11-23",
+      "source": "VentureBeat",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -78,6 +122,105 @@
       "topics": [
         "multimodal"
       ]
+    },
+    {
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang Is Back, and So Is Nvidia’s Stock",
+      "url": "https://www.wired.com/story/jensens-back-stocks-up-what-the-hell-sure/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "MIT Tech Review",
+      "companies": [
+        "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "google"
+      ],
+      "topics": []
     },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -124,6 +267,28 @@
       "topics": []
     },
     {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "Ars Technica",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "score": 20,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
       "title": "States Sue SpaceX Over Grok Deepfakes",
       "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
       "score": 18,
@@ -131,6 +296,17 @@
       "source": "Wired",
       "companies": [
         "xai"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
@@ -223,6 +399,17 @@
       "topics": []
     },
     {
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": []
+    },
+    {
       "title": "Connect internal knowledge from Google Drive",
       "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
       "score": 18,
@@ -254,6 +441,17 @@
         "openai"
       ],
       "topics": []
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "score": 11,
+      "fetched_at": "2026-11-23",
+      "source": "Hugging Face",
+      "companies": [],
+      "topics": [
+        "agentic"
+      ]
     },
     {
       "title": "Protesters storm Meta offices in India",
