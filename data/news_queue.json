@@ -1107,6 +1107,22 @@
       "topic": ""
     },
     {
+      "title": "Solving complex problems with OpenAI o1 models",
+      "url": "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+      "score": 40,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning",
+        "coding"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
+    },
+    {
       "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
       "url": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
       "score": 39,
@@ -2511,6 +2527,21 @@
       "topic": "robotics"
     },
     {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "score": 32,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
+    },
+    {
       "title": "The indie game community is in disarray over AI and Big Walk",
       "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "score": 31,
@@ -3828,6 +3859,19 @@
       "topic": ""
     },
     {
+      "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+      "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+      "score": 30,
+      "fetched_at": "2026-11-23",
+      "source": "Wired",
+      "companies": [
+        "meta"
+      ],
+      "topics": [],
+      "company": "meta",
+      "topic": ""
+    },
+    {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "score": 29,
@@ -4905,6 +4949,51 @@
       ],
       "company": "anthropic",
       "topic": "open_source"
+    },
+    {
+      "title": "Delegate work to ChatGPT agent",
+      "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+      "score": 26,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
+    },
+    {
+      "title": "Create on-brand visuals with image generation",
+      "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+      "score": 26,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
+    },
+    {
+      "title": "Vision and voice in ChatGPT",
+      "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+      "score": 26,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "multimodal"
+      ],
+      "company": "openai",
+      "topic": "multimodal"
     },
     {
       "title": "Introducing ChatGPT for Financial Services",
@@ -10299,6 +10388,45 @@
       ],
       "topics": [],
       "company": "anthropic",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI Uses Codex to Accelerate Engineering",
+      "url": "https://openai.com/business/learn/how-openai-uses-codex",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How OpenAI uses ChatGPT Atlas at work",
+      "url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Automate complex workflows with OpenAI o3",
+      "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+      "score": 24,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -16089,6 +16217,162 @@
       ],
       "topics": [],
       "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "States Sue SpaceX Over Grok Deepfakes",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "Wired",
+      "companies": [
+        "xai"
+      ],
+      "topics": [],
+      "company": "xai",
+      "topic": ""
+    },
+    {
+      "title": "Think Bigger: How Small Teams Win with ChatGPT",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Personalize ChatGPT with custom instructions",
+      "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Connect internal knowledge from Google Drive",
+      "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Collaborate and write with GPT-4o",
+      "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Market research with ChatGPT",
+      "url": "https://openai.com/business/learn/market-research-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Prototyping with canvas in ChatGPT",
+      "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Creating a contextual workspace in ChatGPT",
+      "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Shipping code to your IDE with ChatGPT",
+      "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Strategic planning with ChatGPT",
+      "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Fine-tuning GPT-4o webinar",
+      "url": "https://openai.com/business/learn/fine-tuning-gpt-4o-webinar",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Enabling a data-driven workforce",
+      "url": "https://openai.com/business/learn/enabling-a-data-driven-workforce-webinar",
+      "score": 18,
+      "fetched_at": "2026-11-23",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
       "topic": ""
     },
     {
@@ -25330,6 +25614,19 @@
       "topics": [
         "agentic"
       ]
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "score": 63,
+      "file": "_posts/2026-11-23-meta-muse-can-do-your-black-friday-shopping-at-walmart.md",
+      "posted_at": "2026-11-23",
+      "companies": [
+        "meta"
+      ],
+      "topics": [
+        "agentic"
+      ]
     }
   ],
   "daily_usage": [
@@ -26902,8 +27199,8 @@
     },
     {
       "date": "2026-11-23",
-      "posts": 0,
-      "items_processed": 2472,
+      "posts": 1,
+      "items_processed": 4944,
       "estimated_tokens": 0
     }
   ]

@@ -1,27 +1,5 @@
 [
   {
-    "ran_at": "2026-11-12 07:55:19 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 6,
-    "posts_created": 0,
-    "queued": 0,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 6
-      },
-      "rss": {
-        "raw": 2420,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 6
-      }
-    },
-    "posts": []
-  },
-  {
     "ran_at": "2026-11-12 15:37:28 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 22,
@@ -1268,5 +1246,37 @@
       }
     },
     "posts": []
+  },
+  {
+    "ran_at": "2026-11-23 17:46:01 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 22,
+    "posts_created": 1,
+    "queued": 21,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 22
+      },
+      "rss": {
+        "raw": 2472,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 22
+      }
+    },
+    "posts": [
+      {
+        "title": "Meta Muse can do your Black Friday shopping at Walmart",
+        "file": "_posts/2026-11-23-meta-muse-can-do-your-black-friday-shopping-at-walmart.md",
+        "score": 63,
+        "tags": [
+          "meta",
+          "agentic"
+        ]
+      }
+    ]
   }
 ]
