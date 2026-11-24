@@ -1,38 +1,5 @@
 [
   {
-    "ran_at": "2026-11-13 00:01:08 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 8,
-    "posts_created": 1,
-    "queued": 7,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 8
-      },
-      "rss": {
-        "raw": 2423,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 8
-      }
-    },
-    "posts": [
-      {
-        "title": "AI chatbots are recommending fake retail websites, study finds",
-        "file": "_posts/2026-11-12-ai-chatbots-are-recommending-fake-retail-websites-study-finds.md",
-        "score": 71,
-        "tags": [
-          "openai",
-          "google",
-          "perplexity"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-11-13 05:30:58 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 17,
@@ -1258,6 +1225,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 12
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-11-24 15:48:39 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 50,
+    "posts_created": 0,
+    "queued": 50,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 50
+      },
+      "rss": {
+        "raw": 2476,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 50
       }
     },
     "posts": []
