@@ -1,11 +1,22 @@
 {
-  "updated_at_utc": "2026-11-24T19:20:18.090635+00:00",
-  "pending_count": 1547,
+  "updated_at_utc": "2026-11-24T20:47:36.027182+00:00",
+  "pending_count": 1549,
   "pending": [
     {
       "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
       "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
       "score": 49,
+      "fetched_at": "2026-11-24",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "score": 45,
       "fetched_at": "2026-11-24",
       "source": "The Verge",
       "companies": [
@@ -310,6 +321,17 @@
       "source": "Wired",
       "companies": [
         "anthropic"
+      ],
+      "topics": []
+    },
+    {
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/",
+      "score": 24,
+      "fetched_at": "2026-11-24",
+      "source": "Wired",
+      "companies": [
+        "nvidia"
       ],
       "topics": []
     },
