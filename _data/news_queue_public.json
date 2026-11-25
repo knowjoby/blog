@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-25T14:49:54.149480+00:00",
-  "pending_count": 1531,
+  "updated_at_utc": "2026-11-25T18:25:48.850377+00:00",
+  "pending_count": 1533,
   "pending": [
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "score": 49,
+      "fetched_at": "2026-11-25",
+      "source": "The Verge",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
     {
       "title": "Amazon is reportedly in talks to end Muse AI shopping block",
       "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
@@ -492,6 +503,17 @@
         "nvidia"
       ],
       "topics": []
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "score": 12,
+      "fetched_at": "2026-11-25",
+      "source": "TechCrunch",
+      "companies": [],
+      "topics": [
+        "ai"
+      ]
     },
     {
       "title": "Even the best AI agents struggle with everyday life",
