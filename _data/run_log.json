@@ -1,37 +1,5 @@
 [
   {
-    "ran_at": "2026-11-13 21:07:39 IST",
-    "triggered_by": "Scheduled",
-    "candidates_found": 9,
-    "posts_created": 1,
-    "queued": 8,
-    "feeds": {
-      "ddg": {
-        "queries": 3,
-        "raw": 0,
-        "candidates": 9
-      },
-      "rss": {
-        "raw": 2427,
-        "feeds_total": 10,
-        "feeds_ok": 9,
-        "feeds_failed": 1,
-        "candidates": 9
-      }
-    },
-    "posts": [
-      {
-        "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-        "file": "_posts/2026-11-13-claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful.md",
-        "score": 51,
-        "tags": [
-          "anthropic",
-          "agentic"
-        ]
-      }
-    ]
-  },
-  {
     "ran_at": "2026-11-13 21:25:11 IST",
     "triggered_by": "Scheduled",
     "candidates_found": 0,
@@ -1247,6 +1215,28 @@
         "feeds_ok": 9,
         "feeds_failed": 1,
         "candidates": 2
+      }
+    },
+    "posts": []
+  },
+  {
+    "ran_at": "2026-11-25 09:31:12 IST",
+    "triggered_by": "Scheduled",
+    "candidates_found": 8,
+    "posts_created": 0,
+    "queued": 0,
+    "feeds": {
+      "ddg": {
+        "queries": 3,
+        "raw": 0,
+        "candidates": 8
+      },
+      "rss": {
+        "raw": 2481,
+        "feeds_total": 10,
+        "feeds_ok": 9,
+        "feeds_failed": 1,
+        "candidates": 8
       }
     },
     "posts": []
