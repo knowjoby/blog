@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-25T18:25:48.850377+00:00",
-  "pending_count": 1533,
+  "updated_at_utc": "2026-11-25T23:30:44.132244+00:00",
+  "pending_count": 1538,
   "pending": [
     {
       "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
@@ -39,6 +39,30 @@
       ]
     },
     {
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "score": 43,
+      "fetched_at": "2026-11-25",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "score": 32,
+      "fetched_at": "2026-11-25",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [
+        "regulation"
+      ]
+    },
+    {
       "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
       "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
       "score": 32,
@@ -72,6 +96,17 @@
       "source": "Wired",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "score": 30,
+      "fetched_at": "2026-11-25",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
@@ -181,6 +216,28 @@
       "source": "TechCrunch",
       "companies": [
         "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "score": 24,
+      "fetched_at": "2026-11-25",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": []
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "score": 24,
+      "fetched_at": "2026-11-25",
+      "source": "TechCrunch",
+      "companies": [
+        "anthropic"
       ],
       "topics": []
     },
