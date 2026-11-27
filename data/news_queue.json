@@ -1030,6 +1030,19 @@
       "topic": "coding"
     },
     {
+      "title": "The absolute best Black Friday deals we\u2019ve found (so far)",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "score": 39,
+      "fetched_at": "2026-11-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "Meta\u2019s AI agent Muse is mixing up conversations and exposing private data, report says",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "score": 38,
@@ -1163,6 +1176,22 @@
       ],
       "company": "openai",
       "topic": "regulation"
+    },
+    {
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "score": 38,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [],
+      "topics": [
+        "agentic",
+        "reasoning",
+        "coding",
+        "multimodal"
+      ],
+      "company": "",
+      "topic": "agentic"
     },
     {
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
@@ -2363,6 +2392,21 @@
       ],
       "company": "meta",
       "topic": "agentic"
+    },
+    {
+      "title": "Introducing GPT-Rosalind for life sciences research",
+      "url": "https://openai.com/index/introducing-gpt-rosalind",
+      "score": 32,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "reasoning"
+      ],
+      "company": "openai",
+      "topic": "reasoning"
     },
     {
       "title": "No, AI agents did not discover a previously unknown Maya site",
@@ -3682,6 +3726,45 @@
       "topic": ""
     },
     {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "score": 30,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "score": 30,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "score": 30,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -3800,6 +3883,21 @@
       ],
       "company": "google",
       "topic": "multimodal"
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "score": 29,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "agentic"
+      ],
+      "company": "openai",
+      "topic": "agentic"
     },
     {
       "title": "Transformers now runs llama.cpp quants",
@@ -4774,6 +4872,21 @@
       ],
       "company": "openai",
       "topic": "coding"
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "score": 26,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [
+        "regulation"
+      ],
+      "company": "openai",
+      "topic": "regulation"
     },
     {
       "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
@@ -10194,6 +10307,45 @@
       ],
       "topics": [],
       "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "score": 24,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "score": 24,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "score": 24,
+      "fetched_at": "2026-11-27",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
       "topic": ""
     },
     {
@@ -15894,6 +16046,164 @@
       "topic": ""
     },
     {
+      "title": "Supporting research on AI and children\u2019s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "OpenAI",
+      "companies": [
+        "openai"
+      ],
+      "topics": [],
+      "company": "openai",
+      "topic": ""
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "Google AI",
+      "companies": [
+        "google"
+      ],
+      "topics": [],
+      "company": "google",
+      "topic": ""
+    },
+    {
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "Hugging Face",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
+      "title": "State of Open Source on Hugging Face: Spring 2026",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [
+        "open_source"
+      ],
+      "company": "huggingface",
+      "topic": "open_source"
+    },
+    {
       "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
       "score": 17,
@@ -19682,6 +19992,19 @@
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "score": 10,
       "fetched_at": "2026-11-26",
+      "source": "Hugging Face",
+      "companies": [
+        "huggingface"
+      ],
+      "topics": [],
+      "company": "huggingface",
+      "topic": ""
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "score": 10,
+      "fetched_at": "2026-11-27",
       "source": "Hugging Face",
       "companies": [
         "huggingface"
@@ -26781,7 +27104,7 @@
     {
       "date": "2026-11-27",
       "posts": 0,
-      "items_processed": 2483,
+      "items_processed": 4966,
       "estimated_tokens": 0
     }
   ]
