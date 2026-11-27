@@ -1291,6 +1291,19 @@
       "topic": ""
     },
     {
+      "title": "Android\u2019s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "score": 36,
+      "fetched_at": "2026-11-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
+      ],
+      "company": "",
+      "topic": "coding"
+    },
+    {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
       "score": 35,
@@ -27104,7 +27117,7 @@
     {
       "date": "2026-11-27",
       "posts": 0,
-      "items_processed": 4966,
+      "items_processed": 7450,
       "estimated_tokens": 0
     }
   ]

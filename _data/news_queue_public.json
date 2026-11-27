@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-27T10:41:29.375228+00:00",
-  "pending_count": 1510,
+  "updated_at_utc": "2026-11-27T17:51:00.772153+00:00",
+  "pending_count": 1511,
   "pending": [
     {
       "title": "The absolute best Black Friday deals we’ve found (so far)",
@@ -25,6 +25,17 @@
         "reasoning",
         "coding",
         "multimodal"
+      ]
+    },
+    {
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "score": 36,
+      "fetched_at": "2026-11-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "coding"
       ]
     },
     {
