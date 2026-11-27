@@ -1747,6 +1747,19 @@
       "topic": "coding"
     },
     {
+      "title": "The best Black Friday deals on smart home gear",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "score": 33,
+      "fetched_at": "2026-11-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
+      ],
+      "company": "",
+      "topic": "robotics"
+    },
+    {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "url": "https://openai.com/index/cars24",
       "score": 32,
@@ -27117,7 +27130,7 @@
     {
       "date": "2026-11-27",
       "posts": 0,
-      "items_processed": 7450,
+      "items_processed": 9934,
       "estimated_tokens": 0
     }
   ]

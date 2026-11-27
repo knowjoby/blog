@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-27T17:51:00.772153+00:00",
-  "pending_count": 1511,
+  "updated_at_utc": "2026-11-27T19:51:09.540858+00:00",
+  "pending_count": 1512,
   "pending": [
     {
       "title": "The absolute best Black Friday deals we’ve found (so far)",
@@ -36,6 +36,17 @@
       "companies": [],
       "topics": [
         "coding"
+      ]
+    },
+    {
+      "title": "The best Black Friday deals on smart home gear",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "score": 33,
+      "fetched_at": "2026-11-27",
+      "source": "The Verge",
+      "companies": [],
+      "topics": [
+        "robotics"
       ]
     },
     {
