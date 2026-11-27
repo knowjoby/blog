@@ -7,32 +7,6 @@
   },
   "pending": [
     {
-      "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "score": 49,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Apple\u2019s HomeView is my new favorite smart display \u2014 but not my daughter\u2019s",
-      "url": "https://www.theverge.com/tech/1031726/apple-homeview-review-smart-display-homekit",
-      "score": 49,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [
-        "apple"
-      ],
-      "topics": [],
-      "company": "apple",
-      "topic": ""
-    },
-    {
       "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "score": 49,
@@ -409,19 +383,6 @@
       "topic": "agentic"
     },
     {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "score": 45,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
       "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
       "score": 45,
@@ -506,32 +467,6 @@
       ],
       "company": "",
       "topic": "coding"
-    },
-    {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "score": 43,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "The Jensen Huang scandal is hardly over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "score": 43,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "What\u2019s really at stake in the Jensen Huang saga",
@@ -1095,22 +1030,6 @@
       "topic": "coding"
     },
     {
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "score": 38,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [],
-      "topics": [
-        "agentic",
-        "reasoning",
-        "coding",
-        "multimodal"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "Meta\u2019s AI agent Muse is mixing up conversations and exposing private data, report says",
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
       "score": 38,
@@ -1523,20 +1442,6 @@
       "topic": "robotics"
     },
     {
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang\u2019s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "score": 34,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia",
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
       "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
       "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
       "score": 34,
@@ -1735,19 +1640,6 @@
       "topic": ""
     },
     {
-      "title": "United won\u2019t let your AI agent book your flight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "score": 33,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "agentic"
-      ],
-      "company": "",
-      "topic": "agentic"
-    },
-    {
       "title": "The Sony Aibo was a robot revolution dressed like a dog",
       "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
       "score": 33,
@@ -1800,34 +1692,17 @@
       "topic": "robotics"
     },
     {
-      "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "score": 32,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
+      "title": "Netflix\u2019s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "score": 33,
+      "fetched_at": "2026-11-27",
+      "source": "The Verge",
+      "companies": [],
       "topics": [
-        "agentic"
+        "coding"
       ],
-      "company": "nvidia",
-      "topic": "agentic"
-    },
-    {
-      "title": "Introducing GPT-Rosalind for life sciences research",
-      "url": "https://openai.com/index/introducing-gpt-rosalind",
-      "score": 32,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "reasoning"
-      ],
-      "company": "openai",
-      "topic": "reasoning"
+      "company": "",
+      "topic": "coding"
     },
     {
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
@@ -2490,19 +2365,6 @@
       "topic": "agentic"
     },
     {
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "score": 31,
-      "fetched_at": "2026-11-12",
-      "source": "The Verge",
-      "companies": [],
-      "topics": [
-        "ai"
-      ],
-      "company": "",
-      "topic": "ai"
-    },
-    {
       "title": "No, AI agents did not discover a previously unknown Maya site",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "score": 31,
@@ -2527,45 +2389,6 @@
       ],
       "company": "",
       "topic": "ai"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "score": 30,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "score": 30,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "score": 30,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
     },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
@@ -3859,21 +3682,6 @@
       "topic": ""
     },
     {
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "score": 29,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "agentic"
-      ],
-      "company": "openai",
-      "topic": "agentic"
-    },
-    {
       "title": "How we monitor internal coding agents for misalignment",
       "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
       "score": 29,
@@ -4204,21 +4012,6 @@
       ],
       "company": "huggingface",
       "topic": "robotics"
-    },
-    {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "score": 26,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [
-        "regulation"
-      ],
-      "company": "openai",
-      "topic": "regulation"
     },
     {
       "title": "How we detect frontier model misalignment",
@@ -4981,149 +4774,6 @@
       ],
       "company": "openai",
       "topic": "coding"
-    },
-    {
-      "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-      "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "Ars Technica",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gradient Labs gives every bank customer an AI account manager",
-      "url": "https://openai.com/index/gradient-labs",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Nvidia\u2019s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "Ars Technica",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Meet Colette Kress, Nvidia\u2019s New Interim CEO",
-      "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "Wired",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "score": 24,
-      "fetched_at": "2026-11-12",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
     },
     {
       "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
@@ -10534,6 +10184,19 @@
       "topic": ""
     },
     {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "score": 24,
+      "fetched_at": "2026-11-27",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
       "score": 22,
@@ -10627,19 +10290,6 @@
       ],
       "company": "huggingface",
       "topic": "multimodal"
-    },
-    {
-      "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "score": 20,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Where was Nvidia\u2019s security team?",
@@ -10802,242 +10452,6 @@
       ],
       "company": "",
       "topic": "agentic"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "How Localiza reorganized work around generative AI",
-      "url": "https://openai.com/index/localiza-generative-ai",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Equipping workers with insights about compensation",
-      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "Google AI",
-      "companies": [
-        "google"
-      ],
-      "topics": [],
-      "company": "google",
-      "topic": ""
-    },
-    {
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "Hugging Face",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "State of Open Source on Hugging Face: Spring 2026",
-      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [
-        "open_source"
-      ],
-      "company": "huggingface",
-      "topic": "open_source"
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Here\u2019s How Google Says It\u2019s Making Its Smart Glasses More Private",
-      "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "Wired",
-      "companies": [
-        "meta"
-      ],
-      "topics": [],
-      "company": "meta",
-      "topic": ""
-    },
-    {
-      "title": "Supporting research on AI and children\u2019s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "OpenAI",
-      "companies": [
-        "openai"
-      ],
-      "topics": [],
-      "company": "openai",
-      "topic": ""
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "TechCrunch",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
-    },
-    {
-      "title": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-      "score": 18,
-      "fetched_at": "2026-11-12",
-      "source": "Wired",
-      "companies": [
-        "nvidia"
-      ],
-      "topics": [],
-      "company": "nvidia",
-      "topic": ""
     },
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
@@ -16467,6 +15881,19 @@
       "topic": ""
     },
     {
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "score": 18,
+      "fetched_at": "2026-11-27",
+      "source": "TechCrunch",
+      "companies": [
+        "nvidia"
+      ],
+      "topics": [],
+      "company": "nvidia",
+      "topic": ""
+    },
+    {
       "title": "India\u2019s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
       "score": 17,
@@ -18026,19 +17453,6 @@
       ],
       "company": "",
       "topic": "multimodal"
-    },
-    {
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "score": 10,
-      "fetched_at": "2026-11-12",
-      "source": "Hugging Face",
-      "companies": [
-        "huggingface"
-      ],
-      "topics": [],
-      "company": "huggingface",
-      "topic": ""
     },
     {
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
@@ -27362,6 +26776,12 @@
       "date": "2026-11-26",
       "posts": 0,
       "items_processed": 7448,
+      "estimated_tokens": 0
+    },
+    {
+      "date": "2026-11-27",
+      "posts": 0,
+      "items_processed": 2483,
       "estimated_tokens": 0
     }
   ]
