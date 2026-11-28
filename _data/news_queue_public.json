@@ -1,7 +1,18 @@
 {
-  "updated_at_utc": "2026-11-28T11:30:40.419221+00:00",
-  "pending_count": 1483,
+  "updated_at_utc": "2026-11-28T16:38:20.449319+00:00",
+  "pending_count": 1484,
   "pending": [
+    {
+      "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
+      "url": "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices",
+      "score": 45,
+      "fetched_at": "2026-11-28",
+      "source": "The Verge",
+      "companies": [
+        "meta"
+      ],
+      "topics": []
+    },
     {
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
