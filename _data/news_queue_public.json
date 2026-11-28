@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-11-28T16:38:20.449319+00:00",
-  "pending_count": 1484,
+  "updated_at_utc": "2026-11-28T19:47:00.427650+00:00",
+  "pending_count": 1485,
   "pending": [
     {
       "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
@@ -123,6 +123,17 @@
       "companies": [
         "mistral",
         "huggingface"
+      ],
+      "topics": []
+    },
+    {
+      "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+      "url": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+      "score": 24,
+      "fetched_at": "2026-11-28",
+      "source": "TechCrunch",
+      "companies": [
+        "openai"
       ],
       "topics": []
     },
